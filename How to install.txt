@@ -1,0 +1,15 @@
+How to install SkinsRestorer.
+
+CraftBukkit / Spigot
+---------------------------------------
+Extract SkinsRestorer.jar in your plugins folder.
+Start your server.
+Done
+---------------------------------------
+
+Bungeecord
+---------------------------------------
+Extract SkinsRestorer.jar in your BungeeCord's plugin folder.
+Extract SkinsBukkitModule.jar in the plugins folder in all your servers.
+Start everything up.
+Done.

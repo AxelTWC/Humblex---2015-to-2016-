@@ -1,0 +1,4 @@
+#
+#Sat Aug 15 13:28:08 EST 2015
+LinkedWorlds=
+ServerName=purepvp.ca

@@ -1,0 +1,1770 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128M; support was removed in 8.0
+Loading libraries, please wait...
+[12:09:56 INFO]: Starting minecraft server version 1.8.8
+[12:09:56 INFO]: Loading properties
+[12:09:56 INFO]: Default game type: SURVIVAL
+[12:09:57 INFO]: This server is running CraftBukkit version git-PaperSpigot-"4c7641d" (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[12:09:57 INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[12:09:57 INFO]: Server Ping Player Sample Count: 12
+[12:09:57 INFO]: Using 4 threads for Netty based IO
+[12:09:57 INFO]: Debug logging is disabled
+[12:09:57 INFO]: Data value allowed items: 
+[12:09:57 INFO]: Generating keypair
+[12:09:57 INFO]: Starting Minecraft server on *:41125
+[12:09:57 INFO]: Using default channel type
+[12:09:58 WARN]: Plugin `Simple_KitPvP v4.0' uses the space-character (0x20) in its name `Simple KitPvP' - this is discouraged
+[12:09:58 INFO]: Set PluginClassLoader as parallel capable
+[12:09:59 INFO]: [INFO][NoCheatPlus] Sun Mar 26 12:09:59 CEST 2017
+[12:09:59 INFO]: Player instances are stored for efficiency.
+[12:09:59 INFO]: [HiveJumpPads] Loading HiveJumpPads v2.17
+[12:09:59 INFO]: [MoreMobTypes] Loading MoreMobTypes v0.3
+[12:09:59 INFO]: [HPFixer] Loading HPFixer v1.0
+[12:09:59 INFO]: [ItemNamer] Loading ItemNamer v0.6
+[12:09:59 INFO]: [PerWorldPlugins] Loading PerWorldPlugins v1.2.4
+[12:09:59 INFO]: [PerWorldPlugins] Registering event interceptor...
+[12:09:59 INFO]: [PlugMan] Loading PlugMan v2.1.1
+[12:09:59 INFO]: [Youtube] Loading Youtube v1.0
+[12:09:59 INFO]: [MobStack] Loading MobStack v1.0
+[12:09:59 INFO]: [Headshoots] Loading Headshoots v3.8
+[12:09:59 INFO]: [MaintenanceMode] Loading MaintenanceMode vBETA 1.7
+[12:09:59 INFO]: [AntiSwearPlus] Loading AntiSwearPlus v1.7
+[12:09:59 INFO]: [ViaVersion] Loading ViaVersion v0.9.8
+[12:09:59 INFO]: [ViaVersion] ViaVersion 0.9.8 is now loaded, injecting!
+[12:09:59 INFO]: [PvpLevels] Loading PvpLevels v1.2.1
+[12:09:59 INFO]: [PerWorldChatPlus] Loading PerWorldChatPlus v5.1.0
+[12:09:59 INFO]: [AntiAdvertiser] Loading AntiAdvertiser v0.0.2
+[12:09:59 INFO]: [FusionFFA] Loading FusionFFA v0.1.4
+[12:09:59 INFO]: [StaffSupport] Loading StaffSupport v1.6
+[12:09:59 INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[12:10:01 INFO]: [ProtocolAura] Loading ProtocolAura v1.0.4
+[12:10:01 INFO]: [RAMManager] Loading RAMManager v1.2
+[12:10:01 INFO]: [TimeIsMoney] Loading TimeIsMoney v1943
+[12:10:01 INFO]: [TreeAssist] Loading TreeAssist v5.8.91
+[12:10:01 INFO]: [MoreEnchants+] Loading MoreEnchantsPlus v2.0
+[12:10:01 INFO]: [SnowballDamage] Loading SnowballDamage v1.1.2
+[12:10:01 INFO]: [Simple_KitPvP] Loading Simple_KitPvP v4.0
+[12:10:01 INFO]: [ServerListPlus] Loading ServerListPlus v3.4.7
+[12:10:01 INFO]: [PerWorldTablist] Loading PerWorldTablist v1.0.0
+[12:10:01 INFO]: [BowTeleportSB] Loading BowTeleportSB v3.5
+[12:10:01 INFO]: [OreGen2] Loading OreGen2 v1.2
+[12:10:01 INFO]: [DiscoArmour] Loading DiscoArmour v1.4
+[12:10:01 INFO]: [FastLogin] Loading FastLogin v1.9
+[12:10:01 INFO]: [GroupManager] Loading GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[12:10:01 INFO]: [VoidWorld] Loading VoidWorld v1.0
+[12:10:01 INFO]: [OnlineTimeLogger] Loading OnlineTimeLogger v2.2
+[12:10:01 INFO]: [NametagEdit] Loading NametagEdit v4.1.0
+[12:10:01 INFO]: [Lockette] Loading Lockette v1.8.23
+[12:10:01 INFO]: [CClearChat] Loading CClearChat v1.9
+[12:10:01 INFO]: [EnchantLapis] Loading EnchantLapis v1.2
+[12:10:01 INFO]: [SkinsRestorer] Loading SkinsRestorer v12.9.5
+[12:10:01 INFO]: [aAntiSpam] Loading aAntiSpam v1.2
+[12:10:01 INFO]: [TopTenHeads] Loading TopTenHeads v1.0
+[12:10:01 INFO]: [CraftableHorseItems] Loading CraftableHorseItems v3.0
+[12:10:01 INFO]: [PerWorldSpawn] Loading PerWorldSpawn v1.0
+[12:10:01 INFO]: [OneMoreSlot] Loading OneMoreSlot v3.0
+[12:10:01 INFO]: [SparklingTools] Loading SparklingTools v1.7.3c
+[12:10:01 INFO]: [TTA] Loading TTA v3.4
+[12:10:01 INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[12:10:01 INFO]: [HealthBar] Loading HealthBar v1.8.3
+[12:10:01 INFO]: [Essentials] Loading Essentials vTeamCity
+[12:10:01 INFO]: [ClearLag] Loading ClearLag v2.9.3
+[12:10:01 INFO]: [Hub] Loading Hub v1.2
+[12:10:01 INFO]: [SurvivalGames] Loading SurvivalGames v0.6.3.2
+[12:10:01 INFO]: [FactionsBreak] Loading FactionsBreak v1.0
+[12:10:01 INFO]: [Votifier] Loading Votifier v1.9
+[12:10:01 INFO]: [NoCheatPlus] Loading NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[12:10:01 INFO]: onLoad: Early set up of static API, configuration, logging.
+[12:10:01 INFO]: [NoCheatPlus] Logging system initialized.
+[12:10:01 INFO]: [NoCheatPlus] Detected Minecraft version: 1.8.8
+[12:10:01 INFO]: [LibsDisguises] Loading LibsDisguises v8.6.8
+[12:10:01 INFO]: [KitAdder] Loading KitAdder v2.4
+[12:10:01 INFO]: [iDisguise] Loading iDisguise v5.3.5
+[12:10:01 INFO]: [LobbyCompass] Loading LobbyCompass v1.3
+[12:10:01 INFO]: [InstantRespawn] Loading InstantRespawn v1.0.7
+[12:10:01 INFO]: [Vault] Loading Vault v1.5.6-b49
+[12:10:01 INFO]: [ChairStairs] Loading ChairStairs v1.1
+[12:10:01 INFO]: [MassiveCore] Loading MassiveCore v2.8.21
+[12:10:01 INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[12:10:01 INFO]: [RandomTeleport] Loading RandomTeleport v5.0.2
+[12:10:01 INFO]: [PlayerHeads] Loading PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[12:10:01 INFO]: [MarriageMaster] Loading MarriageMaster v1.29.15
+[12:10:01 INFO]: [Jobs] Loading Jobs v3.8.0
+[12:10:01 INFO]: [1vs1] Loading 1vs1 v1.7.0 #220
+[12:10:01 INFO]: [MazeCraft] Loading MazeCraft v0.3
+[12:10:01 INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[12:10:01 INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[12:10:01 INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[12:10:01 INFO]: [GAListener] Loading GAListener v1.3.1
+[12:10:01 INFO]: [UltraCosmetics] Loading UltraCosmetics v2.3.9
+[12:10:01 INFO]: [Rankup] Loading Rankup v1.3
+[12:10:01 INFO]: [ObsidianAuctions] Loading ObsidianAuctions v4.0.2
+[12:10:01 INFO]: [Trading] Loading Trading v3.2
+[12:10:01 INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[12:10:01 INFO]: [ASkyBlock] Loading ASkyBlock v3.0.3.1
+[12:10:01 INFO]: [KitPreview] Loading KitPreview v4.1.3
+[12:10:01 INFO]: [EnjinMinecraftPlugin] Loading EnjinMinecraftPlugin v2.7.8-bukkit
+[12:10:01 INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b717
+[12:10:01 INFO]: [Shopkeepers] Loading Shopkeepers v1.81
+[12:10:01 INFO]: [EchoPet] Loading EchoPet v2.8.0-b52
+[12:10:01 INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b725
+[12:10:01 INFO]: [ChestShop] Loading ChestShop v3.8.11
+[12:10:01 INFO]: [SkyWarsReloaded] Loading SkyWarsReloaded v2.8
+[12:10:01 INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b335
+[12:10:01 INFO]: [TNTRun] Loading TNTRun vBeta-1.1.6
+[12:10:01 INFO]: [BlockParticles] Loading BlockParticles v1.9.4
+[12:10:01 INFO]: [AuthMe] Loading AuthMe v5.2-SNAPSHOT-b870
+[12:10:01 INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.13
+[12:10:01 INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[12:10:01 INFO]: [MultiWorldMoney] Loading MultiWorldMoney v2.2
+[12:10:01 INFO]: [Factions] Loading Factions v2.8.19
+[12:10:01 INFO]: [PvPManager] Loading PvPManager v3.3.2.1
+[12:10:01 INFO]: [CratesPlus] Loading CratesPlus v4.2.1
+[12:10:01 INFO]: [FactionsPlus] Loading FactionsPlus v2.0.0-beta6
+[12:10:01 INFO]: [SilkSpawners] Loading SilkSpawners v3.7.4
+[12:10:01 INFO]: [FactionChat] Loading FactionChat v1.9.19
+[12:10:01 INFO]: [SilkSpawnersEcoAddon] Loading SilkSpawnersEcoAddon v1.0.6
+[12:10:01 INFO]: [CTSNC] Loading CTSNC v10.8
+[12:10:01 INFO]: [CTSNC_Scoreboard] Loading CTSNC_Scoreboard v1.2
+[12:10:01 INFO]: [CTSNC_Tablist] Loading CTSNC_Tablist v1.1
+[12:10:01 INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[12:10:01 INFO]: [ProtocolLib] Started structure compiler thread.
+[12:10:01 INFO]: [FastLogin] Enabling FastLogin v1.9
+[12:10:01 WARN]: [FastLogin] Could not save messages.yml to plugins/FastLogin/messages.yml because messages.yml already exists.
+[12:10:01 INFO]: HikariPool-1 - Started.
+[12:10:01 INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (org.sqlite.Conn.getNetworkTimeout()I)
+[12:10:01 INFO]: [VoidWorld] Enabling VoidWorld v1.0
+[12:10:01 INFO]: [OneMoreSlot] Enabling OneMoreSlot v3.0
+[12:10:01 INFO]: [OneMoreSlot/OMS] Enabled.
+[12:10:01 INFO]: [Vault] Enabling Vault v1.5.6-b49
+[12:10:01 INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:10:01 INFO]: [Vault] [Permission] GroupManager found: Waiting
+[12:10:01 INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:10:01 INFO]: [Vault] [Chat] GroupManager found: Waiting
+[12:10:01 INFO]: [Vault] Enabled Version 1.5.6-b49
+[12:10:01 INFO]: [MassiveCore] Enabling MassiveCore v2.8.21
+[12:10:01 INFO]: [MassiveCore 2.8.21] === ENABLE START ===
+[12:10:01 INFO]: [MassiveCore 2.8.21] Loading Cachefile datas...
+[12:10:05 INFO]: [MassiveCore 2.8.21] Loading Onlineplayer datas...
+[12:10:05 INFO]: [MassiveCore 2.8.21] Loading Registry datas...
+[12:10:05 INFO]: [MassiveCore 2.8.21] Saving Cachefile...
+[12:10:05 INFO]: [MassiveCore 2.8.21] Setup of IdUtil took 3696ms.
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsBasics set to Minecraft 1.7.10+ [1_7_R4+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsBoard set to Minecraft 1.8.0+ [1_8_R1+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsChat set to Minecraft 1.8.3+ [1_8_R2+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsEntityDamageEvent set to Minecraft 1.7.10+ [1_7_R4+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsEntityGet set to Minecraft 1.8.0+ [1_8_R1+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsItemStackCreate set to Minecraft 1.7.10+ [1_7_R4+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsItemStackTooltip set to Minecraft 1.8.0+ [1_8_R1+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsPermissions set to Minecraft 1.7.10+ [1_7_R4+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsPlayerInventoryCreate set to Minecraft 1.7.10+ [1_7_R4+]
+[12:10:05 INFO]: [MassiveCore 2.8.21] Mixin NmsSkullMeta set to Minecraft 1.8.0+ [1_8_R1+]
+[12:10:06 INFO]: [MassiveCore 2.8.21] Integration Activated IntegrationVault
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinEvent set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinActionbar set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinActual set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinCommand set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinDisplayName set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinGamemode set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinInventory set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinKick set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinMessage set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinModification set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinPlayed set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinSenderPs set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinTeleport set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinTitle set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinVisibility set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] Mixin MixinWorld set to Default
+[12:10:06 INFO]: [MassiveCore 2.8.21] === ENABLE COMPLETE (Took 4698ms) ===
+[12:10:06 INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[12:10:06 INFO]: [mcMMO] HealthBar plugin found, mcMMO's healthbars are automatically disabled.
+[12:10:06 WARN]: [mcMMO] NoCheatPlus plugin found, but CompatNoCheatPlus was not found!
+[12:10:06 WARN]: [mcMMO] mcMMO will not work properly alongside NoCheatPlus without CompatNoCheatPlus
+[12:10:07 INFO]: [ASkyBlock] Enabling ASkyBlock v3.0.3.1
+[12:10:08 WARN]: [ASkyBlock] ***********************************************************
+[12:10:08 WARN]: [ASkyBlock] Config file is out of date. See config.new.yml for updates!
+[12:10:08 WARN]: [ASkyBlock] config.yml version is '3.0.0'
+[12:10:08 WARN]: [ASkyBlock] Latest config version is '3.0.3'
+[12:10:08 WARN]: [ASkyBlock] ***********************************************************
+[12:10:08 WARN]: [ASkyBlock] Unknown material (BEETROOT_BLOCK) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (BOAT_ACACIA) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (BOAT_BIRCH) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (BOAT_DARK_OAK) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (BOAT_JUNGLE) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (BOAT_SPRUCE) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (CHORUS_FLOWER) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (CHORUS_PLANT) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (END_BRICKS) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (FROSTED_ICE) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (PURPUR_BLOCK) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (PURPUR_DOUBLE_SLAB) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (PURPUR_PILLAR) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (PURPUR_SLAB) in blockvalues.yml blocks section. Skipping...
+[12:10:08 WARN]: [ASkyBlock] Unknown material (PURPUR_STAIRS) in blockvalues.yml blocks section. Skipping...
+[12:10:08 INFO]: [ASkyBlock] Loading schematic The Original (island.schematic) for all players, order 1
+[12:10:08 INFO]: [ASkyBlock] Loading schematic NetherBlock Island (nether.schematic) for all players, order 0
+[12:10:08 INFO]: [ASkyBlock] Loading schematic Island Duo (double.schematic) for all players, order 2
+[12:10:08 INFO]: [ASkyBlock] Loading schematic §lBlack §bDiamonds (harder.schematic) for all players, order 3
+[12:10:08 INFO]: [ASkyBlock] Loading offline messages...
+[12:10:08 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:10:08 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:10:08 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:10:08 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:10:08 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:10:08 INFO]: Preparing level "lobby"
+[12:10:08 INFO]: -------- World Settings For [lobby] --------
+[12:10:08 INFO]: Anti X-Ray: true
+[12:10:08 INFO]:        Engine Mode: 1
+[12:10:08 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:08 INFO]:        Replace Blocks: [1, 5]
+[12:10:08 INFO]: Mob Spawn Range: 4
+[12:10:08 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:08 INFO]: Cactus Growth Modifier: 100%
+[12:10:08 INFO]: Cane Growth Modifier: 100%
+[12:10:08 INFO]: Melon Growth Modifier: 100%
+[12:10:08 INFO]: Mushroom Growth Modifier: 100%
+[12:10:08 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:08 INFO]: Sapling Growth Modifier: 100%
+[12:10:08 INFO]: Wheat Growth Modifier: 100%
+[12:10:08 INFO]: NetherWart Growth Modifier: 100%
+[12:10:08 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:08 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:08 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:08 INFO]: Random Lighting Updates: false
+[12:10:08 INFO]: Structure Info Saving: true
+[12:10:08 INFO]: Sending up to 10 chunks per packet
+[12:10:08 INFO]: Max Entity Collisions: 8
+[12:10:08 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:08 INFO]: Max TNT Explosions: 100
+[12:10:08 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:08 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:08 INFO]: Item Despawn Rate: 6000
+[12:10:08 INFO]: Item Merge Radius: 2.5
+[12:10:08 INFO]: Arrow Despawn Rate: 1200
+[12:10:08 INFO]: View Distance: 10
+[12:10:08 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:08 INFO]: Chunks to Grow per Tick: 650
+[12:10:08 INFO]: Clear tick list: false
+[12:10:08 INFO]: Experience Merge Radius: 3.0
+[12:10:08 INFO]: -------- World Settings For [lobby] --------
+[12:10:08 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:08 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:08 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:08 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:08 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:08 INFO]: Fix TNT cannons: false
+[12:10:08 INFO]: Water over lava flow speed: 5
+[12:10:08 INFO]: Allow undead horse types to be leashed: false
+[12:10:08 INFO]: Keep spawn chunk loaded: true
+[12:10:08 INFO]: World async lighting: false
+[12:10:08 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:08 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:08 INFO]: -------- World Settings For [lobby_nether] --------
+[12:10:08 INFO]: Anti X-Ray: true
+[12:10:08 INFO]:        Engine Mode: 1
+[12:10:08 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:08 INFO]:        Replace Blocks: [1, 5]
+[12:10:08 INFO]: Mob Spawn Range: 4
+[12:10:08 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:08 INFO]: Cactus Growth Modifier: 100%
+[12:10:08 INFO]: Cane Growth Modifier: 100%
+[12:10:08 INFO]: Melon Growth Modifier: 100%
+[12:10:08 INFO]: Mushroom Growth Modifier: 100%
+[12:10:08 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:08 INFO]: Sapling Growth Modifier: 100%
+[12:10:08 INFO]: Wheat Growth Modifier: 100%
+[12:10:08 INFO]: NetherWart Growth Modifier: 100%
+[12:10:08 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:08 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:08 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:08 INFO]: Random Lighting Updates: false
+[12:10:08 INFO]: Structure Info Saving: true
+[12:10:08 INFO]: Sending up to 10 chunks per packet
+[12:10:08 INFO]: Max Entity Collisions: 8
+[12:10:08 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:08 INFO]: Max TNT Explosions: 100
+[12:10:08 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:08 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:08 INFO]: Item Despawn Rate: 6000
+[12:10:08 INFO]: Item Merge Radius: 2.5
+[12:10:08 INFO]: Arrow Despawn Rate: 1200
+[12:10:08 INFO]: View Distance: 10
+[12:10:08 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:08 INFO]: Chunks to Grow per Tick: 650
+[12:10:08 INFO]: Clear tick list: false
+[12:10:08 INFO]: Experience Merge Radius: 3.0
+[12:10:08 INFO]: -------- World Settings For [lobby_nether] --------
+[12:10:08 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:08 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:08 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:08 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:08 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:08 INFO]: Fix TNT cannons: false
+[12:10:08 INFO]: Water over lava flow speed: 5
+[12:10:08 INFO]: Allow undead horse types to be leashed: false
+[12:10:08 INFO]: Keep spawn chunk loaded: true
+[12:10:08 INFO]: World async lighting: false
+[12:10:08 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:08 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:08 INFO]: -------- World Settings For [lobby_the_end] --------
+[12:10:08 INFO]: Anti X-Ray: true
+[12:10:08 INFO]:        Engine Mode: 1
+[12:10:08 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:08 INFO]:        Replace Blocks: [1, 5]
+[12:10:08 INFO]: Mob Spawn Range: 4
+[12:10:08 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:08 INFO]: Cactus Growth Modifier: 100%
+[12:10:08 INFO]: Cane Growth Modifier: 100%
+[12:10:08 INFO]: Melon Growth Modifier: 100%
+[12:10:08 INFO]: Mushroom Growth Modifier: 100%
+[12:10:08 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:08 INFO]: Sapling Growth Modifier: 100%
+[12:10:08 INFO]: Wheat Growth Modifier: 100%
+[12:10:08 INFO]: NetherWart Growth Modifier: 100%
+[12:10:08 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:08 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:08 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:08 INFO]: Random Lighting Updates: false
+[12:10:08 INFO]: Structure Info Saving: true
+[12:10:08 INFO]: Sending up to 10 chunks per packet
+[12:10:08 INFO]: Max Entity Collisions: 8
+[12:10:08 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:08 INFO]: Max TNT Explosions: 100
+[12:10:08 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:08 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:08 INFO]: Item Despawn Rate: 6000
+[12:10:08 INFO]: Item Merge Radius: 2.5
+[12:10:08 INFO]: Arrow Despawn Rate: 1200
+[12:10:08 INFO]: View Distance: 10
+[12:10:08 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:08 INFO]: Chunks to Grow per Tick: 650
+[12:10:08 INFO]: Clear tick list: false
+[12:10:08 INFO]: Experience Merge Radius: 3.0
+[12:10:08 INFO]: -------- World Settings For [lobby_the_end] --------
+[12:10:08 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:08 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:08 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:08 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:08 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:08 INFO]: Fix TNT cannons: false
+[12:10:08 INFO]: Water over lava flow speed: 5
+[12:10:08 INFO]: Allow undead horse types to be leashed: false
+[12:10:08 INFO]: Keep spawn chunk loaded: true
+[12:10:08 INFO]: World async lighting: false
+[12:10:08 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:08 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:08 INFO]: Preparing start region for level 0 (Seed: -7979790079522874007)
+[12:10:09 INFO]: Preparing start region for level 1 (Seed: -7269130105477040784)
+[12:10:09 INFO]: Preparing start region for level 2 (Seed: -7269130105477040784)
+[12:10:10 INFO]: [HiveJumpPads] Enabling HiveJumpPads v2.17
+[12:10:10 INFO]: [Hive JumpPads] Hive JumpPads v2.17 developed by Xenedor!
+[12:10:10 INFO]: [Hive JumpPads] Hive JumpPads Successful loaded!
+[12:10:10 INFO]: [MoreMobTypes] Enabling MoreMobTypes v0.3
+[12:10:10 WARN]: [MoreMobTypes] Could not save config.yml to plugins/MoreMobTypes/config.yml because config.yml already exists.
+[12:10:10 INFO]: [HPFixer] Enabling HPFixer v1.0
+[12:10:10 INFO]: [ItemNamer] Enabling ItemNamer v0.6
+[12:10:10 INFO]: Item Namer V0.6 is now enabled!
+[12:10:10 INFO]: [PerWorldPlugins] Enabling PerWorldPlugins v1.2.4
+[12:10:10 INFO]: [PerWorldPlugins] Enabled, attempting to inject CommandHandler...
+[12:10:10 INFO]: [PlugMan] Enabling PlugMan v2.1.1
+[12:10:10 INFO]: [Youtube] Enabling Youtube v1.0
+[12:10:10 INFO]: [Youtube] Running helpop
+[12:10:10 INFO]: [MobStack] Enabling MobStack v1.0
+[12:10:10 INFO]: [Headshoots] Enabling Headshoots v3.8
+[12:10:10 INFO]: Headshoots Enabled! Yay! :D
+[12:10:10 INFO]: [MaintenanceMode] Enabling MaintenanceMode vBETA 1.7
+[12:10:10 INFO]: [AntiSwearPlus] Enabling AntiSwearPlus v1.7
+[12:10:10 INFO]: [ViaVersion] Enabling ViaVersion v0.9.8
+[12:10:10 INFO]: [ViaVersion] Enabling PaperSpigot/TacoSpigot patch: Fixes block placement.
+[12:10:10 INFO]: [PvpLevels] Enabling PvpLevels v1.2.1
+[12:10:10 INFO]: [PvpLevels] Hooked with Essentials Economy using Vault.
+[12:10:10 INFO]: [PerWorldChatPlus] Enabling PerWorldChatPlus v5.1.0
+[12:10:10 INFO]: [PerWorldChatPlus] Checking for updates...
+[12:10:10 WARN]: [Fatal Error] :1:1: Premature end of file.
+
+[12:10:10 WARN]: [PerWorldChatPlus] Update URL is invalid! Report this to Shades161 on her Dev Bukkit Page!
+[12:10:10 INFO]: [PerWorldChatPlus] No updates found, will check again later.
+[12:10:10 INFO]: [AntiAdvertiser] Enabling AntiAdvertiser v0.0.2
+[12:10:10 INFO]: [AntiAdv] has been enabled!
+[12:10:10 INFO]: [FusionFFA] Enabling FusionFFA v0.1.4
+[12:10:10 INFO]: El plugin se ha cargado
+[12:10:10 INFO]: [StaffSupport] Enabling StaffSupport v1.6
+[12:10:10 INFO]: [StaffSupport] Staff Support has been enabled!
+[12:10:10 INFO]: [ProtocolAura] Enabling ProtocolAura v1.0.4
+[12:10:10 INFO]: [RAMManager] Enabling RAMManager v1.2
+[12:10:10 INFO]: [TimeIsMoney] Enabling TimeIsMoney v1943
+[12:10:10 INFO]: [TimeIsMoney] Loaded 2 Payouts!
+[12:10:10 INFO]: Time is Money v1943 started.
+[12:10:10 INFO]: [TreeAssist] Enabling TreeAssist v5.8.91
+[12:10:10 INFO]: [TreeAssist] debugging: off
+[12:10:12 INFO]: [MoreEnchants+] Enabling MoreEnchantsPlus v2.0
+[12:10:12 INFO]: [SnowballDamage] Enabling SnowballDamage v1.1.2
+[12:10:12 INFO]: SBD: Snowball Damage Version: 1.1.2 By Bloobies Enabled!
+[12:10:12 INFO]: Snowball Damage Enabled
+[12:10:12 INFO]: [Simple_KitPvP] Enabling Simple_KitPvP v4.0
+[12:10:12 INFO]: [Simple_KitPvP] SimpleKitPvP has been enabled. - created by coolguy4744
+[12:10:12 INFO]: [ServerListPlus] Enabling ServerListPlus v3.4.7
+[12:10:12 INFO]: [ServerListPlus] [Core] Reloading configuration...
+[12:10:12 INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[12:10:12 INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[12:10:12 INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[12:10:12 INFO]: [ServerListPlus] Successfully loaded!
+[12:10:12 INFO]: [ServerListPlus] ServerListPlus v3.4.7 enabled.
+[12:10:12 INFO]: [PerWorldTablist] Enabling PerWorldTablist v1.0.0
+[12:10:12 INFO]: [BowTeleportSB] Enabling BowTeleportSB v3.5
+[12:10:12 INFO]: [+] BowTeleport v3.5 Started!
+[12:10:12 INFO]: [!] Coded by SoldatulBanana aka filiblox [RO]
+[12:10:12 INFO]: [!] Contact Skype: abe91.yoloswagmaster
+[12:10:12 INFO]: [OreGen2] Enabling OreGen2 v1.2
+[12:10:12 INFO]: [OreGen2] OreGen2 by Tster has been enabled!
+[12:10:12 INFO]: [DiscoArmour] Enabling DiscoArmour v1.4
+[12:10:12 INFO]: [GroupManager] Enabling GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[12:10:13 INFO]: GroupManager version Pre2.14.1.3 FINAL (Phoenix) is enabled!
+[12:10:13 INFO]: [Vault][Permission] GroupManager hooked.
+[12:10:13 INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[12:10:13 INFO]: [OnlineTimeLogger] Enabling OnlineTimeLogger v2.2
+[12:10:13 INFO]: [OnlineTimeLogger] 2.2 has been enabled.
+[12:10:13 INFO]: [NametagEdit] Enabling NametagEdit v4.1.0
+[12:10:13 INFO]: [NametagEdit] Found GroupManager! Hooking in.
+[12:10:13 INFO]: [Lockette] Enabling Lockette v1.8.23
+[12:10:13 INFO]: [Lockette] Version 1.8.23 is being enabled!  Yay!  (Core version 1.3.5)
+[12:10:13 INFO]: minor >
+[12:10:13 INFO]: [Lockette] Detected Bukkit version [v1_8_R3] ok.
+[12:10:13 INFO]: [Lockette] Custom lockable block list: [116, 84, 57, 145, 154]
+[12:10:13 INFO]: [Lockette] Ignoring linked plugins: [mcMMO]
+[12:10:13 INFO]: [Lockette] Loading strings file for English by Acru
+[12:10:13 INFO]: [Lockette] Enabled link to plugin GroupManager for Groups, version Pre2.14.1.3 FINAL (Phoenix)
+[12:10:13 INFO]: [Lockette] Enabled link to plugin mcMMO for Groups, version 1.5.00-b3547
+[12:10:13 INFO]: [Lockette] Using ops file for admin permissions.
+[12:10:13 INFO]: [Lockette] Ready to protect your containers.
+[12:10:13 INFO]: [CClearChat] Enabling CClearChat v1.9
+[12:10:13 INFO]: [EnchantLapis] Enabling EnchantLapis v1.2
+[12:10:13 INFO]: [SkinsRestorer] Enabling SkinsRestorer v12.9.5
+[12:10:13 INFO]: Detected Minecraft v1_8_R3, using UniversalSkinFactory
+[12:10:13 INFO]: [aAntiSpam] Enabling aAntiSpam v1.2
+[12:10:13 INFO]: aAntiSpam activated.
+[12:10:13 INFO]: [TopTenHeads] Enabling TopTenHeads v1.0
+[12:10:13 INFO]: [TopTenHeads] 3.0.3.1
+[12:10:13 INFO]: [CraftableHorseItems] Enabling CraftableHorseItems v3.0
+[12:10:13 INFO]: [CraftableHorseItems] Plugin is enabling
+[12:10:13 INFO]: [PerWorldSpawn] Enabling PerWorldSpawn v1.0
+[12:10:13 INFO]: [SparklingTools] Enabling SparklingTools v1.7.3c
+[12:10:13 INFO]: [TTA] Enabling TTA v3.4
+[12:10:13 INFO]: =========>[TTA Terms]<=========
+[12:10:13 INFO]: -> You are not permitted to claim this plugin as your own!
+[12:10:13 INFO]: -> You are not permitted to decompiling the plugin's sourcecode!
+[12:10:13 INFO]: -> You are not permitted to modify the code or the plugin and call it your own!
+[12:10:13 INFO]: -> You are not permitted to redistributing this plugin as your own!
+[12:10:13 INFO]: ======>[Terms Accepted!]<======
+[12:10:13 INFO]: [TTA] Version: 3.4 by [Herbystar] enabled!
+[12:10:13 INFO]: [TTA] -=> Update is available! <=-
+[12:10:13 INFO]: [TTA] Minecraft 1.8.4-1.8.9 Support enabled!
+[12:10:13 INFO]: [TTA] Started Metrics successful!
+[12:10:13 INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[12:10:13 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[12:10:14 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[12:10:14 INFO]: [HealthBar] Enabling HealthBar v1.8.3
+[12:10:14 INFO]: [Essentials] Enabling Essentials vTeamCity
+[12:10:14 INFO]: Bukkit version format changed. Version not checked.
+[12:10:14 INFO]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[12:10:14 INFO]: 1.8.8-R0.1-SNAPSHOT
+[12:10:14 INFO]: Using locale en_US
+[12:10:14 INFO]: Using locale en_US
+[12:10:14 INFO]: [Vault][Economy] Essentials Economy hooked.
+[12:10:14 INFO]: Essentials: Using GroupManager based permissions.
+[12:10:14 INFO]: [ClearLag] Enabling ClearLag v2.9.3
+[12:10:14 INFO]: [ClearLag] Loading modules...
+[12:10:14 INFO]: [ClearLag] Modules enabed, loading config values
+[12:10:14 INFO]: [ClearLag] Modules have been loaded!
+[12:10:14 INFO]: [ClearLag] Clearlag is now enabled!
+[12:10:14 INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[12:10:14 INFO]: [Hub] Enabling Hub v1.2
+[12:10:14 INFO]: [Hub]  Has been ENABLED!
+[12:10:14 INFO]: [SurvivalGames] Enabling SurvivalGames v0.6.3.2
+[12:10:14 INFO]: [FactionsBreak] Enabling FactionsBreak v1.0
+[12:10:14 INFO]: [Votifier] Enabling Votifier v1.9
+[12:10:14 INFO]: [Votifier] Votifier enabled.
+[12:10:14 INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[12:10:14 INFO]: [NoCheatPlus] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+[12:10:14 INFO]: [ClearLag] No updates found!
+[12:10:14 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[12:10:14 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[12:10:14 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[12:10:14 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[12:10:14 INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[12:10:14 INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+[12:10:14 INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+[12:10:14 INFO]: [NoCheatPlus] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+[12:10:14 INFO]: [LibsDisguises] Enabling LibsDisguises v8.6.8
+[12:10:15 INFO]: [KitAdder] Enabling KitAdder v2.4
+[12:10:15 INFO]: [KitAdder] KitAdder plugin has been enabled!
+[12:10:15 INFO]: [iDisguise] Enabling iDisguise v5.3.5
+[12:10:15 INFO]: [iDisguise] iDisguise 5.3.5 enabled!
+[12:10:15 INFO]: [LobbyCompass] Enabling LobbyCompass v1.3
+[12:10:15 INFO]: [InstantRespawn] Enabling InstantRespawn v1.0.7
+[12:10:15 INFO]: [ChairStairs] Enabling ChairStairs v1.1
+[12:10:15 INFO]: [RandomTeleport] Enabling RandomTeleport v5.0.2
+[12:10:15 INFO]: [RandomTeleport] [Updater] Auto-Update is disabled! If you would like to have RandomTP update itself automatically, please enable it in the config.
+[12:10:15 INFO]: [PlayerHeads] Enabling PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[12:10:15 INFO]: [MarriageMaster] Enabling MarriageMaster v1.29.15
+[12:10:15 INFO]: [MarriageMaster] Config Version: 28 => no update needed
+[12:10:15 INFO]: [MarriageMaster] Config loaded
+[12:10:15 INFO]: [MarriageMaster] Language Version: 18 => no update needed
+[12:10:15 INFO]: [MarriageMaster] Checking for updates ...
+[12:10:15 INFO]: [MarriageMaster] Marriage Master has been enabled!
+[12:10:15 INFO]: [Jobs] Enabling Jobs v3.8.0
+[12:10:15 INFO]: [Jobs] Your server version don't support BossBar. This feature will be disabled
+[12:10:15 INFO]: [Jobs] Loaded 8 titles!
+[12:10:15 INFO]: [Jobs] Loaded 0 restricted areas!
+[12:10:15 INFO]: [Jobs] Your defined (207) protected block id/name is not correct!
+[12:10:15 INFO]: [Jobs] Loaded 48 protected blocks timers!
+[12:10:15 INFO]: [Jobs] Loaded 641 custom item names!
+[12:10:15 INFO]: [Jobs] Loaded 41 custom entity names!
+[12:10:15 INFO]: [Jobs] Loaded 27 custom enchant names!
+[12:10:15 INFO]: [Jobs] Loaded 16 custom color names!
+[12:10:15 INFO]: [Jobs] 4 shop items loaded!
+[12:10:15 WARN]: [Jobs] Job Farmer has an invalid Break type property: CHORUS_PLANT!
+[12:10:15 WARN]: [Jobs] Job Farmer has an invalid Break type property: CHORUS_FLOWER!
+[12:10:15 WARN]: [Jobs] Job Farmer has an invalid Break type property: BEETROOT_BLOCK-3!
+[12:10:15 WARN]: [Jobs] Job Hunter has an invalid Kill type property: SHULKER!
+[12:10:16 INFO]: [Jobs] Loaded 12 jobs!
+[12:10:16 INFO]: [Jobs] Explorer job manager registered!
+[12:10:16 INFO]: [Jobs] Started database save task.
+[12:10:16 INFO]: [Jobs] Started buffered payment thread.
+[12:10:16 INFO]: [Jobs] Loaded 0 schedulers!
+[12:10:16 INFO]: [Jobs] mcMMO was found - Enabling capabilities.
+[12:10:16 INFO]: [Jobs] Loading explorer data
+[12:10:16 INFO]: [Jobs] Loaded explorer data
+[12:10:16 INFO]: [Jobs] Plugin has been enabled succesfully.
+[12:10:16 INFO]: [1vs1] Enabling 1vs1 v1.7.0 #220
+[12:10:16 INFO]: [1vs1] Connecting to sqlite database...
+[12:10:16 INFO]: [1vs1] Connected!
+[12:10:16 INFO]: [1vs1] Connecting to database
+[12:10:16 INFO]: [1vs1] Connecting to sqlite database...
+[12:10:16 INFO]: [1vs1] Connected!
+[12:10:16 INFO]: [1vs1] 1vs1 enabled!
+[12:10:16 INFO]: [MazeCraft] Enabling MazeCraft v0.3
+[12:10:16 WARN]: java.io.IOException: No such file or directory
+[12:10:16 WARN]:        at java.io.UnixFileSystem.createFileExclusively(Native Method)
+[12:10:16 WARN]:        at java.io.File.createNewFile(File.java:1012)
+[12:10:16 WARN]:        at org.caliog.MazeCraft.Utils.Config.init(Config.java:20)
+[12:10:16 WARN]:        at org.caliog.MazeCraft.myPlugin.onEnable(myPlugin.java:29)
+[12:10:16 WARN]:        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:10:16 WARN]:        at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+[12:10:16 WARN]:        at us.Myles.PWP.TransparentListeners.PerWorldPluginLoader.enablePlugin(PerWorldPluginLoader.java:145)
+[12:10:16 WARN]:        at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407)
+[12:10:16 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+[12:10:16 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+[12:10:16 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+[12:10:16 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+[12:10:16 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+[12:10:16 WARN]:        at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+[12:10:16 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[12:10:16 WARN]:        at java.lang.Thread.run(Thread.java:745)
+[12:10:16 INFO]: [MazeCraft] MazeCraft v0.3 enabled!
+[12:10:16 INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[12:10:16 INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[12:10:16 INFO]: [GAListener] Enabling GAListener v1.3.1
+[12:10:16 INFO]: [GAListener] GAListener v1.3.1 Enabled
+[12:10:16 INFO]: [UltraCosmetics] Enabling UltraCosmetics v2.3.9
+[12:10:16 INFO]: UltraCosmetics -> -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[12:10:16 INFO]: UltraCosmetics -> UltraCosmetics v2.3.9 is being loaded... (server: 1.8.8)
+[12:10:16 INFO]: UltraCosmetics -> 
+[12:10:16 INFO]: UltraCosmetics -> Thanks for having downloaded it!
+[12:10:16 INFO]: UltraCosmetics -> 
+[12:10:16 INFO]: UltraCosmetics -> Plugin by iSach.
+[12:10:16 INFO]: UltraCosmetics -> Link: http://bit.ly/UltraCosmetics
+[12:10:16 INFO]: UltraCosmetics -> 
+[12:10:16 INFO]: UltraCosmetics -> Loading configuration...
+[12:10:17 INFO]: UltraCosmetics -> Configuration loaded.
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> Initializing module v1_8_R3
+[12:10:17 INFO]: UltraCosmetics -> Module initialized
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> Preparing Metrics data.
+[12:10:17 INFO]: UltraCosmetics -> Data sent to Metrics successfully.
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> Registering Messages...
+[12:10:17 INFO]: UltraCosmetics -> Messages registered.
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> Registering commands...
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'gadgets'
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'selfview'
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'menu'
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'give'
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'toggle'
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'clear'
+[12:10:17 INFO]: UltraCosmetics ->   Registered subcommand 'treasure'
+[12:10:17 INFO]: UltraCosmetics -> Registered command: '/ultracosmetics'.
+[12:10:17 INFO]: UltraCosmetics -> Registered command: '/uc'.
+[12:10:17 INFO]: UltraCosmetics -> Registered commands.
+[12:10:17 INFO]: UltraCosmetics -> 
+[12:10:17 INFO]: UltraCosmetics -> Registering Cosmetics...
+[12:10:18 INFO]: UltraCosmetics -> Cosmetics Registered.
+[12:10:18 INFO]: UltraCosmetics -> 
+[12:10:18 INFO]: UltraCosmetics -> Registering listeners...
+[12:10:18 INFO]: UltraCosmetics -> Listeners registered.
+[12:10:18 INFO]: UltraCosmetics -> 
+[12:10:18 INFO]: UltraCosmetics -> 
+[12:10:18 INFO]: UltraCosmetics -> UltraCosmetics successfully finished loading and is now enabled! (server: 1.8.8)
+[12:10:18 INFO]: UltraCosmetics -> -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[12:10:18 INFO]: [Rankup] Enabling Rankup v1.3
+[12:10:18 INFO]: [Rankup] Rankup 1.3 is now enabled.
+[12:10:18 INFO]: [ObsidianAuctions] Enabling ObsidianAuctions v4.0.2
+[12:10:18 INFO]: [ObsidianAuctions] Checking to see if migration is needed...
+[12:10:18 INFO]: [ObsidianAuctions] Migration not needed, skipping migration!
+[12:10:18 INFO]: [ObsidianAuctions] Checking to see if strings need to be mapped
+[12:10:18 INFO]: [floAuction] has been enabled.
+[12:10:18 INFO]: [Trading] Enabling Trading v3.2
+[12:10:18 INFO]: [Trading] Trading has been enabled
+[12:10:18 INFO]: [Trading] Vault and Economy have been found!
+[12:10:18 INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[12:10:18 INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[12:10:18 INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[12:10:18 INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[12:10:18 INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[12:10:18 INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[12:10:18 INFO]: [WorldGuard] (lobby_nether) TNT ignition is PERMITTED.
+[12:10:18 INFO]: [WorldGuard] (lobby_nether) Lighters are PERMITTED.
+[12:10:18 INFO]: [WorldGuard] (lobby_nether) Lava fire is blocked.
+[12:10:18 INFO]: [WorldGuard] (lobby_nether) Fire spread is UNRESTRICTED.
+[12:10:18 INFO]: [WorldGuard] Loaded configuration for world 'lobby_nether'
+[12:10:18 INFO]: [WorldGuard] (lobby_the_end) TNT ignition is PERMITTED.
+[12:10:18 INFO]: [WorldGuard] (lobby_the_end) Lighters are PERMITTED.
+[12:10:18 INFO]: [WorldGuard] (lobby_the_end) Lava fire is blocked.
+[12:10:18 INFO]: [WorldGuard] (lobby_the_end) Fire spread is UNRESTRICTED.
+[12:10:18 INFO]: [WorldGuard] Loaded configuration for world 'lobby_the_end'
+[12:10:18 INFO]: [WorldGuard] Loading region data...
+[12:10:19 INFO]: [KitPreview] Enabling KitPreview v4.1.3
+[12:10:19 INFO]: [KitPreview] Plugin version set to 1.8
+[12:10:19 INFO]: [KitPreview] Loading language file
+[12:10:19 WARN]: java.io.IOException: Server returned HTTP response code: 403 for URL: http://songoda.com/KP-VER.php?ver=4.1.3
+[12:10:19 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1876)
+[12:10:19 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+[12:10:19 WARN]:        at com.songoda.kitpreview.KitPreview.checkUpdate(KitPreview.java:597)
+[12:10:19 WARN]:        at com.songoda.kitpreview.KitPreview.onEnable(KitPreview.java:74)
+[12:10:19 WARN]:        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:10:19 WARN]:        at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+[12:10:19 WARN]:        at us.Myles.PWP.TransparentListeners.PerWorldPluginLoader.enablePlugin(PerWorldPluginLoader.java:145)
+[12:10:19 WARN]:        at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407)
+[12:10:19 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+[12:10:19 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+[12:10:19 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+[12:10:19 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+[12:10:19 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+[12:10:19 WARN]:        at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+[12:10:19 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[12:10:19 WARN]:        at java.lang.Thread.run(Thread.java:745)
+[12:10:19 INFO]: [KitPreview] Plugin Metrics enabled and loaded
+[12:10:19 INFO]: [EnjinMinecraftPlugin] Enabling EnjinMinecraftPlugin v2.7.8-bukkit
+[12:10:19 INFO]: [EnjinMinecraftPlugin] MC 1.3 or above found, enabling version 2 XP handling.
+[12:10:19 INFO]: [EnjinMinecraftPlugin] MC 1.7.2 or above found, enabling version 2 log handling.
+[12:10:19 INFO]: [EnjinMinecraftPlugin] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+[12:10:19 WARN]: [EnjinMinecraftPlugin] Economy plugin is not enabled.
+[12:10:19 INFO]: [Enjin Minecraft Plugin] Votifier plugin found, enabling Votifier support.
+[12:10:19 INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b717
+[12:10:20 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: kitpvp
+[12:10:20 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:20 INFO]: -------- World Settings For [skywars_nether] --------
+[12:10:20 INFO]: Anti X-Ray: true
+[12:10:20 INFO]:        Engine Mode: 1
+[12:10:20 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:20 INFO]:        Replace Blocks: [1, 5]
+[12:10:20 INFO]: Mob Spawn Range: 4
+[12:10:20 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:20 INFO]: Cactus Growth Modifier: 100%
+[12:10:20 INFO]: Cane Growth Modifier: 100%
+[12:10:20 INFO]: Melon Growth Modifier: 100%
+[12:10:20 INFO]: Mushroom Growth Modifier: 100%
+[12:10:20 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:20 INFO]: Sapling Growth Modifier: 100%
+[12:10:20 INFO]: Wheat Growth Modifier: 100%
+[12:10:20 INFO]: NetherWart Growth Modifier: 100%
+[12:10:20 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:20 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:20 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:20 INFO]: Random Lighting Updates: false
+[12:10:20 INFO]: Structure Info Saving: true
+[12:10:20 INFO]: Sending up to 10 chunks per packet
+[12:10:20 INFO]: Max Entity Collisions: 8
+[12:10:20 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:20 INFO]: Max TNT Explosions: 100
+[12:10:20 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:20 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:20 INFO]: Item Despawn Rate: 6000
+[12:10:20 INFO]: Item Merge Radius: 2.5
+[12:10:20 INFO]: Arrow Despawn Rate: 1200
+[12:10:20 INFO]: View Distance: 10
+[12:10:20 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:20 INFO]: Chunks to Grow per Tick: 650
+[12:10:20 INFO]: Clear tick list: false
+[12:10:20 INFO]: Experience Merge Radius: 3.0
+[12:10:20 INFO]: -------- World Settings For [skywars_nether] --------
+[12:10:20 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:20 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:20 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:20 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:20 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:20 INFO]: Fix TNT cannons: false
+[12:10:20 INFO]: Water over lava flow speed: 5
+[12:10:20 INFO]: Allow undead horse types to be leashed: false
+[12:10:20 INFO]: Keep spawn chunk loaded: true
+[12:10:20 INFO]: World async lighting: false
+[12:10:20 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:20 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:20 INFO]: Preparing start region for level 3 (Seed: 0)
+[12:10:20 INFO]: [WorldGuard] (skywars_nether) TNT ignition is PERMITTED.
+[12:10:20 INFO]: [WorldGuard] (skywars_nether) Lighters are PERMITTED.
+[12:10:20 INFO]: [WorldGuard] (skywars_nether) Lava fire is blocked.
+[12:10:20 INFO]: [WorldGuard] (skywars_nether) Fire spread is UNRESTRICTED.
+[12:10:20 INFO]: [WorldGuard] Loaded configuration for world 'skywars_nether'
+[12:10:20 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: buildbattle
+[12:10:20 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:20 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: MarriageChapel
+[12:10:20 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:20 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Spawn_nether
+[12:10:20 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:20 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: sw1
+[12:10:20 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:20 INFO]: -------- World Settings For [skywars_the_end] --------
+[12:10:20 INFO]: Anti X-Ray: true
+[12:10:20 INFO]:        Engine Mode: 1
+[12:10:20 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:20 INFO]:        Replace Blocks: [1, 5]
+[12:10:20 INFO]: Mob Spawn Range: 4
+[12:10:20 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:20 INFO]: Cactus Growth Modifier: 100%
+[12:10:20 INFO]: Cane Growth Modifier: 100%
+[12:10:20 INFO]: Melon Growth Modifier: 100%
+[12:10:20 INFO]: Mushroom Growth Modifier: 100%
+[12:10:20 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:20 INFO]: Sapling Growth Modifier: 100%
+[12:10:20 INFO]: Wheat Growth Modifier: 100%
+[12:10:20 INFO]: NetherWart Growth Modifier: 100%
+[12:10:20 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:20 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:20 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:20 INFO]: Random Lighting Updates: false
+[12:10:20 INFO]: Structure Info Saving: true
+[12:10:20 INFO]: Sending up to 10 chunks per packet
+[12:10:20 INFO]: Max Entity Collisions: 8
+[12:10:20 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:20 INFO]: Max TNT Explosions: 100
+[12:10:20 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:20 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:20 INFO]: Item Despawn Rate: 6000
+[12:10:20 INFO]: Item Merge Radius: 2.5
+[12:10:20 INFO]: Arrow Despawn Rate: 1200
+[12:10:20 INFO]: View Distance: 10
+[12:10:20 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:20 INFO]: Chunks to Grow per Tick: 650
+[12:10:20 INFO]: Clear tick list: false
+[12:10:20 INFO]: Experience Merge Radius: 3.0
+[12:10:20 INFO]: -------- World Settings For [skywars_the_end] --------
+[12:10:20 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:20 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:20 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:20 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:20 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:20 INFO]: Fix TNT cannons: false
+[12:10:20 INFO]: Water over lava flow speed: 5
+[12:10:20 INFO]: Allow undead horse types to be leashed: false
+[12:10:20 INFO]: Keep spawn chunk loaded: true
+[12:10:20 INFO]: World async lighting: false
+[12:10:20 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:20 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:20 INFO]: Preparing start region for level 4 (Seed: 0)
+[12:10:20 INFO]: [WorldGuard] (skywars_the_end) TNT ignition is PERMITTED.
+[12:10:20 INFO]: [WorldGuard] (skywars_the_end) Lighters are PERMITTED.
+[12:10:20 INFO]: [WorldGuard] (skywars_the_end) Lava fire is blocked.
+[12:10:20 INFO]: [WorldGuard] (skywars_the_end) Fire spread is UNRESTRICTED.
+[12:10:20 INFO]: [WorldGuard] Loaded configuration for world 'skywars_the_end'
+[12:10:20 INFO]: -------- World Settings For [skywars] --------
+[12:10:20 INFO]: Anti X-Ray: true
+[12:10:20 INFO]:        Engine Mode: 1
+[12:10:20 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:20 INFO]:        Replace Blocks: [1, 5]
+[12:10:20 INFO]: Mob Spawn Range: 4
+[12:10:20 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:20 INFO]: Cactus Growth Modifier: 100%
+[12:10:20 INFO]: Cane Growth Modifier: 100%
+[12:10:20 INFO]: Melon Growth Modifier: 100%
+[12:10:20 INFO]: Mushroom Growth Modifier: 100%
+[12:10:20 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:20 INFO]: Sapling Growth Modifier: 100%
+[12:10:20 INFO]: Wheat Growth Modifier: 100%
+[12:10:20 INFO]: NetherWart Growth Modifier: 100%
+[12:10:20 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:20 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:20 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:20 INFO]: Random Lighting Updates: false
+[12:10:20 INFO]: Structure Info Saving: true
+[12:10:20 INFO]: Sending up to 10 chunks per packet
+[12:10:20 INFO]: Max Entity Collisions: 8
+[12:10:20 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:20 INFO]: Max TNT Explosions: 100
+[12:10:20 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:20 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:20 INFO]: Item Despawn Rate: 6000
+[12:10:20 INFO]: Item Merge Radius: 2.5
+[12:10:20 INFO]: Arrow Despawn Rate: 1200
+[12:10:20 INFO]: View Distance: 10
+[12:10:20 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:20 INFO]: Chunks to Grow per Tick: 650
+[12:10:20 INFO]: Clear tick list: false
+[12:10:20 INFO]: Experience Merge Radius: 3.0
+[12:10:20 INFO]: -------- World Settings For [skywars] --------
+[12:10:20 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:20 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:20 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:20 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:20 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:20 INFO]: Fix TNT cannons: false
+[12:10:20 INFO]: Water over lava flow speed: 5
+[12:10:20 INFO]: Allow undead horse types to be leashed: false
+[12:10:20 INFO]: Keep spawn chunk loaded: true
+[12:10:20 INFO]: World async lighting: false
+[12:10:20 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:20 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:20 INFO]: Preparing start region for level 5 (Seed: 0)
+[12:10:21 INFO]: [WorldGuard] (skywars) TNT ignition is PERMITTED.
+[12:10:21 INFO]: [WorldGuard] (skywars) Lighters are PERMITTED.
+[12:10:21 INFO]: [WorldGuard] (skywars) Lava fire is blocked.
+[12:10:21 INFO]: [WorldGuard] (skywars) Fire spread is UNRESTRICTED.
+[12:10:21 INFO]: [WorldGuard] Loaded configuration for world 'skywars'
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: sw2
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: map_the_end
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: TntRunMap
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 INFO]: -------- World Settings For [spawn_the_end] --------
+[12:10:21 INFO]: Anti X-Ray: true
+[12:10:21 INFO]:        Engine Mode: 1
+[12:10:21 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:21 INFO]:        Replace Blocks: [1, 5]
+[12:10:21 INFO]: Mob Spawn Range: 4
+[12:10:21 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:21 INFO]: Cactus Growth Modifier: 100%
+[12:10:21 INFO]: Cane Growth Modifier: 100%
+[12:10:21 INFO]: Melon Growth Modifier: 100%
+[12:10:21 INFO]: Mushroom Growth Modifier: 100%
+[12:10:21 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:21 INFO]: Sapling Growth Modifier: 100%
+[12:10:21 INFO]: Wheat Growth Modifier: 100%
+[12:10:21 INFO]: NetherWart Growth Modifier: 100%
+[12:10:21 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:21 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:21 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:21 INFO]: Random Lighting Updates: false
+[12:10:21 INFO]: Structure Info Saving: true
+[12:10:21 INFO]: Sending up to 10 chunks per packet
+[12:10:21 INFO]: Max Entity Collisions: 8
+[12:10:21 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:21 INFO]: Max TNT Explosions: 100
+[12:10:21 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:21 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:21 INFO]: Item Despawn Rate: 6000
+[12:10:21 INFO]: Item Merge Radius: 2.5
+[12:10:21 INFO]: Arrow Despawn Rate: 1200
+[12:10:21 INFO]: View Distance: 10
+[12:10:21 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:21 INFO]: Chunks to Grow per Tick: 650
+[12:10:21 INFO]: Clear tick list: false
+[12:10:21 INFO]: Experience Merge Radius: 3.0
+[12:10:21 INFO]: -------- World Settings For [spawn_the_end] --------
+[12:10:21 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:21 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:21 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:21 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:21 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:21 INFO]: Fix TNT cannons: false
+[12:10:21 INFO]: Water over lava flow speed: 5
+[12:10:21 INFO]: Allow undead horse types to be leashed: false
+[12:10:21 INFO]: Keep spawn chunk loaded: true
+[12:10:21 INFO]: World async lighting: false
+[12:10:21 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:21 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:21 INFO]: Preparing start region for level 6 (Seed: 7713914300559713851)
+[12:10:21 INFO]: [WorldGuard] (spawn_the_end) TNT ignition is PERMITTED.
+[12:10:21 INFO]: [WorldGuard] (spawn_the_end) Lighters are PERMITTED.
+[12:10:21 INFO]: [WorldGuard] (spawn_the_end) Lava fire is blocked.
+[12:10:21 INFO]: [WorldGuard] (spawn_the_end) Fire spread is UNRESTRICTED.
+[12:10:21 INFO]: [WorldGuard] Loaded configuration for world 'spawn_the_end'
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: sw1_the_end
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Spawn_the_end
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Factions_the_end
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: donut
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: sw1_nether
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: sw2_nether
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Spawn
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 INFO]: -------- World Settings For [map] --------
+[12:10:21 INFO]: Anti X-Ray: true
+[12:10:21 INFO]:        Engine Mode: 1
+[12:10:21 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:21 INFO]:        Replace Blocks: [1, 5]
+[12:10:21 INFO]: Mob Spawn Range: 4
+[12:10:21 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:21 INFO]: Cactus Growth Modifier: 100%
+[12:10:21 INFO]: Cane Growth Modifier: 100%
+[12:10:21 INFO]: Melon Growth Modifier: 100%
+[12:10:21 INFO]: Mushroom Growth Modifier: 100%
+[12:10:21 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:21 INFO]: Sapling Growth Modifier: 100%
+[12:10:21 INFO]: Wheat Growth Modifier: 100%
+[12:10:21 INFO]: NetherWart Growth Modifier: 100%
+[12:10:21 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:21 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:21 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:21 INFO]: Random Lighting Updates: false
+[12:10:21 INFO]: Structure Info Saving: true
+[12:10:21 INFO]: Sending up to 10 chunks per packet
+[12:10:21 INFO]: Max Entity Collisions: 8
+[12:10:21 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:21 INFO]: Max TNT Explosions: 100
+[12:10:21 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:21 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:21 INFO]: Item Despawn Rate: 6000
+[12:10:21 INFO]: Item Merge Radius: 2.5
+[12:10:21 INFO]: Arrow Despawn Rate: 1200
+[12:10:21 INFO]: View Distance: 10
+[12:10:21 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:21 INFO]: Chunks to Grow per Tick: 650
+[12:10:21 INFO]: Clear tick list: false
+[12:10:21 INFO]: Experience Merge Radius: 3.0
+[12:10:21 INFO]: -------- World Settings For [map] --------
+[12:10:21 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:21 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:21 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:21 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:21 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:21 INFO]: Fix TNT cannons: false
+[12:10:21 INFO]: Water over lava flow speed: 5
+[12:10:21 INFO]: Allow undead horse types to be leashed: false
+[12:10:21 INFO]: Keep spawn chunk loaded: true
+[12:10:21 INFO]: World async lighting: false
+[12:10:21 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:21 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:21 INFO]: Preparing start region for level 7 (Seed: -5350986083207404749)
+[12:10:21 INFO]: [WorldGuard] (map) TNT ignition is PERMITTED.
+[12:10:21 INFO]: [WorldGuard] (map) Lighters are PERMITTED.
+[12:10:21 INFO]: [WorldGuard] (map) Lava fire is blocked.
+[12:10:21 INFO]: [WorldGuard] (map) Fire spread is UNRESTRICTED.
+[12:10:21 INFO]: [WorldGuard] Loaded configuration for world 'map'
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: kitpvp2
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Factions
+[12:10:21 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:21 INFO]: -------- World Settings For [ASkyBlock] --------
+[12:10:21 INFO]: Anti X-Ray: true
+[12:10:21 INFO]:        Engine Mode: 1
+[12:10:21 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:21 INFO]:        Replace Blocks: [1, 5]
+[12:10:21 INFO]: Mob Spawn Range: 4
+[12:10:21 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:21 INFO]: Cactus Growth Modifier: 100%
+[12:10:21 INFO]: Cane Growth Modifier: 100%
+[12:10:21 INFO]: Melon Growth Modifier: 100%
+[12:10:21 INFO]: Mushroom Growth Modifier: 100%
+[12:10:21 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:21 INFO]: Sapling Growth Modifier: 100%
+[12:10:21 INFO]: Wheat Growth Modifier: 100%
+[12:10:21 INFO]: NetherWart Growth Modifier: 100%
+[12:10:21 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:21 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:21 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:21 INFO]: Random Lighting Updates: false
+[12:10:21 INFO]: Structure Info Saving: true
+[12:10:21 INFO]: Sending up to 10 chunks per packet
+[12:10:21 INFO]: Max Entity Collisions: 8
+[12:10:21 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:21 INFO]: Max TNT Explosions: 100
+[12:10:21 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:21 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:21 INFO]: Item Despawn Rate: 6000
+[12:10:21 INFO]: Item Merge Radius: 2.5
+[12:10:21 INFO]: Arrow Despawn Rate: 1200
+[12:10:21 INFO]: View Distance: 10
+[12:10:21 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:21 INFO]: Chunks to Grow per Tick: 650
+[12:10:21 INFO]: Clear tick list: false
+[12:10:21 INFO]: Experience Merge Radius: 3.0
+[12:10:21 INFO]: -------- World Settings For [ASkyBlock] --------
+[12:10:21 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:21 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:21 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:21 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:21 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:21 INFO]: Fix TNT cannons: false
+[12:10:21 INFO]: Water over lava flow speed: 5
+[12:10:21 INFO]: Allow undead horse types to be leashed: false
+[12:10:21 INFO]: Keep spawn chunk loaded: true
+[12:10:21 INFO]: World async lighting: false
+[12:10:21 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:21 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:21 INFO]: Preparing start region for level 8 (Seed: 9009533279527980597)
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock) TNT ignition is PERMITTED.
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock) Lighters are PERMITTED.
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock) Lava fire is blocked.
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock) Fire spread is UNRESTRICTED.
+[12:10:22 INFO]: [WorldGuard] Loaded configuration for world 'ASkyBlock'
+[12:10:22 INFO]: -------- World Settings For [ASkyBlock_nether] --------
+[12:10:22 INFO]: Anti X-Ray: true
+[12:10:22 INFO]:        Engine Mode: 1
+[12:10:22 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:22 INFO]:        Replace Blocks: [1, 5]
+[12:10:22 INFO]: Mob Spawn Range: 4
+[12:10:22 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:22 INFO]: Cactus Growth Modifier: 100%
+[12:10:22 INFO]: Cane Growth Modifier: 100%
+[12:10:22 INFO]: Melon Growth Modifier: 100%
+[12:10:22 INFO]: Mushroom Growth Modifier: 100%
+[12:10:22 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:22 INFO]: Sapling Growth Modifier: 100%
+[12:10:22 INFO]: Wheat Growth Modifier: 100%
+[12:10:22 INFO]: NetherWart Growth Modifier: 100%
+[12:10:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:22 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:22 INFO]: Random Lighting Updates: false
+[12:10:22 INFO]: Structure Info Saving: true
+[12:10:22 INFO]: Sending up to 10 chunks per packet
+[12:10:22 INFO]: Max Entity Collisions: 8
+[12:10:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:22 INFO]: Max TNT Explosions: 100
+[12:10:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:22 INFO]: Item Despawn Rate: 6000
+[12:10:22 INFO]: Item Merge Radius: 2.5
+[12:10:22 INFO]: Arrow Despawn Rate: 1200
+[12:10:22 INFO]: View Distance: 10
+[12:10:22 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:22 INFO]: Chunks to Grow per Tick: 650
+[12:10:22 INFO]: Clear tick list: false
+[12:10:22 INFO]: Experience Merge Radius: 3.0
+[12:10:22 INFO]: -------- World Settings For [ASkyBlock_nether] --------
+[12:10:22 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:22 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:22 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:22 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:22 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:22 INFO]: Fix TNT cannons: false
+[12:10:22 INFO]: Water over lava flow speed: 5
+[12:10:22 INFO]: Allow undead horse types to be leashed: false
+[12:10:22 INFO]: Keep spawn chunk loaded: true
+[12:10:22 INFO]: World async lighting: false
+[12:10:22 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:22 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:22 INFO]: Preparing start region for level 9 (Seed: 7632474087730152482)
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock_nether) TNT ignition is PERMITTED.
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock_nether) Lighters are PERMITTED.
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock_nether) Lava fire is blocked.
+[12:10:22 INFO]: [WorldGuard] (ASkyBlock_nether) Fire spread is UNRESTRICTED.
+[12:10:22 INFO]: [WorldGuard] Loaded configuration for world 'ASkyBlock_nether'
+[12:10:22 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: ASkyBlock_the_end
+[12:10:22 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:22 INFO]: -------- World Settings For [skyblock_nether] --------
+[12:10:22 INFO]: Anti X-Ray: true
+[12:10:22 INFO]:        Engine Mode: 1
+[12:10:22 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:22 INFO]:        Replace Blocks: [1, 5]
+[12:10:22 INFO]: Mob Spawn Range: 4
+[12:10:22 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:22 INFO]: Cactus Growth Modifier: 100%
+[12:10:22 INFO]: Cane Growth Modifier: 100%
+[12:10:22 INFO]: Melon Growth Modifier: 100%
+[12:10:22 INFO]: Mushroom Growth Modifier: 100%
+[12:10:22 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:22 INFO]: Sapling Growth Modifier: 100%
+[12:10:22 INFO]: Wheat Growth Modifier: 100%
+[12:10:22 INFO]: NetherWart Growth Modifier: 100%
+[12:10:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:22 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:22 INFO]: Random Lighting Updates: false
+[12:10:22 INFO]: Structure Info Saving: true
+[12:10:22 INFO]: Sending up to 10 chunks per packet
+[12:10:22 INFO]: Max Entity Collisions: 8
+[12:10:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:22 INFO]: Max TNT Explosions: 100
+[12:10:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:22 INFO]: Item Despawn Rate: 6000
+[12:10:22 INFO]: Item Merge Radius: 2.5
+[12:10:22 INFO]: Arrow Despawn Rate: 1200
+[12:10:22 INFO]: View Distance: 10
+[12:10:22 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:22 INFO]: Chunks to Grow per Tick: 650
+[12:10:22 INFO]: Clear tick list: false
+[12:10:22 INFO]: Experience Merge Radius: 3.0
+[12:10:22 INFO]: -------- World Settings For [skyblock_nether] --------
+[12:10:22 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:22 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:22 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:22 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:22 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:22 INFO]: Fix TNT cannons: false
+[12:10:22 INFO]: Water over lava flow speed: 5
+[12:10:22 INFO]: Allow undead horse types to be leashed: false
+[12:10:22 INFO]: Keep spawn chunk loaded: true
+[12:10:22 INFO]: World async lighting: false
+[12:10:22 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:22 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:22 INFO]: Preparing start region for level 10 (Seed: -8455330319323385714)
+[12:10:23 INFO]: [WorldGuard] (skyblock_nether) TNT ignition is PERMITTED.
+[12:10:23 INFO]: [WorldGuard] (skyblock_nether) Lighters are PERMITTED.
+[12:10:23 INFO]: [WorldGuard] (skyblock_nether) Lava fire is blocked.
+[12:10:23 INFO]: [WorldGuard] (skyblock_nether) Fire spread is UNRESTRICTED.
+[12:10:23 INFO]: [WorldGuard] Loaded configuration for world 'skyblock_nether'
+[12:10:23 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Survival
+[12:10:23 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:23 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: SurvivalGames4
+[12:10:23 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:23 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Factions_nether
+[12:10:23 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:23 INFO]: -------- World Settings For [skyblock_the_end] --------
+[12:10:23 INFO]: Anti X-Ray: true
+[12:10:23 INFO]:        Engine Mode: 1
+[12:10:23 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:23 INFO]:        Replace Blocks: [1, 5]
+[12:10:23 INFO]: Mob Spawn Range: 4
+[12:10:23 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:23 INFO]: Cactus Growth Modifier: 100%
+[12:10:23 INFO]: Cane Growth Modifier: 100%
+[12:10:23 INFO]: Melon Growth Modifier: 100%
+[12:10:23 INFO]: Mushroom Growth Modifier: 100%
+[12:10:23 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:23 INFO]: Sapling Growth Modifier: 100%
+[12:10:23 INFO]: Wheat Growth Modifier: 100%
+[12:10:23 INFO]: NetherWart Growth Modifier: 100%
+[12:10:23 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:23 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:23 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:23 INFO]: Random Lighting Updates: false
+[12:10:23 INFO]: Structure Info Saving: true
+[12:10:23 INFO]: Sending up to 10 chunks per packet
+[12:10:23 INFO]: Max Entity Collisions: 8
+[12:10:23 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:23 INFO]: Max TNT Explosions: 100
+[12:10:23 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:23 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:23 INFO]: Item Despawn Rate: 6000
+[12:10:23 INFO]: Item Merge Radius: 2.5
+[12:10:23 INFO]: Arrow Despawn Rate: 1200
+[12:10:23 INFO]: View Distance: 10
+[12:10:23 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:23 INFO]: Chunks to Grow per Tick: 650
+[12:10:23 INFO]: Clear tick list: false
+[12:10:23 INFO]: Experience Merge Radius: 3.0
+[12:10:23 INFO]: -------- World Settings For [skyblock_the_end] --------
+[12:10:23 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:23 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:23 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:23 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:23 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:23 INFO]: Fix TNT cannons: false
+[12:10:23 INFO]: Water over lava flow speed: 5
+[12:10:23 INFO]: Allow undead horse types to be leashed: false
+[12:10:23 INFO]: Keep spawn chunk loaded: true
+[12:10:23 INFO]: World async lighting: false
+[12:10:23 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:23 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:23 INFO]: Preparing start region for level 11 (Seed: -8455330319323385714)
+[12:10:23 INFO]: [WorldGuard] (skyblock_the_end) TNT ignition is PERMITTED.
+[12:10:23 INFO]: [WorldGuard] (skyblock_the_end) Lighters are PERMITTED.
+[12:10:23 INFO]: [WorldGuard] (skyblock_the_end) Lava fire is blocked.
+[12:10:23 INFO]: [WorldGuard] (skyblock_the_end) Fire spread is UNRESTRICTED.
+[12:10:23 INFO]: [WorldGuard] Loaded configuration for world 'skyblock_the_end'
+[12:10:23 INFO]: -------- World Settings For [spawn] --------
+[12:10:23 INFO]: Anti X-Ray: true
+[12:10:23 INFO]:        Engine Mode: 1
+[12:10:23 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:23 INFO]:        Replace Blocks: [1, 5]
+[12:10:23 INFO]: Mob Spawn Range: 4
+[12:10:23 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:23 INFO]: Cactus Growth Modifier: 100%
+[12:10:23 INFO]: Cane Growth Modifier: 100%
+[12:10:23 INFO]: Melon Growth Modifier: 100%
+[12:10:23 INFO]: Mushroom Growth Modifier: 100%
+[12:10:23 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:23 INFO]: Sapling Growth Modifier: 100%
+[12:10:23 INFO]: Wheat Growth Modifier: 100%
+[12:10:23 INFO]: NetherWart Growth Modifier: 100%
+[12:10:23 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:23 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:23 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:23 INFO]: Random Lighting Updates: false
+[12:10:23 INFO]: Structure Info Saving: true
+[12:10:23 INFO]: Sending up to 10 chunks per packet
+[12:10:23 INFO]: Max Entity Collisions: 8
+[12:10:23 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:23 INFO]: Max TNT Explosions: 100
+[12:10:23 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:23 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:23 INFO]: Item Despawn Rate: 6000
+[12:10:23 INFO]: Item Merge Radius: 2.5
+[12:10:23 INFO]: Arrow Despawn Rate: 1200
+[12:10:23 INFO]: View Distance: 10
+[12:10:23 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:23 INFO]: Chunks to Grow per Tick: 650
+[12:10:23 INFO]: Clear tick list: false
+[12:10:23 INFO]: Experience Merge Radius: 3.0
+[12:10:23 INFO]: -------- World Settings For [spawn] --------
+[12:10:23 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:23 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:23 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:23 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:23 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:23 INFO]: Fix TNT cannons: false
+[12:10:23 INFO]: Water over lava flow speed: 5
+[12:10:23 INFO]: Allow undead horse types to be leashed: false
+[12:10:23 INFO]: Keep spawn chunk loaded: true
+[12:10:23 INFO]: World async lighting: false
+[12:10:23 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:23 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:23 INFO]: Preparing start region for level 12 (Seed: -848618635898287433)
+[12:10:24 INFO]: Preparing spawn area for spawn, 65%
+[12:10:26 INFO]: Preparing spawn area for spawn, 77%
+[12:10:26 INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[12:10:26 INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[12:10:26 INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[12:10:26 INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[12:10:26 INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[12:10:27 INFO]: -------- World Settings For [hub] --------
+[12:10:27 INFO]: Anti X-Ray: true
+[12:10:27 INFO]:        Engine Mode: 1
+[12:10:27 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:27 INFO]:        Replace Blocks: [1, 5]
+[12:10:27 INFO]: Mob Spawn Range: 4
+[12:10:27 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:27 INFO]: Cactus Growth Modifier: 100%
+[12:10:27 INFO]: Cane Growth Modifier: 100%
+[12:10:27 INFO]: Melon Growth Modifier: 100%
+[12:10:27 INFO]: Mushroom Growth Modifier: 100%
+[12:10:27 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:27 INFO]: Sapling Growth Modifier: 100%
+[12:10:27 INFO]: Wheat Growth Modifier: 100%
+[12:10:27 INFO]: NetherWart Growth Modifier: 100%
+[12:10:27 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:27 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:27 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:27 INFO]: Random Lighting Updates: false
+[12:10:27 INFO]: Structure Info Saving: true
+[12:10:27 INFO]: Sending up to 10 chunks per packet
+[12:10:27 INFO]: Max Entity Collisions: 8
+[12:10:27 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:27 INFO]: Max TNT Explosions: 100
+[12:10:27 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:27 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:27 INFO]: Item Despawn Rate: 6000
+[12:10:27 INFO]: Item Merge Radius: 2.5
+[12:10:27 INFO]: Arrow Despawn Rate: 1200
+[12:10:27 INFO]: View Distance: 10
+[12:10:27 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:27 INFO]: Chunks to Grow per Tick: 650
+[12:10:27 INFO]: Clear tick list: false
+[12:10:27 INFO]: Experience Merge Radius: 3.0
+[12:10:27 INFO]: -------- World Settings For [hub] --------
+[12:10:27 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:27 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:27 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:27 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:27 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:27 INFO]: Fix TNT cannons: false
+[12:10:27 INFO]: Water over lava flow speed: 5
+[12:10:27 INFO]: Allow undead horse types to be leashed: false
+[12:10:27 INFO]: Keep spawn chunk loaded: true
+[12:10:27 INFO]: World async lighting: false
+[12:10:27 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:27 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:27 INFO]: Preparing start region for level 13 (Seed: 7259728802431475024)
+[12:10:27 INFO]: [WorldGuard] (hub) TNT ignition is PERMITTED.
+[12:10:27 INFO]: [WorldGuard] (hub) Lighters are PERMITTED.
+[12:10:27 INFO]: [WorldGuard] (hub) Lava fire is blocked.
+[12:10:27 INFO]: [WorldGuard] (hub) Fire spread is UNRESTRICTED.
+[12:10:27 INFO]: [WorldGuard] Loaded configuration for world 'hub'
+[12:10:27 INFO]: -------- World Settings For [spawn_nether] --------
+[12:10:27 INFO]: Anti X-Ray: true
+[12:10:27 INFO]:        Engine Mode: 1
+[12:10:27 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:27 INFO]:        Replace Blocks: [1, 5]
+[12:10:27 INFO]: Mob Spawn Range: 4
+[12:10:27 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:27 INFO]: Cactus Growth Modifier: 100%
+[12:10:27 INFO]: Cane Growth Modifier: 100%
+[12:10:27 INFO]: Melon Growth Modifier: 100%
+[12:10:27 INFO]: Mushroom Growth Modifier: 100%
+[12:10:27 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:27 INFO]: Sapling Growth Modifier: 100%
+[12:10:27 INFO]: Wheat Growth Modifier: 100%
+[12:10:27 INFO]: NetherWart Growth Modifier: 100%
+[12:10:27 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:27 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:27 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:27 INFO]: Random Lighting Updates: false
+[12:10:27 INFO]: Structure Info Saving: true
+[12:10:27 INFO]: Sending up to 10 chunks per packet
+[12:10:27 INFO]: Max Entity Collisions: 8
+[12:10:27 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:27 INFO]: Max TNT Explosions: 100
+[12:10:27 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:27 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:27 INFO]: Item Despawn Rate: 6000
+[12:10:27 INFO]: Item Merge Radius: 2.5
+[12:10:27 INFO]: Arrow Despawn Rate: 1200
+[12:10:27 INFO]: View Distance: 10
+[12:10:27 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:27 INFO]: Chunks to Grow per Tick: 650
+[12:10:27 INFO]: Clear tick list: false
+[12:10:27 INFO]: Experience Merge Radius: 3.0
+[12:10:27 INFO]: -------- World Settings For [spawn_nether] --------
+[12:10:27 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:27 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:27 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:27 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:27 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:27 INFO]: Fix TNT cannons: false
+[12:10:27 INFO]: Water over lava flow speed: 5
+[12:10:27 INFO]: Allow undead horse types to be leashed: false
+[12:10:27 INFO]: Keep spawn chunk loaded: true
+[12:10:27 INFO]: World async lighting: false
+[12:10:27 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:27 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:27 INFO]: Preparing start region for level 14 (Seed: 7989681856985134519)
+[12:10:28 INFO]: [WorldGuard] (spawn_nether) TNT ignition is PERMITTED.
+[12:10:28 INFO]: [WorldGuard] (spawn_nether) Lighters are PERMITTED.
+[12:10:28 INFO]: [WorldGuard] (spawn_nether) Lava fire is blocked.
+[12:10:28 INFO]: [WorldGuard] (spawn_nether) Fire spread is UNRESTRICTED.
+[12:10:28 INFO]: [WorldGuard] Loaded configuration for world 'spawn_nether'
+[12:10:28 INFO]: -------- World Settings For [skyblock] --------
+[12:10:28 INFO]: Anti X-Ray: true
+[12:10:28 INFO]:        Engine Mode: 1
+[12:10:28 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:10:28 INFO]:        Replace Blocks: [1, 5]
+[12:10:28 INFO]: Mob Spawn Range: 4
+[12:10:28 INFO]: Nerfing mobs spawned from spawners: false
+[12:10:28 INFO]: Cactus Growth Modifier: 100%
+[12:10:28 INFO]: Cane Growth Modifier: 100%
+[12:10:28 INFO]: Melon Growth Modifier: 100%
+[12:10:28 INFO]: Mushroom Growth Modifier: 100%
+[12:10:28 INFO]: Pumpkin Growth Modifier: 100%
+[12:10:28 INFO]: Sapling Growth Modifier: 100%
+[12:10:28 INFO]: Wheat Growth Modifier: 100%
+[12:10:28 INFO]: NetherWart Growth Modifier: 100%
+[12:10:28 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:10:28 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:10:28 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:10:28 INFO]: Random Lighting Updates: false
+[12:10:28 INFO]: Structure Info Saving: true
+[12:10:28 INFO]: Sending up to 10 chunks per packet
+[12:10:28 INFO]: Max Entity Collisions: 8
+[12:10:28 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:10:28 INFO]: Max TNT Explosions: 100
+[12:10:28 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:28 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:10:28 INFO]: Item Despawn Rate: 6000
+[12:10:28 INFO]: Item Merge Radius: 2.5
+[12:10:28 INFO]: Arrow Despawn Rate: 1200
+[12:10:28 INFO]: View Distance: 10
+[12:10:28 INFO]: Zombie Aggressive Towards Villager: false
+[12:10:28 INFO]: Chunks to Grow per Tick: 650
+[12:10:28 INFO]: Clear tick list: false
+[12:10:28 INFO]: Experience Merge Radius: 3.0
+[12:10:28 INFO]: -------- World Settings For [skyblock] --------
+[12:10:28 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:28 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:28 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:28 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:28 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:28 INFO]: Fix TNT cannons: false
+[12:10:28 INFO]: Water over lava flow speed: 5
+[12:10:28 INFO]: Allow undead horse types to be leashed: false
+[12:10:28 INFO]: Keep spawn chunk loaded: true
+[12:10:28 INFO]: World async lighting: false
+[12:10:28 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:28 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:28 INFO]: Preparing start region for level 15 (Seed: 3857459751002669334)
+[12:10:28 INFO]: Trying to register generator with Multiverse 
+[12:10:28 INFO]: Multiverse already knows about 'ASkyBlock'!
+[12:10:28 INFO]: Success! Property generator was set to ASkyBlock
+[12:10:28 INFO]: Multiverse already knows about 'ASkyBlock_nether'!
+[12:10:28 INFO]: Success! Property generator was set to ASkyBlock
+[12:10:28 INFO]: [WorldGuard] (skyblock) TNT ignition is PERMITTED.
+[12:10:28 INFO]: [WorldGuard] (skyblock) Lighters are PERMITTED.
+[12:10:28 INFO]: [WorldGuard] (skyblock) Lava fire is blocked.
+[12:10:28 INFO]: [WorldGuard] (skyblock) Fire spread is UNRESTRICTED.
+[12:10:28 INFO]: [WorldGuard] Loaded configuration for world 'skyblock'
+[12:10:28 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: map_nether
+[12:10:28 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:28 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: skywarsmap2
+[12:10:28 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:28 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: ThePachaMamaFlat
+[12:10:28 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:28 WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: skywarsmap1
+[12:10:28 WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[12:10:28 INFO]: [Multiverse-Core] 16 - World(s) loaded.
+[12:10:28 INFO]: [Multiverse-Core] Version 2.5-b717 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[12:10:28 INFO]: [Shopkeepers] Enabling Shopkeepers v1.81
+[12:10:29 INFO]: [EchoPet] Enabling EchoPet v2.8.0-b52
+[12:10:29 INFO]: [EchoPet] [INFO] [WorldGuard] Successfully hooked
+[12:10:30 INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b725
+[12:10:30 INFO]: [Multiverse-Portals] - Version 2.5-b725 Enabled - By Rigby and fernferret
+[12:10:30 INFO]: [MVPLogging] 12 - Portals(s) loaded
+[12:10:30 INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[12:10:30 INFO]: [ChestShop] Enabling ChestShop v3.8.11
+[12:10:31 INFO]: [ChestShop] Lockette version 1.8.23 loaded.
+[12:10:31 INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[12:10:31 INFO]: [SkyWarsReloaded] Enabling SkyWarsReloaded v2.8
+[12:10:31 INFO]: [SkyWarsReloaded] Loading support for v1_8_R3
+[12:10:31 INFO]: NetherWart Growth Modifier: 100%
+[12:10:31 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:31 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:31 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:31 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:31 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:31 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:31 INFO]: Fix TNT cannons: false
+[12:10:31 INFO]: Water over lava flow speed: 5
+[12:10:31 INFO]: Allow undead horse types to be leashed: false
+[12:10:31 INFO]: Keep spawn chunk loaded: true
+[12:10:31 INFO]: World async lighting: false
+[12:10:31 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:31 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:31 INFO]: Preparing start region for level 16 (Seed: 6656942696082379029)
+[12:10:31 INFO]: [WorldGuard] (summit) TNT ignition is PERMITTED.
+[12:10:31 INFO]: [WorldGuard] (summit) Lighters are PERMITTED.
+[12:10:31 INFO]: [WorldGuard] (summit) Lava fire is blocked.
+[12:10:31 INFO]: [WorldGuard] (summit) Fire spread is UNRESTRICTED.
+[12:10:31 INFO]: [WorldGuard] Loaded configuration for world 'summit'
+[12:10:31 INFO]: [SkyWarsReloaded] Registered Map summit!
+[12:10:31 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[12:10:31 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[12:10:31 WARN]: [Multiverse-Core] /mv import summit NORMAL
+[12:10:31 INFO]: NetherWart Growth Modifier: 100%
+[12:10:31 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:31 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:31 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:31 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:31 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:31 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:31 INFO]: Fix TNT cannons: false
+[12:10:31 INFO]: Water over lava flow speed: 5
+[12:10:31 INFO]: Allow undead horse types to be leashed: false
+[12:10:31 INFO]: Keep spawn chunk loaded: true
+[12:10:31 INFO]: World async lighting: false
+[12:10:31 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:31 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:31 INFO]: Preparing start region for level 16 (Seed: -1024946660393637971)
+[12:10:32 INFO]: [WorldGuard] (caves) TNT ignition is PERMITTED.
+[12:10:32 INFO]: [WorldGuard] (caves) Lighters are PERMITTED.
+[12:10:32 INFO]: [WorldGuard] (caves) Lava fire is blocked.
+[12:10:32 INFO]: [WorldGuard] (caves) Fire spread is UNRESTRICTED.
+[12:10:32 INFO]: [WorldGuard] Loaded configuration for world 'caves'
+[12:10:32 INFO]: [SkyWarsReloaded] Registered Map caves!
+[12:10:32 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[12:10:32 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[12:10:32 WARN]: [Multiverse-Core] /mv import caves NORMAL
+[12:10:32 INFO]: NetherWart Growth Modifier: 100%
+[12:10:32 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:32 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:32 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:32 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:32 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:32 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:32 INFO]: Fix TNT cannons: false
+[12:10:32 INFO]: Water over lava flow speed: 5
+[12:10:32 INFO]: Allow undead horse types to be leashed: false
+[12:10:32 INFO]: Keep spawn chunk loaded: true
+[12:10:32 INFO]: World async lighting: false
+[12:10:32 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:32 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:32 INFO]: Preparing start region for level 16 (Seed: -2346298831859488764)
+[12:10:32 INFO]: [WorldGuard] (ice) TNT ignition is PERMITTED.
+[12:10:32 INFO]: [WorldGuard] (ice) Lighters are PERMITTED.
+[12:10:32 INFO]: [WorldGuard] (ice) Lava fire is blocked.
+[12:10:32 INFO]: [WorldGuard] (ice) Fire spread is UNRESTRICTED.
+[12:10:32 INFO]: [WorldGuard] Loaded configuration for world 'ice'
+[12:10:32 INFO]: [SkyWarsReloaded] Registered Map ice!
+[12:10:32 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[12:10:32 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[12:10:32 WARN]: [Multiverse-Core] /mv import ice NORMAL
+[12:10:32 INFO]: NetherWart Growth Modifier: 100%
+[12:10:32 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:10:32 INFO]: Remove invalid mob spawner tile entities: true
+[12:10:32 INFO]: Player blocking damage multiplier set to 0.5
+[12:10:32 INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:10:32 INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:10:32 INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:10:32 INFO]: Fix TNT cannons: false
+[12:10:32 INFO]: Water over lava flow speed: 5
+[12:10:32 INFO]: Allow undead horse types to be leashed: false
+[12:10:32 INFO]: Keep spawn chunk loaded: true
+[12:10:32 INFO]: World async lighting: false
+[12:10:32 INFO]: WorldServer TickNextTick cap set at 10000
+[12:10:32 INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:10:32 INFO]: Preparing start region for level 16 (Seed: 4954616286973412979)
+[12:10:32 INFO]: [WorldGuard] (paradise) TNT ignition is PERMITTED.
+[12:10:32 INFO]: [WorldGuard] (paradise) Lighters are PERMITTED.
+[12:10:32 INFO]: [WorldGuard] (paradise) Lava fire is blocked.
+[12:10:32 INFO]: [WorldGuard] (paradise) Fire spread is UNRESTRICTED.
+[12:10:32 INFO]: [WorldGuard] Loaded configuration for world 'paradise'
+[12:10:32 INFO]: [SkyWarsReloaded] Registered Map paradise!
+[12:10:32 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[12:10:32 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[12:10:32 WARN]: [Multiverse-Core] /mv import paradise NORMAL
+[12:10:33 INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b335
+[12:10:33 INFO]: [Multiverse-Inventories] The following worlds for group 'default' are not loaded: world, world_nether
+[12:10:33 INFO]: [Multiverse-Inventories] The following worlds for group 'skyblock' are not loaded: ASkyBlock_the_end
+[12:10:33 INFO]: [Multiverse-Inventories 2.5-b335] enabled.
+[12:10:33 INFO]: [TNTRun] Enabling TNTRun vBeta-1.1.6
+[12:10:33 INFO]: [TNTRun] Loading depends...
+[12:10:33 INFO]: [TNTRun] WorldEdit Hooked
+[12:10:33 INFO]:  
+[12:10:33 INFO]:  
+[12:10:33 INFO]: [TNTRun] An error was occured while enabling! 'FastAsyncWorldEdit' is not installed! Using WE regenerating system.
+[12:10:33 INFO]: [TNTRun] Vault Hooked
+[12:10:33 INFO]: [TNTRun] Loading config.yml...
+[12:10:33 INFO]: [TNTRun] Server type is now MULTIARENA
+[12:10:33 INFO]: [TNTRun] Loading folders and files...
+[12:10:33 INFO]: [TNTRun] Async Loading messages.yml...
+[12:10:33 INFO]: [TNTRun] Loading design of signs...
+[12:10:33 INFO]: [TNTRun] Loading sounds...
+[12:10:33 INFO]: [TNTRun] Loading commands...
+[12:10:33 INFO]: [TNTRun] Registering listeners...
+[12:10:33 INFO]: [TNTRun] Loading signs...
+[12:10:33 INFO]: [TNTRun] Loading messages...
+[12:10:33 INFO]: [TNTRun] Loading arenas.yml...
+[12:10:33 INFO]: [TNTRun] Loading messages.yml...
+[12:10:33 INFO]: [TNTRun] Loading arenas...
+[12:10:33 INFO]: [TNTRun] Loading arena 'Circle'
+[12:10:33 INFO]: [TNTRun] Arena 'Circle' loaded
+[12:10:33 INFO]: [TNTRun] Loading arena 'Standard'
+[12:10:33 INFO]: [TNTRun] Arena 'Standard' loaded
+[12:10:33 INFO]: [TNTRun] Loading arena 'standard'
+[12:10:33 INFO]: [TNTRun] Arena 'standard' loaded
+[12:10:33 INFO]: [TNTRun] Loading arena 'Normal'
+[12:10:33 INFO]: [TNTRun] Arena 'Normal' loaded
+[12:10:33 INFO]: [TNTRun] Loading arena 'NOrmal'
+[12:10:33 INFO]: [TNTRun] Arena 'NOrmal' loaded
+[12:10:33 INFO]: [TNTRun] Starting task...
+[12:10:33 INFO]: [TNTRun] Done in 525ms
+[12:10:33 INFO]: [BlockParticles] Enabling BlockParticles v1.9.4
+[12:10:33 INFO]: [AuthMe] Enabling AuthMe v5.2-SNAPSHOT-b870
+[12:10:34 INFO]: [AuthMe] SQLite driver loaded
+[12:10:34 INFO]: [AuthMe] SQLite Setup finished
+[12:10:34 INFO]: [AuthMe] Hooked into Essentials Group Manager!
+[12:10:34 INFO]: [AuthMe] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12:10:34 INFO]: [AuthMe] Hooked correctly with Multiverse-Core
+[12:10:34 INFO]: [AuthMe] Hooked correctly with Essentials
+[12:10:34 INFO]: [AuthMe] AutoPurging the Database: 1121 accounts removed!
+[12:10:34 INFO]: [AuthMe] AuthMe hooks perfectly with the VeryGames server hosting!
+[12:10:34 INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[12:10:34 INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12:10:34 INFO]: [AuthMe] AuthMe 5.2-SNAPSHOT-b870 correctly enabled!
+[12:10:34 INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.13
+[12:10:34 INFO]: [HolographicDisplays] Found ProtocolLib, adding support for player relative variables.
+[12:10:34 INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[12:10:34 INFO]: [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+[12:10:34 INFO]: [MultiWorldMoney] Enabling MultiWorldMoney v2.2
+[12:10:34 INFO]: [MultiWorldMoney] Multiverse-Core found.
+[12:10:34 INFO]: [MultiWorldMoney] Set up economy successfully
+[12:10:34 INFO]: [MultiWorldMoney] Set up permissions successfully
+[12:10:34 INFO]: [Factions] Enabling Factions v2.8.19
+[12:10:34 INFO]: [Factions 2.8.19] === ENABLE START ===
+[12:10:34 INFO]: [Factions 2.8.19] WARNING: You are using Factions 2.8.19 and MassiveCore 2.8.21!
+[12:10:34 INFO]: [Factions 2.8.19] WARNING: They must be the exact same version to work properly!
+[12:10:34 INFO]: [Factions 2.8.19] WARNING: Remember to always update all plugins at the same time!
+[12:10:34 INFO]: [Factions 2.8.19] WARNING: You should stop your server and properly update.
+[12:10:45 INFO]: [Factions 2.8.19] Integration Activated IntegrationWorldGuard
+[12:10:45 INFO]: [Factions 2.8.19] Integration Activated IntegrationSpigot
+[12:10:45 INFO]: [Factions 2.8.19] === ENABLE COMPLETE (Took 10558ms) ===
+[12:10:45 INFO]: [Lockette] Enabled link to plugin Factions for Groups, version 2.8.19
+[12:10:45 INFO]: [PvPManager] Enabling PvPManager v3.3.2.1
+[12:10:45 INFO]: [PvPManager] Vault Found! Using it for currency related features
+[12:10:45 INFO]: [PvPManager] WorldGuard Found! Enabling WorldGuard Support
+[12:10:45 INFO]: [PvPManager] Factions Found! Hooked successfully
+[12:10:45 INFO]: [CratesPlus] Enabling CratesPlus v4.2.1
+[12:10:45 INFO]: CratesPlus Version 4.2.1
+[12:10:45 INFO]: HolographicDisplays was found, hooking in!
+[12:10:45 INFO]: [FactionsPlus] Enabling FactionsPlus v2.0.0-beta6
+[12:10:45 INFO]: [FactionsFramework] FactionsFramework has set its listener parent to FactionsPlus
+[12:10:45 INFO]: [FactionsPlus] [Error] Oh no, an internal error has occurred! :-(
+[12:10:45 WARN]: java.lang.NoSuchMethodError: com.massivecraft.factions.cmd.CmdFactions.addChild(Lcom/massivecraft/massivecore/command/MassiveCommand;)V
+[12:10:45 WARN]:        at me.markeh.factionsframework.command.versions.FactionsCommandManager2_X.addCommand(FactionsCommandManager2_X.java:27)
+[12:10:45 WARN]:        at me.markeh.factionsplus.commands.CommandManager.enableCmd(CommandManager.java:73)
+[12:10:45 WARN]:        at me.markeh.factionsplus.commands.CommandManager.add(CommandManager.java:44)
+[12:10:45 WARN]:        at me.markeh.factionsplus.FactionsPlus.enable(FactionsPlus.java:79)
+[12:10:45 WARN]:        at me.markeh.factionsplus.FactionsPlusPlugin.onEnable(FactionsPlusPlugin.java:108)
+[12:10:45 WARN]:        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:10:45 WARN]:        at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+[12:10:45 WARN]:        at us.Myles.PWP.TransparentListeners.PerWorldPluginLoader.enablePlugin(PerWorldPluginLoader.java:145)
+[12:10:45 WARN]:        at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407)
+[12:10:45 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+[12:10:45 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+[12:10:45 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+[12:10:45 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+[12:10:45 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+[12:10:45 WARN]:        at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+[12:10:45 WARN]:        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[12:10:45 WARN]:        at java.lang.Thread.run(Thread.java:745)
+[12:10:45 INFO]: [FactionsPlus] [Error] It has been saved to plugins/FactionsPlus/logs/1490523045548.errorlog
+[12:10:45 INFO]: [FactionsPlus] [Error] Please upload to pastebin.com and include in any error reports.
+[12:10:45 INFO]: [SilkSpawners] Enabling SilkSpawners v3.7.4
+[12:10:45 INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[12:10:45 INFO]: [SilkSpawners] Loading support for v1_8_R3
+[12:10:45 INFO]: [SilkSpawners] AutoUpdater is disabled due to config setting.
+[12:10:45 INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[12:10:45 INFO]: [FactionChat] Enabling FactionChat v1.9.19
+[12:10:45 INFO]: [FactionChat] using Factions API of: nz.co.lolnet.james137137.FactionChat.FactionsAPI.FactionsAPI_2_8_0
+[12:10:45 INFO]: FactionChat: Version: 1.9.19 Enabled.
+[12:10:45 INFO]: [SilkSpawnersEcoAddon] Enabling SilkSpawnersEcoAddon v1.0.6
+[12:10:45 INFO]: [SilkSpawnersEcoAddon] Loaded Vault successfully
+[12:10:46 INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[12:10:46 INFO]: [SilkSpawners] Loading support for v1_8_R3
+[12:10:46 INFO]: [CTSNC] Enabling CTSNC v10.8
+[12:10:46 INFO]: =========>[CTSNC Terms]<=========
+[12:10:46 INFO]: -> You are not permitted to claim this plugin as your own!
+[12:10:46 INFO]: -> You are not permitted to decompiling the plugin's sourcecode!
+[12:10:46 INFO]: -> You are not permitted to modify the code or the plugin and call it your own!
+[12:10:46 INFO]: -> You are not permitted to redistributing this plugin as your own!
+[12:10:46 INFO]: =======>[Terms Accepted!]<=======
+[12:10:46 INFO]: [CTSNC] -=> Update is available! <=-
+[12:10:46 INFO]: [CTSNC] Config Generation successful!
+[12:10:46 INFO]: [CTSNC] Vault-Connection successful!
+[12:10:46 INFO]: [CTSNC] Vault-Economy-Connection successful!
+[12:10:46 INFO]: [CTSNC] PlayerPoints-Connection failed!
+[12:10:46 INFO]: [CTSNC] PointsAPI-Connection failed!
+[12:10:46 INFO]: [CTSNC] PlaceholderAPI-Connection failed!
+[12:10:46 INFO]: [CTSNC] PermissionEx-Connection failed!
+[12:10:46 INFO]: [CTSNC] TokenManager-Connection failed!
+[12:10:46 INFO]: [CTSNC] GroupManager-Connection successful!
+[12:10:46 INFO]: [CTSNC] RPGPlayerLeveling-Connection failed!
+[12:10:46 INFO]: [CTSNC] Autorank-Connection failed!
+[12:10:46 INFO]: [CTSNC] PvpLevels-Connection successful!
+[12:10:46 INFO]: ========>[CTSNC Modules]<========
+[12:10:46 INFO]: [CTSNC] Tablist-Module activated!
+[12:10:46 INFO]: [CTSNC] Scoreboard-Module activated!
+[12:10:46 INFO]: [CTSNC] Chat-Module disabled!
+[12:10:46 INFO]: [CTSNC] DisplayName-Module disabled!
+[12:10:46 INFO]: [CTSNC] Stats-Module disabled!
+[12:10:46 INFO]: ========>[CTSNC Modules]<========
+[12:10:46 INFO]: [CTSNC] Started Metrics successful!
+[12:10:46 INFO]: [CTSNC] MySQL-Service disabled!
+[12:10:46 INFO]: [CTSNC] Minecraft 1.8.4-1.8.9 Support enabled!
+[12:10:46 INFO]: [CTSNC] WorldSupport enabled!
+[12:10:46 INFO]: [CTSNC] Version: 10.8 by [Herbystar] enabled!
+[12:10:46 INFO]: [CTSNC_Scoreboard] Enabling CTSNC_Scoreboard v1.2
+[12:10:46 INFO]: [CTSNC-Scoreboard] -=> Update is available! <=-
+[12:10:46 INFO]: [CTSNC_Tablist] Enabling CTSNC_Tablist v1.1
+[12:10:46 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:10:46 INFO]: Done (38.302s)! For help, type "help" or "?"
+[12:10:46 INFO]: Starting GS4 status listener
+[12:10:46 INFO]: Query running on 0.0.0.0:41125
+[12:10:46 INFO]: Timings Reset
+[12:10:46 INFO]: [FastLogin] Hooking into auth plugin: AuthMe
+[12:10:46 INFO]: [Jobs] Successfully linked with Vault.
+[12:10:46 INFO]: [GAListener] Connection established!
+[12:10:46 INFO]: [GAListener] Loading queued votes
+[12:10:46 INFO]: [GAListener] Loaded 0 queued votes
+[12:10:46 INFO]: [mcMMO] Cleaned backup files. Deleted 1 of 14 files.
+[12:10:46 INFO]: [ASkyBlock] Checking for new updates...
+[12:10:46 INFO]:     +===============+
+[12:10:46 INFO]:     | SkinsRestorer |
+[12:10:46 INFO]:     +===============+
+[12:10:46 INFO]:     Current version: 12.9.5
+[12:10:46 INFO]:     A new version is available! Download it at:
+[12:10:46 INFO]:     https://www.spigotmc.org/resources/skinsrestorer.2124/
+[12:10:46 INFO]: [HolographicDisplays] Found a new version available: v2.2.5
+[12:10:46 INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[12:10:46 INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[12:10:46 INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[12:10:47 INFO]: [PvPManager] Checking for updates...
+[12:10:47 INFO]: [1vs1] ***** 1vs1 Version Checker ***** 
+[12:10:47 WARN]: [1vs1] Newest Build: #221 is out!
+[12:10:47 WARN]: [1vs1] Current Build: #220
+[12:10:47 WARN]: [1vs1] Use /1vs1 update to update automatically
+[12:10:47 INFO]: [1vs1] *********************************
+[12:10:47 INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[12:10:47 INFO]: [ViaVersion] ViaVersion detected protocol version: 47
+[12:10:47 INFO]: [NoCheatPlus] Post-enable running...
+[12:10:47 INFO]: [PlugMan] No update was found.
+[12:10:47 INFO]: [PvPManager] Update Available: PvPManager v3.3.3.2
+[12:10:47 INFO]: [PvPManager] Link: http://dev.bukkit.org/bukkit-plugins/pvpmanager/
+[12:10:47 INFO]: [Jobs] Loaded 1000/1407 players data
+[12:10:47 INFO]: [AntiAdv] is up to date!
+[12:10:47 INFO]: [NoCheatPlus] Post-enable finished.
+[12:10:47 INFO]: [Jobs] Preloaded 1407 players data in 0.69
+[12:10:47 INFO]: [Citizens] Loaded 27 NPCs.
+[12:10:47 INFO]: [Multiverse-Inventories] First run!
+[12:10:47 WARN]: [ViaVersion] There is a newer version available: 1.0.3
+[12:10:47 INFO]: [ASkyBlock] Loading island grid...
+[12:10:47 INFO]: [ASkyBlock] Loading islands.yml
+[12:10:47 INFO]: [ASkyBlock] Loading warps...
+[12:10:48 INFO]: [ASkyBlock] All files loaded. Ready to play...
+[12:10:49 INFO]: Checking for updates via Spigot...
+[12:10:49 INFO]: ItemStack{NETHER_STAR x 1}
+[12:10:49 INFO]: sharpness:4
+[12:10:49 INFO]: ItemStack{PAPER x 1}
+[12:10:49 INFO]: fire:2
+[12:10:49 INFO]: [CratesPlus] An update for CratesPlus is available, new version is 4.2.4. Your installed version is 4.2.1.
+Please update to the latest version :)
+[12:10:50 INFO]: [iDisguise] An update is available: iDisguise 5.6.1
+[12:10:50 INFO]: [iDisguise] You can enable automatic updates in the config file.
+[12:10:50 INFO]: [ASkyBlock] ASkyBlock V3.0.6 is available! You are running 3.0.3.1
+[12:10:50 INFO]: [ASkyBlock] Update at: http://dev.bukkit.org/bukkit-plugins/skyblock
+[12:10:50 INFO]: [ProtocolAura]  
+[12:10:50 INFO]: [ProtocolAura]  
+[12:10:50 INFO]: [ProtocolAura]  
+[12:10:50 INFO]: [ProtocolAura] Checking plugin version...
+[12:10:50 WARN]: java.net.UnknownHostException: the-tadesk.tk
+[12:10:50 WARN]:        at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[12:10:50 WARN]:        at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[12:10:50 WARN]:        at java.net.Socket.connect(Socket.java:589)
+[12:10:50 WARN]:        at java.net.Socket.connect(Socket.java:538)
+[12:10:50 WARN]:        at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[12:10:50 WARN]:        at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[12:10:50 WARN]:        at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[12:10:50 WARN]:        at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[12:10:50 WARN]:        at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[12:10:50 WARN]:        at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[12:10:50 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+[12:10:50 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1181)
+[12:10:50 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032)
+[12:10:50 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+[12:10:50 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1546)
+[12:10:50 WARN]:        at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+[12:10:50 WARN]:        at me.tade.pa.VersionChecker.get(VersionChecker.java:46)
+[12:10:50 WARN]:        at me.tade.pa.VersionChecker.getVersion(VersionChecker.java:28)
+[12:10:50 WARN]:        at me.tade.pa.ProtocolAura$2.run(ProtocolAura.java:84)
+[12:10:50 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+[12:10:50 WARN]:        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[12:10:50 WARN]:        at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+[12:10:50 WARN]:        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[12:10:50 WARN]:        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[12:10:50 WARN]:        at java.lang.Thread.run(Thread.java:745)
+[12:10:50 WARN]: [ProtocolAura] An error was occured while checking version! Please report this here: https://www.spigotmc.org/threads/protocolaura.101511/
+[12:10:50 WARN]: Exception in thread "Craft Scheduler Thread - 2" 
+[12:10:50 WARN]: org.apache.commons.lang.UnhandledException: Plugin ProtocolAura v1.0.4 generated an exception while executing task 38
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+        at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+        at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+        at java.lang.String.<init>(String.java:566)
+        at me.tade.pa.VersionChecker.getVersion(VersionChecker.java:29)
+        at me.tade.pa.ProtocolAura$2.run(ProtocolAura.java:84)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+        ... 4 more
+
