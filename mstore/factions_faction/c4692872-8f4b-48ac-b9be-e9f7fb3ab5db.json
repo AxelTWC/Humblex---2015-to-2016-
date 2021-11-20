@@ -1,0 +1,16 @@
+{
+  "name": "Exclipse",
+  "description": "We Build and Survive!",
+  "createdAtMillis": 1485671114640,
+  "home": {
+    "w": "spawn",
+    "lx": 846.9518634626045,
+    "ly": 16.0,
+    "lz": 263.1249774416158,
+    "p": 30.9,
+    "y": 358.2147
+  },
+  "relationWishes": {
+    "33913534-e1e4-40e2-8150-cefa34f59f36": "ALLY"
+  }
+}

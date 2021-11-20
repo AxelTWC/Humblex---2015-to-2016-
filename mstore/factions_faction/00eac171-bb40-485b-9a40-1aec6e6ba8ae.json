@@ -1,0 +1,16 @@
+{
+  "name": "SnowDoggies",
+  "createdAtMillis": 1490192537207,
+  "home": {
+    "w": "spawn",
+    "lx": 42985.9635097641,
+    "ly": 62.0,
+    "lz": 27168.151032715286,
+    "p": 13.324346,
+    "y": -274.85016
+  },
+  "relationWishes": {
+    "26a041de-a78b-4dd2-9c47-39900e7d2a8f": "ENEMY",
+    "e7a9284c-7da7-4a94-9fd7-a8e4d93bc82a": "ALLY"
+  }
+}

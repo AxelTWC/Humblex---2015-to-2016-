@@ -1,0 +1,16 @@
+{
+  "name": "ShockBlast",
+  "description": "We Will Shock You To Your Death!",
+  "createdAtMillis": 1485873718564,
+  "home": {
+    "w": "spawn",
+    "lx": -574.3371811408452,
+    "ly": 68.0,
+    "lz": -671.4414447939344,
+    "p": -2.9999979,
+    "y": 91.3491
+  },
+  "relationWishes": {
+    "33913534-e1e4-40e2-8150-cefa34f59f36": "ALLY"
+  }
+}
