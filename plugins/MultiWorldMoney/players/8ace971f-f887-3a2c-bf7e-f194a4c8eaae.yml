@@ -1,0 +1,11 @@
+name: skillgamer18
+uuid: 8ace971f-f887-3a2c-bf7e-f194a4c8eaae
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

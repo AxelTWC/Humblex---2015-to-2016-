@@ -1,0 +1,7 @@
+name: BuildSlime99
+uuid: 7191146a-4c45-3546-9f57-b7ed90f77171
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

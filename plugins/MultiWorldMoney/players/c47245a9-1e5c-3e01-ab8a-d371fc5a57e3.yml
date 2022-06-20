@@ -1,0 +1,7 @@
+name: s_trap_v2
+uuid: c47245a9-1e5c-3e01-ab8a-d371fc5a57e3
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 200.0
+  spawn_nether: 0.0

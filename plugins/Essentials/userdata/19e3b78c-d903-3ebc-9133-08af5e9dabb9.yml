@@ -1,0 +1,17 @@
+money: '350.0'
+socialspy: false
+lastAccountName: GamingBlazeYT
+timestamps:
+  login: 1475212951026
+  logout: 1475213009434
+  kits:
+    daily: 1475213009185
+    weekly: 1475213004334
+ipAddress: 24.255.45.15
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

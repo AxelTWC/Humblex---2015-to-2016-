@@ -1,0 +1,25 @@
+money: '250.0'
+socialspy: false
+lastAccountName: Banana
+timestamps:
+  login: 1485258164912
+  kits:
+    daily: 1475592447135
+    weekly: 1475592450437
+  lastteleport: 1475592484817
+  logout: 1485258223456
+ipAddress: 220.246.225.204
+lastlocation:
+  world: spawn
+  x: 468.4266048164941
+  y: 64.24397499847412
+  z: -181.70929441825754
+  yaw: 317.10004
+  pitch: -58.349987
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

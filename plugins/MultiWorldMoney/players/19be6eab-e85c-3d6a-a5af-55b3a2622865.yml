@@ -1,0 +1,7 @@
+name: Aidin
+uuid: 19be6eab-e85c-3d6a-a5af-55b3a2622865
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

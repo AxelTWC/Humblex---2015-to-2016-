@@ -1,0 +1,7 @@
+name: ActorBeachYT
+uuid: 79a716cd-2957-3168-9a09-d40c8741ccc0
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

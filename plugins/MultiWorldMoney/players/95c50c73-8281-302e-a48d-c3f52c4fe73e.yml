@@ -1,0 +1,7 @@
+name: DJParker
+uuid: 95c50c73-8281-302e-a48d-c3f52c4fe73e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

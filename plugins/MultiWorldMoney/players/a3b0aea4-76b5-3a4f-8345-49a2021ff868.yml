@@ -1,0 +1,13 @@
+name: ikninja
+uuid: a3b0aea4-76b5-3a4f-8345-49a2021ff868
+logoffworld: lobby
+balances:
+  lobby: 9.0
+  spawn: 385.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 2031.0
+  skywars_the_end: 100.0
+  map: 0.0
+  skywars: 200.0

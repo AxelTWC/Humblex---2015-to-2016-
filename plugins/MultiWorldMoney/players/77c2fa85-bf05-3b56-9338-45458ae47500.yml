@@ -1,0 +1,8 @@
+name: srmotorman
+uuid: 77c2fa85-bf05-3b56-9338-45458ae47500
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

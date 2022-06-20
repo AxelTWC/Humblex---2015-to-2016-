@@ -1,0 +1,7 @@
+name: FireStone
+uuid: 2de64758-fec6-3a64-9119-bd921a001fda
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

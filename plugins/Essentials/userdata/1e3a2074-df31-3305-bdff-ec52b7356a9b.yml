@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: GoDLioN
+timestamps:
+  login: 1475399331929
+  logout: 1475399406338
+ipAddress: 58.10.50.97
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1124.458375011921
+  y: 62.33612497923646
+  z: 9780.699999988079
+  yaw: -339.12473
+  pitch: -21.603724
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,22 @@
+socialspy: false
+money: '160.0'
+timestamps:
+  lastteleport: 1469343750204
+  logout: 1469345852672
+  login: 1469345783045
+lastlocation:
+  world: spawn_nether
+  x: -189.17189971086867
+  y: 95.0
+  z: 1109.0359359089189
+  yaw: -16.576843
+  pitch: 14.747485
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastAccountName: Nigel
+ipAddress: 121.54.58.240

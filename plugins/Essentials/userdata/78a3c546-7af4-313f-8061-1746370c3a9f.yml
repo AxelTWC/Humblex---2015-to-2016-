@@ -1,0 +1,22 @@
+money: '150.0'
+lastAccountName: ZQBabyruth
+socialspy: false
+timestamps:
+  login: 1483221140902
+  logout: 1483223664949
+ipAddress: 71.244.106.22
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skyblock
+  x: 33.40337998568315
+  y: -51.76472031184612
+  z: 56.17846339740614
+  yaw: -67.1763
+  pitch: -3.7791934
+afk: false

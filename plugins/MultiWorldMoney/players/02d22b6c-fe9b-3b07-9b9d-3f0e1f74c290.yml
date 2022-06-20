@@ -1,0 +1,7 @@
+name: WormsWorms11
+uuid: 02d22b6c-fe9b-3b07-9b9d-3f0e1f74c290
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

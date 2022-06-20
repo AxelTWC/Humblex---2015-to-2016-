@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: leon007
+timestamps:
+  login: 1470770666815
+  lastteleport: 1470769207472
+  logout: 1470770786563
+ipAddress: 31.147.67.247
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1130.083419401157
+  y: 73.0
+  z: 9722.782631056301
+  yaw: 330.47357
+  pitch: -1.6500423
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

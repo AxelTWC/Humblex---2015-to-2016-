@@ -1,0 +1,12 @@
+name: Builder63
+uuid: 50e166f3-54a9-3c2f-9743-c388683e567b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

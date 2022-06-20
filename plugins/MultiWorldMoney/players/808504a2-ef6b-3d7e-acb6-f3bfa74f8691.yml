@@ -1,0 +1,7 @@
+name: Femenism
+uuid: 808504a2-ef6b-3d7e-acb6-f3bfa74f8691
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

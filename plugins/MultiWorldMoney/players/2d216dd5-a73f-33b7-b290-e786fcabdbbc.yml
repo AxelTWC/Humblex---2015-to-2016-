@@ -1,0 +1,7 @@
+name: Boss_Pro
+uuid: 2d216dd5-a73f-33b7-b290-e786fcabdbbc
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

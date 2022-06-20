@@ -1,0 +1,8 @@
+name: hackess
+uuid: 7ff59942-cc75-3abe-b800-8c5634a201f7
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

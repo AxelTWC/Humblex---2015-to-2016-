@@ -1,0 +1,8 @@
+name: Rabbitss
+uuid: 10dbde0c-6e83-36c3-a1b1-99a7dbfec918
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

@@ -1,0 +1,10 @@
+name: AdminShop
+uuid: 1172c56a-7c35-3fed-b481-d27ea6587733
+logoffworld: lobby
+balances:
+  lobby: 159.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

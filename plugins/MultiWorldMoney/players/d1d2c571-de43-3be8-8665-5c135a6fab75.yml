@@ -1,0 +1,7 @@
+name: Childflayer
+uuid: d1d2c571-de43-3be8-8665-5c135a6fab75
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

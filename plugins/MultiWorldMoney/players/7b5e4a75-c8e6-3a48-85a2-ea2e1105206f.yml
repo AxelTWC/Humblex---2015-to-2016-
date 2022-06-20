@@ -1,0 +1,8 @@
+name: craftgames55
+uuid: 7b5e4a75-c8e6-3a48-85a2-ea2e1105206f
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 200.0

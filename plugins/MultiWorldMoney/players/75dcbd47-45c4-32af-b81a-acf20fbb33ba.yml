@@ -1,0 +1,7 @@
+name: meltedcup
+uuid: 75dcbd47-45c4-32af-b81a-acf20fbb33ba
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

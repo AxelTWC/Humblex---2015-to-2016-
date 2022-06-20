@@ -1,0 +1,25 @@
+lastAccountName: Fibbss
+timestamps:
+  login: 1468778641192
+  kits:
+    tools: 1468573842397
+    weekly: 1468573764497
+  lastteleport: 1468778695455
+  logout: 1468779065819
+ipAddress: 175.141.29.53
+socialspy: false
+money: '0.0'
+lastlocation:
+  world: spawn
+  x: -1126.5519953312305
+  y: 73.0625
+  z: 9719.653537551294
+  yaw: -138.18335
+  pitch: -10.036032
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

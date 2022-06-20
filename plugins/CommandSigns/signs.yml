@@ -1,0 +1,8 @@
+signs:
+  spawn,-1131,76,9719:
+    redstone: false
+    owner: AxelTWC
+    text:
+    - /wild
+    active: true
+    cooldowns: {}

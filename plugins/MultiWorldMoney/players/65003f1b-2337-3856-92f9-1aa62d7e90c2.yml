@@ -1,0 +1,10 @@
+name: SkyChase
+uuid: 65003f1b-2337-3856-92f9-1aa62d7e90c2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 1000000.0
+  spawn_nether: 0.0
+  ASkyBlock: 1.1999008E7
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

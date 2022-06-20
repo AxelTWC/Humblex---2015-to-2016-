@@ -1,0 +1,7 @@
+name: VinxPvP
+uuid: 29d4a7b2-8464-3fe0-a0e8-080759f439d8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

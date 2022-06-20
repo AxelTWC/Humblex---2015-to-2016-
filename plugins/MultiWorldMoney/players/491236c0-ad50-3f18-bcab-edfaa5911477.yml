@@ -1,0 +1,7 @@
+name: BizziClan
+uuid: 491236c0-ad50-3f18-bcab-edfaa5911477
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0
+  spawn_nether: 0.0

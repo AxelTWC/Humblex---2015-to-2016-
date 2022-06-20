@@ -1,0 +1,26 @@
+money: '250.0'
+lastAccountName: KaztheDark
+timestamps:
+  login: 1471116306532
+  lastteleport: 1471116602230
+  kits:
+    daily: 1471116486690
+    tools: 1471116575359
+    weekly: 1471116580861
+  logout: 1471116658750
+ipAddress: 49.48.246.157
+socialspy: false
+lastlocation:
+  world: skyblock
+  x: -0.06291538838345004
+  y: 82.0625
+  z: 17.811818193644285
+  yaw: 132.74562
+  pitch: 7.1920094
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

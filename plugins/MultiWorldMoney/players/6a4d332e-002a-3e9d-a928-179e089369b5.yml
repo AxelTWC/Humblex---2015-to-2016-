@@ -1,0 +1,7 @@
+name: ErolDude
+uuid: 6a4d332e-002a-3e9d-a928-179e089369b5
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

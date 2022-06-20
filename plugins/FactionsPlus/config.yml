@@ -1,0 +1,184 @@
+# FactionsPlus Configuration
+# -----------------------------------------------
+# This file is well documented for the configuration options throughout
+
+factionsplus:
+    # Show debug messages?
+    debug: "false"
+    
+
+factionsplus:
+    # Enable metrics?
+    metrics: "true"
+    
+
+jails:
+    # Should jails be enabled?
+    enabled: "false"
+    
+
+jails:
+    # Warm up time for the jail command (in seconds)
+    warmup: "5"
+    
+
+jails:
+    # How long (in minutes) a player must be jailed for before they can be released
+    minimumSentence: "3"
+    
+
+warps:
+    # Should warps be enabled?
+    enabled: "false"
+    
+
+warps:
+    # Check the enemies (counted in blocks) in a distance and disallow using a warp if they're near by
+    distanceCheckForEnemies: "12.0"
+    
+
+warps:
+    # If true, the above option is ignore if they're in their own land
+    distanceCheckForEnemiesTerritoryOverride: "true"
+    
+
+warps:
+    # Time (in seconds) before a player is teleported. Recommended minimum 6 seconds.
+    warmUp: "6"
+    
+
+warps:
+    # Announce to Faction when warp is created or deleted
+    announce: "true"
+    
+
+rules:
+    # Should rules be enabled?
+    enabled: "false"
+    
+
+rules:
+    # Maximum rules per faction
+    max: "10"
+    
+
+announcements:
+    # Enable announements?
+    enabled: "false"
+    
+
+announcements:
+    # How long between announcement cooldowns in seconds
+    cooldown: "5"
+    
+
+commandblock:
+    # Radius to check for enemy players to block a command
+    inRadiusOf: "0.0"
+    
+
+commandblock:
+    # Commands to block
+    commandBlockCommands:
+        - "examplecommand1"
+        - "examplecommand2"
+    
+
+wildernessregen:
+    # (unstable) Enable wilderness regeneration after a certain amount of time.
+    enabled: "false"
+    
+
+wildernessregen:
+    # After how many milliseconds of inactivity should they be regenerated?
+    timer: "43200000"
+    
+
+wildernessregen:
+    # If available, use a grief management plugin to roll back.
+    useGriefManagementPlugin: "true"
+    
+
+scoreboard:
+    # (unstable) Enable the scoreboard?
+    enabled: "false"
+    
+
+scoreboard:
+    # Every x seconds we update the stats
+    update: "25"
+    
+
+scoreboard:
+    # Which default menus should be enabled?
+    scoreboard_menus:
+        - "TopMembers"
+        - "TopPower"
+    
+
+scoreboard:
+    # Add players to scoreboard teams?
+    teams: "false"
+    
+
+scoreboard:
+    # Which worlds should all scoreboard features be disabled?
+    scoreboard_disabled:
+        - "gamelobby"
+        - "spleefarena1"
+    
+
+chestShop:
+    # Should we allow chest shops in wilderness?
+    allowInWilderness: "false"
+    
+
+chestShop:
+    # Should we allow chest shops in their territory?
+    allowInTerritory: "false"
+    
+
+chestShop:
+    # Should we allow enemies to use chest shops?
+    canUseEnemy: "false"
+    
+
+disguiseIntegration:
+    # Should we allow disguises in wilderness?
+    allowInWilderness: "true"
+    
+
+disguiseIntegration:
+    # Should we allow disgusies in enemy territory?
+    allowEnemy: "true"
+    
+
+disguiseIntegration:
+    # Should we allow disgusies in their territory?
+    allowTerritory: "true"
+    
+
+cannonsIntegration:
+    # Allow building and using cannons in the wilderness?
+    allowInWilderness: "true"
+    
+
+cannonsIntegration:
+    # Allow building and using cannons in claimed territories?
+    allowInTerritory: "true"
+    
+
+showcase:
+    # Should we allow showcases in wilderness?
+    allowInWilderness: "false"
+    
+
+showcase:
+    # Should we allow showcases in their territory?
+    allowInTerritory: "false"
+    
+
+showcase:
+    # Should we allow enemies to use showcases?
+    canUseEnemy: "false"
+    

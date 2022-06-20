@@ -1,0 +1,26 @@
+money: '650.0'
+socialspy: false
+lastAccountName: BillyFAL
+timestamps:
+  login: 1479254323745
+  logout: 1479254712691
+  kits:
+    daily: 1479252764225
+    weekly: 1479073163180
+  lastteleport: 1479253708003
+ipAddress: 92.2.98.214
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1125.083939930025
+  y: 71.0
+  z: 9716.336394948019
+  yaw: 182.11281
+  pitch: 3.688967
+afk: false

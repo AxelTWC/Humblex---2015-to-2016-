@@ -1,0 +1,7 @@
+name: Elbony
+uuid: 215a3ccf-18ac-33ce-965b-4c4b0330003e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: NinjaRoxy
+uuid: a112847d-592d-31a3-8cf0-0fb3aafc1f62
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

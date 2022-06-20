@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: FliamonYT
+timestamps:
+  login: 1474092571209
+  logout: 1474093598161
+ipAddress: 104.33.56.195
+socialspy: false
+lastlocation:
+  world: map
+  x: -968.1857338368438
+  y: 13.0
+  z: 244.6548325199151
+  yaw: -219.4536
+  pitch: 12.599993
+logoutlocation:
+  world: lobby
+  x: 0.5964028097698006
+  y: 83.0
+  z: -0.03132876637085538
+  yaw: 0.0
+  pitch: 0.0

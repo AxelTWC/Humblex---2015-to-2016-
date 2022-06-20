@@ -1,0 +1,29 @@
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 801.3088309756199
+  y: 121.31613641047478
+  z: -199.33732702585257
+  yaw: -25.200396
+  pitch: -29.09997
+money: '14580.00'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  logout: 1468473388633
+  login: 1468473062049
+  kits:
+    youtube: 1468372931595
+    daily: 1468438791561
+    titan: 1468372479019
+    coal: 1468438812279
+    emerald: 1468438587905
+    weekly: 1468473137825
+  lastteleport: 1468438617217
+lastAccountName: ArgeBarge007
+ipAddress: 24.16.230.251

@@ -1,0 +1,32 @@
+leave_1:
+  arenaName: leave
+  location:
+    ==: BlockHuntLocation
+    w: skywars
+    x: -240.0
+    y: 12.0
+    z: -17.0
+leave_2:
+  arenaName: leave
+  location:
+    ==: BlockHuntLocation
+    w: skywars
+    x: -240.0
+    y: 12.0
+    z: -19.0
+shop_1:
+  arenaName: shop
+  location:
+    ==: BlockHuntLocation
+    w: skywars
+    x: -240.0
+    y: 12.0
+    z: -18.0
+BH1_1:
+  arenaName: BH1
+  location:
+    ==: BlockHuntLocation
+    w: skywars
+    x: -240.0
+    y: 13.0
+    z: -17.0

@@ -1,0 +1,22 @@
+money: '150.0'
+lastAccountName: Dazze_Alts
+timestamps:
+  login: 1481030219836
+  logout: 1481031858792
+ipAddress: 112.210.86.76
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.38138681720707757
+  y: 82.0
+  z: -2.699999988079071
+  yaw: -179.12866
+  pitch: -22.499872
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

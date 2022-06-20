@@ -1,0 +1,20 @@
+lastAccountName: iPhony
+timestamps:
+  login: 1467186675329
+  logout: 1467186678237
+ipAddress: 104.57.172.241
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -9.5
+  y: 109.0
+  z: 135.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: -10.5
+  y: 110.0
+  z: 131.5
+  yaw: -269.10046
+  pitch: 1.9500173

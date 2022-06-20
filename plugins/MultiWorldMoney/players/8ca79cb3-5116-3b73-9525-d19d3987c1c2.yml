@@ -1,0 +1,7 @@
+name: mackie4
+uuid: 8ca79cb3-5116-3b73-9525-d19d3987c1c2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 10100.0
+  spawn_nether: 0.0

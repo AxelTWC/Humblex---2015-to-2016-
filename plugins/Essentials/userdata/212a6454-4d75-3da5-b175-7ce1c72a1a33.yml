@@ -1,0 +1,26 @@
+money: '450.0'
+lastAccountName: NatsuSan
+timestamps:
+  login: 1472906649449
+  kits:
+    weekly: 1471629489103
+  lastteleport: 1471629554069
+  logout: 1472906732294
+  mute: 0
+ipAddress: 172.3.111.228
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1128.4287062644305
+  y: 72.0
+  z: 9724.684540413558
+  yaw: -123.67685
+  pitch: 76.67138
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+muted: true

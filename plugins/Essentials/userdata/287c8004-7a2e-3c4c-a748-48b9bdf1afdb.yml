@@ -1,0 +1,26 @@
+money: '149.995'
+lastAccountName: GwnZiadYT
+timestamps:
+  login: 1485622466934
+  logout: 1485622495486
+  kits:
+    daily: 1485109321520
+    tools: 1485113723162
+    weekly: 1485109719453
+  lastteleport: 1485533158730
+ipAddress: 86.95.76.36
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: 845.3000000119209
+  y: 16.0
+  z: 261.30000001192093
+  yaw: -21.513123
+  pitch: 31.475906

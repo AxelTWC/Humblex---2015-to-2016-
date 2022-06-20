@@ -1,0 +1,22 @@
+money: '150.0'
+lastAccountName: AxelRecorderFTW
+timestamps:
+  login: 1470975074794
+  logout: 1470975266766
+  lastteleport: 1470487619281
+ipAddress: 112.120.53.155
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1129.5
+  y: 73.0
+  z: 9724.5
+  yaw: -210.12682
+  pitch: 13.34998

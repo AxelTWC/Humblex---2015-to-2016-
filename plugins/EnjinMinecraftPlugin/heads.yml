@@ -1,0 +1,207 @@
+heads:
+  RecentDonator:
+    '0':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 69
+      signx: -100
+      signy: 122
+      signz: 69
+      position: 0
+    '2':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 69
+      signx: -100
+      signy: 122
+      signz: 69
+      position: 0
+  TopPlayer:
+    '1':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 69
+      signx: -102
+      signy: 122
+      signz: 69
+      position: 3
+    '3':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 69
+      signx: -102
+      signy: 122
+      signz: 69
+      position: 3
+    '6':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 72
+      signx: -102
+      signy: 122
+      signz: 72
+      position: 0
+    '10':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 70
+      signx: -102
+      signy: 122
+      signz: 70
+      position: 2
+    '11':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 71
+      signx: -102
+      signy: 122
+      signz: 71
+      position: 1
+    '13':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 72
+      signx: -102
+      signy: 122
+      signz: 72
+      position: 0
+    '14':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 71
+      signx: -102
+      signy: 122
+      signz: 71
+      position: 1
+    '17':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 70
+      signx: -102
+      signy: 122
+      signz: 70
+      position: 2
+  TopMonthlyVoter:
+    '4':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 71
+      signx: -100
+      signy: 122
+      signz: 71
+      position: 0
+    '16':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 71
+      signx: -100
+      signy: 122
+      signz: 71
+      position: 0
+  LatestMembers:
+    '5':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 72
+      signx: -100
+      signy: 122
+      signz: 72
+      position: 0
+    '15':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 72
+      signx: -100
+      signy: 122
+      signz: 72
+      position: 0
+  TopPoster:
+    '7':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 73
+      signx: -102
+      signy: 122
+      signz: 73
+      position: 0
+    '9':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -102
+      heady: 123
+      headz: 73
+      signx: -102
+      signy: 122
+      signz: 73
+      position: 0
+    '18':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 70
+      signx: -100
+      signy: 122
+      signz: 70
+      position: 1
+    '19':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 70
+      signx: -100
+      signy: 122
+      signz: 70
+      position: 1
+  TopLikes:
+    '8':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 73
+      signx: -100
+      signy: 122
+      signz: 73
+      position: 0
+    '12':
+      hashead: true
+      world: FSS V.2 (World Energy Core) by ScarletBox
+      headx: -100
+      heady: 123
+      headz: 73
+      signx: -100
+      signy: 122
+      signz: 73
+      position: 0

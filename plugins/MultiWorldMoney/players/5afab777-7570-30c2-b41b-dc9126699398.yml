@@ -1,0 +1,7 @@
+name: SergeMonster
+uuid: 5afab777-7570-30c2-b41b-dc9126699398
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: BuildElder99
+uuid: c962bb0f-40be-3d75-ac3c-5d4924a34b30
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

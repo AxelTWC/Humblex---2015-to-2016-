@@ -1,0 +1,6 @@
+name: manos
+uuid: 2fb74e61-254a-3cd2-a88a-f14ea20cc234
+logoffworld: lobby
+balances:
+  lobby: 110.0
+  spawn: 0.0

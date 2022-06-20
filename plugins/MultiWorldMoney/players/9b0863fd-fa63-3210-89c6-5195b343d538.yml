@@ -1,0 +1,10 @@
+name: battamate
+uuid: 9b0863fd-fa63-3210-89c6-5195b343d538
+logoffworld: lobby
+balances:
+  lobby: 436.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

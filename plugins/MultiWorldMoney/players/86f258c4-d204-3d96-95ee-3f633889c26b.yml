@@ -1,0 +1,10 @@
+name: TheCampingRusher
+uuid: 86f258c4-d204-3d96-95ee-3f633889c26b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

@@ -1,0 +1,32 @@
+Data Version: 2
+Crate Locations:
+  vote:
+  - spawn|57|78|220
+  lucky:
+  - spawn|61|78|220
+Claims:
+  ae00aa05-5aeb-34ff-987c-8dbd1aa6ba21:
+  - Vote|3
+  231204ec-1471-3f18-a872-e413fb28105f:
+  - Vote|1
+  ed3f25c2-b2f5-348f-9529-448e14ae53d3:
+  - Vote|21
+  f5d53aaa-92e4-3377-9e22-ce23812c6847:
+  - Vote|17
+  605b416a-6ce9-3730-9358-092320cbb0f1: []
+  1abe6554-f34b-3daa-8e74-8853621edcbf:
+  - Vote|1
+  da7f35a0-634f-30d4-bc7f-e6b134efcbac:
+  - Vote|9
+  15a2c92f-2e15-3de8-96e8-db8e4f6fed41:
+  - Vote|11
+  642001cd-7660-3788-9509-d498c5f47d35:
+  - Vote|1
+  c7e683c6-e1f8-34c2-9d0b-6005710db225:
+  - Vote|3
+  814b5276-3895-3661-b9ec-a5650dd5883c:
+  - Vote|1
+  c2698cb4-e97e-3309-bca1-47d42c42461a: []
+  afa8e45c-6d0e-334b-a418-49bd64eca156:
+  - Vote|4
+  41a72a0e-7063-36dc-941f-22145d6b4c1d: []

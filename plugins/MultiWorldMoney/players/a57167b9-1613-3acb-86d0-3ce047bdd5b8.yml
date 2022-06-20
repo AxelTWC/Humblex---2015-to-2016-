@@ -1,0 +1,6 @@
+name: NoHackJustTrain
+uuid: a57167b9-1613-3acb-86d0-3ce047bdd5b8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0

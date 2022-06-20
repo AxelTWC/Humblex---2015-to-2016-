@@ -1,0 +1,25 @@
+money: '534.00'
+lastAccountName: TheFreddy123
+timestamps:
+  login: 1489184752859
+  lastteleport: 1475240581217
+  logout: 1489184760140
+  kits:
+    daily: 1474201963705
+    weekly: 1474183072122
+ipAddress: 119.94.96.228
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 421.90195810962035
+  y: 120.0
+  z: 1204.3490707629594
+  yaw: 65.09997
+  pitch: 12.450049
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

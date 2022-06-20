@@ -1,0 +1,43 @@
+#
+# @HubPvPSword
+#
+# COLOR SUPPORT : @DONE!
+# Rename You Sword Nickname/Lore
+Lore:
+    Enabled: '&aPvP is Disabled Now'
+    Disabled: '&cPvP is Enabled now'
+Name:
+    Enabled: '&aPvP On'
+    Disabled: '&cPvP OFF'
+#
+# Sword Messages
+Sword:
+    Enabled: '&aPvP is Now Enabled'
+    Disabled: '&cPvP is Now Disabled'
+#
+# Cooldown Time
+Disable-cooldown: 3
+Enable-cooldown: 3
+#
+# This Message Will display when player hit another player 
+# When pvp on disable mode
+CantAttackPlayer: '&c&lPvP not allowed on hub'
+#
+# System ~
+System:
+    AntiFall: true
+    Glass: true
+    AntiHunger: true
+    AntiDrop: true
+#
+# PvP Sword Slot
+Sword-Slot: 4
+#
+# Disable Worlds Option
+#
+Option:
+  Disabled:
+  - example_one
+  - example_two
+#
+#        Plugin Coded By : @DarkShad0wQ8

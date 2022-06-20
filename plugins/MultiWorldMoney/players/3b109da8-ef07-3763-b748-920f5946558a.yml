@@ -1,0 +1,8 @@
+name: WildX
+uuid: 3b109da8-ef07-3763-b748-920f5946558a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 100.0

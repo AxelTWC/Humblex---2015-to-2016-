@@ -1,0 +1,37 @@
+money: '556.0'
+lastAccountName: BackUpM10
+timestamps:
+  login: 1472590046297
+  kits:
+    daily: 1471568974766
+    tools: 1471568984017
+    weekly: 1471568943463
+  logout: 1472590377363
+  lastteleport: 1472590169069
+  mute: 0
+ipAddress: 107.147.223.41
+socialspy: false
+homes:
+  home:
+    world: spawn
+    x: 207.23442538847144
+    y: 88.0
+    z: 874.2837855253844
+    yaw: -42.820953
+    pitch: 25.688154
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1138.4012983449438
+  y: 71.0
+  z: 9726.397440471432
+  yaw: -31.134348
+  pitch: 24.36803
+afk: false
+muted: false

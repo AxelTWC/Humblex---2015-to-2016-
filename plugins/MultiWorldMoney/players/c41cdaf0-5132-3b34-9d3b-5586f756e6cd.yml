@@ -1,0 +1,10 @@
+name: madserkeby
+uuid: c41cdaf0-5132-3b34-9d3b-5586f756e6cd
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

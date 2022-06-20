@@ -1,0 +1,8 @@
+name: _Mcpro_
+uuid: 42fa7b0d-0688-36af-92f5-a99efcdf9e39
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 200.0

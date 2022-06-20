@@ -1,0 +1,34 @@
+##############################################
+## FALSE = MULTI-ARENA SIGNS                ##
+## TRUE = SYSTEM QUEUE GAMES (LIKE HYPIXEL) ##
+##############################################
+game-queue: true
+########################################
+## GAME-QUEUE IS TRUE SIGN GAME QUEUE ##
+########################################
+queue-behind-block: "5:0"
+queue-lines:
+ line1: "&a[JOIN]"
+ line2: "&lSOLO"
+ line3: "%gamesqueue% In Queue"
+ line4: "&1Normal"
+##########################################
+## GAME-QUEUE IS FALSE MULTIARENA LINES ##
+##########################################
+multiarena-state:
+ waiting: "&2WAITING"
+ starting: "&6STARTING"
+ pregame: "&4PRE-GAME"
+ game: "&4IN-GAME"
+ ending: "&cENDING"
+blocks:
+  waiting: "95:5"
+  starting: "95:4"
+  game: "95:14"
+  pregame: "95:14"
+  ending: "95:15"
+multiarena-lines:
+ line1: "&a[JOIN]"
+ line2: "%gameState%"
+ line3: "&l%map%"
+ line4: "%alivep%/%max%"

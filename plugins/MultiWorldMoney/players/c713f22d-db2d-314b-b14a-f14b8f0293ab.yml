@@ -1,0 +1,7 @@
+name: MagmaCuber
+uuid: c713f22d-db2d-314b-b14a-f14b8f0293ab
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

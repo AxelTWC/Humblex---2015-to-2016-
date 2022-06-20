@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: Edenx3
+timestamps:
+  login: 1472346545527
+  logout: 1472347249688
+ipAddress: 172.90.122.129
+socialspy: false
+lastlocation:
+  world: map
+  x: -1003.8649139913101
+  y: 13.0
+  z: 275.9725132472686
+  yaw: 244.94812
+  pitch: 18.900051
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

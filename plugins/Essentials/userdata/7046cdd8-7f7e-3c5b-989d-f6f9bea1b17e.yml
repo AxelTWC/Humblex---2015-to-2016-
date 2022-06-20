@@ -1,0 +1,22 @@
+money: '150.0'
+lastAccountName: jamie
+timestamps:
+  login: 1474751467475
+  lastteleport: 1474751540467
+  logout: 1474751954328
+ipAddress: 83.216.158.67
+socialspy: false
+lastlocation:
+  world: lobby
+  x: -38.920333558745604
+  y: 81.0
+  z: 8.570784339103826
+  yaw: -36.000015
+  pitch: 18.899996
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

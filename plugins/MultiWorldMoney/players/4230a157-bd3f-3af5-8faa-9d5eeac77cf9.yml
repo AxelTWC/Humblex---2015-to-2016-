@@ -1,0 +1,7 @@
+name: VisaPlays
+uuid: 4230a157-bd3f-3af5-8faa-9d5eeac77cf9
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

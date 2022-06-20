@@ -1,0 +1,7 @@
+name: xExalted
+uuid: 9c75b5b8-7c26-3bc4-a7de-7a0e14773943
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

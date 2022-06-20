@@ -1,0 +1,7 @@
+name: HkitodtCatOBA
+uuid: 43c0e733-58dd-370c-a264-8f49abd11ba6
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

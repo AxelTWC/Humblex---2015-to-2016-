@@ -1,0 +1,7 @@
+name: codepsilon
+uuid: 918b02b4-82f9-3eab-ab75-f6fd64323d61
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

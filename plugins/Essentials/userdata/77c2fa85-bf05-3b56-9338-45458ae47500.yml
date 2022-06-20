@@ -1,0 +1,21 @@
+money: '250.0'
+socialspy: false
+lastAccountName: srmotorman
+timestamps:
+  login: 1480348269286
+  logout: 1480348377109
+ipAddress: 177.155.134.101
+lastlocation:
+  world: map
+  x: -1011.167059586278
+  y: 11.0
+  z: 282.37222010658854
+  yaw: -36.86254
+  pitch: 7.248001
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

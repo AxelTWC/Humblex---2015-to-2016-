@@ -1,0 +1,8 @@
+name: lannah
+uuid: 0681a80d-4395-3de7-80bf-cdce5083c01b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

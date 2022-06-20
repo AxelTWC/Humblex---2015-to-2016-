@@ -1,0 +1,8 @@
+name: sherlock_30
+uuid: 404de5f1-b7f3-3075-abf9-04a8794c14d5
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

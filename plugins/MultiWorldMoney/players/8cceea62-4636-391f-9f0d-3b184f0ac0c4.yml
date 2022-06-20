@@ -1,0 +1,7 @@
+name: black_hacker
+uuid: 8cceea62-4636-391f-9f0d-3b184f0ac0c4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

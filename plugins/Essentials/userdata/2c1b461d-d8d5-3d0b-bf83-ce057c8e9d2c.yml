@@ -1,0 +1,27 @@
+money: '850.0'
+socialspy: false
+lastAccountName: KRBDicky
+timestamps:
+  login: 1475980002111
+  logout: 1475981021977
+  kits:
+    daily: 1475243775594
+    tools: 1475547436049
+    weekly: 1475081910827
+  lastteleport: 1475980014351
+ipAddress: 104.218.217.142
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1229.8894369926122
+  y: 64.0
+  z: 9427.128748479752
+  yaw: 331.1717
+  pitch: 10.147191
+afk: false

@@ -1,0 +1,10 @@
+name: MattyTree
+uuid: 637b788c-bf8f-39a5-9d5b-e0ae6ffce4a8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 11000.0
+  caves_2: 0.0
+  spawn_nether: 0.0
+  map: 400.0
+  skywars: 0.0

@@ -1,0 +1,8 @@
+name: WhyYouMadDad
+uuid: 2529643f-9e60-3f37-aacd-6a9e79db5558
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 500.0
+  spawn_nether: 0.0
+  skywars: 0.0

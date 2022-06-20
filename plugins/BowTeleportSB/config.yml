@@ -1,0 +1,13 @@
+# The slot where the bow will be situated
+bowslot: 8
+arrowslot: 35
+nodropslot: 8
+noswitchslot: 8
+nofalldamage: true
+enable-permission: true
+sound: enderman
+remove-arrow-on-hit: true
+bow-name: '&6Teleport Bow'
+bow-lore: '&4DrawBack The Bow to Shoot and Teleport'
+arrow-name: '&6Arrow'
+disable-all-item-pickup: true

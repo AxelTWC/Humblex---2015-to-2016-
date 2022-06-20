@@ -1,0 +1,7 @@
+name: MrPumpkinMuffins
+uuid: 2d91b4d7-d77c-3296-a793-ed0b1d1aecb1
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

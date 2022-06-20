@@ -1,0 +1,50 @@
+# +----------------------------------------------------+
+# <         HackDetective, created by taylory5         >
+# +----------------------------------------------------+
+
+settings:
+  hack:
+    fast_break:
+      enable: true
+      cancel: true
+      notify: true
+    fast_place:
+      enable: true
+      cancel: true
+      notify: true
+    spider:
+      enable: true
+      cancel: true
+      notify: true
+    forcefield:
+      enable: true
+      cancel: true
+      notify: true
+    regeneration:
+      enable: true
+      cancel: true
+      notify: true
+    fast_bow:
+      enable: true
+      cancel: true
+      notify: true
+    no_swing:
+      enable: true
+      cancel: true
+      notify: true
+    high_jump:
+      enable: true
+      cancel: true
+      notify: true
+    speed:
+      enable: true
+      cancel: true
+      notify: true
+    no_fall:
+      enable: true
+      cancel: true
+      notify: true
+    fast_eat:
+      enable: true
+      cancel: true
+      notify: true

@@ -1,0 +1,10 @@
+CTSNC:
+  TABLIST:
+    Enabled: true
+    Update_Interval: 20
+    Normal:
+      Enabled: true
+      Header: '&c[&e&lHumblex&c] &8| &a&lWelcome to Humblex &e! [ctsnc-nextline] &6With
+        this Cracked server,You can enjoy various gamemodes!'
+      Footer: '&2&lHumblex &e&lNetwork &8&l| &c&oJoin Now! [ctsnc-nextline] &6IP:
+        &8<9> &aHumblex.serv.nu [ctsnc-nextline] &5Server Website &8<9>&9www.humblex.enjin.com '

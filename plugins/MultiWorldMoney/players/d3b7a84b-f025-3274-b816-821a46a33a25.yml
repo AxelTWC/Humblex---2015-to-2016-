@@ -1,0 +1,7 @@
+name: FamiTCB
+uuid: d3b7a84b-f025-3274-b816-821a46a33a25
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

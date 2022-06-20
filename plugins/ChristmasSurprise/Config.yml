@@ -1,0 +1,29 @@
+Version: 1.11
+ServertimeDifference: 0
+SpawnChance:
+  Snowman: 25
+  ZombieWithChristmasDress: 100
+  PigZombieWithChristmasDress: 100
+  SkeletonWithChristmasDress: 100
+  WhiteSheep: 100
+  WhiteHorse: 100
+  WhiteRabbit: 100
+  EndermanWithPresent: 100
+Drops:
+  Snowman: true
+  ZombieWithChristmasDress: true
+  PigZombieWithChristmasDress: true
+  SkeletonWithChristmasDress: true
+  EndermanWithPresent: true
+BlockPlace:
+  EndermanWithPresent: false
+Drop:
+  Apple: 5
+  GoldenCarrot: 2
+  GoldenApple: 1
+  GoldNugget: 2
+SnowballGame:
+  BlockResetTime: 8
+  TimeOutPerThrow: 500
+  KnockbackMultiply: 2.0
+  KnockbackY: 0.5

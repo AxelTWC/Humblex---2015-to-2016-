@@ -1,0 +1,7 @@
+name: pbuelo
+uuid: 82f258b1-80b2-36c3-bcf1-5c1f95c2f8f4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

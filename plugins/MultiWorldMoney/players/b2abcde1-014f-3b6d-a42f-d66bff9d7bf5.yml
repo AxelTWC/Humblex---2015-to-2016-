@@ -1,0 +1,7 @@
+name: FlamOG
+uuid: b2abcde1-014f-3b6d-a42f-d66bff9d7bf5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

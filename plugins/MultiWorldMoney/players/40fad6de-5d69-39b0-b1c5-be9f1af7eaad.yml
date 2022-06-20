@@ -1,0 +1,7 @@
+name: Tigertyp
+uuid: 40fad6de-5d69-39b0-b1c5-be9f1af7eaad
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

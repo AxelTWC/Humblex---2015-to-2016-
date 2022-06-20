@@ -1,0 +1,7 @@
+name: puggyuk
+uuid: 6dfac45b-14cd-3b5e-af90-391774bc814f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

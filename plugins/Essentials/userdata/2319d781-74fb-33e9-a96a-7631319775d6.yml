@@ -1,0 +1,69 @@
+lastAccountName: Deepy_
+timestamps:
+  login: 1473437409604
+  lastteleport: 1472317285775
+  kits:
+    youtube: 1467287325851
+    firework: 1467287457167
+    color: 1467202930917
+    daily: 1470743701518
+    titan: 1470743690554
+    coal: 1467287450137
+    notch: 1467287463373
+    dtools: 1467287478082
+    tools: 1467287473481
+    weekly: 1470743707538
+    emerald: 1470665342252
+  logout: 1473437439913
+  mute: 0
+ipAddress: 5.29.57.195
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 811.831359284477
+  y: 99.18110679674517
+  z: -1102.7085948288927
+  yaw: 254.16833
+  pitch: 34.19998
+money: '796.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  ashleytct:
+    world: spawn
+    x: 895.704550069057
+    y: 67.0625
+    z: 12044.965910439858
+    yaw: -101.68
+    pitch: 14.838166
+  lol:
+    world: spawn
+    x: 207.5
+    y: 9.0
+    z: 144.5
+    yaw: 15.068359
+    pitch: 8.997257
+  mio0:
+    world: spawn
+    x: 135.06352501670608
+    y: 40.0
+    z: 2000.1095848654002
+    yaw: -101.21773
+    pitch: 14.253372
+  moshe:
+    world: spawn
+    x: -1235.3444581241997
+    y: 11.0
+    z: 9438.300000011921
+    yaw: -60.80546
+    pitch: 11.863832
+teleportenabled: true
+godmode: false
+afk: false
+muted: false
+nickname: §9Mi0

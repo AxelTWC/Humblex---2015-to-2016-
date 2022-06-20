@@ -1,0 +1,23 @@
+money: '920.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+lastAccountName: xXShadowPvP123Xx
+timestamps:
+  login: 1470059093982
+  logout: 1470059940575
+  kits:
+    weekly: 1470059866709
+ipAddress: 82.29.244.47
+lastlocation:
+  world: spawn
+  x: -1125.2023624859016
+  y: 74.0
+  z: 9712.707287795793
+  yaw: -268.51874
+  pitch: 54.439774

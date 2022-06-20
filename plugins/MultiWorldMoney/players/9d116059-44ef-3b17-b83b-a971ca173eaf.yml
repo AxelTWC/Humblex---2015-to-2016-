@@ -1,0 +1,7 @@
+name: websternet
+uuid: 9d116059-44ef-3b17-b83b-a971ca173eaf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

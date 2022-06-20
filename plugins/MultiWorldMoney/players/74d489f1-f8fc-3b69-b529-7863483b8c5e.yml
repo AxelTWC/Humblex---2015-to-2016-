@@ -1,0 +1,7 @@
+name: UnsichererJnge
+uuid: 74d489f1-f8fc-3b69-b529-7863483b8c5e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

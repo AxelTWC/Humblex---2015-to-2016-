@@ -1,0 +1,8 @@
+name: Jpsh
+uuid: 6fbfa169-2d75-37d6-8f98-300fee670c91
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

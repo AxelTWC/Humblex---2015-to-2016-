@@ -1,0 +1,18 @@
+# KitPreview language file
+prefix: '&8[&9PreviewKit&8]'
+no-console: '&9You are now previewing kit &7{KIT}&9.'
+no-permission: '&cYou do not have permission to do that!'
+no-kit-supplied: '&7Please include a kit to preview.'
+kit-doesnt-exist: '&cThat kit does not exist.'
+preparing-preview: '&7Preparing preview...'
+sign-title: '&8[&9PreviewKit&8]'
+sign-created: '&aPreview sign created for kit &7{KIT}&9.'
+Preview-only-holo: Click to Preview!
+Preview-holo: Right-Click to Preview!
+Buy-link-holo: Left-Click for Buy Link!
+Buy-eco-holo: Left-Click to buy for &a${PRICE}&f!
+Cannot-afford: '&9You cannot afford to buy kit &7{KIT}&9.'
+Purchase_success: '&9You have purchased kit &7{KIT}&9.'
+No-commands: '&9There are no commands attached to this kit. You cannot buy a kit if
+  there are no commands assigned to it.'
+Synax: '&9Incorrect syntax. Please refer to /KP help'

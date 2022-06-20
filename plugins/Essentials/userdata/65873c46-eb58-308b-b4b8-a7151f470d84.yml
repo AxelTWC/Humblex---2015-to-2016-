@@ -1,0 +1,89 @@
+timestamps:
+  logout: 1474362187016
+  login: 1474362098499
+  lastteleport: 1472591961673
+  kits:
+    titan: 1472048700457
+    emerald: 1472459688648
+    weekly: 1472027256859
+socialspy: false
+lastAccountName: ak47delta
+ipAddress: 77.125.23.5
+homes:
+  ourb:
+    world: spawn
+    x: 139.23142604769268
+    y: 40.0
+    z: 1997.6773157625494
+    yaw: 183.19815
+    pitch: 3.4088783
+  enchantf:
+    world: spawn
+    x: -1227.7448778081402
+    y: 70.0
+    z: 9479.6922734817
+    yaw: -2.9172363
+    pitch: 5.7376137
+  build:
+    world: spawn
+    x: -1176.3001031584586
+    y: 46.0
+    z: 10501.916983210318
+    yaw: -45.075073
+    pitch: 10.860177
+  axelfac:
+    world: spawn
+    x: -1184.8720808125533
+    y: 86.86615443201723
+    z: 10367.49574589743
+    yaw: -152.51746
+    pitch: 1.997136
+  chinnuf:
+    world: spawn
+    x: -1148.655722149819
+    y: 93.0
+    z: 10007.374026703406
+    yaw: -192.78564
+    pitch: 55.097023
+  coolh:
+    world: spawn
+    x: 625.7763731307549
+    y: 67.0
+    z: 298.69999998807907
+    yaw: 177.60933
+    pitch: 23.708843
+  o:
+    world: spawn
+    x: 385.30000001192093
+    y: 103.0
+    z: -74.67030862793972
+    yaw: -89.550606
+    pitch: 86.1
+  ak:
+    world: spawn
+    x: -87.97814716859261
+    y: 86.9817084884341
+    z: 10833.847152173164
+    yaw: -63.11744
+    pitch: 51.34712
+lastlocation:
+  world: map
+  x: -1016.0263969706779
+  y: 13.0
+  z: 248.02101898973862
+  yaw: -57.567047
+  pitch: 13.448486
+money: '200.0'
+powertools:
+  '261':
+  - jump
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+godmode: false
+teleportenabled: true

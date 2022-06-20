@@ -1,0 +1,104 @@
+# #############################################
+# #      - LobbyCompass by Dreieck52 -        #
+# #############################################
+# # Option 'executedByPlayer' means:
+# #    > true = Command is executed as the player typed it
+# #    > false = Command is executed by console (%n% is player name)
+# # There can be only at most 6 lines in one inventory!
+# # If get-compass-on-join-slot is -1 it will add the compass in a free slot
+# # NOTE: If you wish, you can disable auto-updating in -Updater/config.yml-
+# #############################################
+
+compass-name: '&aHumblex Menu!'
+compass-inventory-name: '&6Compass menu'
+get-compass-on-join: true
+get-compass-on-join-slot: 4
+get-compass-worlds:
+- lobby
+only-allow-command-lc_get-in-worlds: true
+can-drop-compass: false
+inventory-lines-amount: 4
+sound-effect: true
+options:
+- lobby
+- ffa
+- skyblock
+- minigames
+- faction
+- kitpvp
+data:
+  spawn:
+    name: '&e&lSpawn / Lobby'
+    lore:
+    - '&7Click this Item to execute command'
+    - '&8&l/warp spawn'
+    - '&7another line :D'
+    item: 2
+    cmd: warp spawn
+    executedByPlayer: true
+    position-in-inventory: 10
+  pvp:
+    name: '&c&lPvP Zone'
+    lore:
+    - '&cD&ei&as&bc&do'
+    - '&8&l/pvp <player> join'
+    item: 267
+    cmd: pvp %n% join
+    executedByPlayer: false
+    position-in-inventory: 19
+  lobby:
+    name: '&a&lLobby'
+    lore:
+    - '&aYour in the lobby'
+    - '&8&lEnjoy with different cosmetics'
+    item: 137
+    cmd: hub
+    executedByPlayer: true
+    position-in-inventory: 13
+  ffa:
+    name: '&c&lFFA Zone'
+    lore:
+    - '&cD&ei&as&bc&do'
+    - '&3Free for all &4{&cPvP-Mode&4}'
+    - '&4&l/ffa join'
+    item: 267
+    cmd: ffa join
+    executedByPlayer: true
+    position-in-inventory: 31
+  skyblock:
+    name: '&6&lSkyblock'
+    lore:
+    - '&2Surviving in a island'
+    - '&1Tip:&5/warp skyshop'
+    item: 2
+    cmd: mvtp skyblock
+    executedByPlayer: true
+    position-in-inventory: 11
+  faction:
+    name: '&5&lFaction'
+    lore:
+    - '&6&lStep on a new journey with clans'
+    - '&dRaid your base but dont get your base raided!'
+    item: 49
+    cmd: mvtp spawn
+    executedByPlayer: true
+    position-in-inventory: 21
+  minigames:
+    name: '&b&lMinigames'
+    lore:
+    - '&6&lMinigames'
+    - '&dHaving &eFun &dwith friends'
+    - '&9Exculsive:&4&lSurvival Games'
+    item: 381
+    cmd: mvtp minigames
+    executedByPlayer: true
+    position-in-inventory: 15
+  kitpvp:
+    name: '&c&lKitpvp'
+    lore:
+    - '&4The place where warriors are built'
+    - '&0Join the fight!'
+    item: 276
+    cmd: mvtp map
+    executedByPlayer: true
+    position-in-inventory: 23

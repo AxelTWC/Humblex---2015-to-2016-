@@ -1,0 +1,7 @@
+name: ishai
+uuid: bd19a814-a298-392c-b659-8450e789a59c
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

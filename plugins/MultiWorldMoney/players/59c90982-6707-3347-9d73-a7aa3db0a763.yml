@@ -1,0 +1,8 @@
+name: ThisGuy
+uuid: 59c90982-6707-3347-9d73-a7aa3db0a763
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

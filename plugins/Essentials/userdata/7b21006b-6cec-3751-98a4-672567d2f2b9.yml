@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: FizzeBu
+timestamps:
+  login: 1474379383343
+  lastteleport: 1474379440372
+  logout: 1474379551194
+ipAddress: 91.137.43.41
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1129.4771458704665
+  y: 72.0
+  z: 9723.106191370669
+  yaw: 314.1128
+  pitch: 2.038969
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

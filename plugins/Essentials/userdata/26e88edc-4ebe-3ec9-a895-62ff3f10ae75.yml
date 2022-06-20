@@ -1,0 +1,24 @@
+lastAccountName: Matthewdman
+timestamps:
+  login: 1471696064929
+  logout: 1471696487578
+  kits:
+    tools: 1469896876643
+    weekly: 1471696201229
+ipAddress: 92.251.8.121
+socialspy: false
+money: '360.0'
+lastlocation:
+  world: map
+  x: -961.5056976729285
+  y: 13.0
+  z: 287.4116845261079
+  yaw: -50.704185
+  pitch: 90.0
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

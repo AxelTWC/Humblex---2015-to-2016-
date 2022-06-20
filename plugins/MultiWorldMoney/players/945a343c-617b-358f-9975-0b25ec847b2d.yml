@@ -1,0 +1,7 @@
+name: Mustafa_GameOver
+uuid: 945a343c-617b-358f-9975-0b25ec847b2d
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,8 @@
+name: SpacoLP
+uuid: 0a25eb36-70e8-36be-b395-addafd306d85
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 100.0

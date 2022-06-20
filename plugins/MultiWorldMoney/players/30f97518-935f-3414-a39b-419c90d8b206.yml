@@ -1,0 +1,11 @@
+name: maymos11
+uuid: 30f97518-935f-3414-a39b-419c90d8b206
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 0.0

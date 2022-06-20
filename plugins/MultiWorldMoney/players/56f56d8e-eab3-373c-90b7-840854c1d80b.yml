@@ -1,0 +1,10 @@
+name: RyderWaylander
+uuid: 56f56d8e-eab3-373c-90b7-840854c1d80b
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 438.5
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

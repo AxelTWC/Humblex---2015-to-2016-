@@ -1,0 +1,7 @@
+name: dibo
+uuid: 3fcc9c19-91f4-39b6-9b54-a5563c792e7c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: Striker211
+uuid: 9b1ac09e-a0d8-348e-9bdf-1a63e6ae2344
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

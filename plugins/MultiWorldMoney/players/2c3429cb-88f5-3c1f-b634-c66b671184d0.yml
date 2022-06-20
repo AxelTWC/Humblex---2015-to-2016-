@@ -1,0 +1,7 @@
+name: payton18
+uuid: 2c3429cb-88f5-3c1f-b634-c66b671184d0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

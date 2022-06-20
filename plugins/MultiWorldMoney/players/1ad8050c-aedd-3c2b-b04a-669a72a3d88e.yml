@@ -1,0 +1,8 @@
+name: KyLE_pvp_pro
+uuid: 1ad8050c-aedd-3c2b-b04a-669a72a3d88e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

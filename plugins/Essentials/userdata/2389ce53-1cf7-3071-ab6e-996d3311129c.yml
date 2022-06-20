@@ -1,0 +1,22 @@
+money: '0.0'
+lastAccountName: ChipperKilla
+timestamps:
+  login: 1484767231235
+  lastteleport: 1484767132807
+  logout: 1484767390556
+ipAddress: 82.36.26.97
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 267.7136228039863
+  y: 164.0
+  z: 216.09211587650168
+  yaw: -178.2547
+  pitch: 17.410374
+logoutlocation:
+  world: skywars
+  x: -240.0
+  y: 5.0
+  z: -3.0
+  yaw: -262.0
+  pitch: 84.0

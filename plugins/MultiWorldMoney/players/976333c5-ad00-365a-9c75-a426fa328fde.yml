@@ -1,0 +1,7 @@
+name: blow
+uuid: 976333c5-ad00-365a-9c75-a426fa328fde
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

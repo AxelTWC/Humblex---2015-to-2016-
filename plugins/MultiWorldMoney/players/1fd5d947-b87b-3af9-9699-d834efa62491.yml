@@ -1,0 +1,8 @@
+name: dukeebob
+uuid: 1fd5d947-b87b-3af9-9699-d834efa62491
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

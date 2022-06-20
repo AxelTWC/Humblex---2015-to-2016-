@@ -1,0 +1,24 @@
+money: '100.0'
+lastAccountName: Abomination
+timestamps:
+  login: 1470672554411
+  kits:
+    weekly: 1470323549381
+  logout: 1470672547651
+  lastteleport: 1470672154867
+ipAddress: 108.54.3.195
+socialspy: false
+logoutlocation:
+  world: map
+  x: -1003.728218131772
+  y: 13.0
+  z: 263.82582916191524
+  yaw: -18.991707
+  pitch: 7.289612
+lastlocation:
+  world: map
+  x: -1003.728218131772
+  y: 13.0
+  z: 263.82582916191524
+  yaw: -18.991707
+  pitch: 7.289612

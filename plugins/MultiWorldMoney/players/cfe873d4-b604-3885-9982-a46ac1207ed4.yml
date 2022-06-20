@@ -1,0 +1,10 @@
+name: mmcookieman
+uuid: cfe873d4-b604-3885-9982-a46ac1207ed4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

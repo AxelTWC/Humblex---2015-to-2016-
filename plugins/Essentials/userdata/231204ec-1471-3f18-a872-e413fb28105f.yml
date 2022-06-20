@@ -1,0 +1,76 @@
+money: '9331961.00'
+lastAccountName: NIGELDABOSS
+timestamps:
+  login: 1490315943031
+  logout: 1490315999557
+  kits:
+    illuminati: 1477907483728
+    elite: 1477906025705
+    legendary: 1477906003435
+    ultimate: 1477907432904
+    titan: 1475884365525
+    coal: 1474965268814
+    notch: 1477103909281
+    god: 1477907446050
+    emerald: 1485074205876
+    pegasus: 1481328887359
+    weekly: 1482644719695
+  lastteleport: 1485678758759
+ipAddress: 50.24.70.251
+socialspy: false
+logoutlocation:
+  world: spawn
+  x: -4355.499656961823
+  y: 73.0
+  z: 55.49981029295304
+  yaw: -17.05404
+  pitch: 26.58089
+lastlocation:
+  world: spawn
+  x: -74.90153490474842
+  y: 5.0
+  z: -305.1812808730308
+  yaw: -17.10087
+  pitch: 11.913767
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -618.4312691515001
+    y: 88.0
+    z: 726.2440223877726
+    yaw: -25.501312
+    pitch: 43.050205
+  tnt:
+    world: spawn
+    x: -981.6612459047167
+    y: 68.0
+    z: 10668.097135383221
+    yaw: 168.15834
+    pitch: 31.649954
+  sup:
+    world: spawn
+    x: 280.6961859562974
+    y: 91.0
+    z: 380.6350270025033
+    yaw: 198.29306
+    pitch: 64.05015
+  temple:
+    world: spawn
+    x: -1863.5992555434098
+    y: 56.0
+    z: 165.1498518893221
+    yaw: 38.84619
+    pitch: 46.500027
+nickname: ClairesBae
+teleportenabled: false
+powertools:
+  '4':
+  - lightning
+  '276':
+  - butcher
+  '1':
+  - snow
+  '168':
+  - butcher
+godmode: false

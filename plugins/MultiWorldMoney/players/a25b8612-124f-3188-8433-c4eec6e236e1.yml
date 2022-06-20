@@ -1,0 +1,7 @@
+name: HypixelTeam
+uuid: a25b8612-124f-3188-8433-c4eec6e236e1
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

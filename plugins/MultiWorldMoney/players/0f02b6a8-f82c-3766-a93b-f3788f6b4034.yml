@@ -1,0 +1,7 @@
+name: nickcat
+uuid: 0f02b6a8-f82c-3766-a93b-f3788f6b4034
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

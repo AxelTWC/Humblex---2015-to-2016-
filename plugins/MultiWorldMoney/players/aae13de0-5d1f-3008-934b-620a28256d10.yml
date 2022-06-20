@@ -1,0 +1,10 @@
+name: Huubbo
+uuid: aae13de0-5d1f-3008-934b-620a28256d10
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

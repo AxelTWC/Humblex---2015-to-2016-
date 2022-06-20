@@ -1,0 +1,24 @@
+money: '350.0'
+lastAccountName: Cool
+timestamps:
+  login: 1475900178194
+  mute: 0
+  logout: 1475900181481
+ipAddress: 180.190.76.183
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: -1012.9130664956708
+  y: -212.47488003740733
+  z: 991.422401598864
+  yaw: 293.85748
+  pitch: 11.850182
+godmode: false
+muted: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

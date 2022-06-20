@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: SognaFiore
+timestamps:
+  login: 1481429765054
+  logout: 1481429799856
+ipAddress: 186.36.32.50
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

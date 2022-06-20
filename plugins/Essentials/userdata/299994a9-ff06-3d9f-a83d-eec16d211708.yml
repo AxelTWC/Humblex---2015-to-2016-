@@ -1,0 +1,26 @@
+money: '250.0'
+lastAccountName: Pokenkrafter
+timestamps:
+  login: 1474336104945
+  kits:
+    daily: 1474336282211
+    tools: 1474336272788
+    weekly: 1474336251609
+  lastteleport: 1474336300429
+  logout: 1474336413738
+ipAddress: 69.156.97.142
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1130.7288509435068
+  y: 72.0
+  z: 9723.186048972102
+  yaw: -227.85905
+  pitch: 17.275627
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

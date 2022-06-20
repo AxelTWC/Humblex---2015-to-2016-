@@ -1,0 +1,55 @@
+money: '150.0029999999999973'
+lastAccountName: Dojo215
+timestamps:
+  login: 1490748327759
+  kits:
+    daily: 1484970416692
+    titan: 1484971905044
+    coal: 1484967047173
+    tools: 1485010622871
+    weekly: 1485297227195
+    emerald: 1484625030059
+  logout: 1490748645526
+  lastteleport: 1490748459764
+  mute: 0
+ipAddress: 107.137.56.200
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: 59.522292097181165
+  y: 78.0
+  z: 242.51459807118326
+  yaw: -185.85036
+  pitch: 5.952645
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -734.3398264722068
+    y: 51.0
+    z: 1003.7534440288686
+    yaw: 166.2937
+    pitch: 1.950016
+  wild:
+    world: spawn
+    x: -601.5438536153571
+    y: 72.0
+    z: -524.3029288170987
+    yaw: -202.50003
+    pitch: 12.75
+  asif:
+    world: spawn
+    x: -570.6504858891742
+    y: 68.0
+    z: -671.5555156529338
+    yaw: 85.50018
+    pitch: 6.4499774
+nickname: Dodo
+muted: false

@@ -1,0 +1,49 @@
+money: '1229.0'
+lastAccountName: OreKillerOMK
+timestamps:
+  login: 1474100808563
+  kits:
+    firework: 1472812256672
+    daily: 1472624349037
+    titan: 1472910426881
+    coal: 1472723072443
+    tools: 1472377991668
+    weekly: 1472335766408
+    emerald: 1472910438522
+  logout: 1474100928601
+  lastteleport: 1473558440532
+  mute: 0
+ipAddress: 115.134.44.233
+socialspy: false
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -910.7357961328636
+    y: 34.0
+    z: 10243.577870758636
+    yaw: -1.6871338
+    pitch: 32.099995
+logoutlocation:
+  world: lobby
+  x: 0.5964028097698006
+  y: 83.0
+  z: -0.03132876637085538
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1129.502696523734
+  y: 72.0
+  z: 9721.995785448338
+  yaw: -180.22687
+  pitch: 12.92138
+nickname: §c§lOre§b§lKiller§6§lPvp
+teleportenabled: false
+muted: false
+godmode: false
+powertools:
+  '398':
+  - lightning
+ignore:
+- ashleytct

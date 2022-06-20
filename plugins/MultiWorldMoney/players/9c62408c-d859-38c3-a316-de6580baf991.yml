@@ -1,0 +1,7 @@
+name: lilkwami
+uuid: 9c62408c-d859-38c3-a316-de6580baf991
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

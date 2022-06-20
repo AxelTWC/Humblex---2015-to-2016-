@@ -1,0 +1,17 @@
+money: '250.0'
+lastAccountName: BagMvision
+timestamps:
+  login: 1472737048647
+  logout: 1472737710770
+  kits:
+    daily: 1472737107720
+    weekly: 1472737097017
+ipAddress: 79.32.23.247
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

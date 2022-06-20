@@ -1,0 +1,7 @@
+name: BudFromCali
+uuid: 4fe21d43-aecf-3d54-8334-9e5f57340dce
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

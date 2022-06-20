@@ -1,0 +1,7 @@
+name: NATSU
+uuid: a149174a-26e5-30a2-a1da-ee9c1e88fc58
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 1867.0
+  spawn_nether: 0.0

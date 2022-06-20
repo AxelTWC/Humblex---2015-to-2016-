@@ -1,0 +1,7 @@
+name: EatingCole
+uuid: 00e1b889-55e3-3b47-be46-e7c33501a560
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

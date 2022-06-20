@@ -1,0 +1,7 @@
+# Hive JumpPads vpre 2.15 | Messages Configuration | Developed by Sendarox
+
+HiveJumpPads:
+  Messages:
+    NoPermissions: '&cYou don''t have enough Permissions to execute this Command.'
+    CommandSynatax: '&cThis Command [/hjp %cmd%] isn''t right. Please use "/hjp help"
+      for help.'

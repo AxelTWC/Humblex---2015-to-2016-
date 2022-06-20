@@ -1,0 +1,12 @@
+name: Supercraft0704
+uuid: 0164f223-4869-3e28-96c8-ea86b8f01257
+logoffworld: lobby
+balances:
+  lobby: 1150.0
+  spawn: 3000.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 400.0

@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: salty_cat_1234
+timestamps:
+  login: 1484781078806
+  lastteleport: 1484460152378
+  logout: 1484781086628
+ipAddress: 73.26.235.2
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 52.497193915181946
+  y: 68.0
+  z: 224.3724520341264
+  yaw: 187.94612
+  pitch: 11.182573
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

@@ -1,0 +1,21 @@
+socialspy: false
+money: '150.0'
+lastAccountName: Builder63
+timestamps:
+  login: 1478351298829
+  logout: 1478351511114
+ipAddress: 78.149.72.5
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn_nether
+  x: 324.1807581075384
+  y: 39.0
+  z: 42.23429422108532
+  yaw: 45.264946
+  pitch: 28.929407

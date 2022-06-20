@@ -1,0 +1,24 @@
+money: '550.0'
+lastAccountName: coolstain101
+timestamps:
+  login: 1478343138133
+  logout: 1478343195169
+  lastteleport: 1478343162526
+  kits:
+    weekly: 1476367678001
+ipAddress: 1.32.61.243
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: lobby
+  x: 1.6243273205546076
+  y: 83.0
+  z: 39.085281427232445
+  yaw: -176.11598
+  pitch: -0.8294225

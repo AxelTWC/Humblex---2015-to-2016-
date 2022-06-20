@@ -1,0 +1,7 @@
+name: ElderCraft50
+uuid: ac3963ec-8b44-3571-ad49-4aee1ff44fdd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

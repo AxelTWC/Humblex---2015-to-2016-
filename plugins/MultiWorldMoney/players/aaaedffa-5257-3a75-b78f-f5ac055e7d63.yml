@@ -1,0 +1,7 @@
+name: GalaxyRyo
+uuid: aaaedffa-5257-3a75-b78f-f5ac055e7d63
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

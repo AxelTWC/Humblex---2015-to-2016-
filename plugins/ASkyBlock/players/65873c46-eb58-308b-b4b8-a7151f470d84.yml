@@ -1,0 +1,99 @@
+playerName: ak47delta
+hasIsland: true
+islandLocation: ASkyBlock:0:115:-200:0:0
+hasTeam: true
+teamLeader: 65873c46-eb58-308b-b4b8-a7151f470d84
+teamIslandLocation: ASkyBlock:0:115:-200:0:0
+islandLevel: 0
+members:
+- 65873c46-eb58-308b-b4b8-a7151f470d84
+- 082a501c-9041-3198-b11e-55b46ee8ac79
+- 2319d781-74fb-33e9-a96a-7631319775d6
+- a3439677-35dc-3b1d-a4de-0176a2dec5b8
+resetsLeft: 10
+locale: ''
+useControlPanel: true
+startIslandRating: 50
+deaths: 5
+homeLocations:
+  '1': ASkyBlock:0:120:-198:0:1106247680
+challenges:
+  status:
+    expert: false
+    advanced: false
+    dj: false
+    craftsman: false
+    beaconator: false
+    stewmaker: false
+    enderpearls: false
+    pioneer: false
+    shepherd: false
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    elite: false
+    homestead: false
+    mason: false
+    builder: false
+    dyemaker: false
+    itsamonsterparty: false
+    glassmaker: false
+    novice: false
+    nether: false
+    alchemist: false
+    gemcollector: false
+    grinder: false
+    papermaker: false
+    cobblemaker: false
+    seedbank: false
+    cookiemaker: false
+    slimeballfarmer: false
+    itsaparty: false
+    competent: false
+    baker: false
+    breadmaker: false
+    myprecious: false
+    snowplay: false
+    farmer: false
+    angler: false
+    treecutter: false
+  times:
+    expert: 0
+    advanced: 0
+    dj: 0
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 0
+    enderpearls: 0
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    elite: 0
+    homestead: 0
+    mason: 0
+    builder: 0
+    dyemaker: 0
+    itsamonsterparty: 0
+    glassmaker: 0
+    novice: 0
+    nether: 0
+    alchemist: 0
+    gemcollector: 0
+    grinder: 0
+    papermaker: 0
+    cobblemaker: 0
+    seedbank: 0
+    cookiemaker: 0
+    slimeballfarmer: 0
+    itsaparty: 0
+    competent: 0
+    baker: 0
+    breadmaker: 0
+    myprecious: 0
+    snowplay: 0
+    farmer: 0
+    angler: 0
+    treecutter: 0
+islandInfo: 0:115:-200:200:200:65873c46-eb58-308b-b4b8-a7151f470d84:false:false:1000000001001000000000011000010:COLD_BEACH:0

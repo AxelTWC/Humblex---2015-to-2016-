@@ -1,0 +1,20 @@
+Required Initial Setup
+» /practice setspawn - Pon La pocision del spawn!
+» /practice seteditor - Pon La Pocision del spawn editor!
+~~~~~~~~~~~~~
+Gametype Commands
+» /gametype create (name) - Create un nuevo GameType Para el Practice
+» /gametype setdisplay <GameType> <MATERIAL> - Seleccion el icono de la arena GameType
+» /gametype setinventory <GameType> - Guarda tu inventario el que ya hayas creado GameType
+» /gametype loadinventory <GameType> - Carga tu inventario el que guardaste anteriormente GameType
+» /gametype list - Lista de GameTypes
+» /gametype seteditable <GameType> - vuelve al editor y marcalo Para que los usuario editen sus kit gametype
+» /gametype editinv <name> - Editar los kit en kiteditor
+~~~~~~~~~~~~~
+Commandos Para Crear una arena Arena 
+» /arena create <name> - Crear una  Arena
+» /arena setspawn <1 or 2> <name> - Marca la pocision de los 2 jugadores Arena
+» /arena list - Lista de arenas Creadas
+~~~~~~~~~~~~~
+Gracias Por descargar!
+Suscribete Para mas  :)

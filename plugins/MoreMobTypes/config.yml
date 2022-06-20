@@ -1,0 +1,44 @@
+BerserkSkeleton: true
+BerserkSkeletonInfo:
+   spawnnaturally: true
+   naturalspawnrate: 100
+   dropchancehelm: 0.1
+   dropchanceboots: 0.1
+   dropchancelegs: 0.1
+   dropchancechestplate: 0.1
+   dropchancesword: 0.1
+   health: 20.0
+   name: Berserk Skeleton
+   namevisible: true
+GiantSlime: true
+GiantSlimeInfo:
+   spawnnaturally: true
+   naturalspawnrate: 100
+   size: 20
+GiantMagmaCube: true
+GiantMagmaCubeInfo:
+   spawnnaturally: true
+   naturalspawnrate: 100
+   size: 20
+GiantZombie: true
+GiantZombieInfo:
+   spawnnaturally: true
+   naturalspawnrate: 100
+Shadow: true
+ShadowInfo:
+   spawnnaturally: true
+   naturalspawnrate: 100
+   health: 50.0
+   dropchancehelm: 0.1
+   dropchancechestplate: 0.1
+   dropchanceweapon: 0.1
+FireWolf: true
+FireWolfInfo:
+   spawnnaturally: true
+   naturalspawnrate: 100
+DiamondZombie: true
+DiamondZombieInfo:
+   health: 10.0
+   spawnnaturally: true
+   diamondblockdropchance: 0.2
+   naturalspawnrate: 100

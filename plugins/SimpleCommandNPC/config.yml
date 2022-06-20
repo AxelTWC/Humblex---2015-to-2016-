@@ -1,0 +1,16 @@
+LookNear: true
+CommandFromConsole: true
+IsBungeeServer: false
+Messages:
+  Header: '&a&m--------&a[ &7SimpleCommandNpcs &a]&m--------'
+  Remove: '&aNPC was removed with Id: &7<id>'
+  InvalidType: '&aError: invalid mob/entity type'
+  Created: '&aNPC was created with the Id: &7<id>'
+  Missing: '&aMissing argument! Type &7/commandsnpc help &afor a list of possible
+    commands.'
+  UpdatedNpc: '&aNPC was updated with new data.'
+  NoPermission: '&aYou do not have permission to use this command.'
+  Unknown: '&aCould not find the specified command.'
+  MissingNPC: '&aUnknown NPC found with Id: <id>'
+  Reloaded: '&aConfiguration files were reloaded.'
+CNPC: {}

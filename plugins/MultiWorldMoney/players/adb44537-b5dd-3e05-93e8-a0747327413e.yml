@@ -1,0 +1,7 @@
+name: DaMonstah
+uuid: adb44537-b5dd-3e05-93e8-a0747327413e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

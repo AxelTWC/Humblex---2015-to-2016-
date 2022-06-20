@@ -1,0 +1,24 @@
+money: '350.0'
+lastAccountName: MysticS0ul_
+timestamps:
+  login: 1475413648617
+  lastteleport: 1475413664866
+  logout: 1475413778356
+  kits:
+    weekly: 1475413704081
+ipAddress: 193.154.242.77
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 26.399998
+  pitch: 0.0
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

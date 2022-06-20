@@ -1,0 +1,24 @@
+money: '250.0'
+lastAccountName: maymos11
+timestamps:
+  login: 1480511283721
+  lastteleport: 1480511801878
+  kits:
+    weekly: 1480511779187
+  logout: 1480511893535
+ipAddress: 37.231.150.167
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -26.81663108615781
+  y: 73.0
+  z: 11.26412208192472
+  yaw: 55.229927
+  pitch: 24.651527
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

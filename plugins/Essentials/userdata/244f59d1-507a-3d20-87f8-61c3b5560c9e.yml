@@ -1,0 +1,33 @@
+socialspy: false
+money: '150'
+lastAccountName: Kryptial
+timestamps:
+  login: 1479264833724
+  logout: 1479264844614
+  kits:
+    color: 1477179402025
+    soldier: 1477179587851
+    weekly: 1476061591024
+    pegasus: 1477953059394
+  lastteleport: 1478002820531
+  mute: 0
+ipAddress: 71.10.71.74
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+lastlocation:
+  world: spawn_the_end
+  x: 45.64860047473266
+  y: 61.00133597911215
+  z: 8.161805617233988
+  yaw: -256.79956
+  pitch: 12.594268
+nickname: §4§k§lii§6§lKryptial§4§k§lii
+powertools: {}
+godmode: true
+muted: true

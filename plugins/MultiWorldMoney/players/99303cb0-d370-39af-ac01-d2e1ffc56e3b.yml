@@ -1,0 +1,8 @@
+name: Lucass_PvP
+uuid: 99303cb0-d370-39af-ac01-d2e1ffc56e3b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 300.0

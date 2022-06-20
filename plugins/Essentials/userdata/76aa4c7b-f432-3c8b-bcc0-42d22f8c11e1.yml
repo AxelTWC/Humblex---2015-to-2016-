@@ -1,0 +1,14 @@
+money: '0.0'
+lastAccountName: mabuu
+timestamps:
+  login: 1484285699237
+  logout: 1484285793816
+ipAddress: 49.145.220.82
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: -240.0
+  y: 5.0
+  z: -3.0
+  yaw: -262.0
+  pitch: 84.0

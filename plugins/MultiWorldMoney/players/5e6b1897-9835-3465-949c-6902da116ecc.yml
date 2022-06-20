@@ -1,0 +1,7 @@
+name: SSundee
+uuid: 5e6b1897-9835-3465-949c-6902da116ecc
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

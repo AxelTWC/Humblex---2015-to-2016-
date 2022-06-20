@@ -1,0 +1,7 @@
+name: xElophant
+uuid: 693f1bbb-c131-3c34-a499-19e851405554
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

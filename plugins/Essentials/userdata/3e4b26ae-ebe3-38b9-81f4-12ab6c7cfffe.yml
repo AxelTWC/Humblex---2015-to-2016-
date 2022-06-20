@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: Giorgos1
+timestamps:
+  login: 1467362127989
+  lastteleport: 1467362170296
+  kits:
+    daily: 1467362198935
+    tools: 1467362195456
+    weekly: 1467362205992
+  logout: 1467362336664
+ipAddress: 5.55.146.137
+lastlocation:
+  world: spawn
+  x: -10.088527365710746
+  y: 109.5
+  z: 131.1135194650475
+  yaw: 24.299673
+  pitch: 79.50004
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -1411.300000011921
+  y: 64.0
+  z: 9687.649806851736
+  yaw: 154.14914
+  pitch: 10.799934

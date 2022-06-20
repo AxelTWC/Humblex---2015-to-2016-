@@ -1,0 +1,12 @@
+name: MrPiggy
+uuid: 39d13bd4-74ff-32b2-a209-d1ddf12ec346
+logoffworld: lobby
+balances:
+  lobby: 2359.0
+  spawn: 1580.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 64.0
+  map: 990.0
+  skywars: 400.0

@@ -1,0 +1,14 @@
+name: GreenMasterGame
+uuid: 873fca5e-0c09-32fb-87b6-64c8aff814e2
+logoffworld: lobby
+balances:
+  lobby: 700.0
+  spawn: 300.0
+  hub: 123840.0
+  spawn_nether: 0.0
+  ASkyBlock: 400.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars_the_end: 0.0
+  map: 0.0
+  skywars: 0.0

@@ -1,0 +1,7 @@
+name: absthatsme
+uuid: 4c429059-0716-3f80-b29d-12ecf43adc45
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

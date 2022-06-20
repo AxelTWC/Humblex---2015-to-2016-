@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: matrix1940
+timestamps:
+  login: 1478618538736
+  kits:
+    weekly: 1478618850392
+  logout: 1478618867394
+ipAddress: 83.99.129.155
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1144.4484969561042
+  y: 67.0
+  z: 9669.0617250644
+  yaw: 56.439415
+  pitch: -0.6834052
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

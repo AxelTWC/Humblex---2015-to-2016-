@@ -1,0 +1,7 @@
+name: Katashi_Ezora
+uuid: 8b29a7c0-eda2-3ee1-8137-5f213916c434
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

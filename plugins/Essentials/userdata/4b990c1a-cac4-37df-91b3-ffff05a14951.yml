@@ -1,0 +1,26 @@
+money: '250.00'
+lastAccountName: Dark_Master
+timestamps:
+  login: 1478019005509
+  kits:
+    daily: 1478001014808
+    weekly: 1478001022218
+  lastteleport: 1478020040138
+  logout: 1478020129779
+ipAddress: 41.68.71.82
+socialspy: false
+afk: false
+lastlocation:
+  world: ASkyBlock
+  x: -1201.699999988079
+  y: 119.40040623681249
+  z: -997.6653025390124
+  yaw: 98.849884
+  pitch: 78.30005
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

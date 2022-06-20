@@ -1,0 +1,7 @@
+name: MintyHD
+uuid: 5a2f81b1-1be1-35e9-afd1-29f897d9dc29
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

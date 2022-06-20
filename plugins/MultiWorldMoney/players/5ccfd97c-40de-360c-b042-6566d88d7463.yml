@@ -1,0 +1,7 @@
+name: DrPhilForPres
+uuid: 5ccfd97c-40de-360c-b042-6566d88d7463
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

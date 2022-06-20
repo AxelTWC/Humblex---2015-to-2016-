@@ -1,0 +1,36 @@
+money: '350.0'
+lastAccountName: ProHunter101
+timestamps:
+  login: 1480778445668
+  kits:
+    illuminati: 1480133382909
+    elite: 1480778632881
+    god: 1480778664444
+    weekly: 1480132798250
+    pegasus: 1480133088554
+  lastteleport: 1480136483722
+  logout: 1480779053097
+ipAddress: 98.252.208.71
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 404.66844991211843
+  y: 80.74823810581591
+  z: 410.66041602496205
+  yaw: -117.07162
+  pitch: 58.221977
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: ASkyBlock
+    x: 391.8783087298221
+    y: 113.0
+    z: 395.76041494130016
+    yaw: -173.51422
+    pitch: -36.330738

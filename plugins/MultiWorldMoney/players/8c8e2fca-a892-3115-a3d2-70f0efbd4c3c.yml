@@ -1,0 +1,7 @@
+name: joyjumper
+uuid: 8c8e2fca-a892-3115-a3d2-70f0efbd4c3c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: SlimeActorLP
+uuid: 7a5638b9-5c29-3acd-91ff-cd8c20abe090
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

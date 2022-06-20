@@ -1,0 +1,11 @@
+name: Hokies
+uuid: 0dd2447c-9538-3d31-a6cc-52b78c946f6b
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 300.0

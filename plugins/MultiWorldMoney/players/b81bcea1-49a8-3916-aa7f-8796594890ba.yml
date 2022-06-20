@@ -1,0 +1,7 @@
+name: jord
+uuid: b81bcea1-49a8-3916-aa7f-8796594890ba
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

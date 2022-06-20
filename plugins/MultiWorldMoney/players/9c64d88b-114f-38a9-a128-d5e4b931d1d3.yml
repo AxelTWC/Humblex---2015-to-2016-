@@ -1,0 +1,8 @@
+name: xsilver
+uuid: 9c64d88b-114f-38a9-a128-d5e4b931d1d3
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

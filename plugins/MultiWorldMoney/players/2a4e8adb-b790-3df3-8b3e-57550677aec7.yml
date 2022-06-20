@@ -1,0 +1,7 @@
+name: NitroGames50
+uuid: 2a4e8adb-b790-3df3-8b3e-57550677aec7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

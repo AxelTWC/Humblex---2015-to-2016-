@@ -1,0 +1,7 @@
+name: ViezeJack
+uuid: d1b33ca0-f763-3aa5-890f-9ada9f7a57dc
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

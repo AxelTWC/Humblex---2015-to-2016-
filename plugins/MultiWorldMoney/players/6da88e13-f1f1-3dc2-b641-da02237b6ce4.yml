@@ -1,0 +1,9 @@
+name: GamesKing17
+uuid: 6da88e13-f1f1-3dc2-b641-da02237b6ce4
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 200.0

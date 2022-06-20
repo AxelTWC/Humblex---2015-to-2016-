@@ -1,0 +1,7 @@
+name: earlybryane
+uuid: 5ab02abc-82e6-3397-85ac-011c07c0f06b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

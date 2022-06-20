@@ -1,0 +1,87 @@
+#KitPvP Config | Author: FuzzyMC
+
+#Prefix settings
+Prefix: '&8[&cKitPvP&8] '
+
+#All the permissons http://pastebin.com/raw/eFPEchV9
+Permission: 'Sorry you have dont permisson to %permisson%'
+
+#Kill & Death settings
+CustomKillAndDeathMessage: true
+
+#Message settings
+Message:
+  Kit: '&aYou have chosen kit &8- &a%kit%!'
+  KitUse: '&cYou have already taken a kit'
+  Death: '&cYou are killed by &7%player%'
+  Kill: '&cYou have killed &7%player%'
+  Clear: '&cYour inventory is now clear'
+  
+#Join items settings
+JoinItem:
+  Name: '&aKit menu &7(Right click)'
+  Lore: '&7Right click to open the kit menu'
+  Spawn: 'spawn %player%'
+  OpenKitMenu: 'false'
+  JoinSound: 'true'
+  Disable: false
+  
+#Spiderman settings
+SidermanKit:
+  Name: '&aWall Climber &7(Right click)'
+  Lore: '&7(Right click) wall climber'
+  
+#Airman settings
+AirmanKit:
+  Name: '&aFly &7(Right click)'
+  Lore: '&7(Right click) to fly'
+
+#Title settings
+CustomDeathTitleMessage: true
+CustomKitTitleMessage: true
+Title:
+  KitTitle: '&aYou have chosen kit'
+  KitSubTitle: '&aKit &8- &a%kit%!'
+  DeathTitle: '&cYou are killed'
+  DeathSubTitle: '&cby &7%player%'
+  
+#Respawn settings
+RespawnParticle: true'
+RespawnSounds: 'true'
+  
+test: 'dsds'
+  
+#Sound list
+Sound:
+  Kit: 'ITEM_PICKUP'
+  KitUse: 'ENDERDRAGON_HIT'
+  Soup: 'EAT'
+  Fisherman: 'ENDERMAN_TELEPORT'
+  Spiderman: 'SLIME_WALK2'
+  Respawn: 'LEVEL_UP'
+  Join: 'LEVEL_UP'
+  
+#Effect list http://pastebin.com/raw/74ZGYLBu
+Effect:
+  Soup: 'HEART'
+  Fisherman: 'WATERDRIP' 
+  Spiderman: 'FIREWORKS_SPARK'
+  Respawn: 'FIREWORKS_SPARK'
+  
+#Sign settings
+Sign:
+  Info1: '&cClick here'
+  Info2: ''
+  Info3: ''
+  
+#Custom Kill & Death settings
+CustomTellMessage: false
+CustomCommand: false
+Death:
+  Tell: '&aYou have died to &7%player%&a! You lost 10$.'
+  Command: 'eco take %player% 10'
+Kill:
+  Tell: '&aYou killed &7%player%&a, you earned 10$.'
+  Command: 'eco give %player% 10'
+  
+#Big thanks to CervinakuyMC for the ideas.

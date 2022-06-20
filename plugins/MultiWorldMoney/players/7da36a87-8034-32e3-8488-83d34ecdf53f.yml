@@ -1,0 +1,7 @@
+name: nbc0711
+uuid: 7da36a87-8034-32e3-8488-83d34ecdf53f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

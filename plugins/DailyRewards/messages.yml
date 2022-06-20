@@ -1,0 +1,6 @@
+prefix: '&aRewards&f: '
+norewardsavailable: '&fYou do not have any available rewards at the moment.'
+cooldownmsg: '&fTime until next reward: %h Hour(s) %m Minute(s) %s Second(s)'
+claimed: '&fYou have claimed your daily reward!'
+broadcastmsg: '&f%player has claimed their daily reward!'
+nopermission: '&fYou do not have permission to do this.'

@@ -1,0 +1,27 @@
+Settings:
+  Restart_Message: '&aServer is restarting'
+  Broadcast: true
+  Messages:
+    '1': '&cServer Restarting in 5 Seconds'
+    '2': '&cServer Restarting in 4 Seconds'
+    '3': '&cServer Restarting in 3 Seconds'
+    '4': '&cServer Restarting in 2 Seconds'
+    '5': '&cServer Restarting in 1 Seconds'
+    '6': '&cServer Restarting'
+  Automatic_Restarts:
+    Broadcast: true
+    Restart_Interval: 4320
+    Messages:
+      '1': '&cServer Restarting in 5 Minutes'
+      '2': '&cServer Restarting in 2 Minutes'
+      '3': '&cServer Restarting in 1 Minute'
+      '4': '&cServer Restarting in 30 Seconds'
+      '5': '&cServer Restarting in 15 Seconds'
+      '6': '&cServer Restarting in 10 Seconds'
+      '7': '&cServer Restarting in 5 Seconds'
+      '8': '&cServer Restarting in 4 Seconds'
+      '9': '&cServer Restarting in 3 Seconds'
+      '10': '&cServer Restarting in 2 Seconds'
+      '11': '&cServer Restarting in 1 Second'
+      '12': '&cServer Restarting'
+AutoUpdate: true

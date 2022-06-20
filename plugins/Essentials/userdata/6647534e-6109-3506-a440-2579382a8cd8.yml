@@ -1,0 +1,13 @@
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+money: '250'
+lastAccountName: BuildCrazyHD
+timestamps:
+  login: 1471360282383
+ipAddress: 95.181.176.113
+socialspy: false

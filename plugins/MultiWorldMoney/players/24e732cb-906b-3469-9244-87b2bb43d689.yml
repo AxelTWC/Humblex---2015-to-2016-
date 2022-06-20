@@ -1,0 +1,7 @@
+name: Soonica
+uuid: 24e732cb-906b-3469-9244-87b2bb43d689
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,54 @@
+money: '450.559000000000827176'
+lastAccountName: Erwinrommel
+timestamps:
+  login: 1490776904881
+  lastteleport: 1490778147818
+  logout: 1490778571652
+  mute: 0
+  kits:
+    daily: 1490473349407
+    titan: 1490539323477
+    coal: 1490539342553
+    tools: 1490482377822
+    weekly: 1490450612687
+    emerald: 1490539295213
+ipAddress: 92.66.8.9
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 43034.85443207524
+  y: 96.81829356712046
+  z: 27085.53663020947
+  yaw: 77.34949
+  pitch: 30.3
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+muted: false
+homes:
+  home:
+    world: spawn
+    x: 42985.9635097641
+    y: 62.0
+    z: 27168.151032715286
+    yaw: -274.85016
+    pitch: 13.324346
+  base3:
+    world: spawn
+    x: 41548.40192244971
+    y: 79.0
+    z: 27454.970624494676
+    yaw: -91.10156
+    pitch: 8.4670515
+  home3:
+    world: spawn
+    x: 42783.60385855151
+    y: 73.24932787450226
+    z: 26139.87028281176
+    yaw: 207.8501
+    pitch: 3.7244136
+afk: false

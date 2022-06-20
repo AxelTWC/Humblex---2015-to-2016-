@@ -1,0 +1,9 @@
+name: Breezy
+uuid: 627ff6ff-f8fb-3d2c-842d-c0929dd8515b
+logoffworld: skywars
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ice_1: 0.0
+  skywars: 0.0

@@ -1,0 +1,7 @@
+name: Cesar360
+uuid: b78b584e-1808-3347-be8b-cb3026e16111
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

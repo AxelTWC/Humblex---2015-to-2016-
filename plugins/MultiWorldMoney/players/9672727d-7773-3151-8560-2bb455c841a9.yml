@@ -1,0 +1,10 @@
+name: ankistiv
+uuid: 9672727d-7773-3151-8560-2bb455c841a9
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

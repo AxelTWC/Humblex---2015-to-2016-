@@ -1,0 +1,7 @@
+name: ElderBeachLP
+uuid: 85b1f3a3-e790-3dbc-8b5a-7c0466eba3e4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

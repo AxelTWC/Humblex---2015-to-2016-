@@ -1,0 +1,10 @@
+name: Nigel
+uuid: 7d7ef52e-d1fe-39d0-8f7e-84346889f523
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

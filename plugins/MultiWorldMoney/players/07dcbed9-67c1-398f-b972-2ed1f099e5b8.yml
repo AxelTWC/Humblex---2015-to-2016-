@@ -1,0 +1,7 @@
+name: Punko_Master
+uuid: 07dcbed9-67c1-398f-b972-2ed1f099e5b8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

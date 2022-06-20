@@ -1,0 +1,7 @@
+name: _Snopy
+uuid: 41c99742-2d85-3dd4-ac2b-7da1c5477a90
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

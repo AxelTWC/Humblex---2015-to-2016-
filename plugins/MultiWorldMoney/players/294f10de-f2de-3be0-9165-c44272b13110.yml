@@ -1,0 +1,7 @@
+name: InValidBass
+uuid: 294f10de-f2de-3be0-9165-c44272b13110
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

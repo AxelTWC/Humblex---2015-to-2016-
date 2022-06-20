@@ -1,0 +1,21 @@
+lastAccountName: Frostwire
+timestamps:
+  login: 1468878432914
+  logout: 1468879160197
+ipAddress: 107.185.202.21
+socialspy: false
+money: '160.0'
+lastlocation:
+  world: spawn
+  x: -1324.437516441867
+  y: 63.0
+  z: 9083.300532481167
+  yaw: -8.894531
+  pitch: 16.185373
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

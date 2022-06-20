@@ -1,0 +1,7 @@
+name: nohackshere
+uuid: 989bca2b-19ab-30f6-ae5f-92e0713ebe23
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,8 @@
+name: LiftedLegend
+uuid: 0b5c2539-f989-3727-9ce1-606f18f27d1a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

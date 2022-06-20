@@ -1,0 +1,8 @@
+name: Marc
+uuid: 7930fc8f-023d-36f0-a592-b9051162878b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 50.0

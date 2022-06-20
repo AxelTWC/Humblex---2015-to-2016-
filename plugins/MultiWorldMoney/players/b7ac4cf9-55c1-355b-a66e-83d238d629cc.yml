@@ -1,0 +1,7 @@
+name: KilleRosh
+uuid: b7ac4cf9-55c1-355b-a66e-83d238d629cc
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

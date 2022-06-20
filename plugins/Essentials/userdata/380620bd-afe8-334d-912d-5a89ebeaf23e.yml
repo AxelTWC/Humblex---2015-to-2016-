@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: noam11
+timestamps:
+  login: 1475231413808
+  lastteleport: 1475231445601
+  logout: 1475231662252
+ipAddress: 78.184.194.165
+money: '150.0'
+lastlocation:
+  world: lobby
+  x: 0.5910391444814864
+  y: 83.0
+  z: -0.6680952669618669
+  yaw: -178.68661
+  pitch: 3.5588229
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

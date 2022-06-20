@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: EllenRipley
+timestamps:
+  login: 1470247860257
+  logout: 1470248018679
+ipAddress: 89.15.91.157
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.8757225499371066
+  y: 8.0
+  z: 2.6251185043457577
+  yaw: 107.668945
+  pitch: 42.079365
+logoutlocation:
+  world: lobby
+  x: 0.8757225499371066
+  y: 8.0
+  z: 2.6251185043457577
+  yaw: 107.668945
+  pitch: 42.079365

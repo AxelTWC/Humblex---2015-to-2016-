@@ -1,0 +1,7 @@
+name: lucasfriv
+uuid: 6982e8f0-03ee-37c1-a219-663bdd2e593b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

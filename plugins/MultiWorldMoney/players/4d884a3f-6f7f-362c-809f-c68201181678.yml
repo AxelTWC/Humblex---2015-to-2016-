@@ -1,0 +1,7 @@
+name: DetectiveBrown
+uuid: 4d884a3f-6f7f-362c-809f-c68201181678
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 1428.0
+  spawn_nether: 0.0

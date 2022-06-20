@@ -1,0 +1,7 @@
+name: revo_traxxas_99
+uuid: a7489f70-e644-30cf-9c52-31c81c4f8e7e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 3455.0
+  spawn_nether: 0.0

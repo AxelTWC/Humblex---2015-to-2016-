@@ -1,0 +1,27 @@
+lastAccountName: kits
+timestamps:
+  login: 1470469604600
+  logout: 1470469664487
+  kits:
+    daily: 1469874881854
+    tools: 1470049494896
+    weekly: 1469874967683
+  lastteleport: 1470049578155
+ipAddress: 130.105.215.165
+socialspy: false
+money: '566.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+lastlocation:
+  world: ASkyBlock
+  x: -185.69999998807907
+  y: 111.0
+  z: 1039.300000011921
+  yaw: 75.15015
+  pitch: 57.8999

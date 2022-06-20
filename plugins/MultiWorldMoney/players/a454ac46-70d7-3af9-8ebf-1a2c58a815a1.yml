@@ -1,0 +1,12 @@
+name: khoacui
+uuid: a454ac46-70d7-3af9-8ebf-1a2c58a815a1
+logoffworld: lobby
+balances:
+  lobby: 950.0
+  spawn: 0.0
+  spawn_the_end: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 200.0

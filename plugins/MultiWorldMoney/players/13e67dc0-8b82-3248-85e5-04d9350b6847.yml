@@ -1,0 +1,7 @@
+name: ImAVegan
+uuid: 13e67dc0-8b82-3248-85e5-04d9350b6847
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

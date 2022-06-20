@@ -1,0 +1,10 @@
+name: PvPsHadoL
+uuid: cdb802d7-146f-308c-b273-19e69d11e5c2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

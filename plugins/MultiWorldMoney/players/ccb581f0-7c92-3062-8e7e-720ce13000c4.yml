@@ -1,0 +1,11 @@
+name: FelixFlame
+uuid: ccb581f0-7c92-3062-8e7e-720ce13000c4
+logoffworld: map
+balances:
+  lobby: 500.0
+  spawn: 900.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 1802.5

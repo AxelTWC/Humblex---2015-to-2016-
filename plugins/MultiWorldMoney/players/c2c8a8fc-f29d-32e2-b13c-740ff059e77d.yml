@@ -1,0 +1,7 @@
+name: Darkfire
+uuid: c2c8a8fc-f29d-32e2-b13c-740ff059e77d
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

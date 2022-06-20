@@ -1,0 +1,7 @@
+name: KingShake
+uuid: 91ea7a3c-edff-3bb8-a3c4-cbdead73daf3
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

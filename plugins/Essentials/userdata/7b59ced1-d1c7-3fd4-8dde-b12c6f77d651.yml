@@ -1,0 +1,22 @@
+money: '338.0'
+lastAccountName: FakeNoob
+timestamps:
+  login: 1479611531419
+  logout: 1479612213778
+ipAddress: 180.191.109.45
+socialspy: false
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skywars
+  x: -219.99415668982138
+  y: 9.0
+  z: -19.690384948446095
+  yaw: 280.92267
+  pitch: 19.199987

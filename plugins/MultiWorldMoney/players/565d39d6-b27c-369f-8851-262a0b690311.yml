@@ -1,0 +1,7 @@
+name: bumscracher
+uuid: 565d39d6-b27c-369f-8851-262a0b690311
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

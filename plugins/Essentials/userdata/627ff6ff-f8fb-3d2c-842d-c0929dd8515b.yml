@@ -1,0 +1,14 @@
+money: '0.0'
+socialspy: false
+lastAccountName: Breezy
+timestamps:
+  login: 1477472630242
+  logout: 1477472702463
+ipAddress: 49.148.86.231
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 39.0
+  z: 7.0
+  yaw: -180.0
+  pitch: -45.0

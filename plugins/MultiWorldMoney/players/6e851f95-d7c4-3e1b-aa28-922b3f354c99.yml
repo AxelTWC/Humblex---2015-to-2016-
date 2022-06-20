@@ -1,0 +1,7 @@
+name: EzSoul
+uuid: 6e851f95-d7c4-3e1b-aa28-922b3f354c99
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

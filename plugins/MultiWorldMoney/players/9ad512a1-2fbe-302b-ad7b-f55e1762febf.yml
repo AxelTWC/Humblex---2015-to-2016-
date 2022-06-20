@@ -1,0 +1,7 @@
+name: Strongboy
+uuid: 9ad512a1-2fbe-302b-ad7b-f55e1762febf
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

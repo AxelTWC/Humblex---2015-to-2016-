@@ -1,0 +1,15 @@
+name: cooldude21
+uuid: 2b5afb39-aa28-3225-b285-b946c2a0edf4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 500.0
+  caves_2: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  paradise_1: 0.0
+  paradise_2: 0.0
+  skywars: 0.0

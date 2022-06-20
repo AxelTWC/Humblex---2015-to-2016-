@@ -1,0 +1,21 @@
+lastAccountName: luquinhas
+timestamps:
+  login: 1469574833885
+  logout: 1469574850851
+ipAddress: 201.37.163.229
+socialspy: false
+money: '160.0'
+lastlocation:
+  world: spawn
+  x: 2.043360833317472
+  y: 79.0
+  z: 163.3395465884572
+  yaw: 63.79264
+  pitch: 64.68012
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

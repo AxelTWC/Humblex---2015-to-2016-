@@ -1,0 +1,12 @@
+name: Rainboots
+uuid: a5800702-7bbc-358c-85cc-3a920e02e40f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 100.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars_the_end: 0.0
+  skywars: 0.0

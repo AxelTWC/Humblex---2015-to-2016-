@@ -1,0 +1,12 @@
+name: vahun
+uuid: c2e30a0b-4ea0-37ab-b808-8e39166ca95c
+logoffworld: lobby
+balances:
+  lobby: 750.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 100.0

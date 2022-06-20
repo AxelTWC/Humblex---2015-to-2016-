@@ -1,0 +1,36 @@
+money: '691.0'
+lastAccountName: GuysWeGamerS
+timestamps:
+  login: 1472219582968
+  kits:
+    daily: 1471951689962
+    tools: 1471953332608
+    weekly: 1471944964204
+  lastteleport: 1472048762595
+  logout: 1472219601403
+ipAddress: 37.142.8.197
+socialspy: false
+afk: false
+lastlocation:
+  world: spawn
+  x: -1043.6636193470436
+  y: 109.10367969117652
+  z: 8398.948096046684
+  yaw: -255.85156
+  pitch: 19.350084
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: spawn
+    x: -1080.5233211245657
+    y: 108.5
+    z: 8397.447815869293
+    yaw: -89.20068
+    pitch: 8.400002
+nickname: GuysWeGamerS

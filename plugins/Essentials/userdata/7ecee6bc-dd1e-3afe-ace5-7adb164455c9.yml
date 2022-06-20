@@ -1,0 +1,23 @@
+money: '350.0'
+lastAccountName: Germanhacker
+timestamps:
+  login: 1470315691935
+  logout: 1470316395365
+  mute: 0
+ipAddress: 217.254.86.84
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1090.699999988079
+  y: 70.0
+  z: 9677.699999988079
+  yaw: 267.83813
+  pitch: 40.45246
+muted: false

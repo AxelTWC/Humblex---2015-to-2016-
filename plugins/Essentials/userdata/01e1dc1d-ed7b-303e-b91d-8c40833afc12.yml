@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: Cam190
+timestamps:
+  login: 1471627119718
+  logout: 1471627177917
+ipAddress: 50.5.8.113
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -979.3000000119209
+  y: 70.0
+  z: 9780.595001816087
+  yaw: 210.21777
+  pitch: 48.26216

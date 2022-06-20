@@ -1,0 +1,8 @@
+name: Goldblack
+uuid: b60467ac-e28f-3a15-8a7e-83187bf1ad8e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

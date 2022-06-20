@@ -1,0 +1,7 @@
+name: Minotour
+uuid: d349770a-d586-3a38-96f9-123c39f68387
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

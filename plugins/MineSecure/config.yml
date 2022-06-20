@@ -1,0 +1,37 @@
+AutoUpdate: false
+Update-Announce: false
+CheckForUpdates: false
+Check-Spam: false
+Check-WaterWalk: false
+Check-NoFall: false
+Check-InvWalk: false
+Check-FastHeal: false
+Check-FastEat: false
+Check-Aimbot: false
+Check-KillAura: true
+Check-AutoRespawn: false
+Check-Glide: false
+Check-Fly: false
+Check-NoSwing: false
+Check-CreativeNuker: false
+Check-FastBow: false
+Check-AutoClicker: false
+Check-BedFucker: false
+AimbotCheckInSeconds: 5
+FlyCheckTicks: 35
+kickMessage: |-
+  &4You were kicked from the Server!
+  &4Reason: Hacking:&e%hack% &bThink its a false kick,Go to report in www.humblex.enjin.com
+banMessage: |-
+  &4You were tempbanned 1 day from the Server!
+  &4Reason: Hacking:&e%hack% &bThink its a false ban,Go to report in www.humblex.enjin.com and unban
+announceKickMessage: '&6%player% &4was kicked from the Server! - &4Reason: &e%hack%'
+announceBanMessage: '&6%player% &4was banned from the Server! - &4Reason: &e%hack%'
+announceKickToAll: true
+announceBanToAll: true
+kickToBan: 15
+enableBanCommand: false
+enableKickCommand: true
+BungeeCord: false
+BanCommand: tempban %player% 1d %reason%
+KickCommand: kick %player% %reason%

@@ -1,0 +1,24 @@
+lastAccountName: Phonetixx
+timestamps:
+  login: 1478325644790
+  logout: 1478326267561
+  kits:
+    daily: 1478325973165
+    weekly: 1478325953914
+ipAddress: 42.153.46.16
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+money: '330.0'
+lastlocation:
+  world: ASkyBlock
+  x: 58.86484976062775
+  y: -116.57444836037132
+  z: -10.588363138097698
+  yaw: 24.533155
+  pitch: -87.3

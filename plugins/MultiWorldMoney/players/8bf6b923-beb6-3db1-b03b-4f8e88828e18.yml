@@ -1,0 +1,7 @@
+name: RainbowRadness
+uuid: 8bf6b923-beb6-3db1-b03b-4f8e88828e18
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

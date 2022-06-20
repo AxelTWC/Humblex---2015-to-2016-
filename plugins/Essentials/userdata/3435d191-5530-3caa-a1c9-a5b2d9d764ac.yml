@@ -1,0 +1,25 @@
+lastAccountName: AzeuzXD
+timestamps:
+  login: 1470634896413
+  logout: 1470634914639
+  lastteleport: 1468420453419
+  mute: 0
+ipAddress: 90.224.73.23
+socialspy: false
+money: '560.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1098.3096609930988
+  y: 69.39596874123463
+  z: 9719.093604518688
+  yaw: -353.95514
+  pitch: -53.64766
+afk: false
+muted: false

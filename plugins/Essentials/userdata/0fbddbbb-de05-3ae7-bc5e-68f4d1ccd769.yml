@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: DSWaldie
+timestamps:
+  login: 1475051959936
+  logout: 1475053935670
+  lastteleport: 1475052492671
+ipAddress: 110.174.244.223
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -991.3239401426694
+  y: 13.0
+  z: 302.69999998807907
+  yaw: 235.47314
+  pitch: -90.0

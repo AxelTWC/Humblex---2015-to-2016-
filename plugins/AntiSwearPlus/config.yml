@@ -1,0 +1,23 @@
+# AntiSwearPlus By Niall7459, Version 1.7 - (Framework Version 4)
+general:
+  banned-words:
+  - fuck
+  - shit
+  - ass
+  swear-effect: strike
+  enable-title: true
+  enable-logging: true
+  enable-reporting: true
+  enable-broadcasts: true
+messages:
+  prefix: <red><bold>[AntiSwear]<reset>
+  swear-message: <red>Watch Your Language, <name>
+  swear-broadcast-message: <red><name> Was Punished For Swearing!
+  title-msg: <red>Watch Your Language!
+  subtitle-msg: <red>AntiSwearPlus Default Title Message
+  kick-msg: <red>You have been kicked for swearing!
+  ban-msg: <red>You have been banned for swearing!
+tweaks:
+  title-fadein: 20
+  title-stay: 150
+  title-fadeout: 20

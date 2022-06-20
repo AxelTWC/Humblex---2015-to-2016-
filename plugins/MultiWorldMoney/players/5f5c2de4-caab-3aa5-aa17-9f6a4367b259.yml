@@ -1,0 +1,11 @@
+name: OreKillerOMK
+uuid: 5f5c2de4-caab-3aa5-aa17-9f6a4367b259
+logoffworld: lobby
+balances:
+  lobby: 1229.0
+  spawn: 58860.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 100.0
+  map: 4000.0

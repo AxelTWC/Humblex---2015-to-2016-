@@ -1,0 +1,22 @@
+money: '450.0'
+lastAccountName: Bpby
+timestamps:
+  login: 1474906095990
+  lastteleport: 1473819698686
+  logout: 1474906100365
+ipAddress: 73.79.70.10
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 3.2725441640015673
+  y: 8.0
+  z: 13.699999988079071
+  yaw: -7.650015
+  pitch: 21.900007
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,23 @@
+lastAccountName: LawGreen
+timestamps:
+  login: 1490447323264
+  logout: 1490447323400
+  lastteleport: 1490347515374
+ipAddress: 113.254.141.32
+money: '150.0'
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -1019.980518625412
+  y: 11.0
+  z: 281.9735342807067
+  yaw: -26.52118
+  pitch: 30.288166
+afk: false

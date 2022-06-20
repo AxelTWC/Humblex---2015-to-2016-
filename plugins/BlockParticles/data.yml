@@ -1,0 +1,61 @@
+Locations:
+  vote:
+    World: spawn
+    X: 57
+    Y: 78
+    Z: 220
+    Particle: Potion
+  LuckyVote:
+    World: spawn
+    X: 61
+    Y: 78
+    Z: 220
+    Particle: FireSpew
+  Bedrockbreak:
+    World: spawn
+    X: 59
+    Y: 81
+    Z: 207
+    Particle: BigFlame
+  Fountain:
+    World: spawn
+    X: 78
+    Y: 83
+    Z: 209
+    Particle: Gems
+  StaffOwner:
+    World: lobby
+    X: 2
+    Y: 161
+    Z: -5
+    Particle: SoulWell
+  StaffHead-Admin:
+    World: lobby
+    X: 10
+    Y: 161
+    Z: 19
+    Particle: Water
+  StaffAdmin:
+    World: lobby
+    X: -3
+    Y: 161
+    Z: 16
+    Particle: SnowBlast
+  StaffModerator:
+    World: lobby
+    X: -6
+    Y: 161
+    Z: 19
+    Particle: BigCrit
+  StaffDeveloper:
+    World: lobby
+    X: 2
+    Y: 161
+    Z: 15
+    Particle: FlameWheel
+  StaffManager:
+    World: lobby
+    X: 7
+    Y: 161
+    Z: 16
+    Particle: Fog

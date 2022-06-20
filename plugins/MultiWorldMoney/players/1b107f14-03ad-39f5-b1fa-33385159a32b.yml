@@ -1,0 +1,8 @@
+name: Otuka
+uuid: 1b107f14-03ad-39f5-b1fa-33385159a32b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

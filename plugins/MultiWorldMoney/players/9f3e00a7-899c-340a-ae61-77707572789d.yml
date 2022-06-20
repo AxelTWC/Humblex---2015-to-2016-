@@ -1,0 +1,7 @@
+name: scott
+uuid: 9f3e00a7-899c-340a-ae61-77707572789d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 500.0
+  spawn_nether: 0.0

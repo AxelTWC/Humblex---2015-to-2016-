@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: JusTinMagLaVa
+timestamps:
+  login: 1476374995902
+  logout: 1476375291027
+ipAddress: 178.202.59.225
+socialspy: false
+lastlocation:
+  world: map
+  x: -1005.1461981180303
+  y: 13.0
+  z: 284.3045902842706
+  yaw: -132.01169
+  pitch: -90.0
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

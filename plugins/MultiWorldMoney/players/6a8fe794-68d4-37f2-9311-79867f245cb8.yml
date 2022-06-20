@@ -1,0 +1,7 @@
+name: potassium0
+uuid: 6a8fe794-68d4-37f2-9311-79867f245cb8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

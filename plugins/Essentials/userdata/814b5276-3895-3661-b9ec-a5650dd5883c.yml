@@ -1,0 +1,45 @@
+timestamps:
+  logout: 1490096141623
+  login: 1490095521872
+  lastteleport: 1490095690636
+  kits:
+    daily: 1472736914917
+    titan: 1468515470203
+    notch: 1468515440261
+    god: 1481028701644
+    emerald: 1468515455964
+    weekly: 1472648827826
+    pegasus: 1480942580807
+lastAccountName: audi2015
+ipAddress: 204.93.58.86
+socialspy: false
+logoutlocation:
+  world: spawn
+  x: 846.4038803834367
+  y: 15.0
+  z: 278.45725500029545
+  yaw: -4.439868
+  pitch: 28.276674
+lastlocation:
+  world: spawn
+  x: 59.522292097181165
+  y: 78.0
+  z: 242.51459807118326
+  yaw: 177.59964
+  pitch: 3.5526443
+afk: false
+money: '68021.00'
+powertools:
+  '286':
+  - kittycannon
+  '269':
+  - tree
+  '369':
+  - jump
+  '291':
+  - smite
+  '292':
+  - jump
+teleportenabled: true
+nickname: §b§lAudi§6§l2§4§l0§7§l1§2§l5
+godmode: false

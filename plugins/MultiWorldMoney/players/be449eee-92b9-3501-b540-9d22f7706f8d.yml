@@ -1,0 +1,7 @@
+name: DemonSquid
+uuid: be449eee-92b9-3501-b540-9d22f7706f8d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

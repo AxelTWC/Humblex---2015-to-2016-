@@ -1,0 +1,7 @@
+name: TK29
+uuid: 16b74ac2-00dc-3c61-a955-bf0550ba6f16
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

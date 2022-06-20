@@ -1,0 +1,7 @@
+name: iCodeHit
+uuid: 05ae1f92-2430-37e3-a821-6dfb3bd933c6
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,234 @@
+'1':
+  uniqueId: e34d78a7-5c3e-4015-965d-b0c1597a9ce4
+  name: FoodShop
+  world: spawn
+  x: 54
+  y: 78
+  z: 186
+  type: admin
+  object: villager
+  uuid: cfcefcb3-4b0a-4749-afe6-d5e287e60c3c
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+        amount: 8
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 8
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_FISH
+        amount: 8
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_FISH
+        damage: 1
+        amount: 8
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_FISH
+        damage: 1
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_FISH
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+'2':
+  uniqueId: 54b7f499-48d4-4a3c-a307-8c036c7e1968
+  name: DiamondShop
+  world: spawn
+  x: 54
+  y: 78
+  z: 180
+  type: admin
+  object: villager
+  uuid: 1b076964-b2a3-463d-a857-f78433ea9461
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 6
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+'3':
+  uniqueId: fd063b14-56b7-4442-99c8-bfbb36c1db88
+  name: SplashPotionShop
+  world: spawn
+  x: 54
+  y: 78
+  z: 174
+  type: admin
+  object: villager
+  uuid: 5842864e-c625-4c20-a82a-f728afc6c702
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16462
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16461
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16459
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16458
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16421
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16454
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16428
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 16457

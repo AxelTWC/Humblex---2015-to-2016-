@@ -1,0 +1,7 @@
+name: bookboy123
+uuid: 8d54106e-6926-3c92-9870-389b1c79aaa0
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

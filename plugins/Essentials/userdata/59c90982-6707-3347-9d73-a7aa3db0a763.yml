@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: ThisGuy
+timestamps:
+  login: 1473527830209
+  logout: 1473527988525
+ipAddress: 71.49.130.175
+socialspy: false
+lastlocation:
+  world: map
+  x: -955.55040759364
+  y: 13.0
+  z: 282.6794466543188
+  yaw: 44.845703
+  pitch: 20.700027
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

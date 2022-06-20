@@ -1,0 +1,8 @@
+name: Die2kAufloesung
+uuid: 981dcd9d-9bb5-35cf-8d11-7af73effe099
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

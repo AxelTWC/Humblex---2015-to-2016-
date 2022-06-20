@@ -1,0 +1,7 @@
+name: GreenMassterGame
+uuid: a62916f7-96a9-3df7-a2b4-3cfb3630a2d8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

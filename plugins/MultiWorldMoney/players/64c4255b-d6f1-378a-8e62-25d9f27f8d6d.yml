@@ -1,0 +1,11 @@
+name: ervin
+uuid: 64c4255b-d6f1-378a-8e62-25d9f27f8d6d
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 100.0

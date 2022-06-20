@@ -1,0 +1,24 @@
+lastAccountName: Rupah
+timestamps:
+  login: 1468418290574
+  kits:
+    daily: 1468418522103
+    weekly: 1468418221862
+  logout: 1468420331256
+ipAddress: 89.233.49.203
+socialspy: false
+money: '60.0'
+lastlocation:
+  world: map
+  x: -981.7139740906375
+  y: 15.879620990558756
+  z: 270.1482011627303
+  yaw: -56.210846
+  pitch: -4.9661636
+logoutlocation:
+  world: lobby
+  x: 0.6894894532075332
+  y: 8.5
+  z: 0.4657392929413994
+  yaw: 0.0
+  pitch: 0.0

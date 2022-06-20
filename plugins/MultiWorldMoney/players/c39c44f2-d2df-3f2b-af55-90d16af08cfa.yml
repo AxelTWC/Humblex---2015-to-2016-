@@ -1,0 +1,11 @@
+name: superhero2016
+uuid: c39c44f2-d2df-3f2b-af55-90d16af08cfa
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 500.0

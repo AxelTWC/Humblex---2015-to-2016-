@@ -1,0 +1,11 @@
+name: JeromeASF
+uuid: 4fe172ec-6bee-3d4b-800a-6cef79cd3645
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

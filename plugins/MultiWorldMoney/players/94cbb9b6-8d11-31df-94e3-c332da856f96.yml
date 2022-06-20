@@ -1,0 +1,12 @@
+name: Lenaa
+uuid: 94cbb9b6-8d11-31df-94e3-c332da856f96
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 2335.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 600.0
+  skywars: 0.0

@@ -1,0 +1,7 @@
+name: TowerPlays99
+uuid: 72e5304b-3702-3e03-9e39-db4f22f5db6c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

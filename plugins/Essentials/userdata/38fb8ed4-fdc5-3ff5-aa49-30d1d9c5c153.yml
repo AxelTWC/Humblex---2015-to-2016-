@@ -1,0 +1,18 @@
+money: '250.0'
+socialspy: false
+lastAccountName: Coversation
+timestamps:
+  login: 1477496629954
+  kits:
+    daily: 1477496678286
+    tools: 1477496684991
+    weekly: 1477496672008
+  logout: 1477496692145
+ipAddress: 145.132.198.192
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

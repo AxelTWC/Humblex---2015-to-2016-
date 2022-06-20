@@ -1,0 +1,7 @@
+name: TACOMANPRO
+uuid: c97fa5b8-c9f8-305f-a72d-0b051c2b1640
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

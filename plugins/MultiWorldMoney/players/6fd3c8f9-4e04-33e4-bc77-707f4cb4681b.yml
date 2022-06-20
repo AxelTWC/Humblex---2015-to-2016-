@@ -1,0 +1,7 @@
+name: Askthepro
+uuid: 6fd3c8f9-4e04-33e4-bc77-707f4cb4681b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: Sorble
+uuid: 96fd4b3d-fa45-3e49-aa9f-8c7591d06b2c
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

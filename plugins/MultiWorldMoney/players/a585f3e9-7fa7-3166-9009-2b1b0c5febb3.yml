@@ -1,0 +1,7 @@
+name: YouGetLs
+uuid: a585f3e9-7fa7-3166-9009-2b1b0c5febb3
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

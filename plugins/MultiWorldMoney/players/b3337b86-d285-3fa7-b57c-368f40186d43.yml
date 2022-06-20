@@ -1,0 +1,8 @@
+name: Herook
+uuid: b3337b86-d285-3fa7-b57c-368f40186d43
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 200.0

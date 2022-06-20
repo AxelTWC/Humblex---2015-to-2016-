@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ForgottenBolt
+timestamps:
+  login: 1467812160941
+  logout: 1467812286615
+ipAddress: 72.161.32.171
+lastlocation:
+  world: spawn
+  x: -9.5
+  y: 109.0
+  z: 135.5
+  yaw: 0.0
+  pitch: 0.0
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -10.622593711795588
+  y: 109.0
+  z: 120.43668555634
+  yaw: 183.03998
+  pitch: 16.581669

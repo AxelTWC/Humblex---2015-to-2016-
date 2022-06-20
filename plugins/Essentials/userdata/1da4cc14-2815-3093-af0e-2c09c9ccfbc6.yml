@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: iTzOnic
+timestamps:
+  login: 1470195737541
+  logout: 1470196103734
+ipAddress: 45.50.95.193
+socialspy: false
+lastlocation:
+  world: map
+  x: -1015.5590825715802
+  y: 13.0
+  z: 243.49731260198752
+  yaw: 33.896076
+  pitch: 13.200065
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

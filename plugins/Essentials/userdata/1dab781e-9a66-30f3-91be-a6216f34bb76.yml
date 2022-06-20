@@ -1,0 +1,16 @@
+money: '150.0'
+lastAccountName: Y0urs
+timestamps:
+  login: 1485869304043
+  kits:
+    weekly: 1485869331491
+  logout: 1485869434904
+ipAddress: 118.200.52.47
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

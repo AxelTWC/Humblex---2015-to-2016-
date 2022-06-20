@@ -1,0 +1,7 @@
+name: Smartness
+uuid: ac49aa93-e867-3e86-b828-c445c0bc1b42
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

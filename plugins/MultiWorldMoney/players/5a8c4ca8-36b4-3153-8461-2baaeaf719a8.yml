@@ -1,0 +1,7 @@
+name: ACTV
+uuid: 5a8c4ca8-36b4-3153-8461-2baaeaf719a8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

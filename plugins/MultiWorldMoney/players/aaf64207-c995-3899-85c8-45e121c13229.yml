@@ -1,0 +1,7 @@
+name: itsBambie
+uuid: aaf64207-c995-3899-85c8-45e121c13229
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: GhxstSentinel
+uuid: 10e87368-7401-3577-ac97-ff4357f7c588
+logoffworld: lobby
+balances:
+  lobby: 210.0
+  spawn: 0.0
+  spawn_nether: 0.0

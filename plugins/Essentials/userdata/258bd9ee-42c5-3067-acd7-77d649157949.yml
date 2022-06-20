@@ -1,0 +1,22 @@
+lastAccountName: Odex
+timestamps:
+  login: 1474759334727
+  lastteleport: 1474759360927
+  logout: 1474759376889
+ipAddress: 108.230.70.179
+money: '150.0'
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.5705507144340787
+  y: 81.5
+  z: -1.981885182928298
+  yaw: -180.75005
+  pitch: 2.1000013
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

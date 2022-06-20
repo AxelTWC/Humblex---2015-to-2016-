@@ -1,0 +1,10 @@
+name: LightningWolf
+uuid: 808f232d-f6f3-3d49-8226-c75dc1e0251b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

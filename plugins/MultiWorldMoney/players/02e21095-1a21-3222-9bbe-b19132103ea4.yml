@@ -1,0 +1,7 @@
+name: Fagore
+uuid: 02e21095-1a21-3222-9bbe-b19132103ea4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

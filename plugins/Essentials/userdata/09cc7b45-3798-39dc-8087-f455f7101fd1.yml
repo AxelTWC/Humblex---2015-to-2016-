@@ -1,0 +1,82 @@
+lastAccountName: ProKingLikeABoss
+timestamps:
+  login: 1486272151355
+  lastteleport: 1485708264237
+  logout: 1486272159613
+  kits:
+    youtube: 1484960205661
+    illuminati: 1485708154734
+    color: 1475287419622
+    ultimate: 1484503733238
+    dtools: 1475287203012
+    tools: 1473084312465
+    weekly: 1475287436947
+    pegasus: 1485707936752
+    firework: 1475287236892
+    elite: 1484502726569
+    legendary: 1485708163435
+    daily: 1469733573629
+    titan: 1474748876351
+    coal: 1475287397818
+    god: 1485708034575
+    emerald: 1477095450572
+  mute: 0
+ipAddress: 112.120.53.50
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 46.089345238897494
+  y: 89.20000004768372
+  z: -9.04527548254241
+  yaw: -65.72321
+  pitch: 15.246949
+money: '352220.00'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  base:
+    world: spawn
+    x: -1644.314943918915
+    y: 5.0
+    z: 12231.033060251913
+    yaw: 179.9414
+    pitch: 6.1499934
+  home:
+    world: spawn
+    x: 117.30901608473768
+    y: 17.0
+    z: -718.7686945821121
+    yaw: -301.35422
+    pitch: 32.100063
+  abuse:
+    world: spawn
+    x: 203.69603354787776
+    y: 94.0
+    z: 775.0476454808364
+    yaw: 175.01404
+    pitch: 33.899998
+  elephant:
+    world: spawn
+    x: 230.34630236063052
+    y: 101.13926241138272
+    z: -918.5351325803936
+    yaw: 16.503662
+    pitch: 32.549995
+afk: false
+nickname: §3§Kg§9indigo§7For§8Mayor§3§kg
+muted: false
+godmode: false
+powertools:
+  '5':
+  - /kill xX_scyp10_Xx
+  '280':
+  - kittycannon
+  '383':
+  - sell all
+  '138':
+  - i diamondblock 2304

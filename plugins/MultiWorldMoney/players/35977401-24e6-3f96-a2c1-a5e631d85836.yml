@@ -1,0 +1,8 @@
+name: PRO_BOY_GAMES
+uuid: 35977401-24e6-3f96-a2c1-a5e631d85836
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: PvPbuger
+timestamps:
+  login: 1474184561550
+  logout: 1474184597768
+  kits:
+    weekly: 1474183425458
+ipAddress: 146.60.66.172
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -980.6686706821444
+  y: 13.0
+  z: 305.3379111179729
+  yaw: 64.783936
+  pitch: -0.8365681

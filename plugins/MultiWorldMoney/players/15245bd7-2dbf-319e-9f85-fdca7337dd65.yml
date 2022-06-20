@@ -1,0 +1,7 @@
+name: Vutex
+uuid: 15245bd7-2dbf-319e-9f85-fdca7337dd65
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

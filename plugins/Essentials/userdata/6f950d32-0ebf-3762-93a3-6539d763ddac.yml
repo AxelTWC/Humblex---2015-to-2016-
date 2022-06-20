@@ -1,0 +1,25 @@
+money: '450.0'
+lastAccountName: Angelinab13
+timestamps:
+  login: 1477223801265
+  kits:
+    daily: 1476042691368
+    weekly: 1477223866226
+  lastteleport: 1476042810616
+  logout: 1477223872489
+ipAddress: 82.35.188.8
+socialspy: false
+lastlocation:
+  world: map
+  x: -1004.037940608706
+  y: 14.028797990896415
+  z: 282.70361756657735
+  yaw: -159.75427
+  pitch: 1.3500007
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: TeitoRaggs
+uuid: 0c450719-be9b-3db3-a48f-13574b37afa1
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

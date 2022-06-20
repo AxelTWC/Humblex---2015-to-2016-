@@ -1,0 +1,8 @@
+name: MRJSN
+uuid: 4c786711-e2db-350e-9864-0b480eb93c1f
+logoffworld: lobby
+balances:
+  lobby: 650.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

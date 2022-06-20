@@ -1,0 +1,7 @@
+name: LukeJS
+uuid: b4ec66ab-a00d-3c3d-9443-7cae4d2820d2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

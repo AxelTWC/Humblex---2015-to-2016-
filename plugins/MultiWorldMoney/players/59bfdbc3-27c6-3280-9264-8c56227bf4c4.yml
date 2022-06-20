@@ -1,0 +1,8 @@
+name: AxelRecorderFTW
+uuid: 59bfdbc3-27c6-3280-9264-8c56227bf4c4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

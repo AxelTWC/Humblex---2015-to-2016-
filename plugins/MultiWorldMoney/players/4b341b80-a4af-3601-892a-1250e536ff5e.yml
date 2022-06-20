@@ -1,0 +1,12 @@
+name: PuggyTakeL
+uuid: 4b341b80-a4af-3601-892a-1250e536ff5e
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 200.0

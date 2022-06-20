@@ -1,0 +1,10 @@
+name: ZwBookX
+uuid: 0bf4e4b2-469e-3c2d-ae4e-f16bf84de231
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

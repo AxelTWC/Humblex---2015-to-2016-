@@ -1,0 +1,8 @@
+name: Rickmannie
+uuid: 3f3aa00d-79b4-34f3-a15f-b69384b9a455
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

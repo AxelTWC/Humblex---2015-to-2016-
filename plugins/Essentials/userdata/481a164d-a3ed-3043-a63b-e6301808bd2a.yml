@@ -1,0 +1,16 @@
+money: '250.0'
+socialspy: false
+lastAccountName: Exxudo
+timestamps:
+  login: 1472222846450
+  kits:
+    weekly: 1472222938085
+  logout: 1472223052979
+ipAddress: 47.16.130.205
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

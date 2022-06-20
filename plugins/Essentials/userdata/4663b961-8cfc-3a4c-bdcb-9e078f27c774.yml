@@ -1,0 +1,22 @@
+money: '350.0'
+lastAccountName: salty_dog_1234
+timestamps:
+  login: 1482518791404
+  logout: 1482518908044
+  lastteleport: 1482518815688
+ipAddress: 73.26.235.2
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skywars
+  x: -239.42582999880676
+  y: 5.0
+  z: -4.386447679416666
+  yaw: -308.95004
+  pitch: -4.5000043

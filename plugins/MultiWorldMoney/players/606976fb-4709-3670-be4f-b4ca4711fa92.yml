@@ -1,0 +1,8 @@
+name: Kypselon
+uuid: 606976fb-4709-3670-be4f-b4ca4711fa92
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

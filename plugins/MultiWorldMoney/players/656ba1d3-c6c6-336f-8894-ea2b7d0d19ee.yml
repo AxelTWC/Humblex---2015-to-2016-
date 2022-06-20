@@ -1,0 +1,7 @@
+name: Stamsite
+uuid: 656ba1d3-c6c6-336f-8894-ea2b7d0d19ee
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

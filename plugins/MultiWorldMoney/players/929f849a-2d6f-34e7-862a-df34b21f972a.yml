@@ -1,0 +1,7 @@
+name: GummyJon
+uuid: 929f849a-2d6f-34e7-862a-df34b21f972a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,19 @@
+# 
+#          ComboCounter            #
+#        Made by Jwoolley          #
+ChatTag: '&f[Combo]'
+ChatFormat: '&c%player &7just hit a &c%amount &7combo on &c%victim'
+Combos:
+- 3
+- 5
+- 7
+- 10
+- 15
+- 20
+- 25
+- 50
+ComboTimeout: 1.0
+TopPlayers:
+  '1': Dojo215-19322
+  '2': Astrofish7-538
+  '3': Dojo215-528

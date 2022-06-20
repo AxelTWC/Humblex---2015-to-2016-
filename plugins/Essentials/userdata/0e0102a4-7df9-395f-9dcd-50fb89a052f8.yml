@@ -1,0 +1,22 @@
+money: '250.0'
+socialspy: false
+lastAccountName: MrSiga
+timestamps:
+  login: 1478699334993
+  lastteleport: 1478699346792
+  logout: 1478699462374
+ipAddress: 216.172.142.209
+lastlocation:
+  world: lobby
+  x: 0.35718648631124017
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: -77.72864
+  pitch: 39.45013
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

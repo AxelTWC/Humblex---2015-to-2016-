@@ -1,0 +1,7 @@
+name: FluffyTaxi
+uuid: 9de393bd-e138-3e0d-b85d-f4786f7696e3
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

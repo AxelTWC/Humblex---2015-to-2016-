@@ -1,0 +1,8 @@
+name: TullyPvP
+uuid: b2077e74-8905-35e9-ad39-a6b7ed4d3ea9
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 100.0

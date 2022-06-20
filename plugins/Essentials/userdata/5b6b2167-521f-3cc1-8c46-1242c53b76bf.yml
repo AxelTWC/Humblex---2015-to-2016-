@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: JasonL0711
+timestamps:
+  login: 1478866092994
+  kits:
+    tools: 1478866951755
+  logout: 1478867234991
+ipAddress: 59.148.105.65
+socialspy: false
+lastlocation:
+  world: map
+  x: -1013.2225089654745
+  y: 13.101838258564934
+  z: 284.96090632382237
+  yaw: 165.10214
+  pitch: 55.640198
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

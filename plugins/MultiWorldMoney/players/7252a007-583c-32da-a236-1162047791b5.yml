@@ -1,0 +1,7 @@
+name: BeachCrazy50
+uuid: 7252a007-583c-32da-a236-1162047791b5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: ChiCken_Ledel
+uuid: 54e04d9a-074e-33d1-91da-786c85a47c02
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

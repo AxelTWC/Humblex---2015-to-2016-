@@ -1,0 +1,7 @@
+name: LastModded
+uuid: 3a507f41-9b9e-3525-9aed-ae58134ecbfb
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

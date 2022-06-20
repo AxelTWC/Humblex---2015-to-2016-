@@ -1,0 +1,7 @@
+name: solgamer
+uuid: 3375a71c-8955-3c1c-8193-619e90aa7c59
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,34 @@
+money: '4182.02120000000105416'
+lastAccountName: Astrofish7
+timestamps:
+  login: 1490701559707
+  logout: 1490701839196
+  lastteleport: 1490610979070
+  kits:
+    firework: 1485056975160
+    ultimate: 1483969130479
+    titan: 1484534424747
+    notch: 1485056964760
+    dtools: 1485869052454
+    emerald: 1485575548397
+    pegasus: 1483852211629
+    weekly: 1485860408745
+ipAddress: 218.252.94.98
+socialspy: false
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+nickname: §a§lAsif_
+lastlocation:
+  world: spawn
+  x: 59.45134018968019
+  y: 78.0
+  z: 229.71455228818695
+  yaw: -180.90038
+  pitch: 10.452642
+godmode: false

@@ -1,0 +1,7 @@
+name: CreativeRules25
+uuid: 7d6ae818-6e70-3bfe-afc7-1a53b8745a5e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

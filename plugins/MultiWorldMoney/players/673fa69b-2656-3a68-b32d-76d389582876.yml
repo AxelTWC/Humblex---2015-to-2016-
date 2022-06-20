@@ -1,0 +1,10 @@
+name: ProHunter101
+uuid: 673fa69b-2656-3a68-b32d-76d389582876
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 80000.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

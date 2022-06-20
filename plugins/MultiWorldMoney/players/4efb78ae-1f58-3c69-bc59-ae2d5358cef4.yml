@@ -1,0 +1,7 @@
+name: AleWGF
+uuid: 4efb78ae-1f58-3c69-bc59-ae2d5358cef4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

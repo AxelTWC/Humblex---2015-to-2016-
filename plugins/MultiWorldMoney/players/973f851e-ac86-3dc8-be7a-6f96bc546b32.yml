@@ -1,0 +1,11 @@
+name: ElementalFire
+uuid: 973f851e-ac86-3dc8-be7a-6f96bc546b32
+logoffworld: lobby
+balances:
+  lobby: 750.0
+  spawn: 213.5
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 4716.5
+  map: 500.0

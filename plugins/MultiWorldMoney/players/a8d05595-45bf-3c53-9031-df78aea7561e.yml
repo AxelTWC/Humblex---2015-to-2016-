@@ -1,0 +1,7 @@
+name: DeathsComing
+uuid: a8d05595-45bf-3c53-9031-df78aea7561e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

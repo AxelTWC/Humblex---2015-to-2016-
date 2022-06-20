@@ -1,0 +1,11 @@
+name: BackUpM10
+uuid: 68fcf3ab-9486-3893-98d3-5c1059431f44
+logoffworld: lobby
+balances:
+  lobby: 556.0
+  spawn: 2355.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 200.0

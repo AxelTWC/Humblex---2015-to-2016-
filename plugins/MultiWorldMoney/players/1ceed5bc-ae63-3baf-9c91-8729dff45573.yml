@@ -1,0 +1,7 @@
+name: kingkesh
+uuid: 1ceed5bc-ae63-3baf-9c91-8729dff45573
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

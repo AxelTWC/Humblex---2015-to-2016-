@@ -1,0 +1,7 @@
+name: dr_59
+uuid: 4818131e-125e-384e-a759-3e15a374ffcf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: IlkerLOG
+uuid: 42117f5e-9390-3668-b27f-bc0b6d16f280
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

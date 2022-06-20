@@ -1,0 +1,7 @@
+name: SandwichWizard
+uuid: 7a29c2cd-23c4-3636-a7c1-641d2f748e03
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

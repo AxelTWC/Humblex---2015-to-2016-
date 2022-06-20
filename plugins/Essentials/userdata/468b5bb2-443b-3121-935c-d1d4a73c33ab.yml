@@ -1,0 +1,24 @@
+lastAccountName: MayorMcCheese227
+timestamps:
+  login: 1467296658265
+  logout: 1467296739894
+  kits:
+    titan: 1467069688036
+  lastteleport: 1467070542504
+ipAddress: 67.162.56.58
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -36.69999998807907
+  y: 109.0
+  z: 131.58110292708437
+  yaw: -248.55016
+  pitch: -72.15003
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -1132.2098497069626
+  y: 74.0
+  z: 9722.485595230435
+  yaw: 132.00595
+  pitch: 21.150002

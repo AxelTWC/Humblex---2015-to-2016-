@@ -1,0 +1,7 @@
+name: JackAttack500_
+uuid: bc7e96a6-b463-3fbe-ae4f-200663b53ff9
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

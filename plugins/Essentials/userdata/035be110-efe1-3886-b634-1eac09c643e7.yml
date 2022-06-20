@@ -1,0 +1,23 @@
+socialspy: false
+money: '150.0'
+lastAccountName: Zimoni
+timestamps:
+  login: 1490283368619
+  lastteleport: 1490284617434
+  logout: 1490285414603
+ipAddress: 46.11.82.190
+afk: false
+lastlocation:
+  world: spawn
+  x: 55.689442754809335
+  y: 78.5
+  z: 212.67532623880695
+  yaw: -168.6004
+  pitch: 23.802645
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

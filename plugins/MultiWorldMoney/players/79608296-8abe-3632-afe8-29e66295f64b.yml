@@ -1,0 +1,7 @@
+name: busynarcissist
+uuid: 79608296-8abe-3632-afe8-29e66295f64b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

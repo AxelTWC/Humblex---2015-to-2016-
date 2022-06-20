@@ -1,0 +1,7 @@
+name: MetroRoadWarrior
+uuid: 4d2f0048-f2cb-31fd-8dfc-37510dca0db8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

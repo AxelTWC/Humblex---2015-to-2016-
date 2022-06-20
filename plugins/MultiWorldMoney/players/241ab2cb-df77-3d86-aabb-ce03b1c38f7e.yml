@@ -1,0 +1,7 @@
+name: REVENG3
+uuid: 241ab2cb-df77-3d86-aabb-ce03b1c38f7e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

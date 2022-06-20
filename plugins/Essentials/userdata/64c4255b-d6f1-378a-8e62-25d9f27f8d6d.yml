@@ -1,0 +1,22 @@
+lastAccountName: ervin
+timestamps:
+  login: 1468917240332
+  logout: 1468925077551
+ipAddress: 5.54.21.157
+socialspy: false
+lastlocation:
+  world: skyblock
+  x: -2.6357121523588622
+  y: 83.0
+  z: 3.5008462504175597
+  yaw: -178.95105
+  pitch: 13.500095
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+money: '150.0'

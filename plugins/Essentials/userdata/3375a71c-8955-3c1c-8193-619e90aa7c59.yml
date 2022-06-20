@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: solgamer
+timestamps:
+  login: 1474531165514
+  logout: 1474531183112
+ipAddress: 203.87.133.198
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

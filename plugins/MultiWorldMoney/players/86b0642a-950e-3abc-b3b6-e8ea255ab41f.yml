@@ -1,0 +1,7 @@
+name: DerpyCraftZ
+uuid: 86b0642a-950e-3abc-b3b6-e8ea255ab41f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

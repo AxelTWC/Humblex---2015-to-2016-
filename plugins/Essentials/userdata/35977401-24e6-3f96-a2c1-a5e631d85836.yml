@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: PRO_BOY_GAMES
+timestamps:
+  login: 1477579132591
+  lastteleport: 1477578985840
+  logout: 1477579281099
+ipAddress: 41.97.4.178
+socialspy: false
+lastlocation:
+  world: map
+  x: -996.3516151731766
+  y: 89.0155550727022
+  z: 275.2513928384949
+  yaw: 83.99577
+  pitch: 14.250042
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: SlimeActor99
+uuid: b6a8e97d-678f-3a57-85a8-0a3df4612077
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

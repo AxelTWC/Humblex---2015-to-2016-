@@ -1,0 +1,7 @@
+name: darkradience
+uuid: 4ab7cd27-c991-3b64-a60a-0982abf77a81
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

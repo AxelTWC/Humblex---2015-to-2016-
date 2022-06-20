@@ -1,0 +1,24 @@
+lastAccountName: NameJT
+socialspy: false
+timestamps:
+  login: 1468153160961
+  logout: 1468153256960
+  lastteleport: 1468089179884
+  kits:
+    weekly: 1468085844449
+ipAddress: 176.93.19.152
+lastlocation:
+  world: spawn
+  x: -892.0038366471157
+  y: 54.0
+  z: -1048.0148987846992
+  yaw: -97.880585
+  pitch: 46.650013
+money: '70545.0'
+logoutlocation:
+  world: lobby
+  x: 0.45479202378340267
+  y: 8.5
+  z: 0.2520700384173211
+  yaw: 0.0
+  pitch: 0.0

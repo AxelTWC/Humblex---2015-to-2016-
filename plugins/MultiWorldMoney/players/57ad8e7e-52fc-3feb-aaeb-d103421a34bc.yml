@@ -1,0 +1,9 @@
+name: xJSTNB
+uuid: 57ad8e7e-52fc-3feb-aaeb-d103421a34bc
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars_the_end: 0.0
+  skywars: 0.0

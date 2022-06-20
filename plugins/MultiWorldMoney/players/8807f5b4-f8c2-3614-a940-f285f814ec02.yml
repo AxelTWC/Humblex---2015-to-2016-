@@ -1,0 +1,7 @@
+name: NitroSlimeLP
+uuid: 8807f5b4-f8c2-3614-a940-f285f814ec02
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: Crianade
+uuid: b2eab125-1326-32c7-94c8-2c0f9d217664
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

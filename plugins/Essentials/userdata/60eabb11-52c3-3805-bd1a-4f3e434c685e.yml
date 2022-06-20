@@ -1,0 +1,26 @@
+money: '150.0'
+lastAccountName: ReemMC
+timestamps:
+  login: 1472205627186
+  kits:
+    daily: 1472205661560
+    tools: 1472205659010
+    weekly: 1472205664610
+  lastteleport: 1472205691502
+  logout: 1472205873257
+ipAddress: 178.153.31.197
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1166.9581045133996
+  y: 71.0625
+  z: 9724.873827326714
+  yaw: 202.15393
+  pitch: -47.75422
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

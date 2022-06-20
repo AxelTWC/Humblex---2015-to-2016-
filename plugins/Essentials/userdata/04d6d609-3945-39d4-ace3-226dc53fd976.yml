@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: renan
+timestamps:
+  login: 1473448402899
+  lastteleport: 1473448597522
+  logout: 1473448721224
+ipAddress: 179.183.42.3
+socialspy: false
+lastlocation:
+  world: skyblock
+  x: -5.428397084973954
+  y: 82.0
+  z: -5.258193770234904
+  yaw: -158.17534
+  pitch: 21.59061
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

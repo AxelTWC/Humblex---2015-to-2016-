@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: jigroshi
+timestamps:
+  login: 1470404947083
+  lastteleport: 1470405035346
+  logout: 1470405266721
+ipAddress: 82.72.91.125
+socialspy: false
+lastlocation:
+  world: map
+  x: -992.9300532010719
+  y: 88.0
+  z: 277.71096745263515
+  yaw: 179.10663
+  pitch: -5.4735036
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

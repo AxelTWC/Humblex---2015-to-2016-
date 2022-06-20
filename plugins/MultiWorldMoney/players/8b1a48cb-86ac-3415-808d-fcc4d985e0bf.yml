@@ -1,0 +1,7 @@
+name: hubey2
+uuid: 8b1a48cb-86ac-3415-808d-fcc4d985e0bf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

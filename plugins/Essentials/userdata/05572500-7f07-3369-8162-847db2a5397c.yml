@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: Parise
+timestamps:
+  login: 1471640126890
+  logout: 1471641525147
+ipAddress: 94.68.179.125
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: 1016.8026244726444
+  y: 113.0
+  z: -360.32256812749415
+  yaw: -23.099049
+  pitch: 13.6498375

@@ -1,0 +1,7 @@
+name: BuildElderYT
+uuid: b23de92b-7ea2-346c-bbef-e8f3e483d451
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

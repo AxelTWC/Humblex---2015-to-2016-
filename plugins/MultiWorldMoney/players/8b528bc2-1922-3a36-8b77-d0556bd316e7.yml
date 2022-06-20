@@ -1,0 +1,7 @@
+name: LeoFerari
+uuid: 8b528bc2-1922-3a36-8b77-d0556bd316e7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

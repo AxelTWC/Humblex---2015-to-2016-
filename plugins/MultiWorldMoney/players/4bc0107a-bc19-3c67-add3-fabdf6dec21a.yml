@@ -1,0 +1,7 @@
+name: explodingtnt
+uuid: 4bc0107a-bc19-3c67-add3-fabdf6dec21a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

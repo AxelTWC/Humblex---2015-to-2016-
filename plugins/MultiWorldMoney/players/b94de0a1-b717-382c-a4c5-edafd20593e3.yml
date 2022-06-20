@@ -1,0 +1,7 @@
+name: AsureEyes
+uuid: b94de0a1-b717-382c-a4c5-edafd20593e3
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

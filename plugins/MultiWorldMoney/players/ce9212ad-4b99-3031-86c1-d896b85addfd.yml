@@ -1,0 +1,7 @@
+name: iHoaz
+uuid: ce9212ad-4b99-3031-86c1-d896b85addfd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

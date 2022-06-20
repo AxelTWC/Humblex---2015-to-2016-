@@ -1,0 +1,44 @@
+money: '450.00'
+lastAccountName: Wolf0Minecraft12
+timestamps:
+  login: 1481223195388
+  logout: 1481223228506
+  lastteleport: 1480333173621
+  kits:
+    youtube: 1480170185194
+    illuminati: 1480073481770
+    elite: 1480092322011
+    legendary: 1480170298230
+    ultimate: 1480092347027
+    daily: 1480327647156
+    tools: 1480015874573
+    god: 1480076271953
+    weekly: 1480012816046
+    pegasus: 1480021886758
+  mute: 0
+ipAddress: 109.67.25.132
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: 57.34636136612326
+  y: 88.0
+  z: 0.702701071836721
+  yaw: 274.85806
+  pitch: 47.689705
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -194.8276039803229
+    y: 5.0
+    z: 522.8131453503113
+    yaw: -82.67078
+    pitch: 17.818727
+muted: false

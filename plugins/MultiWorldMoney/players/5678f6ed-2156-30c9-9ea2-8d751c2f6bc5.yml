@@ -1,0 +1,7 @@
+name: boriater
+uuid: 5678f6ed-2156-30c9-9ea2-8d751c2f6bc5
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,33 @@
+lastAccountName: mucahid_0412
+timestamps:
+  login: 1485017876906
+  logout: 1485019053785
+  kits:
+    tools: 1485010546601
+  lastteleport: 1485015921570
+ipAddress: 145.130.14.27
+money: '150.005'
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+lastlocation:
+  world: spawn
+  x: -532.0933340511626
+  y: 66.0
+  z: -672.2793137729606
+  yaw: -184.21864
+  pitch: 15.438791
+homes:
+  home:
+    world: spawn
+    x: -907.9250048348794
+    y: 71.0
+    z: 51.89082519596997
+    yaw: -279.5597
+    pitch: 17.296555

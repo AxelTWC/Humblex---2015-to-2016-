@@ -1,0 +1,7 @@
+name: ColdKraken
+uuid: 0b04e266-110c-3171-9c50-0431423ac4a9
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

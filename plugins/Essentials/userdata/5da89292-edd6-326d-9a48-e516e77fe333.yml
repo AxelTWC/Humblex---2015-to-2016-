@@ -1,0 +1,34 @@
+socialspy: false
+money: '150.000999999999519'
+lastAccountName: fxlc0n_
+timestamps:
+  login: 1488494528938
+  kits:
+    daily: 1488136364847
+    weekly: 1488136358488
+  lastteleport: 1488142461678
+  logout: 1488494661653
+ipAddress: 100.33.135.196
+lastlocation:
+  world: spawn
+  x: 76.2735550170063
+  y: 78.0625
+  z: 239.40718248551048
+  yaw: -191.5051
+  pitch: 6.3947134
+homes:
+  home:
+    world: spawn
+    x: 35.50232130104542
+    y: 60.0
+    z: 233.4475564037468
+    yaw: 13.949327
+    pitch: -57.797398
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

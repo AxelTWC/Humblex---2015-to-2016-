@@ -1,0 +1,28 @@
+lastAccountName: JanceREK
+timestamps:
+  login: 1482236675251
+  logout: 1482236763885
+  lastteleport: 1480273295298
+  kits:
+    illuminati: 1480071359946
+    ultimate: 1480170484551
+    legendary: 1480358367055
+    pegasus: 1480094511190
+ipAddress: 79.181.2.177
+socialspy: false
+money: '250.0'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: 1411.6131862643465
+  y: 123.8781780964688
+  z: 996.6730546309057
+  yaw: -296.6996
+  pitch: 61.650013
+afk: false

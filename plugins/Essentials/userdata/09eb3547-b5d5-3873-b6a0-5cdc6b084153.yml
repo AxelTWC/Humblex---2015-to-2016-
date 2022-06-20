@@ -1,0 +1,24 @@
+lastAccountName: andysf
+timestamps:
+  login: 1467604740336
+  lastteleport: 1467517587103
+  kits:
+    weekly: 1467516948549
+  logout: 1467604762000
+ipAddress: 36.83.59.249
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -102.04040989781905
+  y: 123.0
+  z: 89.39719634036553
+  yaw: 326.39587
+  pitch: 5.7000155
+money: '10.0'
+logoutlocation:
+  world: spawn
+  x: -1347.9439063737634
+  y: 64.0
+  z: 9816.930785449735
+  yaw: 303.6994
+  pitch: 9.749953

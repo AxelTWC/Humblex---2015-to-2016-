@@ -1,0 +1,7 @@
+name: JayAcero
+uuid: 80df1205-ef87-3f41-871c-e92002f5dbb7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,31 @@
+socialspy: false
+money: '150.00000000000000'
+lastAccountName: NeukStaaf22
+timestamps:
+  login: 1490776981442
+  lastteleport: 1490471607119
+  logout: 1490778426296
+ipAddress: 92.66.8.9
+lastlocation:
+  world: spawn
+  x: 59.46495786317446
+  y: 78.0
+  z: 239.50208196672608
+  yaw: -182.40036
+  pitch: 3.5526443
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: spawn
+    x: 42782.09617446713
+    y: 67.0
+    z: 26154.281786795014
+    yaw: -153.8424
+    pitch: 6.668897

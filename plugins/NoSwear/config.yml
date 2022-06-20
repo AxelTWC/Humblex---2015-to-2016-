@@ -1,0 +1,69 @@
+# ==== NoSwear Config ==== #
+Warnings: 3
+OnWarningsDeplete:
+  RestoreWarnings: true
+  Ban: false
+  Kick: true
+  Mute: false
+  Kill: false
+  Command:
+    Enabled: false
+    Execute: kill %PLAYER%
+  Economy:
+    Enabled: true
+    ChargeAmount: 10.0
+OnSwear:
+  CancelMessage: true
+  ReplaceSwearWord: false
+  StrictDetection:
+    Enabled: true
+    RegEx: '[^a-z0-9] '
+    RepeatedLetters: true
+  NotifyOps: false
+  UseOldDetection: false
+OnJoin:
+  WelcomeMessage: true
+  WarningsLeft: false
+Block:
+  Websites: true
+  Spam: true
+  Caps:
+    Enabled: true
+    MinPercent: 50
+  IncludeCommands: true
+  IncludeSigns: true
+Message:
+  Ban: Banned for breaking the rules!
+  Kick: Kicked for breaking the rules!
+  Muted: You have been muted!
+  Join: Protects this server!
+  Caps: Do not spam caps &b%PLAYER%&f!
+  Warn: Do not swear &b%PLAYER%&f!
+  Spam: Do not spam &b%PLAYER%&f!
+  SpamWait: Please wait %SECONDS% more seconds before talking again.
+  Advertise: Do not advertise &b%PLAYER%&f!
+  EconomyCharge: You have been charged $%AMOUNT%!
+  Remaining: You have &b%REMAINING% &f/ &3%DEFAULT% &fwarnings remaining.
+Muted:
+- []
+CheckForUpdates: true
+SubmitMetrics: true
+Version: '7.1'
+Warned:
+  TImePxl: 0
+  AxelTWC: 1
+  AshleyTCT: 2
+  Blank_infiety: 1
+  KristyK: 1
+  Mythical124: 0
+  Asif: 1
+  KryptialGaming: 0
+  MrPiggy: 3
+  TheDogJunior: 1
+  thenameisemma03: 0
+  NIGELDABOSS: 0
+  coolstain101: 3
+  gr4ysheep: 1
+  Mekachu: 2
+  Sparklez_World: 1
+  JuniorLover13: 2

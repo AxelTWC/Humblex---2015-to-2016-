@@ -1,0 +1,7 @@
+name: TheFoxarmy
+uuid: 427130e0-4c50-300d-929f-d27f21f3bab8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

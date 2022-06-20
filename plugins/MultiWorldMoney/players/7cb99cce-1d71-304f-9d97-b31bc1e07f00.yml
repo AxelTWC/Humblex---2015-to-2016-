@@ -1,0 +1,7 @@
+name: TGCARSH
+uuid: 7cb99cce-1d71-304f-9d97-b31bc1e07f00
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

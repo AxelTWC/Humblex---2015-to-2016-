@@ -1,0 +1,8 @@
+name: scribbleface101
+uuid: 55eff6b0-91a2-3167-aee4-a585f9ab80b6
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

@@ -1,0 +1,7 @@
+name: NaboEstrangeiro
+uuid: a97dfdec-437b-37f3-a105-2cc4754494a8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

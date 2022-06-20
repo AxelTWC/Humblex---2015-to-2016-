@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: BRUH_GET_ME_CORN
+timestamps:
+  login: 1476069131327
+  lastteleport: 1476069142609
+  logout: 1476069229663
+ipAddress: 216.172.142.17
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.5964028097698006
+  y: 83.0
+  z: -0.031328766370855354
+  yaw: -181.80003
+  pitch: 6.3000026
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

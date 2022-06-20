@@ -1,0 +1,11 @@
+name: OmqSean
+uuid: 943975be-edcf-31e8-a3c2-0019417303bd
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 3000.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 0.0

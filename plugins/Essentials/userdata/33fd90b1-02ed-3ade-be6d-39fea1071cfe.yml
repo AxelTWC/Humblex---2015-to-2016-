@@ -1,0 +1,18 @@
+money: '150.0'
+lastAccountName: FactionsJay
+timestamps:
+  login: 1486072995626
+  kits:
+    daily: 1486073019525
+    tools: 1486073015925
+    weekly: 1486073023332
+  logout: 1486073161858
+ipAddress: 92.237.232.67
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

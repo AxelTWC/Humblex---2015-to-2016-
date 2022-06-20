@@ -1,0 +1,10 @@
+name: RuleGaming
+uuid: 348f701a-8b56-3b29-9c70-24b70359e06c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 1000.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

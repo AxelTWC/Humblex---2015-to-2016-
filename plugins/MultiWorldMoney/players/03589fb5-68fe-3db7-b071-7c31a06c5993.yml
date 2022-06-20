@@ -1,0 +1,12 @@
+name: ChocolateStone25
+uuid: 03589fb5-68fe-3db7-b071-7c31a06c5993
+logoffworld: lobby
+balances:
+  lobby: 550.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 1342.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

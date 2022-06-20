@@ -1,0 +1,25 @@
+money: '0.0'
+lastAccountName: Henryboss
+timestamps:
+  login: 1490404699521
+  logout: 1490404790882
+  kits:
+    weekly: 1480143252824
+  lastteleport: 1480902581145
+ipAddress: 24.5.193.183
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: -220.59224325958826
+  y: 4.0
+  z: -2.933254658819404
+  yaw: -87.79297
+  pitch: 2.4117293
+afk: false
+lastlocation:
+  world: map
+  x: -1000.028027156234
+  y: 18.0
+  z: 299.9918096945541
+  yaw: -111.814316
+  pitch: 48.7677

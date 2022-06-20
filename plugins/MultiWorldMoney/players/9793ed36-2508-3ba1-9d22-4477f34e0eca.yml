@@ -1,0 +1,8 @@
+name: Dawn
+uuid: 9793ed36-2508-3ba1-9d22-4477f34e0eca
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 500.0
+  spawn_nether: 0.0
+  map: 0.0

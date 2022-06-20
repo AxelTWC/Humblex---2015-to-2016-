@@ -1,0 +1,7 @@
+name: sneakysockpuppet
+uuid: 0ef803e1-030f-33f6-b0ce-2ee3dd0a60f5
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

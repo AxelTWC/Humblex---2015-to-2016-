@@ -1,0 +1,26 @@
+money: '250.0'
+socialspy: false
+lastAccountName: cooldude21
+timestamps:
+  login: 1476533303662
+  kits:
+    daily: 1476535502790
+    weekly: 1476533636650
+  lastteleport: 1476533952219
+  logout: 1476536632792
+ipAddress: 109.76.215.28
+lastlocation:
+  world: paradise_1
+  x: -21.571966412936106
+  y: -65.675281371703
+  z: -28.1811541397744
+  yaw: -45.63885
+  pitch: -86.3136
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

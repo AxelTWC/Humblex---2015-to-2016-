@@ -1,0 +1,7 @@
+name: HeadShopper
+uuid: 10fa73f9-bb44-3bfc-a89a-ae5450c0cc8a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

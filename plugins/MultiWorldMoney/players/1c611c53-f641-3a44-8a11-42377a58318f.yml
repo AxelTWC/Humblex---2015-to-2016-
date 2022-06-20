@@ -1,0 +1,7 @@
+name: Captc
+uuid: 1c611c53-f641-3a44-8a11-42377a58318f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

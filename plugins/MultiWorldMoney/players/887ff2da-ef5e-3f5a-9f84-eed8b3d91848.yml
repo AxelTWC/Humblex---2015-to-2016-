@@ -1,0 +1,12 @@
+name: Flowey
+uuid: 887ff2da-ef5e-3f5a-9f84-eed8b3d91848
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 100.0
+  map: 0.0
+  skywars: 100.0

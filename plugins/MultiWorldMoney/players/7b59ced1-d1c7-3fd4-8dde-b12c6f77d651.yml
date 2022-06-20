@@ -1,0 +1,11 @@
+name: FakeNoob
+uuid: 7b59ced1-d1c7-3fd4-8dde-b12c6f77d651
+logoffworld: lobby
+balances:
+  lobby: 338.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 0.0

@@ -1,0 +1,1265 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 81
+npc:
+  '17':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI2NTYsInByb2ZpbGVJZCI6ImY0ZDQ1MWQ5YzAxMDQxNmViYTVlNmE4MGM2MWNkNTdjIiwicHJvZmlsZU5hbWUiOiJ4WEhlcm8iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNDk0NGIzOGE3NmY0MDYzYmZiNWEzODMyNWQ0YjczMDE3ZTY3MmFhN2M3ZWU5YWVlYzVkYzg5YjVjMzcifX19
+      cached-skin-uuid-name: xxhero
+      cached-skin-uuid: f4d451d9-c010-416e-ba5e-6a80c61cd57c
+      player-skin-signature: MyBso5skZUAGlf7eCSBxa3z3lMCDf902uKgok01TEcyAlymBmsj9+5CLoXocPq/1eUPTpytov7Yc2vRWEHREUHLflObvnmOUOc80t3IedRwsutrOaP00aQZhfYzDX63l3ORBCYSnUcX4YcmFoPIDjo1fKMOFvy24tTCrVrd/LzpARBtZZ8ljXiXKUodzqc7crflsjyzwLQLbwlvuoiDAEVvG+3bIxXKRcb0UvpgwR1gyzaTsDTENbgIqrgfs4DhpcBbnMTaRExbh7a7beWhLDM+1gS0aZaJ4KAy02FanwopN46R08+DBOE2e/aSUuC+Mw7r6vzjJ0uld8HKYVLbL7S3A4Lx6GvIQioGIMjqCDTx+wQ5Gj7YUFPY2pwQjsS2fUQzhjz8tIslC085GKq6eA1+TGJzdqI3pWbLthHC0HZJJKr07jkVQNs+IElDIufhJjimgOF4YxbLQiMFKTlOzfnFYs0gBse6il2F1reSlD4JWJ0Xebqy5I+zTt8kswXKUMFaacNG+CmR4YhR/K/+rBbP6kW/IDQ+87KNaTL+mujoKrXZpKu7+rdGyujXtOVxN7sjwcmxdWPU776FruqSrIoMGXgBvRYiBWWS2660UHzgZfKWSRQvZObORwL/QOrbxELrQk2ptnVvclmlTXiUSBvizRB6YmkVTTuKEopeUXdM=
+    name: xXHero
+    uuid: 8ec9097a-6b13-4ea6-9efc-a11cba3718da
+    traits:
+      location:
+        world: spawn
+        x: '59.49627692244601'
+        y: '78.0'
+        z: '175.37546490914744'
+        yaw: '-356.1610107421875'
+        pitch: '7.274672031402588'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '5.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjEzOTQsInByb2ZpbGVJZCI6IjMwMzg3ZjVjZjc0NjQ3MjNiYTkxZmZlOTVjMDY3NDFhIiwicHJvZmlsZU5hbWUiOiJDb3AiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmN2VhYTM2MmJmMjgyZDk5ZmI0ZjJhYjgyNzQ3YmFlNmZiMmNlNzg0OGJjYTI1YTQ1ZWJiNTljZmJmM2JjIn19fQ==
+      cached-skin-uuid-name: cop
+      cached-skin-uuid: 30387f5c-f746-4723-ba91-ffe95c06741a
+      player-skin-name: cop
+      player-skin-signature: dzCrc4z/dsjc+PGriCMdYCnrgdY2KV5DlwGzTNs4f9EN/zMlMy4KwShz3GxKZFZsyUUBObSHr+uMyJG7PavvF2I4WAOohvo29sD4Hlvr26FacFIfqDzEy4oE/sgqq64kjaxFEWVZMtecR06mUn8Ba0tGwUttIKu6iRQ6aD0blW0l1VYZGzNUSMRn1u5eK6QhKU1JyWiK1Y/LdcA7VZjUnl7JF3s2km8XIEXPD6TbEQIGmrxBGeL1nL9yIIZEdIEXItw+2S8flpZU5aIIvxbA+BfIyc7bNgWVdf+CKa7a+6bfmK3JGFqdY9jReB9+3FAVq6/eAlgtIIhofemwnd42AmPi+yXyRRzzJ/Zi8D0UrG3X3ouX7EhHHcehYSHQj9mu/GxQbeJOxZdtQtfg1IyzgSGRcFYrCYR5lO0ChZO2jT5MHQ1DtLu3oxrYeLlhgwlu5Wo/Z+0RCgB3wFg6PUzKCnkj+fulotGVW4QVPJMOYmH+Zpd+tt6FjWy5PDzSopC7E+mXs+h9M26WEOSva7pHQ1DtYXqtrWuHlNI9pk+xHU7mLM8CI1to27cOZLMfNa27sMjHW1Q6TiTxpGZoitGHLYC4gwQdVtFNVYkbNfwbCFyYK/LmrsEL4D9oAMaK2IlhH+tceoOHITuH9innWGQqI+JUS74Nmv8OkY8JL8rxgo8=
+    name: Guard
+    uuid: 22df25f9-8b9a-466d-9f56-2206c615847b
+    traits:
+      location:
+        world: spawn
+        x: '61.69999998807909'
+        y: '78.0'
+        z: '169.74474368418979'
+        yaw: '-0.22265625'
+        pitch: '-0.0730392336845398'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjEzOTQsInByb2ZpbGVJZCI6IjMwMzg3ZjVjZjc0NjQ3MjNiYTkxZmZlOTVjMDY3NDFhIiwicHJvZmlsZU5hbWUiOiJDb3AiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmN2VhYTM2MmJmMjgyZDk5ZmI0ZjJhYjgyNzQ3YmFlNmZiMmNlNzg0OGJjYTI1YTQ1ZWJiNTljZmJmM2JjIn19fQ==
+      cached-skin-uuid-name: cop
+      cached-skin-uuid: 30387f5c-f746-4723-ba91-ffe95c06741a
+      player-skin-name: cop
+      player-skin-signature: dzCrc4z/dsjc+PGriCMdYCnrgdY2KV5DlwGzTNs4f9EN/zMlMy4KwShz3GxKZFZsyUUBObSHr+uMyJG7PavvF2I4WAOohvo29sD4Hlvr26FacFIfqDzEy4oE/sgqq64kjaxFEWVZMtecR06mUn8Ba0tGwUttIKu6iRQ6aD0blW0l1VYZGzNUSMRn1u5eK6QhKU1JyWiK1Y/LdcA7VZjUnl7JF3s2km8XIEXPD6TbEQIGmrxBGeL1nL9yIIZEdIEXItw+2S8flpZU5aIIvxbA+BfIyc7bNgWVdf+CKa7a+6bfmK3JGFqdY9jReB9+3FAVq6/eAlgtIIhofemwnd42AmPi+yXyRRzzJ/Zi8D0UrG3X3ouX7EhHHcehYSHQj9mu/GxQbeJOxZdtQtfg1IyzgSGRcFYrCYR5lO0ChZO2jT5MHQ1DtLu3oxrYeLlhgwlu5Wo/Z+0RCgB3wFg6PUzKCnkj+fulotGVW4QVPJMOYmH+Zpd+tt6FjWy5PDzSopC7E+mXs+h9M26WEOSva7pHQ1DtYXqtrWuHlNI9pk+xHU7mLM8CI1to27cOZLMfNa27sMjHW1Q6TiTxpGZoitGHLYC4gwQdVtFNVYkbNfwbCFyYK/LmrsEL4D9oAMaK2IlhH+tceoOHITuH9innWGQqI+JUS74Nmv8OkY8JL8rxgo8=
+    name: Guard
+    uuid: b85b09b3-2ccc-428b-85b7-22910825c42c
+    traits:
+      location:
+        world: spawn
+        x: '57.43940186019232'
+        y: '78.0'
+        z: '169.7537625218969'
+        yaw: '-0.322265625'
+        pitch: '-2.7104902267456055'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '14':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI1NjEsInByb2ZpbGVJZCI6ImU5ZmU4ZTM0M2Y1NjRkZTZhNGEwZDE4NTg4ZGFhNjIzIiwicHJvZmlsZU5hbWUiOiJSZWRzdG9uZTMzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOGRkYjQyNGI4ZmFjODQ2YTJlOWI0ZGRjZTgxODQ1MzMxNGE5NmUxMzNkMmVjZjQzNzQ2Mzg1NmZiZmNkNTMifX19
+      cached-skin-uuid-name: redstone33
+      cached-skin-uuid: e9fe8e34-3f56-4de6-a4a0-d18588daa623
+      player-skin-name: redstone33
+      player-skin-signature: ukFQAZh3nRAqv5CtO5nmh9CPRmFm5sdMCkl9uq6iW1nJ9dwoQWtq6433aH1rfqLuFqXfaYoPaLZFASoTi6pistixmomwNYXV/5ym2uRydOy32Mw9jNVqhfD1zKQjfUAitc2lkpOgmB69PBHZ4mHayUDCPuvO2na/5m2bOMpXtZFAAjLVK8UvNb2LKPMKreKWNBmRVW0c73TL1MdY+ZIeCceAYLaxXuywoLiNXyrTQWsTvFepXKcv7G8JJw96iwrn0SObzJd3B/2C7m1AeV0OtCuwOrnVhQD9KE+Mei5lBnNUXCxy+r//P379nY/RDna/EKAgU6EoTgU8gY5/OxjSnEN04LcNA3TfU57uTr7iFvjqx/RAtJ/nJzFvSwlKHel7TrzvyTguSr8ypyUy3jDRyFvyb5cjzZzhhnmOwVQjoWupjWDK5es+00zD3XtRyl5MCyl+Tqats8fGh24hSTqd89m1aVNXJRFQlyrpqGd2j26Wd3+u4LuM7vkI39JEIDBKAvvckqmXyujVbW8nIKeMJSn2y3OjFQoRMydOwtj3VYVSk/B9liKSayCqJ5GWaUsW7gnkTeckAsIwXGe4qwPKT6PIsZNnt23sNPaEap34xME+Zd7kCvqPjhPMPs7L+aq5pMtnr60Zkh8yITVsNiAl3YNDVdPGEYHPwdQvOJYXPHc=
+    name: Soldier
+    uuid: e0a46e02-839d-4438-8a1c-753f24ab6539
+    traits:
+      location:
+        world: spawn
+        x: '59.56584944142368'
+        y: '78.0'
+        z: '170.4278742799224'
+        yaw: '-359.7607421875'
+        pitch: '-2.9930713176727295'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    name: §5Vote
+    uuid: 7a7e03b9-bd66-4d0d-8b80-4c41dadb504f
+    traits:
+      type: Creeper
+      location:
+        world: spawn
+        x: '59.579536987028334'
+        y: '78.0'
+        z: '221.3881536766779'
+        yaw: '-358.51953125'
+        pitch: '0.0'
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjM2MzgsInByb2ZpbGVJZCI6IjRmNmRlZTM3ODIzYjQ4YTU4YjY2ODRkMzllYjk3ZDM3IiwicHJvZmlsZU5hbWUiOiJhdWRpMjAxNSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTNhYzgyMTU4MTc3YzY1NWIxZjVjZjNkMmYxMWUzNGMwOGQ1NTZmNDQ3MmRjNjYxNmQyNGZmODkzNmY0YSJ9fX0=
+      cached-skin-uuid-name: audi2015
+      cached-skin-uuid: 4f6dee37-823b-48a5-8b66-84d39eb97d37
+      player-skin-signature: uOgh/wNIzL9AcNWsaDvDDSV5vElVB4tL9lAppfISJoP/dkQxPBwahep5CBXsggBxz2s72K5KCrqQ41hjJdGao1Y0GKYhWtP9gbtzmDnAfvr7rwxelbrurWlzR552hLaWZQQfusZRUtPmi8WID8wT+xmzh0r1ioEUKedtZQRwRyHXD2zSIYfzC0q5egpPWu5lzTVMY3iZOCFGNvX7ORm+gR54cshJHlKVw1xB67qh87iGdBNUv7VGj2Em+uIbxH1TmdY76G3+vQNdrJA1B8w8sfw4pwW4+fXk5WgWqq8C+wIxLR3W+suvMHVXkzAmIPT+b8ktJdpAm5JCxV5llcKNkZa4lf0i+nYc21HxxZ6SEAiF2vsgc82gpHaMOJJuj6r9FxyAoH4/1bQFsbFitxDROhWXtdhJ2FF5W+FPnQ252aZp65feB8AC/5t/jSOd7tkhbX6eyWoexHn+yQIc7ivmPuHMC0u81gpreGnhLHhSYskppERb9LebQc61qrN6aehEl9SA9k1QVJSGZfB2mq4ZN6QbdZNY1edQ56qKq4pT+ewwLx2fidIUU1c4T2VmghjxWYagpnXwIrRWFrSi9hxvgYTPb3lSkf7n07AfWcCxSluVHoymPfwrVALVLnXU2XM2JxwUTXgeW2oAHNgt1skkwjfU+WtsAMD8vECXV6lOeCQ=
+    name: audi2015
+    uuid: 7ae6be8e-b07b-4456-b215-e3f9b2654f34
+    traits:
+      location:
+        world: spawn
+        x: '53.38218301616461'
+        y: '79.5'
+        z: '242.34308536636576'
+        yaw: '-89.2451171875'
+        pitch: '-0.07304295897483826'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjMyNzEsInByb2ZpbGVJZCI6IjZkM2Y5OTVkMDc1NTRmMmFhZThmMzM5OTE1ZDMzNTMxIiwicHJvZmlsZU5hbWUiOiJNclBpZ2d5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NjFlODQ0MGRjMjQyOTI1MWE3ZWU3NmE3YWVkZjI0OTk5OWI3ZTg5ZjNiNDQ3ZGRhY2I0OGFiN2E2ZjA5M2Q2In19fQ==
+      cached-skin-uuid-name: mrpiggy
+      cached-skin-uuid: 6d3f995d-0755-4f2a-ae8f-339915d33531
+      player-skin-signature: ptkEvavQDsaHFl7AxkBew9KjKS85YeosbnlukF01duIDvfxlzo8mcy5XVPjJoo3nGmda1tDkPI6idgOQmQD0X8op+Mt4bSfzRbd+kc6FIFYgu9rNLNX3TF6pRQaYkOSY8wcNvzLlHbmrq25ygJkPcyv9LpP/h5C7c7Ane74rfl9hv74FBc2juatoafZ+B0iedN3RtGGpkwMW0e3i9MheVECyaMpge2QKlH1J/XfjsRiFyJjQ58PRXHWNIQyyQyLRG++O9rgINM78iT2lx00skKG49SCYAHe5eHPTKM0ZqBA7c8CRVGiF+AMuChL2f7+piuGSR+4hQOBeRuYLHRXYdCjwaXNP/WwlVYJ5HWlT/E/gn/5uDEZUVofnEl2mpLvOIFIEBlZrWe0WImLK81bOQ3PcNp4Dfl8Qp7GOxJkeIZIy5/sKVe0UeEV8EW3lVQOzGvMJRnaljtxZW7QoK4Ybn7miKO3qhvjXwOoIHT2aJ7a+LXFsHgclSrvuUGUMxsL3Pcvv8X80r/QH5BWT13tgSk83Ni9CbGm76rLG+WQgLkEKz/5HUTHSbaRmp0Pys3+Jr9dhKvJ3x9pa3ZsRXQvLClHJq9QlYsUy5nc/fh5u3wD9xv6/9yUEhf/8qIR/VCsU/qbuWJssverPGzTLapZr/LLlnOHwUpT/FaGJsxzDF18=
+    name: MrPiggy
+    uuid: f308ff66-86d4-4871-a6e3-c61d665cb400
+    traits:
+      location:
+        world: spawn
+        x: '65.67759007790096'
+        y: '79.5'
+        z: '242.59107468773647'
+        yaw: '-269.13720703125'
+        pitch: '0.5863165259361267'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjM3MzYsInByb2ZpbGVJZCI6Ijg0MWY1NWIzOTgxOTQwNmY5N2QzM2EyYmZmMDY3ZGEzIiwicHJvZmlsZU5hbWUiOiJUaGVTbGltZUp1bmlvciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM4ZGIxMzRiZjNlNzVkZjY4NjM5MjYzYzczMjRjZWYxMTgzMjJiNzIyNTI2ZWI3MTRjOTllNTZlM2M0NyJ9fX0=
+      cached-skin-uuid-name: theslimejunior
+      cached-skin-uuid: 841f55b3-9819-406f-97d3-3a2bff067da3
+      player-skin-signature: xUq6qtm6hROzBHRdlYbJBsf6Ibi+I3eK1HOaykGEuPiksQZnJohLjJBrE3yop+tLDndHsCXXL5/yVCftjhIue5AtT5P0XC2FwqwP8MBSVTHDvN7Y+RojTefoWxyCiBng+6YjioL6YpBiIgRmWv20C2hX+YdOvMYAb9xutif2uslmPu3Dka4wIHdWDC6USUZERcwkS++nZWYcx3HxuGQk2l1a6D+1rjsMvKQp9EBd2HO2YrjPnhX+1taOBNIzEpUeo7wd9gwafjQzGPzQcuDDmqXi2XjCFPiPwczWWFfnsM+s8I+lL4hw2IaurMVs0QgOrins/XXCfrSR6LiZCJN5wyXnSCVInsg12KN4NIHJNbTVQu7B490jmGEjLFZQDMu+uBiuRM/HBJ8zwZ4ARJAG/A1yRbJd20uUyoA/BoJllBaEnRUhwGIX91A9eKCuDeyOpyrXP24EeFQ0iTPvbXN+vSOLb3uxz5BASKf9aSMPBzaAUUMES/OIhQjjvZUi683on406TmxU9702Qi/wWG1MrVIQnW6786Q8IyJRzcSKMKaNkFiZ8Dt7WzEjXErYP1f6E/76njg9+Lvzb+IHeWNBVdQ/ZBbWoX/5qI+LDkUlvOSsN7E0dC+RiGrmWxJxdZ4lZbpMPG1URyTuWr20Cc4pr5WM64SVnUaylCKOibt0fTU=
+    name: TheSlimeJunior
+    uuid: f373313b-9182-40c3-8818-9cbe2bd7c046
+    traits:
+      location:
+        world: spawn
+        x: '58.30556143558351'
+        y: '80.0'
+        z: '247.66356217729188'
+        yaw: '-181.65243530273438'
+        pitch: '-1.354078769683838'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjE4NTcsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGY1Y2ExMjRhNjk0YmIwZmM3ODYwMWE5ZGQ3ODBjZmYxNTg1YmVlNDcxMTg4ZjM1YzE4NDY3OWE5YzdmYzJkIn19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: ko2jsLsVMVITmJNCJGCqNAfAZPHy1omjMwnca/WN+EFj0EQsn3PO4Z3r0LgqEldooT2PKPEy70bpf4z2YWCNpOACEFMEwCn/Krb8+ioRDd/0OR8TKp6IWwzFNR2+HMbwIZ4DN9k4FTp69vU7uYCaVzsBYhL1U2TSJXHEAJQRKA77dJ85myhNX9wvL/upPUoACMAMPAL35QwNUl9HMhur+7NEz8J4JAnwFNL5saDwcdhi5LhXkxZaAyGReJNw+KL3A9YdpGZJZYR7b1a6Cn7YhjL4KA757YZRg/5iPH1LAc7yxiHxb4bDzF7UKEyxfimfJiBqx1Jth/f3dqrIAZr1mGiWF4JZDW2NMp7+5WE87VHXp4I9vG9nCZcFMtxfG52VjvZz66/NsQ23dQWvNfz6RbNPU+ukErUj04uNsMz4JQVpfOpN4LB8JLswrl5c89vuTS+GSQORingW6Y3OhIPbkELfW3lkFcH/j6ZD/cPuqUU76isywD80I0uXhvgoGSwqt9orAI+MtxWQ4cvaDK1B/VfN3WcGdxBVRXHlyy6iPbDlJqTA5gQxWNSgPTyuG/cvKhQhGxYdmxScfQS35kwd2OmMF2PQJ1s3gyrpT25IKuo+ezKheZmvR/B5qIdj+qTdTlmGYN+xiz+DQ0fgSKPuEIdAOttc0ib08THzkffgbFk=
+    name: AxelTWC
+    uuid: dfc21a47-5604-477f-b2ae-07a81b948b6e
+    traits:
+      location:
+        world: spawn
+        x: '60.69999998807907'
+        y: '80.0'
+        z: '247.69999998807907'
+        yaw: '-182.1883544921875'
+        pitch: '-2.0015065670013428'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '31':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI5MDksInByb2ZpbGVJZCI6IjAxOWQ2MjNjNDdhMjQ3NjJhNWQzOTE1MTE4M2NjOWYwIiwicHJvZmlsZU5hbWUiOiJTa3l3YXJzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjQwNTNiM2FiM2E2NzgwZDBkNTIzZjM4ZTFjYjA3MWE5N2EyNjc2Nzc5ZTg0NDFkYTZiYzE0ZjkyNTFjMyJ9fX0=
+      cached-skin-uuid-name: skywars
+      cached-skin-uuid: 019d623c-47a2-4762-a5d3-9151183cc9f0
+      player-skin-signature: EchMLyHANQEzGlwEMOm0ztAvfsVxOi4hGAmIBq0HMKNI3ukzvwaUeJl4j/Qi1/eFNP4cPVgXl9P51lRX9ks6dEnWcmCwAr3fFtn5zZu3n0tJl3eHDBXre7qs/VuAYKzp7iuKImq3mftjcWM6b4Vx4ULSPIaxQgT1CB8zdcyDZcq4v2aR7R0eu7CJ8/UicqSD5J8xcDmcWq/Oq+2Mw8xWPCGpCimdcdUFG9gzBBgVFHkJDiMZPaNWnnDqcrxzZO9d4auG2PnY9VHZs/+vAFawL3Jg/uWivdGir35WFOFV5ezeiqk0E8NV2L5v0Cgek9EAlBrHSE98kmcfEnYmLMcsgNgpN1YHheH9D7+U/3+3M2gVR32Fnf0IIwqzP5kYzm/ZVsyyoKGSLlc4jiAeYjJqbExPhQ8rbFeu3KrWwQxh+tm6i7QiP1ZvmckLC7/5PRIUGmFJ3I52/DUa99d8hAKkQZu2tLJkMBtn5aBxfhbvWTgJCt19r3HONCMEqjrJFKAwJwvecUQsZ4aYLTzeUy5jQYVMa2tMC8pB/WcJo1m8cMqYHZy5r2xZ/IxNGfLidOoRGpphOvSFspguKP7uvY9qJY6XnpB0NBls8XHhYQj6U6w9J2ISd4vA0mUyUnxP0/8Ie1HgrYS88zUboBE/PJ6Kcp6FlgOo1Xd2qM8g0FUTXxc=
+    name: Skywars
+    uuid: f30dab6d-345e-4b06-ab6e-8eb400c9d164
+    traits:
+      location:
+        world: skywars
+        x: '-230.20705607800895'
+        y: '3.5'
+        z: '-15.92400228091741'
+        yaw: '-269.871826171875'
+        pitch: '0.5217415690422058'
+      inventory:
+        '0':
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      equipment:
+        hand:
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type,equipment
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '30':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI5MDksInByb2ZpbGVJZCI6IjAxOWQ2MjNjNDdhMjQ3NjJhNWQzOTE1MTE4M2NjOWYwIiwicHJvZmlsZU5hbWUiOiJTa3l3YXJzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjQwNTNiM2FiM2E2NzgwZDBkNTIzZjM4ZTFjYjA3MWE5N2EyNjc2Nzc5ZTg0NDFkYTZiYzE0ZjkyNTFjMyJ9fX0=
+      cached-skin-uuid-name: skywars
+      cached-skin-uuid: 019d623c-47a2-4762-a5d3-9151183cc9f0
+      player-skin-signature: EchMLyHANQEzGlwEMOm0ztAvfsVxOi4hGAmIBq0HMKNI3ukzvwaUeJl4j/Qi1/eFNP4cPVgXl9P51lRX9ks6dEnWcmCwAr3fFtn5zZu3n0tJl3eHDBXre7qs/VuAYKzp7iuKImq3mftjcWM6b4Vx4ULSPIaxQgT1CB8zdcyDZcq4v2aR7R0eu7CJ8/UicqSD5J8xcDmcWq/Oq+2Mw8xWPCGpCimdcdUFG9gzBBgVFHkJDiMZPaNWnnDqcrxzZO9d4auG2PnY9VHZs/+vAFawL3Jg/uWivdGir35WFOFV5ezeiqk0E8NV2L5v0Cgek9EAlBrHSE98kmcfEnYmLMcsgNgpN1YHheH9D7+U/3+3M2gVR32Fnf0IIwqzP5kYzm/ZVsyyoKGSLlc4jiAeYjJqbExPhQ8rbFeu3KrWwQxh+tm6i7QiP1ZvmckLC7/5PRIUGmFJ3I52/DUa99d8hAKkQZu2tLJkMBtn5aBxfhbvWTgJCt19r3HONCMEqjrJFKAwJwvecUQsZ4aYLTzeUy5jQYVMa2tMC8pB/WcJo1m8cMqYHZy5r2xZ/IxNGfLidOoRGpphOvSFspguKP7uvY9qJY6XnpB0NBls8XHhYQj6U6w9J2ISd4vA0mUyUnxP0/8Ie1HgrYS88zUboBE/PJ6Kcp6FlgOo1Xd2qM8g0FUTXxc=
+    name: Skywars
+    uuid: 3b725c0c-9260-4f13-8e4b-be2af39a931d
+    traits:
+      location:
+        world: skywars
+        x: '-252.92135299181876'
+        y: '3.5'
+        z: '-12.046069756543117'
+        yaw: '-359.820556640625'
+        pitch: '4.99258279800415'
+      inventory:
+        '0':
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      equipment:
+        hand:
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type,equipment
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '29':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI5MDksInByb2ZpbGVJZCI6IjAxOWQ2MjNjNDdhMjQ3NjJhNWQzOTE1MTE4M2NjOWYwIiwicHJvZmlsZU5hbWUiOiJTa3l3YXJzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjQwNTNiM2FiM2E2NzgwZDBkNTIzZjM4ZTFjYjA3MWE5N2EyNjc2Nzc5ZTg0NDFkYTZiYzE0ZjkyNTFjMyJ9fX0=
+      cached-skin-uuid-name: skywars
+      cached-skin-uuid: 019d623c-47a2-4762-a5d3-9151183cc9f0
+      player-skin-signature: EchMLyHANQEzGlwEMOm0ztAvfsVxOi4hGAmIBq0HMKNI3ukzvwaUeJl4j/Qi1/eFNP4cPVgXl9P51lRX9ks6dEnWcmCwAr3fFtn5zZu3n0tJl3eHDBXre7qs/VuAYKzp7iuKImq3mftjcWM6b4Vx4ULSPIaxQgT1CB8zdcyDZcq4v2aR7R0eu7CJ8/UicqSD5J8xcDmcWq/Oq+2Mw8xWPCGpCimdcdUFG9gzBBgVFHkJDiMZPaNWnnDqcrxzZO9d4auG2PnY9VHZs/+vAFawL3Jg/uWivdGir35WFOFV5ezeiqk0E8NV2L5v0Cgek9EAlBrHSE98kmcfEnYmLMcsgNgpN1YHheH9D7+U/3+3M2gVR32Fnf0IIwqzP5kYzm/ZVsyyoKGSLlc4jiAeYjJqbExPhQ8rbFeu3KrWwQxh+tm6i7QiP1ZvmckLC7/5PRIUGmFJ3I52/DUa99d8hAKkQZu2tLJkMBtn5aBxfhbvWTgJCt19r3HONCMEqjrJFKAwJwvecUQsZ4aYLTzeUy5jQYVMa2tMC8pB/WcJo1m8cMqYHZy5r2xZ/IxNGfLidOoRGpphOvSFspguKP7uvY9qJY6XnpB0NBls8XHhYQj6U6w9J2ISd4vA0mUyUnxP0/8Ie1HgrYS88zUboBE/PJ6Kcp6FlgOo1Xd2qM8g0FUTXxc=
+    name: Skywars
+    uuid: daffa113-dcff-4a2a-b0c8-14146b36c594
+    traits:
+      location:
+        world: skywars
+        x: '-249.06780853889452'
+        y: '3.5'
+        z: '10.872025400437103'
+        yaw: '-89.1689453125'
+        pitch: '-1.747037649154663'
+      inventory:
+        '0':
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      equipment:
+        hand:
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type,equipment
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '28':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI5MDksInByb2ZpbGVJZCI6IjAxOWQ2MjNjNDdhMjQ3NjJhNWQzOTE1MTE4M2NjOWYwIiwicHJvZmlsZU5hbWUiOiJTa3l3YXJzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjQwNTNiM2FiM2E2NzgwZDBkNTIzZjM4ZTFjYjA3MWE5N2EyNjc2Nzc5ZTg0NDFkYTZiYzE0ZjkyNTFjMyJ9fX0=
+      cached-skin-uuid-name: skywars
+      cached-skin-uuid: 019d623c-47a2-4762-a5d3-9151183cc9f0
+      player-skin-signature: EchMLyHANQEzGlwEMOm0ztAvfsVxOi4hGAmIBq0HMKNI3ukzvwaUeJl4j/Qi1/eFNP4cPVgXl9P51lRX9ks6dEnWcmCwAr3fFtn5zZu3n0tJl3eHDBXre7qs/VuAYKzp7iuKImq3mftjcWM6b4Vx4ULSPIaxQgT1CB8zdcyDZcq4v2aR7R0eu7CJ8/UicqSD5J8xcDmcWq/Oq+2Mw8xWPCGpCimdcdUFG9gzBBgVFHkJDiMZPaNWnnDqcrxzZO9d4auG2PnY9VHZs/+vAFawL3Jg/uWivdGir35WFOFV5ezeiqk0E8NV2L5v0Cgek9EAlBrHSE98kmcfEnYmLMcsgNgpN1YHheH9D7+U/3+3M2gVR32Fnf0IIwqzP5kYzm/ZVsyyoKGSLlc4jiAeYjJqbExPhQ8rbFeu3KrWwQxh+tm6i7QiP1ZvmckLC7/5PRIUGmFJ3I52/DUa99d8hAKkQZu2tLJkMBtn5aBxfhbvWTgJCt19r3HONCMEqjrJFKAwJwvecUQsZ4aYLTzeUy5jQYVMa2tMC8pB/WcJo1m8cMqYHZy5r2xZ/IxNGfLidOoRGpphOvSFspguKP7uvY9qJY6XnpB0NBls8XHhYQj6U6w9J2ISd4vA0mUyUnxP0/8Ie1HgrYS88zUboBE/PJ6Kcp6FlgOo1Xd2qM8g0FUTXxc=
+    name: Skywars
+    uuid: 9ebf4c34-c695-4f5d-9144-68afe44704f2
+    traits:
+      location:
+        world: skywars
+        x: '-229.94400369753183'
+        y: '3.5'
+        z: '11.081567955691405'
+        yaw: '-267.66351318359375'
+        pitch: '1.5894070863723755'
+      inventory:
+        '0':
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      equipment:
+        hand:
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type,equipment
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '27':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjQ1ODYsInByb2ZpbGVJZCI6ImJjMjdhZmQ3Njg4OTQ4MTE5N2M5MTM1ZWU0NmNkYWJjIiwicHJvZmlsZU5hbWUiOiJHb2QiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiMWIxY2ZkY2U1MWIwMjdiN2NiNjcyMjJiZDg3NjBjMTMwZjdiZjk4OTlmZGExNDc0NTYzZTVmZjNlYjYyIn0sIkNBUEUiOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNzY3ZDQ4MzI1ZWE1MzI0NTYxNDA2YjhjODJhYmJkNGUyNzU1ZjExMTUzY2Q4NWFiMDU0NWNjMiJ9fX0=
+      cached-skin-uuid-name: god
+      cached-skin-uuid: bc27afd7-6889-4811-97c9-135ee46cdabc
+      player-skin-signature: aQoGOca7GYwrtj4XGLWt/fZFeBuG64EUD+TNp2GRZjvR1HzXVZSPPtOjwkxj4dw+84fYxj6umBI/VzqAS11pFLVy+1V7S51JAt064o9AaPcxG2DciaR+TE84Jl2IGLGUpbUDxJCxBVLFkQmoPo0huZHvDJE9nf6y5Vrta/Xny0AdBK+EpEMY4ZHZ+f5HXt6WxJjgmOi7JIwWbLtLDFebetmbv9YaDUiVhz1UeAYVJjAztdPhXpz0AGzp7WJki7wtvvHK0+5rTwD+1MjW5P9nba/uyq59dY+QPnwZFtMt8NFOVWq0HYc3mt0UhcHe5TuVUfkegh6InCB4g/SxHEDNEbbLKEcXRWqTYnA8AfHxAkCclW1vQyiodvY9aY+4gOajHWZEVyFGFzfB4PARZRcR8+I6ut4iG2eoiDodPBTWWL+XUIlTRhgtbazMfqDntcHfbV2hk/wG2XMjKlyjqOSbcbWZbNDNMn6yVP+cRjhm562c48a6f4mmwMY+ikEqBhPo2EWKxGUh50V0AHkcvKBcB9sn87jGxf5CLKnUPNAPk4IGGBv8E9kjjLovY2pHsl6VR9lCj50Ux7lqKqICfAJpiLA+Jb+z4NwEq6KP7RX4VCx9RytviU4GcxZSO/H8ULS4uRVZHZ1c5XBkJhSR4NlZujJKnVZqT8LhKbERAJiHisw=
+    name: God
+    uuid: f341044e-3d83-460e-af82-73dc5a119412
+    traits:
+      location:
+        world: skyblock
+        x: '7.69999998807907'
+        y: '82.0'
+        z: '-9.699999988079071'
+        yaw: '-318.8105163574219'
+        pitch: '50.60029602050781'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '26':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjQyMjcsInByb2ZpbGVJZCI6ImQzNmQ4MzVmZTcwNzRkNDM4Mjg2MTRlZDdjMzI1YWMyIiwicHJvZmlsZU5hbWUiOiJTa3lCbG9jayIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTA0OTQzZDU3MjU0NmJhODczZTU2NzNhYmRjYWZjMDllMzllMDg1MmU2NWQxYmMxNzFiZTJlNWY2MWU2MiJ9fX0=
+      cached-skin-uuid-name: skyblock
+      cached-skin-uuid: d36d835f-e707-4d43-8286-14ed7c325ac2
+      player-skin-signature: JBWGyhs821kRj3EunvXFYGruiJMXLgp4GAcgj5USxpAr4KJqrjjc8YlUznXOV1Nm74IFQAmUJNLXuo1tzgtIJGWq9yDhFyW3/CFrR8YG0yErSewOhli4SbFm4HmkMCIMY8/bWZm1mYUfsj6zCFWsKp6pgYGkSLMUhwHiVujnUzvgwMyDhKyb6Iqv1a31iKC/IPd2MsTVaY6Gu36vEx0z/kg/dkZUqmv5aEktBRDmVuLy31Ql/4SsYRUIDRWuGSkNPKsT3jVgPnkjZwahaTd3Y3RTLLg09moeD/OpT+xD8Wt3GkCNs/uznoqdVa40AInhnDHcCOIG1PB4H6YIKppkF96YkHEVbYBdfdFMTyy/QrwjPupE25U4gEVZNG40NTZaEPKe9vxrBYORvd0PcwCPacWryMTPLJUh1b8uIumDSWc6UWnuGjZo6pmMQMk/N5LWkyGas0OXB8FdNmELpJ6SxoWY4hOoZmDJw/QmxB/1d24t9YxZlzyiaAuokNwY98NBuXNVobOpPysHvOjn05rOjSRllEduCCfEmz4nTU97XMIxZeNbiEDBS9BuZIqXD1fBA7i05DVMkzozvZTR/UOxK2jazlqFoXEhh6mGnI0tQxzjrrCcuKVtqRFSNxmNAPq7BJly5rldjw7wwKyGg1ChFw/sKoFu2SjFsQssG2ap4ZM=
+    name: Skyblock
+    uuid: ab7e5727-5df9-4849-93fc-2be93e50e82d
+    traits:
+      location:
+        world: skyblock
+        x: '-2.3649578168004215'
+        y: '82.0'
+        z: '-4.28209655949028'
+        yaw: '-358.71417236328125'
+        pitch: '7.69361686706543'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '25':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjI2NTYsInByb2ZpbGVJZCI6ImY0ZDQ1MWQ5YzAxMDQxNmViYTVlNmE4MGM2MWNkNTdjIiwicHJvZmlsZU5hbWUiOiJ4WEhlcm8iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNDk0NGIzOGE3NmY0MDYzYmZiNWEzODMyNWQ0YjczMDE3ZTY3MmFhN2M3ZWU5YWVlYzVkYzg5YjVjMzcifX19
+      cached-skin-uuid-name: xxhero
+      cached-skin-uuid: f4d451d9-c010-416e-ba5e-6a80c61cd57c
+      player-skin-signature: MyBso5skZUAGlf7eCSBxa3z3lMCDf902uKgok01TEcyAlymBmsj9+5CLoXocPq/1eUPTpytov7Yc2vRWEHREUHLflObvnmOUOc80t3IedRwsutrOaP00aQZhfYzDX63l3ORBCYSnUcX4YcmFoPIDjo1fKMOFvy24tTCrVrd/LzpARBtZZ8ljXiXKUodzqc7crflsjyzwLQLbwlvuoiDAEVvG+3bIxXKRcb0UvpgwR1gyzaTsDTENbgIqrgfs4DhpcBbnMTaRExbh7a7beWhLDM+1gS0aZaJ4KAy02FanwopN46R08+DBOE2e/aSUuC+Mw7r6vzjJ0uld8HKYVLbL7S3A4Lx6GvIQioGIMjqCDTx+wQ5Gj7YUFPY2pwQjsS2fUQzhjz8tIslC085GKq6eA1+TGJzdqI3pWbLthHC0HZJJKr07jkVQNs+IElDIufhJjimgOF4YxbLQiMFKTlOzfnFYs0gBse6il2F1reSlD4JWJ0Xebqy5I+zTt8kswXKUMFaacNG+CmR4YhR/K/+rBbP6kW/IDQ+87KNaTL+mujoKrXZpKu7+rdGyujXtOVxN7sjwcmxdWPU776FruqSrIoMGXgBvRYiBWWS2660UHzgZfKWSRQvZObORwL/QOrbxELrQk2ptnVvclmlTXiUSBvizRB6YmkVTTuKEopeUXdM=
+      player-skin-name: xxhero
+    name: Pvper
+    uuid: 9221913a-1250-455b-b910-9a4778f3e36a
+    traits:
+      location:
+        world: map
+        x: '-992.2846468456854'
+        y: '88.0'
+        z: '276.46568029704963'
+        yaw: '89.53350830078125'
+        pitch: '0.0'
+      inventory: {}
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: map
+                x: '-975.0'
+                y: '88.0'
+                z: '273.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: map
+                x: '-974.0'
+                y: '88.0'
+                z: '272.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: map
+                x: '-973.0'
+                y: '88.0'
+                z: '272.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: map
+                x: '-972.0'
+                y: '88.0'
+                z: '272.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: map
+                x: '-971.0'
+                y: '88.0'
+                z: '273.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: map
+                x: '-971.0'
+                y: '88.0'
+                z: '274.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: map
+                x: '-971.0'
+                y: '88.0'
+                z: '275.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '7':
+              location:
+                world: map
+                x: '-971.0'
+                y: '88.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '8':
+              location:
+                world: map
+                x: '-971.0'
+                y: '88.0'
+                z: '277.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '9':
+              location:
+                world: map
+                x: '-972.0'
+                y: '88.0'
+                z: '278.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '10':
+              location:
+                world: map
+                x: '-973.0'
+                y: '88.0'
+                z: '278.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '11':
+              location:
+                world: map
+                x: '-974.0'
+                y: '88.0'
+                z: '278.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '12':
+              location:
+                world: map
+                x: '-975.0'
+                y: '88.0'
+                z: '277.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '13':
+              location:
+                world: map
+                x: '-975.0'
+                y: '88.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '14':
+              location:
+                world: map
+                x: '-976.0'
+                y: '88.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '15':
+              location:
+                world: map
+                x: '-977.0'
+                y: '88.0'
+                z: '275.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '16':
+              location:
+                world: map
+                x: '-987.0'
+                y: '87.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '17':
+              location:
+                world: map
+                x: '-997.0'
+                y: '87.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '18':
+              location:
+                world: map
+                x: '-1002.0'
+                y: '88.0'
+                z: '275.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '19':
+              location:
+                world: map
+                x: '-1004.0'
+                y: '88.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '20':
+              location:
+                world: map
+                x: '-1006.0'
+                y: '88.0'
+                z: '276.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '21':
+              location:
+                world: map
+                x: '-1006.0'
+                y: '88.0'
+                z: '277.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '22':
+              location:
+                world: map
+                x: '-1008.0'
+                y: '88.0'
+                z: '278.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '23':
+              location:
+                world: map
+                x: '-1009.0'
+                y: '88.0'
+                z: '277.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '24':
+              location:
+                world: map
+                x: '-1009.0'
+                y: '88.0'
+                z: '275.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '25':
+              location:
+                world: map
+                x: '-1008.0'
+                y: '88.0'
+                z: '275.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '26':
+              location:
+                world: map
+                x: '-1009.0'
+                y: '88.0'
+                z: '274.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '27':
+              location:
+                world: map
+                x: '-1008.0'
+                y: '88.0'
+                z: '273.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '28':
+              location:
+                world: map
+                x: '-1007.0'
+                y: '88.0'
+                z: '272.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '29':
+              location:
+                world: map
+                x: '-1006.0'
+                y: '88.0'
+                z: '273.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '30':
+              location:
+                world: map
+                x: '-1005.0'
+                y: '88.0'
+                z: '274.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '31':
+              location:
+                world: map
+                x: '-976.0'
+                y: '88.0'
+                z: '274.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,waypoints,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '57':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjMwMTQsInByb2ZpbGVJZCI6IjE4YzBhYTY1NDI4NzQxZjdhMzU0YjAxNjY4MDc4NDg4IiwicHJvZmlsZU5hbWUiOiIxdjEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJlYTA1ZDYxNWU0Y2JkODg2MjM2Y2M5MzhlM2I5YjQzNmUyYWMwNGRiZmFiMTE3MTE3ZDM2NzA5M2I0ZDgifX19
+      cached-skin-uuid-name: 1v1
+      cached-skin-uuid: 18c0aa65-4287-41f7-a354-b01668078488
+      player-skin-signature: n3P3Cq5AhfyuJeRosRJDuoGoOu1hey2PPfohL7T+jQua/khmbueQMaMJvNG+Sj9q7mxdYc5qVV6o3E+t4i6aLlKj5RQ/jbuGUtYAKvBMtb106lLYA7ZjS6nsTRZVKrxI21H9TvXQGlX43u6OFFz1msLFM4TnLu9z9T2FRXW6Kh2Q2mTROCuVU1SJeyT48gK2VJfVt11+02xER+cflsqkoB1eaeltBZ+OyPBN8Xu6WK0lJI0NMdw9h7r9Op/qh4uKrnFvlVvzo1CxRLkTBP+3TCBoRSknWvIdNGg3FzxVuJ4I0GWOubhCxpk5BwY2VIo+EZvCH0wq9e01ZONSA5lskdPae/ZfCuPUVIofhc1UjnDrT/FASyJykrXACWFJqmv34OGvQsZOJdWwWneNgO8FVd4i9wRClbXNzwPrtGdL2H7TeihX9Alma6OP4LA8d96wDrsmmUywQEEbFAOIYu1niE4SGRwQ87Ov/xhSHPnMq0QcqSkubIt2cV3onW1EtLH4+PElYqPpHw8UK+Gmd/oO6rQ8wY3aB6+HENSdZTL5Kbl7GShgDAQ7bran5cGGyHWcaVT1zxBEM/bU2NWuQDYd2kkUKc8NZLFFSXixZVjLNF/DE9sccrCQpuZLase+gmsnV0CmMwh8zLjqgEshYus0mfDsYlBPE/OwQvDWz7903/g=
+    name: 1v1
+    uuid: bbeccdfc-1d7f-4af6-8758-686aeeadb3c6
+    traits:
+      inventory: {}
+      location:
+        world: map
+        x: '-990.4276023439912'
+        y: '89.0'
+        z: '259.39602786523926'
+        yaw: '-358.67987060546875'
+        pitch: '5.707174777984619'
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '61':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjM5OTAsInByb2ZpbGVJZCI6ImJjMjRjYjNkMjcxMzRiZmU4NDRlMjJjY2VkZWU3N2E2IiwicHJvZmlsZU5hbWUiOiJBc3Ryb2Zpc2g3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNDYxNzEzZWE5NGZhOGExOTc2ODg1NWVhZjVkNjRlZmQ3ODMzNjRiYTI3NmVmYmU4NTRlNzI0YzRiMDIxIn19fQ==
+      cached-skin-uuid-name: astrofish7
+      cached-skin-uuid: bc24cb3d-2713-4bfe-844e-22ccedee77a6
+      player-skin-signature: joz4VFDu3bcyQZNk9zbj5dE9XFZ7GL3yYE1ejS2IIZQIQKG9HPaZ0RFLrswJIw8ZsFIi/y6QBnT0bKsg9BdIZaS4p+X2IUWGQhPRVJablm3BYxfEPE2Ji1mAyQ5zeMEKpNBVDIwQeDCdlj92UPgH/+7aQiYBcGxfg5lQCQc2/jmaru1UkUwZneXHG3h2FZy5WIE6jbXRM9rM4craErCSGQE+y+x4nx0oFKu1uK+BSNt8G3JtSpIE1chCEP3XO3jdfUaGjcGMbFZ2hiZ6VO5/4hip0GbR8h8qQMXE7Q/E9LLOp7dIf2QsPIxYYDDFoR4EP0SBPHLer3+DArYTN1E4VYLvjReFR/79Rz+YJkq/z8pLDFGQfrS4YeuXiuSqu7MGVDv2bcfiMi5ED4mFvYcFJtforanOixOCo1WuzMDCsJSIgcgXvzIHF7SlUzo9fhJFRHmNvcXBQulw5pFfbxAOLhFfBMa5T4yviU4WTeSSx2w36obCbKKohIhx1SUtXD8t6zsN8F6uqK6Xc6ssjLs02Y04cXowBkgz9EYKcWcD/eqzYI+CtVVpik6mw0DutEBLWtDOztHSIqHNceQDnJUmg3VWG+5BoKO74aDFWW8+hMl+1CmnMXWXBZN7b6BIIl/wTeEQQ9FBK/lUIqJX8BOESyUryQFVbFqse7v/AxKocHo=
+    name: Astrofish7
+    uuid: 728cb395-7959-41b6-b436-703ebe99807a
+    traits:
+      location:
+        world: lobby
+        x: '-1.5154200936240216'
+        y: '162.0'
+        z: '-4.042300473760875'
+        yaw: '-359.7381591796875'
+        pitch: '-1.9142942428588867'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '58':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjE4NTcsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGY1Y2ExMjRhNjk0YmIwZmM3ODYwMWE5ZGQ3ODBjZmYxNTg1YmVlNDcxMTg4ZjM1YzE4NDY3OWE5YzdmYzJkIn19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: ko2jsLsVMVITmJNCJGCqNAfAZPHy1omjMwnca/WN+EFj0EQsn3PO4Z3r0LgqEldooT2PKPEy70bpf4z2YWCNpOACEFMEwCn/Krb8+ioRDd/0OR8TKp6IWwzFNR2+HMbwIZ4DN9k4FTp69vU7uYCaVzsBYhL1U2TSJXHEAJQRKA77dJ85myhNX9wvL/upPUoACMAMPAL35QwNUl9HMhur+7NEz8J4JAnwFNL5saDwcdhi5LhXkxZaAyGReJNw+KL3A9YdpGZJZYR7b1a6Cn7YhjL4KA757YZRg/5iPH1LAc7yxiHxb4bDzF7UKEyxfimfJiBqx1Jth/f3dqrIAZr1mGiWF4JZDW2NMp7+5WE87VHXp4I9vG9nCZcFMtxfG52VjvZz66/NsQ23dQWvNfz6RbNPU+ukErUj04uNsMz4JQVpfOpN4LB8JLswrl5c89vuTS+GSQORingW6Y3OhIPbkELfW3lkFcH/j6ZD/cPuqUU76isywD80I0uXhvgoGSwqt9orAI+MtxWQ4cvaDK1B/VfN3WcGdxBVRXHlyy6iPbDlJqTA5gQxWNSgPTyuG/cvKhQhGxYdmxScfQS35kwd2OmMF2PQJ1s3gyrpT25IKuo+ezKheZmvR/B5qIdj+qTdTlmGYN+xiz+DQ0fgSKPuEIdAOttc0ib08THzkffgbFk=
+    name: AxelTWC
+    uuid: 6595bfc7-5bdd-4a47-88db-722ffe39e02f
+    traits:
+      location:
+        world: lobby
+        x: '2.6108283511800443'
+        y: '162.0'
+        z: '-4.298172179310816'
+        yaw: '-355.60540771484375'
+        pitch: '1.3636236190795898'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '67':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjE3NDcsInByb2ZpbGVJZCI6ImE2Mjc0NGRhNzYxNzQ4Mzg4NmU0MGE5MGRmNDRjNjE4IiwicHJvZmlsZU5hbWUiOiJLcnlwdGlhbEdhbWluZyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTg1N2Q3MmZjNmJhN2FmNDM2NjFhYWM5MmM5ZjQ4N2RlZjcyNWRjNzBjYWU5YzI0MjViNTAxMDNhYjhlODNiIn19fQ==
+      cached-skin-uuid-name: kryptialgaming
+      cached-skin-uuid: a62744da-7617-4838-86e4-0a90df44c618
+      player-skin-signature: JQo6p+HRH6lkmOdb0jOub9cD3b5G+FrKDj1i0mJECUTKKxOUPKdwnUKwJQImdZ7YP6PTo2FUECa31ZM3x3csq02zoba5U6k5t9LFxBDXpV9tCMbM4a1oYT+qlu9dAuHfE87W+DTTbB2eWQsGAhdgWw/1Wnk8QONXLUUdLJI8S+dB0ElsOScNLKabUqZdOZ9ElA9mv5U4FDKDQUdYeo5E16L3gkprhCcUIASwzDQTFwXmUZ35bb7X9xViToRGYQxt3VJLckvoiyNt2Vwq4ZJl8CDPIRlp30oODSVY6DX+/YtbsKYp7DiED/nUo94c+itoT9I5OZSVNVAfdSYjXnwlc+wSh1yZPl4m8U6rciZ3pgRayZRO5wASUphv23jeDfH2CoULyuvf8i46n90X2YYT7qUlY+w8mtOW6mzdxlN13RgFarvuEit7EQmFVFLSqFotJK4vCB7SnU6osvczj6GELy4t2BMJLar/k+AYiUITk+TTJrO5fomAKSMqDierOSBH3Ohequ2WKQecEaQ/wJJjBXJ2cBP5bhcoj2ifQqetBYjibzIZD5iloocf2IlQvistNgbsD4YGEDw40u8rhZ4bs1016PQw+pj2Do4LGQa76v2JTncUb8FfSVHQr8Ga6zmBPhEVH5B16IzMkZeaU1lN4EXrt+mUzIj8qxyKxoUF2hg=
+    name: KryptialGaming
+    uuid: 633f5287-459e-47b7-a736-fa5a722b5d87
+    traits:
+      location:
+        world: lobby
+        x: '10.475871320274564'
+        y: '162.0'
+        z: '19.253033144465988'
+        yaw: '-180.3243408203125'
+        pitch: '0.5085126757621765'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '65':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjQ0ODcsInByb2ZpbGVJZCI6ImI2YzE0OTA4ZmMyYzRlMTQ5ZDcxYzk4OTdjMTA1ZjliIiwicHJvZmlsZU5hbWUiOiJNb21lbnRvdXNNYXN0ZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1N2YxNmIzNTJmOTYxYjdmNDRlODM2NWIwYzU1ODZkY2E3OGRiYjAxMDg2ZGUzMGY5ODg1MmYwZWUyZmZiZGQifX19
+      cached-skin-uuid-name: momentousmaster
+      cached-skin-uuid: b6c14908-fc2c-4e14-9d71-c9897c105f9b
+      player-skin-signature: DlZa1qzdn6jiRGrrV+zrzUgZfmy8F68rU6LR0kch9HV2zN4kA97VFZK99gcjWNCk8L4okJYBffuvCyWgEGKRMrxswUBspjyPTCas5aapuzeBuQC+luS81RL+gdQxQDzjknMZBuJsBHhH6Ohf2KXMaEcuctokEXOHHxrN7eitPpxobqJpakzK7uPmn65Zv7hag9qfN8kNdsPl3N5HIZDCOLAKy1nSMCwPlWXvdsO7zXtQ61D9ns7PiVdBffOeLFHp9HrN0eJDYWGSCbnGxen9pCmUTbe2hDZNLs+3D6amupRBNPlGXtHxMMvoxJekEZZ61V0kVMGLl771jm07V3RrtCibcM5fRVed3IXX+QR1ZCifT1uiLaYjqjTeJBQDq/2daOvVzTFusBARx5GpGKA43rDtfNC22xHepkxL8kxilJQlH249AvEGKNbXRr7J4PKN6RQgDJ69fpAPdcCxl81bLJLrHUB4ki6geHqv5cyA76FLAKNm1lTcpSyOwfVFCY17Cp9GgBdQcZxQLWZ1VU1b29JEedxuSIfRvWnfaHNkrmYljdvEz5bsLAdy+xc5nVNRonHFlt0BBweu1zEqaZHYzMnJowv8pdlZAZdNAAMh4UKCURKSlPGGJ1ZVjLNoXfbJrctdIluJ0z3zCEXsYzTvQgd6XesY67y07NBY5bcaod4=
+    name: MomentousMaster
+    uuid: e34b894d-e5ad-4c53-98a0-11a57225263e
+    traits:
+      location:
+        world: lobby
+        x: '-2.487087645326225'
+        y: '162.0'
+        z: '16.157480373633792'
+        yaw: '-178.82916259765625'
+        pitch: '-2.484354257583618'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '62':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjM2MzgsInByb2ZpbGVJZCI6IjRmNmRlZTM3ODIzYjQ4YTU4YjY2ODRkMzllYjk3ZDM3IiwicHJvZmlsZU5hbWUiOiJhdWRpMjAxNSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTNhYzgyMTU4MTc3YzY1NWIxZjVjZjNkMmYxMWUzNGMwOGQ1NTZmNDQ3MmRjNjYxNmQyNGZmODkzNmY0YSJ9fX0=
+      cached-skin-uuid-name: audi2015
+      cached-skin-uuid: 4f6dee37-823b-48a5-8b66-84d39eb97d37
+      player-skin-signature: uOgh/wNIzL9AcNWsaDvDDSV5vElVB4tL9lAppfISJoP/dkQxPBwahep5CBXsggBxz2s72K5KCrqQ41hjJdGao1Y0GKYhWtP9gbtzmDnAfvr7rwxelbrurWlzR552hLaWZQQfusZRUtPmi8WID8wT+xmzh0r1ioEUKedtZQRwRyHXD2zSIYfzC0q5egpPWu5lzTVMY3iZOCFGNvX7ORm+gR54cshJHlKVw1xB67qh87iGdBNUv7VGj2Em+uIbxH1TmdY76G3+vQNdrJA1B8w8sfw4pwW4+fXk5WgWqq8C+wIxLR3W+suvMHVXkzAmIPT+b8ktJdpAm5JCxV5llcKNkZa4lf0i+nYc21HxxZ6SEAiF2vsgc82gpHaMOJJuj6r9FxyAoH4/1bQFsbFitxDROhWXtdhJ2FF5W+FPnQ252aZp65feB8AC/5t/jSOd7tkhbX6eyWoexHn+yQIc7ivmPuHMC0u81gpreGnhLHhSYskppERb9LebQc61qrN6aehEl9SA9k1QVJSGZfB2mq4ZN6QbdZNY1edQ56qKq4pT+ewwLx2fidIUU1c4T2VmghjxWYagpnXwIrRWFrSi9hxvgYTPb3lSkf7n07AfWcCxSluVHoymPfwrVALVLnXU2XM2JxwUTXgeW2oAHNgt1skkwjfU+WtsAMD8vECXV6lOeCQ=
+    name: audi2015
+    uuid: ba9862f3-e39e-4b8f-a9fe-fdce9c0dfaa7
+    traits:
+      location:
+        world: lobby
+        x: '2.393776643010846'
+        y: '162.0'
+        z: '15.149913881237916'
+        yaw: '-178.54443359375'
+        pitch: '-1.1304247379302979'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '70':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjM3MzYsInByb2ZpbGVJZCI6Ijg0MWY1NWIzOTgxOTQwNmY5N2QzM2EyYmZmMDY3ZGEzIiwicHJvZmlsZU5hbWUiOiJUaGVTbGltZUp1bmlvciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM4ZGIxMzRiZjNlNzVkZjY4NjM5MjYzYzczMjRjZWYxMTgzMjJiNzIyNTI2ZWI3MTRjOTllNTZlM2M0NyJ9fX0=
+      cached-skin-uuid-name: theslimejunior
+      cached-skin-uuid: 841f55b3-9819-406f-97d3-3a2bff067da3
+      player-skin-signature: xUq6qtm6hROzBHRdlYbJBsf6Ibi+I3eK1HOaykGEuPiksQZnJohLjJBrE3yop+tLDndHsCXXL5/yVCftjhIue5AtT5P0XC2FwqwP8MBSVTHDvN7Y+RojTefoWxyCiBng+6YjioL6YpBiIgRmWv20C2hX+YdOvMYAb9xutif2uslmPu3Dka4wIHdWDC6USUZERcwkS++nZWYcx3HxuGQk2l1a6D+1rjsMvKQp9EBd2HO2YrjPnhX+1taOBNIzEpUeo7wd9gwafjQzGPzQcuDDmqXi2XjCFPiPwczWWFfnsM+s8I+lL4hw2IaurMVs0QgOrins/XXCfrSR6LiZCJN5wyXnSCVInsg12KN4NIHJNbTVQu7B490jmGEjLFZQDMu+uBiuRM/HBJ8zwZ4ARJAG/A1yRbJd20uUyoA/BoJllBaEnRUhwGIX91A9eKCuDeyOpyrXP24EeFQ0iTPvbXN+vSOLb3uxz5BASKf9aSMPBzaAUUMES/OIhQjjvZUi683on406TmxU9702Qi/wWG1MrVIQnW6786Q8IyJRzcSKMKaNkFiZ8Dt7WzEjXErYP1f6E/76njg9+Lvzb+IHeWNBVdQ/ZBbWoX/5qI+LDkUlvOSsN7E0dC+RiGrmWxJxdZ4lZbpMPG1URyTuWr20Cc4pr5WM64SVnUaylCKOibt0fTU=
+    name: TheSlimeJunior
+    uuid: c46f2f51-8160-4eff-b3c9-627d01def66c
+    traits:
+      location:
+        world: lobby
+        x: '6.557445702300935'
+        y: '162.0'
+        z: '-4.579538492857686'
+        yaw: '-359.05816650390625'
+        pitch: '14.37513542175293'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '75':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjIzMTAsInByb2ZpbGVJZCI6ImVjYWU2NzY2MDMzMTRkMzY4ZDg0NDU0NDNiNmE5YmI4IiwicHJvZmlsZU5hbWUiOiJUTlRSdW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5OTAyOTk5NDBlZTQ0OWQ5ZmViNzhjYjk2MTU5YzdkNTNhNjQzMzFjZTM5ZGQ0NTk4NWRjODJhNmE1YyJ9fX0=
+      cached-skin-uuid-name: tntrun
+      cached-skin-uuid: ecae6766-0331-4d36-8d84-45443b6a9bb8
+      player-skin-signature: SblPdGbXGV+iJaQ6AfaTtxBsi1R+bRstBSwpN1CmhbOo+vHxh/rsU89+ySElHVnnL1J94QGYvcRpouWv7uKZnDjpxS1Zi557ucT3dsGRqP0BG+D/ov8h5/wiUr8YgJCWLjWPewvv/fcyyB+qFMUCoTM687lH6B7Oq7LyLsSr4mjXcOoquy8oXQomRzP4FeNN57McOtLSA4A32GGvWpx6kQGC+U4/om4cCGz61lspLaFOu/Cezucl4nbl7pT99I6fcyMgGH8LdnT5GbKvByYdz3TCXDc8pYFI8KVTce0/5W72EdIL/eAi+txr7oa6x6zESGlp8s6qVgwrkNfjSJsXU2qQINqrx2nDpNh48xMdsbgtQRwHbbwmYWzL9O7y08CnrLMhEom/cuqiV/Sp6AmTPxwL1axWNbkJjnGgd9HMLQL4B/On3W2MfCr2tkNhxg/kh9/6O26IAwPEs8wwUEm+s0J1WsTw7Zv+U6pwagik7VIhyKOlM1HqTurVTJnHpZ0F1l35NKNFtdqGBIPwUtdOwZsBBHpXEEGAOrCkQFgGcpsfpALV1y1IhJXgeH0gECfKgdvlrWdf2p5jV2nBUmLcbWAuBqr7lnpt9CjR6CphSL0PTMlYsNQSoYBnyj2rL3pEcG4EJ8ZJYW7n9+EmklxQeJRvQAL1An4gZOLWghLOvTE=
+    name: TNTRUN
+    uuid: 22fc1975-2ee4-48ca-acd0-64cca6955719
+    traits:
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: skywars
+                x: '-220.0'
+                y: '3.0'
+                z: '0.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: skywars
+                x: '-221.0'
+                y: '3.0'
+                z: '-3.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: skywars
+                x: '-220.0'
+                y: '3.0'
+                z: '-6.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: skywars
+        x: '-219.3267456432102'
+        y: '4.0'
+        z: '-1.1182674297682709'
+        yaw: '6.110481262207031'
+        pitch: '0.0'
+      inventory: {}
+      owner:
+        owner: Dazze
+        uuid: d426c449-5bda-3766-a2df-5678c1cc925a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: owner,waypoints,location,lookclose,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '72':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjIyMDQsInByb2ZpbGVJZCI6Ijc2Yzk2Zjg5NDUzNjQ0ZDg5NGU2ZmYyN2M3YzU5YWRiIiwicHJvZmlsZU5hbWUiOiJTd2ltbWVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTViYzRlOTJhM2M3MmUyMjhiN2VhN2U2MTI0Y2ZkYWM5NjVkYzgzZDY4OTlhOTliNGE0NTkyMzlmMjQ1In19fQ==
+      cached-skin-uuid-name: swimmer
+      cached-skin-uuid: 76c96f89-4536-44d8-94e6-ff27c7c59adb
+      player-skin-signature: flKbcdQDD8g5bVvwcHJNLklgdwlMxOPy0YPZu4ashrGds/+XUaJWo0WgQGWeD/j8C/1bAGL6/C6O9XUbuPkBxX1AfkFb9L06VbHU2QuF3ItNv+rwNbg4OASqlN8dZ5aS8OH6qC0q+mysBtJlcaxZFfq5GHxpfS6OOVSJaizgHpSaB8LOF/Y3mn5xxQJkAdo4t4qLYezQXIKRzNiAwxDfhCEMdHNiuCmjaXrJEE0l6PJSd2Nq6gZ9xgOhyUuyua9GDOKddWUZrLQ42eY3lMr8nhFkBmKsEgehasg1qhSqqrYhq1RvmCREh/FtzCKlY78njhcLgqlqohSoNQhQzou4ej3bpUWiAhyh/jdSoYqtYT2wfopk41reoB+gvTClqH+wyTv2Mp0NMAxKyA6oMGSfFKct3D71RSg73KhwcB7SDLbtuZVoX+icAR58VisA6D5KminhIX5ay/IKyDgzNaxlTISw3pu8/yculGGozj62l3u7gJLSDi4ADnkD0jTI+qKZJCbg3Delg5zKGxkxfAvkd91E/bSj3C/Ogc7t4W0x1Zp71ibz77Sdn793T7XZ62cAZ3hC3f9mQ9PmCq0Lh5kDQYkQ1fFOPJ7R06LXF2/6vFaeS8FufZJUGzYmhf6Z9AerXc8Gjk5eJ4H9tngJptND3UZmnvF+DuVQWSovuL76ev4=
+      swim: true
+    name: Swimmer
+    uuid: abbd2fbf-a444-42e6-a921-97130e5836fa
+    traits:
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: skywars
+                x: '-251.0'
+                y: '3.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: skywars
+                x: '-250.0'
+                y: '3.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: skywars
+                x: '-249.0'
+                y: '3.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: skywars
+                x: '-248.0'
+                y: '3.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: skywars
+                x: '-248.0'
+                y: '3.0'
+                z: '72.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: skywars
+                x: '-248.0'
+                y: '3.0'
+                z: '71.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: skywars
+                x: '-248.0'
+                y: '3.0'
+                z: '70.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '7':
+              location:
+                world: skywars
+                x: '-248.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '8':
+              location:
+                world: skywars
+                x: '-249.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '9':
+              location:
+                world: skywars
+                x: '-250.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '10':
+              location:
+                world: skywars
+                x: '-251.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '11':
+              location:
+                world: skywars
+                x: '-252.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '12':
+              location:
+                world: skywars
+                x: '-253.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '13':
+              location:
+                world: skywars
+                x: '-254.0'
+                y: '3.0'
+                z: '69.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '14':
+              location:
+                world: skywars
+                x: '-254.0'
+                y: '3.0'
+                z: '70.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '15':
+              location:
+                world: skywars
+                x: '-254.0'
+                y: '3.0'
+                z: '71.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '16':
+              location:
+                world: skywars
+                x: '-254.0'
+                y: '3.0'
+                z: '72.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '17':
+              location:
+                world: skywars
+                x: '-254.0'
+                y: '3.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '18':
+              location:
+                world: skywars
+                x: '-252.0'
+                y: '3.0'
+                z: '73.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      poses: {}
+      location:
+        world: skywars
+        x: '-247.53270788310186'
+        y: '4.0'
+        z: '70.85564535683699'
+        yaw: '185.25051879882812'
+        pitch: '0.0'
+      inventory: {}
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: Dazze
+        uuid: d426c449-5bda-3766-a2df-5678c1cc925a
+    traitnames: owner,poses,waypoints,skinlayers,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '81':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjE0OTMsInByb2ZpbGVJZCI6IjllNTY3N2EzODEzNDQwNzNhOTEzZDE2MDU2ZTNhNTcxIiwicHJvZmlsZU5hbWUiOiJEb2pvMjE1Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMjNmOTMxYmMzOThkZTdhMWM0ZTc5MmM1YjM5YWFmMGNlYjg5MGNiMjVlZmUyMjk5YmFmMTgxZjMyMzM3ZjRmIn19fQ==
+      cached-skin-uuid-name: dojo215
+      cached-skin-uuid: 9e5677a3-8134-4073-a913-d16056e3a571
+      player-skin-signature: U6AQ3ILJXbhCR2w/KohAyMtDno18BglRGcq18jzG3OlRfl42S+yyGxiDguU/6lsMUqFpCOF7+zAjBVx9GqDzORC0nbJpc6WFmWc3obysVAeT0jR0sA3olWQDwIQ7Pg+NOdAU9NLg/G+ZSkaT6Ngnwp0LvFftIoiB0GJuW6GTp3PFtu9tOhswCMFzIpW/s8W2qyB8ZjrbzDAksxJe/IbImlju+rPpLv+NTj4ISucoPQYbg2rCTZffx+YTUG5n19vQYDUVFyfBY7wOTKxgNjTorYSOBfbdRh2/+Qrza+q6eI6bdsi8JROxYrOKvwSemC/3rOtMvH9vG8LO0zSuQDx/V99r4fH91LdxGwVOqzTpN1Hurv6+DjYOfkN3NdERLL9RuCtXzL1S25AG1USioKGulvAF+E1u4KQ/9gQ6jrkWlJJ/WbD5lx96KTMSDPaZgLhQlLmn8igDy+wMlYuSXueRpywRNViNROXHLtjNCd3yf3V8zKHMTP1EMXs52JhgQxpZLdN7FdlQoNdgZmtGV+KcLRX9RmeTpTVCmW+d30eHLSWm9mlIMSmnTXd8IxYHYfQi3HB0zHKO3IyzVh42Hskv8kevflSDp3RgxkXyL/GiQ0IqOIu7CTVIy6lUnCGRhHvb8bZtRDKT2GAweQuIeuAQuxz2yrIDcz8Q3/vXrzVTCDY=
+    name: Dojo215
+    uuid: 48979317-d010-47a8-88d6-27a9049a7f3d
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: lobby
+        x: '-5.502247241834145'
+        y: '162.0'
+        z: '19.106525579832436'
+        yaw: '-179.56951904296875'
+        pitch: '-2.361875534057617'
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,spawned,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '80':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0OTA3NzIwMjMzNzEsInByb2ZpbGVJZCI6ImIwNGYwNTNiMDdkZDRlMzdiYmM1OGVmZmVmYzEwZDQ3IiwicHJvZmlsZU5hbWUiOiJOSUdFTERBQk9TUyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzk0YzIzZGQxNzQyNzU1ZDFiM2E4NDM1MTk5YjMyMWY4MTJlZmMzZWYyODI2YzgzNzc3NmE5MjE1ZTZmMTg3ZCJ9fX0=
+      cached-skin-uuid-name: nigeldaboss
+      cached-skin-uuid: b04f053b-07dd-4e37-bbc5-8effefc10d47
+      player-skin-signature: B9RSFKqCXS8bislrxcHR8L74v4RHt8c8kl92BbwauIuKOSumQgTX4KE0g2T4YWVr2GrYkqXUD5V0lLGd8PzQenH+sLqCk5rCl9IYNUo+lHeXEFoqpdjgh2ZF1bvIUg103VFuKFOj0IxUYcs5CdGZw/5wlP8sT7Jz/hOYXPiC2N8xSS+aHNjPSrvFOvInQudKyepO7D4evJ2sha2vr1sWLqLErP1Z1f12T7UoblGonrr5yxAd46LbViJNXXY5wEk0u4FRww6DhufcK6n4x6CAcj9hQG+bfhoUEtx1UqeyspWVacV6Mb/JMIBmUnCRbGiIy1WSw6XGyiqOm5Yj2MUUCD7kXIxWaOBghWT3dT2CgR74xsC2QeeKp0/c7+dxXR8DGzpMJB4hSXowTqt8WGbRaHDYyNPxc4H4x/TqXpt8dKyB7Pt4HNxthrvyl1Bg34vk1oHrA/tkTjAVaZOok2txK9N/YTIXbAp80yLVWwtfxyW0S0ORWZQWi9WJFWESLwU9TdFctZFuOLfyQnpPY+OMlr9vbsCgTrgMvwVmLpuPA28n+BPJxoHdk6rS6BUabgamsXk3e+44qNO249qePHUnjyQqfuWoVUTmDFYY+wFCL4xnjGdVBWhxn8b4mpjpLQgk3Xv0k4TWrENYv983gSb+b7MEdJPaNIci3898GxgYOz0=
+    name: NIGELDABOSS
+    uuid: 921ff89b-6252-4248-ae63-dc24b2ccc9ae
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: lobby
+        x: '7.524232784439531'
+        y: '162.0'
+        z: '16.238316898067623'
+        yaw: '-180.60089111328125'
+        pitch: '3.284919261932373'
+      owner:
+        owner: AxelTWC
+        uuid: afa8e45c-6d0e-334b-a418-49bd64eca156
+    traitnames: owner,location,inventory,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

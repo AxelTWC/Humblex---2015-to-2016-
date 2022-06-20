@@ -1,0 +1,7 @@
+name: JDSnuff
+uuid: 11259bbd-18c4-3807-91b7-465f31ebc18e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

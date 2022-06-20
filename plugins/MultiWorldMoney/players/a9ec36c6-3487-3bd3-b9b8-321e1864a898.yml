@@ -1,0 +1,7 @@
+name: MaddoxMB
+uuid: a9ec36c6-3487-3bd3-b9b8-321e1864a898
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

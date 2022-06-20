@@ -1,0 +1,7 @@
+name: CorruptDwarf
+uuid: d167b24a-9f5d-36c6-b3c9-2e1327fcf2c3
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

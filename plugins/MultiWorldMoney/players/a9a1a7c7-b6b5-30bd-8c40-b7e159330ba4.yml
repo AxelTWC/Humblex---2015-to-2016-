@@ -1,0 +1,7 @@
+name: dungcq
+uuid: a9a1a7c7-b6b5-30bd-8c40-b7e159330ba4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 172.0
+  spawn_nether: 0.0

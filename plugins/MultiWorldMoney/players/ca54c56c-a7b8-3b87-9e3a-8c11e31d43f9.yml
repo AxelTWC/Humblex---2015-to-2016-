@@ -1,0 +1,7 @@
+name: Dakkky
+uuid: ca54c56c-a7b8-3b87-9e3a-8c11e31d43f9
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: LogicDoodlesBro
+uuid: 170e7ccf-43e4-3f5d-a943-bc73501c19d8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

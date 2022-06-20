@@ -1,0 +1,8 @@
+name: Mihigh
+uuid: b0706243-bb00-3f15-88b0-3bf02c1a7583
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

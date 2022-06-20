@@ -1,0 +1,7 @@
+name: Universe
+uuid: 2d2b1100-a71d-37e3-a96a-e1ae06bd0d6c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

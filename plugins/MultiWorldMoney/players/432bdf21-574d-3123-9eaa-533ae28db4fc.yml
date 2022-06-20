@@ -1,0 +1,13 @@
+name: Sparklez_World
+uuid: 432bdf21-574d-3123-9eaa-533ae28db4fc
+logoffworld: lobby
+balances:
+  lobby: 850.0
+  spawn: 250000.0
+  spawn_the_end: 0.0
+  ASkyBlock: 79000.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 3000.0
+  skywars: 300.0

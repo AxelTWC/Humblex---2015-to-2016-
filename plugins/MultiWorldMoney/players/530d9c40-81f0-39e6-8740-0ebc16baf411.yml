@@ -1,0 +1,8 @@
+name: Universess
+uuid: 530d9c40-81f0-39e6-8740-0ebc16baf411
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

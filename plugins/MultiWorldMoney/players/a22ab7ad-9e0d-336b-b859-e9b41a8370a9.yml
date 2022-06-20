@@ -1,0 +1,7 @@
+name: RealDolanDuck
+uuid: a22ab7ad-9e0d-336b-b859-e9b41a8370a9
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

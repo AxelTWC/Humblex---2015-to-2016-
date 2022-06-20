@@ -1,0 +1,9 @@
+name: lebledarhd
+uuid: 486edbf9-96a2-3895-af1b-1b0ba8179675
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  summit_1: 0.0
+  skywars: 0.0

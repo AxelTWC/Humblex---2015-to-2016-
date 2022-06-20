@@ -1,0 +1,7 @@
+name: KickerzDude
+uuid: 41bba88a-844c-3e78-a7e5-04e2b5603828
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

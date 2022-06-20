@@ -1,0 +1,26 @@
+lastAccountName: Hokies
+timestamps:
+  login: 1469343546761
+  lastteleport: 1469344370505
+  kits:
+    daily: 1469343292057
+    tools: 1469344239623
+    weekly: 1469343297237
+  logout: 1469344456893
+ipAddress: 49.151.118.75
+socialspy: false
+money: '160.0'
+lastlocation:
+  world: ASkyBlock
+  x: -399.73764885930507
+  y: 120.0
+  z: -797.0085897630125
+  yaw: 156.72449
+  pitch: 32.974407
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

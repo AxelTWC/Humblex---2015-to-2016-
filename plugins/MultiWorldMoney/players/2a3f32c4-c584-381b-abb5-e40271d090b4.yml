@@ -1,0 +1,7 @@
+name: C375
+uuid: 2a3f32c4-c584-381b-abb5-e40271d090b4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

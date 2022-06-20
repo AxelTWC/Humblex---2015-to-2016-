@@ -1,0 +1,7 @@
+name: DesireCoffee
+uuid: 59fdf212-9f87-3975-987c-70a6d77a700f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

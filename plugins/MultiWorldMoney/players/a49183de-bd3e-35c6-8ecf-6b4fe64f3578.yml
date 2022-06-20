@@ -1,0 +1,7 @@
+name: RecycledVomit
+uuid: a49183de-bd3e-35c6-8ecf-6b4fe64f3578
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

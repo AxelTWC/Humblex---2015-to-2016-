@@ -1,0 +1,7 @@
+name: Xelta
+uuid: 37728051-de0f-3c66-ac0e-406fa0d3bbe1
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

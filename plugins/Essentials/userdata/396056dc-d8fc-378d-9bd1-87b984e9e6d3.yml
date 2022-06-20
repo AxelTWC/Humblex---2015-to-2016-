@@ -1,0 +1,22 @@
+lastAccountName: shaolin
+timestamps:
+  login: 1469093200580
+  logout: 1469096478683
+  lastteleport: 1469093982562
+ipAddress: 92.115.146.11
+socialspy: false
+money: '160.00'
+lastlocation:
+  world: ASkyBlock
+  x: 837.6149162347282
+  y: 123.0
+  z: 669.34764818803
+  yaw: -175.48889
+  pitch: -2.3999286
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

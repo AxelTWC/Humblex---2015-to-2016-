@@ -1,0 +1,7 @@
+name: Skyking_Caton
+uuid: 22b73535-dbe1-3a24-a0eb-22079a9be75b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

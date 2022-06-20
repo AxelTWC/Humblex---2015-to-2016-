@@ -1,0 +1,16 @@
+money: '250.0'
+lastAccountName: airo1
+timestamps:
+  login: 1478013087754
+  kits:
+    weekly: 1478013170647
+  logout: 1478013210108
+ipAddress: 2.41.45.169
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

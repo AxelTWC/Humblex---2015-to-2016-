@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: nickcat
+timestamps:
+  login: 1482261462753
+  logout: 1482261477318
+ipAddress: 68.111.67.53
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

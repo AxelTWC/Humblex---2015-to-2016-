@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: _Alstar_
+timestamps:
+  login: 1473073824535
+  lastteleport: 1473073840238
+  logout: 1473074325851
+ipAddress: 78.182.161.199
+socialspy: false
+lastlocation:
+  world: map
+  x: -984.7418356379678
+  y: 13.0
+  z: 279.07420964937035
+  yaw: 211.0448
+  pitch: 20.100018
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

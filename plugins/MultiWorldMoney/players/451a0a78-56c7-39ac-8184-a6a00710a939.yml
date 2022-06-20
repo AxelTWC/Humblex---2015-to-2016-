@@ -1,0 +1,7 @@
+name: Zaccepro
+uuid: 451a0a78-56c7-39ac-8184-a6a00710a939
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

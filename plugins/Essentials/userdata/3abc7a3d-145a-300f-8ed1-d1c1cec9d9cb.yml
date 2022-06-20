@@ -1,0 +1,38 @@
+socialspy: false
+money: '2050.00'
+lastAccountName: Wolf0Mc12
+timestamps:
+  login: 1488826322226
+  logout: 1488826375744
+  kits:
+    youtube: 1481223592301
+    illuminati: 1480335100545
+    ultimate: 1480328260222
+    pegasus: 1481367450775
+    weekly: 1481977898893
+  lastteleport: 1481978704027
+ipAddress: 109.66.14.132
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+lastlocation:
+  world: skyblock
+  x: -4.5
+  y: 82.0
+  z: 4.5
+  yaw: 1.0489502
+  pitch: 13.500095
+homes:
+  home:
+    world: spawn
+    x: 519.1312734302293
+    y: 69.0
+    z: -156.20353350127883
+    yaw: 266.36905
+    pitch: 42.27613
+nickname: §5Wolf0Mc12

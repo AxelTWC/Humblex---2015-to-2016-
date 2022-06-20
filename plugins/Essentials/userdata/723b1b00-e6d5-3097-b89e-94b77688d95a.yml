@@ -1,0 +1,16 @@
+money: '150.0'
+lastAccountName: _Bomb
+timestamps:
+  login: 1488561186839
+  kits:
+    daily: 1488561249025
+  logout: 1488561253026
+ipAddress: 86.6.100.75
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,12 @@
+name: blockbuilder
+uuid: 5016d8eb-1563-3296-b0a7-1b9ffab9c0f3
+logoffworld: lobby
+balances:
+  lobby: 550.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

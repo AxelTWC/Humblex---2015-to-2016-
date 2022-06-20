@@ -1,0 +1,8 @@
+name: rosaplayer
+uuid: 3cfdb78d-7456-3a52-ad17-cbd71ff58376
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

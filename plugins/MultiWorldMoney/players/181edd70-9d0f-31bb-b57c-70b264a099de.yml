@@ -1,0 +1,11 @@
+name: PBandJenny
+uuid: 181edd70-9d0f-31bb-b57c-70b264a099de
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

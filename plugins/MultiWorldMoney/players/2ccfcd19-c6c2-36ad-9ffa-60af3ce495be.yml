@@ -1,0 +1,8 @@
+name: Pano
+uuid: 2ccfcd19-c6c2-36ad-9ffa-60af3ce495be
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 200.0

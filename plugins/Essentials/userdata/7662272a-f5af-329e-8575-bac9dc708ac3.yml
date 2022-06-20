@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: SuperArthurBR
+timestamps:
+  login: 1472950676694
+  lastteleport: 1467311350063
+  logout: 1472950804672
+ipAddress: 187.101.6.25
+lastlocation:
+  world: map
+  x: -985.8152917276303
+  y: -210.8282158312075
+  z: 326.016626404041
+  yaw: 159.14575
+  pitch: -56.85001
+money: '310.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

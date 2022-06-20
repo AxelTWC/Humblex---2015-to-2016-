@@ -1,0 +1,7 @@
+name: killerzapmaster
+uuid: 53bf519f-f904-3266-a946-d0d31d070bc3
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

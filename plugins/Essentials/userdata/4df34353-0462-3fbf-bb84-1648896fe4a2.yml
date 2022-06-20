@@ -1,0 +1,35 @@
+lastAccountName: Xx_Dark_MaZE_xX
+timestamps:
+  login: 1480787941597
+  logout: 1480787948340
+  kits:
+    daily: 1476986899214
+    weekly: 1478182224921
+  lastteleport: 1480657301180
+ipAddress: 112.120.53.93
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1129.4134955277143
+  y: 71.0
+  z: 9716.503499941979
+  yaw: -177.88719
+  pitch: 3.688967
+money: '4925165.00'
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -3473.5185239544558
+    y: 64.0
+    z: 10048.18952055518
+    yaw: 147.78508
+    pitch: 60.414787
+nickname: Xx_Dark_MaZE_xX

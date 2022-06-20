@@ -1,0 +1,7 @@
+name: MixIt
+uuid: 12b69436-2964-396c-b3f7-34d502f7172c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: xXproSkyxX
+timestamps:
+  login: 1480174342789
+  logout: 1480174840062
+ipAddress: 37.142.125.227
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 1400.5
+  y: 120.0
+  z: 1002.5
+  yaw: 0.0
+  pitch: 30.0
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

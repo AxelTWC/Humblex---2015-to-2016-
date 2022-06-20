@@ -1,0 +1,7 @@
+name: SognaFiore
+uuid: 4fead382-9395-3882-925f-75d277218f12
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

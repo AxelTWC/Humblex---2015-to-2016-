@@ -1,0 +1,9 @@
+prefix:
+  global: [G]
+  default: ""
+  world:
+    example: [E]
+    prison: [P]
+    creative: [C]
+    survival: [S]
+override: "!wc"

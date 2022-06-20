@@ -1,0 +1,7 @@
+name: DerpyFace
+uuid: c1611834-5cec-3ed9-98af-0d8b729b0254
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

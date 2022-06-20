@@ -1,0 +1,21 @@
+money: '350.0'
+lastAccountName: Wetzi2003
+timestamps:
+  login: 1473240273183
+  logout: 1473240283470
+ipAddress: 46.223.4.49
+socialspy: false
+lastlocation:
+  world: map
+  x: -985.6703663405341
+  y: 12.0
+  z: 285.2168628509225
+  yaw: 211.79573
+  pitch: -4.649999
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

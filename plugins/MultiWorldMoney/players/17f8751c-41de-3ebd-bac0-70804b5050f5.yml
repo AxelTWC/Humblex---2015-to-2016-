@@ -1,0 +1,10 @@
+name: Bpby
+uuid: 17f8751c-41de-3ebd-bac0-70804b5050f5
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

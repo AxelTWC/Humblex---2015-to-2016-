@@ -1,0 +1,29 @@
+money: '350.0'
+socialspy: false
+lastAccountName: PerfectGirl
+timestamps:
+  login: 1478271746640
+  lastteleport: 1478182682818
+  kits:
+    elite: 1478182409267
+    ultimate: 1478182472540
+    daily: 1478253560461
+    tools: 1478253572865
+    weekly: 1478180518840
+  logout: 1478271763983
+ipAddress: 83.254.120.163
+lastlocation:
+  world: ASkyBlock
+  x: -1197.300000011921
+  y: 118.0
+  z: 400.30000001192093
+  yaw: 98.93393
+  pitch: -5.9999685
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,47 @@
+Version: 1.11
+'[ChristmasSurprise]': '&f[&9ChristmasSurprise&f] '
+Color:
+  '1': '&9'
+  '2': '&f'
+Message:
+  '1': You have to be a player, to use this command.
+  '2': You do not have the permission for this command.
+  '3': '''&f[TEXT]&9'' is not a number.'
+  '4': The day &f[DAY]&9 must be between &f1&9 and &f24&9.
+  '5': You created the sign of day &f[DAY]&9.
+  '6': You destroyed the sign of day &f[DAY]&9.
+  '7': You do not have the permission to open the door.
+  '8': The day &f[DAY]&9 has not been yet.
+  '9': You can not open the door of day &f[DAY]&9, because you do not have enough free slots in your inventory.
+  '10': You opend the door of day &f[DAY]&9.
+  '11': You already opened the door of day &f[DAY]&9.
+  '12': You opend the Inventory of day &f[DAY]&9.
+  '13': You closed the Inventory of day &f[DAY]&9.
+  '14': You added the &f[COMMAND]&9 of day &f[DAY]&9.
+  '15': You removed the &f[COMMAND]&9 of day &f[DAY]&9.
+  '16': The &f[COMMAND]&9 is already in use of day &f[DAY]&9.
+  '17': The &f[COMMAND]&9 does not contain of day &f[DAY]&9, use &f/ChristmasSurprise commandsListAdventCalendar&9.
+  '18': The text of day &f[DAY]&9 has been changed.
+  '19': '&f[PLAYER]&9 joined the arena.'
+  '20': '&f[PLAYER]&9 left the arena with &f[KILLS]&9 kills and &f[DEATHS]&9 deaths.'
+  '21': '&f[PLAYER1]&9 has been knocked out by &f[PLAYER2]&9.'
+  '22': The current time with the correction from the config is &f[TIME]&9.
+  '23': There is a new update available for this plugin. &f( https://fof1092.de/Plugins/CS )&9
+  '24': The plugin is reloading...
+  '25': Reloading completed.
+  '26': Try [COMMAND]
+HelpTextGui:
+  '1': '&f[&9Click to use this command&f]'
+  '2': '&f[&9Next page&f]'
+  '3': '&f[&9Last page&f]'
+  '4': '&7&oPage [PAGE]. &7Click on the arrows for the next page.'
+HelpText:
+  '1': This command shows you the help page.
+  '2': This command shows you the info page.
+  '3': This command lets you edit the items for Advent calendar.
+  '4': This command adds another command, that runs, when opening the door.
+  '5': This command deletes the command running when opening the door.
+  '6': This command shows the list of commands, that run when opening the door.
+  '7': This command changes the text shown, when opening the door.
+  '8': This command shows the server time, with the change that is given in the config.
+  '9': This command is reloading the files.

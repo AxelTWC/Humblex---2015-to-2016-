@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: xX8125Xx
+timestamps:
+  login: 1476512325400
+  logout: 1476513082890
+ipAddress: 222.166.191.134
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: paradise_1
+  x: -0.33509612118765064
+  y: -66.1946192604966
+  z: -6.3465571373376255
+  yaw: -32.020138
+  pitch: 7.9778223

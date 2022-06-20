@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: CriticalHitt
+timestamps:
+  login: 1475965413640
+  logout: 1475965442482
+  kits:
+    youtube: 1469821558606
+    color: 1475399818626
+    daily: 1471427667885
+    titan: 1470303024161
+    coal: 1470161462657
+    weekly: 1474749102588
+    emerald: 1474796755094
+  lastteleport: 1475960325237
+ipAddress: 86.5.145.203
+money: '100300.0'
+logoutlocation:
+  world: skywars
+  x: -10.5
+  y: 39.5
+  z: 7.5
+  yaw: -102.61666
+  pitch: -29.812906
+afk: false
+lastlocation:
+  world: spawn
+  x: -1129.6252122306032
+  y: 71.0
+  z: 9715.658829470449
+  yaw: 177.19942
+  pitch: 13.780215
+nickname: §a§ka§ks§o§bCrit§a§kas
+homes: {}
+godmode: true

@@ -1,0 +1,7 @@
+name: AxelTNO
+uuid: 30923ce8-ef7c-3484-afd0-1e15f7b2f15a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

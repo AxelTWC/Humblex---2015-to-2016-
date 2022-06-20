@@ -1,0 +1,7 @@
+name: CraftSuper50
+uuid: 2632bd2f-14b7-38a4-905a-88577a669cdd
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

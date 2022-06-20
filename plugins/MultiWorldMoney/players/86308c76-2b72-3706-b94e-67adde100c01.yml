@@ -1,0 +1,7 @@
+name: ritzfizz
+uuid: 86308c76-2b72-3706-b94e-67adde100c01
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

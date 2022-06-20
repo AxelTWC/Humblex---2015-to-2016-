@@ -1,0 +1,7 @@
+name: gyngemosen
+uuid: ac09ce88-a612-3842-9bd3-a72eeda7394c
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

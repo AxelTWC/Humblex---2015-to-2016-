@@ -1,0 +1,26 @@
+money: '150.0'
+lastAccountName: Tboneboss9
+timestamps:
+  login: 1487300712804
+  kits:
+    daily: 1485577123883
+    tools: 1486505227525
+    weekly: 1486424332795
+  logout: 1487300752611
+  lastteleport: 1486504898726
+ipAddress: 99.20.252.89
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: -1403.699999988079
+  y: 117.0
+  z: -1201.699999988079
+  yaw: 274.38272
+  pitch: 33.68903

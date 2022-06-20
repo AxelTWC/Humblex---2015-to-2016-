@@ -1,0 +1,7 @@
+name: FierceShadow
+uuid: c2d6c364-152e-34bf-afe7-c37bba42500b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: astrofish7
+uuid: 6041b7ae-1740-3096-88e0-b3d3abf64cf5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

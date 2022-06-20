@@ -1,0 +1,150 @@
+# It is suggested that you do not make major changes to the texts file.
+# Proceed with caution!
+
+General:
+    Ready: "Ready."
+    
+
+General:
+    PlayerNotFound: "<red>Player not found."
+    
+
+General:
+    PlayerNotInYourFaction: "<aqua>%s <red>is not in your faction!"
+    
+
+General:
+    PlayerOnlycommand: "<red>This is a player-only command."
+    
+
+General:
+    PlayerMustHaveFaction: "<red>You have to be in a faction to do that."
+    
+
+General:
+    InternalNoPermission: "<red>Your don't have permission to do that."
+    
+
+General:
+    PuginReloaded: "<green>Reloaded!"
+    
+
+Jails:
+    NotEnabled: "<red>Jails aren't enabled on this server."
+    
+
+Jails:
+    JailCommand.Description: "Jail a member of your faction"
+    
+
+Jails:
+    JailCommand.NoPermission: "You don't have permission to jail players!"
+    
+
+Jails:
+    JailCommand.BadRank: "<red>Your rank is not high enough to use jails."
+    
+
+Jails:
+    JailCommand.NotSet: "<red>There is no jail location set."
+    
+
+Jails:
+    JailCommand.NotInLand: "<red>Your jail location is no longer in your Faction land."
+    
+
+Jails:
+    JailCommand.Sent: "<aqua>%s <green>has been sent to jail!"
+    
+
+Jails:
+    SetJailCommand.NoPermission: "You don't have permission to set a jail location!"
+    
+
+Jails:
+    SetJailCommand.BadRank: "<red>Your rank is not high enough to set jails"
+    
+
+Jails:
+    SetJailCommand.NotInLand: "<red>Your jail location must be in your land."
+    
+
+Jails:
+    SetJailCommand.JailSet: "<green>Jail location has been set to your current position."
+    
+
+Jails:
+    UnjailCommand.NoPermission: "<red>You don't have permission to unjail players!"
+    
+
+Jails:
+    UnjailCommand.BadRank: "<red>Your rank is not high enough to unjail."
+    
+
+Jails:
+    UnjailCommand.NotJailed: "<red>%s is not jailed!"
+    
+
+Jails:
+    UnjailCommand.NotifyJailedPlayer: "<green>You have been released from jail!"
+    
+
+Jails:
+    UnjailCommand.NotifyUnjailer: "<green>%s has been released from jail."
+    
+
+Rules:
+    NotEnabled: "<red>Rules aren't enabled on this server."
+    
+
+Rules:
+    NoRules: "<red>Your faction has not listed their rules!"
+    
+
+Rules:
+    RulesCommand.NoPermission: "<red>You don't have permission to view the rules."
+    
+
+Rules:
+    RulesCommand.Description: "View your faction rules"
+    
+
+Rules:
+    RulesCommand.Layout: "<i>. <rule>"
+    
+
+Rules:
+    AddRuleCommand.NoPermission: "<red>You don't have permission to add rules."
+    
+
+Rules:
+    AddRuleCommand.BadRank: "<red>Your rank is not high enough to add rules!"
+    
+
+Rules:
+    AddRuleCommand.Descripion: "Add faction rules"
+    
+
+Rules:
+    AddRuleCommand.Added: "<green>Rule added!"
+    
+
+Announcements:
+    NotEnabled: "<red>Announcements aren't enabled on this server."
+    
+
+Announcements:
+    CmdAnnounce.NoPermission: "<red>You don't have permission to make announcements."
+    
+
+Warps:
+    NotEnabled: "<red>Warps aren't enabled on this server."
+    
+
+Scoreboard:
+    CmdScoreboard.NoPermission: "<red>You don't have permission to toggle the scoreboard."
+    
+
+Scoreboard:
+    CmdScoreboard.Description: "Toggle the scoreboard"
+    

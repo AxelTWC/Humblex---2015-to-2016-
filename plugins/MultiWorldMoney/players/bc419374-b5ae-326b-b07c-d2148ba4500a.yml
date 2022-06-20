@@ -1,0 +1,7 @@
+name: nadhif
+uuid: bc419374-b5ae-326b-b07c-d2148ba4500a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

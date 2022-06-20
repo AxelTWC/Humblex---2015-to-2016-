@@ -1,0 +1,7 @@
+name: smackjaw
+uuid: 3fc97907-3a2d-3f9a-9a59-17ff8b6d563d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

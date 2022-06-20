@@ -1,0 +1,8 @@
+name: CommonSenze
+uuid: 27fb9370-0e69-3c62-8f82-51b110190d89
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

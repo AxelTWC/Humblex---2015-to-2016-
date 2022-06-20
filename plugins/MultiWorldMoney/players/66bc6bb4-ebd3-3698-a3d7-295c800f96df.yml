@@ -1,0 +1,9 @@
+name: iTeckus
+uuid: 66bc6bb4-ebd3-3698-a3d7-295c800f96df
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 0.0

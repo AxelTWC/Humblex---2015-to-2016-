@@ -1,0 +1,16 @@
+money: '350.0'
+lastAccountName: dukeebob
+timestamps:
+  login: 1478892749377
+  logout: 1478892970523
+  kits:
+    daily: 1478892881167
+ipAddress: 217.46.116.189
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

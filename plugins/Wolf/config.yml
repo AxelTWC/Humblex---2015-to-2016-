@@ -1,0 +1,137 @@
+#########################################################
+#                WOLF ANTI-CHEAT 1.7/1.8                #
+#                    BY SEVENINGFUL                     #
+#                  Warning mode only                    #
+#########################################################
+
+# This value is just for BungeeCord servers who have WOL-BC.jar into their plugins
+# Data will be send with BungeeCord Messaging Channel , so there will be a little delay (~50ms) for each check
+# The plugin will detect if Bungeecord boolean value is set to true in the spigot.yml file and if not it will take
+# the value set in this config file
+bungeecord: false
+
+# Set this to true if your server is a CraftBukkit Server
+# Please consider updating your server to Spigot to get better performances
+craftbukkit: false
+
+# If this value is set to 'true' MYSQL database will be used
+# The plugin will connect to the MySQL server
+# And if the chosen database is not created , it will be created with tables
+# If this value is set to 'false' File database will be used
+# /!\ If you're in a BungeeCord server please use MySQL database /!\
+# /!\ If you have a single huge server (~50 connected people) use the MySQL database too ! /!\
+# THIS OVER HERE IS NOT IMPLEMENTED YET !
+mysql:
+     enabled: true
+     user: 'root'
+     pass: ''
+     port: 3306
+# This sets the name of the used database to store WOLF data
+# If not created, it will be created with tables
+# If created, it will add just tables
+mysql-databse-name: 'Wolf'
+
+# MESSAGES
+# %PLAYER% : Username of the player
+# %HACK% : Hack name
+# %PING% : Ping of the player (not accurate at all)
+# %KAD% : More accurate ping (real)
+# %TPS% : Actual TPS of the server
+# %CHECKS% : Number of verifications before warning sent
+messages:
+  warnings: '&e%PLAYER% &2is suspected for &4%HACK% &6(%PING%ms | %KAD% KAD / TPS : %TPS%) &7(%CHECKS%)'
+
+
+# Different detections modes
+# Recommended mode is 2
+#Available modes : 1 - 2
+onground-mode: 2;
+
+# Explanation
+# enabled | Enable or not the cheat check
+# warning-threshold | Threshold to send a warning to moderators
+# delay | Delay between each warning sent
+# warnings-to-ban | Not implemented yet
+checks:
+    fly:
+       enabled: true
+       #Makes player comeback to the correct position
+       #If it is used with Blink hack it will rollback the whole path that Blink sent to the server so player will not be teleported
+       cancel-mode: true
+       warning-threshold: 4
+       delay: 1000
+       warnings-to-ban: 5
+    killaura:
+       enabled: true
+       warning-threshold: 1
+       delay: 1000
+       warnings-to-ban: 5
+    autoclick:
+       enabled: true
+       cancel-mode: true
+       warning-threshold: 1
+       delay: 1000
+       warnings-to-ban: 5
+    inventoryhack:
+       enabled: true
+       cancel-mode: true
+       warning-threshold: 0
+       delay: 1000
+       warnings-to-ban: 5
+    nofall:
+       enabled: true
+       #Makes player take damage when using NoFall
+       cancel-mode: true
+       warning-threshold: 1
+       delay: 1000
+       warnings-to-ban: 5
+    speedhack:
+       enabled: true
+       #Makes player comeback to the correct position
+       cancel-mode: true
+       warning-threshold: 3
+       delay: 1000
+       warnings-to-ban: 5
+    freecam:
+       enabled: true
+       warning-threshold: 1
+       delay: 1000
+       warnings-to-ban: 5
+    hackedclient:
+       enabled: true
+       cancel-mode: true
+       warning-threshold: 0
+       delay: 1000
+       warnings-to-ban: 5
+    fastbow:
+       enabled: true
+       #Cancels hacked arrows
+       cancel-mode: true
+       warning-threshold: 2
+       delay: 1000
+       warnings-to-ban: 5
+    antiknockback:
+       enabled: true
+       warning-threshold: 2
+       delay: 1000
+       warnings-to-ban: 5
+    jetpack:
+       enabled: true
+       #Makes player comeback to the correct position
+       cancel-mode: true
+       warning-threshold: 0
+       delay: 0
+       warnings-to-ban: 5
+    waterwalk:
+       enabled: true
+       #Makes player fall into water
+       cancel-mode: true
+       warning-threshold: 0
+       delay: 1000
+       warnings-to-ban: 5
+    blink:
+       enabled: true
+       cancel-mode: true
+       warning-threshold: 0
+       delay: 1000
+       warnings-to-ban: 5

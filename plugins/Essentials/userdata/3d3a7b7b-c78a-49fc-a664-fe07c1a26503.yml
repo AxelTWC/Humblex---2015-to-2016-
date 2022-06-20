@@ -1,0 +1,21 @@
+money: '296.0'
+lastAccountName: AwesomeCreeperz
+timestamps:
+  login: 1470977542091
+  logout: 1470978769979
+ipAddress: 124.120.48.17
+socialspy: false
+lastlocation:
+  world: map
+  x: -1015.0949982993587
+  y: 13.0
+  z: 276.30262196238647
+  yaw: 295.34552
+  pitch: 17.99998
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: iYoghurt
+timestamps:
+  login: 1480871149737
+  logout: 1480871354128
+ipAddress: 2.98.39.184
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: 196.74990682185083
+  y: -106.29620479280855
+  z: -1211.6614935678615
+  yaw: 172.00897
+  pitch: 55.512173

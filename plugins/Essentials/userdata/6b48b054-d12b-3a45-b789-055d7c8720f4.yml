@@ -1,0 +1,16 @@
+money: '150.0'
+lastAccountName: HenkGriek
+timestamps:
+  login: 1490776793982
+  kits:
+    weekly: 1490776832863
+  logout: 1490776847442
+ipAddress: 92.66.8.9
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,23 @@
+lastAccountName: DarKing
+timestamps:
+  login: 1488584853218
+  logout: 1488585136142
+  lastteleport: 1485570183166
+ipAddress: 49.145.162.94
+socialspy: false
+money: '150.00'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: -1399.2698191392865
+  y: -204.2319383239113
+  z: -393.34959317938376
+  yaw: 193.95033
+  pitch: -85.05005
+afk: false

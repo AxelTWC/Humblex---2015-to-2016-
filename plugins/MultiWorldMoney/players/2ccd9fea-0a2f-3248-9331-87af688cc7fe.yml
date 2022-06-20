@@ -1,0 +1,7 @@
+name: fedffdrg
+uuid: 2ccd9fea-0a2f-3248-9331-87af688cc7fe
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

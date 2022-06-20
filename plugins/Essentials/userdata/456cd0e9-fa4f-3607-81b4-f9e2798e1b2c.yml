@@ -1,0 +1,21 @@
+money: '0.0'
+lastAccountName: Cornmuncher123
+timestamps:
+  login: 1487957262658
+  logout: 1487957286816
+ipAddress: 46.43.101.133
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -27.56614345517897
+  y: 92.0
+  z: 324.9785534316102
+  yaw: 157.61769
+  pitch: 50.554768
+logoutlocation:
+  world: spawn
+  x: -27.525499040933273
+  y: 92.0
+  z: 325.1566391460294
+  yaw: 157.61769
+  pitch: 50.554768

@@ -1,0 +1,8 @@
+name: LawGreen
+uuid: 2943052e-9e55-38b1-89b3-ae5b460c89f7
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 200.0

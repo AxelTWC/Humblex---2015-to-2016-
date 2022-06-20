@@ -1,0 +1,24 @@
+money: '250.0'
+lastAccountName: RayzerManz47
+timestamps:
+  login: 1478660533100
+  kits:
+    daily: 1478660740920
+    weekly: 1478660746771
+  logout: 1478661697273
+ipAddress: 69.180.32.166
+socialspy: false
+lastlocation:
+  world: map
+  x: -1025.4375520233987
+  y: 13.688571859300573
+  z: 286.1269585696334
+  yaw: 329.10208
+  pitch: 13.367481
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

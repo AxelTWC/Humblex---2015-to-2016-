@@ -1,0 +1,7 @@
+name: SnowBirds
+uuid: 6352c7d9-cc48-379f-a2c0-dd9eab6a3618
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

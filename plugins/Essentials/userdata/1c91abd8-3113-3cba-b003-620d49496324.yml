@@ -1,0 +1,33 @@
+money: '550.0'
+lastAccountName: iiXenonSlayer
+timestamps:
+  login: 1470458353832
+  logout: 1470458528300
+  kits:
+    daily: 1470160931761
+  lastteleport: 1470162036117
+ipAddress: 76.95.11.109
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 603.2408865477031
+  y: 119.35279998153447
+  z: 998.3034840894397
+  yaw: 3.965825
+  pitch: 79.9077
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -528.3000000119209
+    y: 1.0
+    z: 11228.350216587236
+    yaw: 96.006386
+    pitch: 10.183633

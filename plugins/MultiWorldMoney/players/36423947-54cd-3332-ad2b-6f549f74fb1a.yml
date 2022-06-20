@@ -1,0 +1,7 @@
+name: WouldBang
+uuid: 36423947-54cd-3332-ad2b-6f549f74fb1a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

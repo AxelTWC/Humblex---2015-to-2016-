@@ -1,0 +1,33 @@
+money: '0.0'
+lastAccountName: Dlsqueak
+timestamps:
+  login: 1478464553983
+  logout: 1478464655739
+  kits:
+    weekly: 1476840190762
+  lastteleport: 1476845579014
+ipAddress: 74.118.241.117
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 39.0
+  z: 7.0
+  yaw: -180.0
+  pitch: -45.0
+lastlocation:
+  world: spawn
+  x: 2881.042825737
+  y: 11.0
+  z: 8701.513034179157
+  yaw: 121.60559
+  pitch: 4.663886
+afk: false
+homes:
+  home:
+    world: spawn
+    x: 2893.6383427946985
+    y: 78.0
+    z: 8702.682500053026
+    yaw: 167.84764
+    pitch: -6.3926764

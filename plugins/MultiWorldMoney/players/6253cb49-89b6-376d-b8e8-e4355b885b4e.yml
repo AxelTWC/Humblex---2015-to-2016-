@@ -1,0 +1,7 @@
+name: OfficalOxy
+uuid: 6253cb49-89b6-376d-b8e8-e4355b885b4e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

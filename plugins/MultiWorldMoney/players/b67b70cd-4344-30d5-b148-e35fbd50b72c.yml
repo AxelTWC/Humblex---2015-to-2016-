@@ -1,0 +1,7 @@
+name: Unknow
+uuid: b67b70cd-4344-30d5-b148-e35fbd50b72c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

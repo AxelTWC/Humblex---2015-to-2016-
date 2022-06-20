@@ -1,0 +1,20 @@
+autosave:
+  16d4252a-1c8c-3f7f-9e99-7f9b2d94e69c:
+    pet:
+      type: BAT
+      name: batty
+  f53ef38c-7621-3f1e-9db3-17de83833e1a:
+    pet:
+      type: OCELOT
+      name: Ocelot Pet
+  be15cec2-4ece-3790-a9db-12637f9da22e:
+    pet:
+      type: COW
+      name: Moo Moo
+  11d726cf-2465-3470-8bec-6e35ad8137f5:
+    pet:
+      type: PIG
+      name: '12345'
+      data:
+        saddle: true
+        baby: true

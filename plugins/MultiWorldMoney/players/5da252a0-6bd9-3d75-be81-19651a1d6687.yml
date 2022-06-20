@@ -1,0 +1,7 @@
+name: Hollure
+uuid: 5da252a0-6bd9-3d75-be81-19651a1d6687
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

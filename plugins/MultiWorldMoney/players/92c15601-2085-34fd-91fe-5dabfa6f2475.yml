@@ -1,0 +1,7 @@
+name: supergoko
+uuid: 92c15601-2085-34fd-91fe-5dabfa6f2475
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,24 @@
+
+#                                                               #
+#   This is the Default configuration for MobSpawnAnimations.   #
+#   If you need help, message me on spigot.                     #
+#   https://www.spigotmc.org/members/iraphi.5412/               #
+#                                                               #
+
+Update-Checker: true
+No-Animation:
+  - PLAYER
+  - SQUID
+  - GHAST
+  
+Animate-Spawner-Mobs: false
+
+# If this option is chosen, Animations only play on mobs that were spawned with an spawning egg.
+Only-From-Eggs: true
+
+  
+# Time between each teleport. 20 = 1 Second - Less = Faster
+Spawn-Speed: 3
+
+# How many times the Entity should get teleported.
+Spawn-Teleports: 5

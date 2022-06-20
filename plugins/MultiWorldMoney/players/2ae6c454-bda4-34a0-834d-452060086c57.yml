@@ -1,0 +1,7 @@
+name: JavierPL
+uuid: 2ae6c454-bda4-34a0-834d-452060086c57
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

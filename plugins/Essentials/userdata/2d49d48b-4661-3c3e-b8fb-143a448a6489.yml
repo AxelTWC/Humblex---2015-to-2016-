@@ -1,0 +1,21 @@
+lastAccountName: StarterFood
+socialspy: false
+timestamps:
+  login: 1467649083294
+  lastteleport: 1467649134773
+  logout: 1467649143530
+ipAddress: 77.98.132.84
+lastlocation:
+  world: spawn
+  x: -92.29418954478035
+  y: 123.0
+  z: 68.17152986369368
+  yaw: -75.51672
+  pitch: 22.873016
+logoutlocation:
+  world: spawn
+  x: -1129.3371751458387
+  y: 73.0
+  z: 9718.578872223408
+  yaw: -167.2523
+  pitch: 45.081993

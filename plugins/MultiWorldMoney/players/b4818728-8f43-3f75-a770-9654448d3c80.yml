@@ -1,0 +1,8 @@
+name: BloodTroller
+uuid: b4818728-8f43-3f75-a770-9654448d3c80
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

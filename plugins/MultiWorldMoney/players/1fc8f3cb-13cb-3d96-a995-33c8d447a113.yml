@@ -1,0 +1,7 @@
+name: psychicmuffinpop
+uuid: 1fc8f3cb-13cb-3d96-a995-33c8d447a113
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

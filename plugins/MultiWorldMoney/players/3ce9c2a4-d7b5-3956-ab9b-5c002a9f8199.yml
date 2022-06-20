@@ -1,0 +1,7 @@
+name: xFrostyJack
+uuid: 3ce9c2a4-d7b5-3956-ab9b-5c002a9f8199
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

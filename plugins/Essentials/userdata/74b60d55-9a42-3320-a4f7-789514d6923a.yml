@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: Derected
+timestamps:
+  login: 1479628440778
+  logout: 1479628527723
+ipAddress: 88.233.233.194
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

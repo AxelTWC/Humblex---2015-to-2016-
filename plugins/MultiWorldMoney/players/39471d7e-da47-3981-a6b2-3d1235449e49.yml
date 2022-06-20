@@ -1,0 +1,8 @@
+name: DoggyPoo
+uuid: 39471d7e-da47-3981-a6b2-3d1235449e49
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

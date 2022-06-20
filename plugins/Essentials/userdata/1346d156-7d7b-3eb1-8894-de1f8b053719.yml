@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: LihaXNirvana
+timestamps:
+  login: 1476068964606
+  lastteleport: 1476068976059
+  logout: 1476069104359
+ipAddress: 216.172.142.77
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1177.2813915311947
+  y: 67.0
+  z: 9700.66552716504
+  yaw: 21.522858
+  pitch: 22.821402
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

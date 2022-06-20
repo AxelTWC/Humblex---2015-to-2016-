@@ -1,0 +1,26 @@
+lastAccountName: Catsgood123
+timestamps:
+  login: 1470741995966
+  lastteleport: 1470742085058
+  kits:
+    daily: 1470691467356
+    tools: 1470742101975
+    weekly: 1470691455698
+  logout: 1470742144559
+ipAddress: 2.122.118.224
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 60.76174493766811
+  y: 76.0
+  z: 0.19797037935205347
+  yaw: -111.064705
+  pitch: 15.26324
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+money: '350.00'

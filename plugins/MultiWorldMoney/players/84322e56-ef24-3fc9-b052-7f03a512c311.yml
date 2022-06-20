@@ -1,0 +1,7 @@
+name: xTurtleOfficial
+uuid: 84322e56-ef24-3fc9-b052-7f03a512c311
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

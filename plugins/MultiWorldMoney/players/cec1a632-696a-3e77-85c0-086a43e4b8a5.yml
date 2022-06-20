@@ -1,0 +1,7 @@
+name: BlockedShots
+uuid: cec1a632-696a-3e77-85c0-086a43e4b8a5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

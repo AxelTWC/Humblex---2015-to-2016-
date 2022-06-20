@@ -1,0 +1,7 @@
+name: TowerNitroHD
+uuid: bae9638a-5f8d-309a-9fc0-3b63bf7546b0
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

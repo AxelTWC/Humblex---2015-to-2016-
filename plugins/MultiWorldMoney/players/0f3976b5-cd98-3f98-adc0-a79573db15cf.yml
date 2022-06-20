@@ -1,0 +1,6 @@
+name: xLsGRules
+uuid: 0f3976b5-cd98-3f98-adc0-a79573db15cf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  map: 0.0

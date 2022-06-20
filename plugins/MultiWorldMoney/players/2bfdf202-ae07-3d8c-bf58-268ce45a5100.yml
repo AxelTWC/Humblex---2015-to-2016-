@@ -1,0 +1,7 @@
+name: GamerS
+uuid: 2bfdf202-ae07-3d8c-bf58-268ce45a5100
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

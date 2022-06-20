@@ -1,0 +1,7 @@
+name: Exelise
+uuid: 6eb564b4-68c9-3ac3-884c-0061b4a5b81b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

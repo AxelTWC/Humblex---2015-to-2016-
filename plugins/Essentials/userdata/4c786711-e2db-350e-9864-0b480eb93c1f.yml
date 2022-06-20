@@ -1,0 +1,21 @@
+money: '650.0'
+lastAccountName: MRJSN
+timestamps:
+  login: 1479248294542
+  logout: 1479248295796
+ipAddress: 80.2.98.147
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -1009.0238879011804
+  y: 14.0
+  z: 294.29397780990297
+  yaw: 294.8959
+  pitch: 20.249996

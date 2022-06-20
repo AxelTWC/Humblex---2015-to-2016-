@@ -1,0 +1,11 @@
+name: wolfpower101
+uuid: 459cc29d-6933-351e-ba64-10f1523625a8
+logoffworld: lobby
+balances:
+  lobby: 2000.0
+  spawn: 230.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 1900.0
+  map: 100.0

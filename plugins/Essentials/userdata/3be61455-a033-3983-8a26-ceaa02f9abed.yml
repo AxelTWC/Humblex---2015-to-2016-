@@ -1,0 +1,24 @@
+money: '250.0'
+lastAccountName: luizbrjl
+timestamps:
+  login: 1473776232332
+  lastteleport: 1473775770956
+  mute: 0
+  logout: 1473776563575
+ipAddress: 177.17.170.29
+socialspy: false
+lastlocation:
+  world: map
+  x: -1001.2069204477938
+  y: 89.0
+  z: 275.65218326661363
+  yaw: 269.91183
+  pitch: 15.511039
+muted: true
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

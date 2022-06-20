@@ -1,0 +1,24 @@
+money: '150.0'
+lastAccountName: Rage360
+timestamps:
+  login: 1490148070162
+  kits:
+    daily: 1489950769420
+  lastteleport: 1489950805666
+  logout: 1490148124437
+ipAddress: 173.73.24.90
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 59.90336237904695
+  y: 73.0
+  z: 143.93099610617205
+  yaw: 14.456055
+  pitch: 2.767685
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

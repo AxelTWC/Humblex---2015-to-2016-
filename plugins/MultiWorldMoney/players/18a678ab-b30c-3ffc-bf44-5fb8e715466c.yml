@@ -1,0 +1,7 @@
+name: HacksAreFuck
+uuid: 18a678ab-b30c-3ffc-bf44-5fb8e715466c
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

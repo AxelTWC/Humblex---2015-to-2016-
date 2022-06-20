@@ -1,0 +1,8 @@
+# ######### AntiAdvertiser #########
+# ###########################
+AntiAdv:
+  Options:
+    AutoUpdateChecker: true
+  Settings:
+    DO_NOT_TOUCH: 1
+Change_To_1_To_Regenerate_Config: '0'

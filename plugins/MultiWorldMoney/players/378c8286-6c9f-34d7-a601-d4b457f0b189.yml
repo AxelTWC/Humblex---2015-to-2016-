@@ -1,0 +1,7 @@
+name: Gigglegasm
+uuid: 378c8286-6c9f-34d7-a601-d4b457f0b189
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

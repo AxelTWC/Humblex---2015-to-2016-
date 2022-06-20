@@ -1,0 +1,9 @@
+name: japops
+uuid: 1462e0f9-ee20-32a5-bef6-feded519cffd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

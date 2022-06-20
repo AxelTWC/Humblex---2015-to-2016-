@@ -1,0 +1,14 @@
+money: '0.0'
+lastAccountName: Herobrine
+timestamps:
+  login: 1474650253808
+  logout: 1474650389265
+ipAddress: 212.181.139.182
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 39.0
+  z: 19.0
+  yaw: -181.0
+  pitch: 0.0

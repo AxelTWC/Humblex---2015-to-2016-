@@ -1,0 +1,11 @@
+name: DaekstarePlaysMC
+uuid: 622d306d-6f88-3df0-abe4-ba55bf4a1d76
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

@@ -1,0 +1,25 @@
+lastAccountName: Zynova
+timestamps:
+  login: 1467796995111
+  lastteleport: 1467796648900
+  kits:
+    daily: 1467796669424
+    weekly: 1467796659274
+  logout: 1467797004778
+ipAddress: 182.54.163.73
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -10.44335688083013
+  y: 109.0
+  z: 108.60180134381994
+  yaw: -179.95552
+  pitch: -11.591274
+money: '110.0'
+logoutlocation:
+  world: ASkyBlock
+  x: 198.96731442093431
+  y: 120.0
+  z: 801.7989840513279
+  yaw: 308.01453
+  pitch: 31.25604

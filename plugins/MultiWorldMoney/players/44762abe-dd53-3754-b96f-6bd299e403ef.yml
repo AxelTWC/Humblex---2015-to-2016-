@@ -1,0 +1,11 @@
+name: Abomination
+uuid: 44762abe-dd53-3754-b96f-6bd299e403ef
+logoffworld: map
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 100.0

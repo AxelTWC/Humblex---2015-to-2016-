@@ -1,0 +1,12 @@
+name: AlexChoclateEye
+uuid: 8710ad70-c954-39e4-861a-8ee580a14c9e
+logoffworld: lobby
+balances:
+  lobby: 750.0
+  spawn: 500.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 4554.0
+  map: -100.0
+  skywars: 500.0

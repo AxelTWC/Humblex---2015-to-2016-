@@ -1,0 +1,7 @@
+name: Leafreo
+uuid: 07db4167-85df-3933-8f3c-f60d30e1aab1
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

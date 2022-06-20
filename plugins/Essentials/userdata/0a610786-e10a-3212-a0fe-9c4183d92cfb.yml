@@ -1,0 +1,17 @@
+money: '250.0'
+lastAccountName: kieran1323
+timestamps:
+  login: 1477480956336
+  kits:
+    daily: 1477481002434
+    weekly: 1477481011586
+  logout: 1477481153457
+socialspy: false
+ipAddress: 94.13.45.144
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

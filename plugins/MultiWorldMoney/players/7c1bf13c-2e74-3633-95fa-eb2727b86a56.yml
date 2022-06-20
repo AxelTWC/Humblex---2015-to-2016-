@@ -1,0 +1,7 @@
+name: thebrowns
+uuid: 7c1bf13c-2e74-3633-95fa-eb2727b86a56
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

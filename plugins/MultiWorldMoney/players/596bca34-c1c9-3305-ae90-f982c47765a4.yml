@@ -1,0 +1,7 @@
+name: GamesKign17
+uuid: 596bca34-c1c9-3305-ae90-f982c47765a4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

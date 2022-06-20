@@ -1,0 +1,7 @@
+name: Silentcricket
+uuid: 945b256b-173f-3348-af8d-f547241d4182
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

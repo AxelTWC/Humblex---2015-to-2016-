@@ -1,0 +1,21 @@
+socialspy: false
+money: '0.0'
+lastAccountName: MrCarlosJob
+timestamps:
+  login: 1482739856744
+  logout: 1482738225834
+ipAddress: 93.139.186.50
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -984.6999999880791
+  y: 91.0
+  z: 268.40074526410115
+  yaw: -264.60382
+  pitch: 55.94998

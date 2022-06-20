@@ -1,0 +1,24 @@
+money: '742.0'
+socialspy: false
+lastAccountName: Nicolairulez
+timestamps:
+  login: 1472316265392
+  logout: 1472316429381
+  kits:
+    weekly: 1472316293412
+ipAddress: 190.83.131.157
+lastlocation:
+  world: lobby
+  x: 0.9332945632553572
+  y: 7.0
+  z: -12.361699886765381
+  yaw: 334.79364
+  pitch: 1.8297322
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

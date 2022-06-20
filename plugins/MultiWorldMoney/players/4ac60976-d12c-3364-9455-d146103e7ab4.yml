@@ -1,0 +1,7 @@
+name: PortgasAce
+uuid: 4ac60976-d12c-3364-9455-d146103e7ab4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

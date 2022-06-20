@@ -1,0 +1,43 @@
+cooldown: 86400000
+autoreward: true
+savetoip: false
+claim:
+  sound:
+    enabled: false
+    type: ENTITY_PLAYER_LEVELUP
+    volume: 1
+    pitch: 1
+  potion:
+    enabled: false
+    type: REGENERATION
+    duration: 60
+    amplifier: 0
+noreward:
+  sound:
+    enabled: false
+    type: BLOCK_ANVIL_LAND
+    volume: 1
+    pitch: 1
+  potion:
+    enabled: false
+    type: REGENERATION
+    duration: 60
+    amplifier: 0
+rewards:
+  '1':
+    random: false
+    permissions:
+      enabled: false
+      permission: dr.1
+    commands:
+    - uc give key 1 %player
+    - eco give %player 100
+  '2':
+    random: true
+    permissions:
+      enabled: true
+      permission: dr.2
+    commands:
+    - give %player minecraft:stone 1
+    - give %player minecraft:grass 1
+    - give %player minecraft:log 1

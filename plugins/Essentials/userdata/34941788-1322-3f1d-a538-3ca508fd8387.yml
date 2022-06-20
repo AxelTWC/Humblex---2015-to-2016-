@@ -1,0 +1,21 @@
+money: '0.0'
+lastAccountName: grooooooovy
+timestamps:
+  login: 1483822533636
+  logout: 1483822719229
+ipAddress: 84.171.57.96
+socialspy: false
+logoutlocation:
+  world: map
+  x: -1003.5787289099562
+  y: 13.0
+  z: 286.4616163959859
+  yaw: 150.6056
+  pitch: 16.61693
+lastlocation:
+  world: map
+  x: -1003.5787289099562
+  y: 13.0
+  z: 286.4616163959859
+  yaw: 150.6056
+  pitch: 16.61693

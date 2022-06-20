@@ -1,0 +1,25 @@
+money: '450.0'
+lastAccountName: ariel5555
+timestamps:
+  login: 1473093678835
+  lastteleport: 1473092921632
+  logout: 1473094153231
+  kits:
+    daily: 1473092346061
+    weekly: 1473092320585
+ipAddress: 77.124.3.81
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1077.699999988079
+  y: 68.0
+  z: 9648.699999988079
+  yaw: 275.01758
+  pitch: -3.6242409
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

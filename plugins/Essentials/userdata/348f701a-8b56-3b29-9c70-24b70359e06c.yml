@@ -1,0 +1,32 @@
+money: '250.0'
+lastAccountName: RuleGaming
+timestamps:
+  login: 1472782877067
+  kits:
+    weekly: 1472782918613
+  lastteleport: 1472783108640
+  logout: 1472783140484
+ipAddress: 58.187.31.15
+socialspy: false
+homes:
+  home:
+    world: spawn
+    x: 1006.5035631632363
+    y: 72.0
+    z: 429.17806563205374
+    yaw: 276.60007
+    pitch: 15.900002
+lastlocation:
+  world: spawn
+  x: 1027.2901384017277
+  y: 75.0
+  z: 418.6520522840655
+  yaw: 175.95006
+  pitch: 0.450004
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

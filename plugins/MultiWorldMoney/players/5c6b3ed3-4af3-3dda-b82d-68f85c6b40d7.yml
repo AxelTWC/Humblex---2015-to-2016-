@@ -1,0 +1,8 @@
+name: drewig
+uuid: 5c6b3ed3-4af3-3dda-b82d-68f85c6b40d7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

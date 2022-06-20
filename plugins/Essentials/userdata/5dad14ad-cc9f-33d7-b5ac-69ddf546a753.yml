@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Peffaria
+timestamps:
+  login: 1476030753070
+  kits:
+    titan: 1467053839025
+  logout: 1476030756509
+ipAddress: 104.240.99.234
+money: '3000676'
+lastlocation:
+  world: spawn
+  x: -520.2445704894524
+  y: 71.0
+  z: 135.79913469861566
+  yaw: 214.98035
+  pitch: 28.200031
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

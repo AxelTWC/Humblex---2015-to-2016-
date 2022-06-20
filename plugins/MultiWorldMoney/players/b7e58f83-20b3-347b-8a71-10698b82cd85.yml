@@ -1,0 +1,7 @@
+name: TheRealForte
+uuid: b7e58f83-20b3-347b-8a71-10698b82cd85
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

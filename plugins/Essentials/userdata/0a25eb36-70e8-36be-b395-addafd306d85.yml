@@ -1,0 +1,21 @@
+money: '450.0'
+socialspy: false
+lastAccountName: SpacoLP
+timestamps:
+  login: 1481312696634
+  logout: 1481312709063
+ipAddress: 94.221.210.131
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -973.2375000119209
+  y: 13.0
+  z: 300.3543367753291
+  yaw: -97.64276
+  pitch: 14.0860195

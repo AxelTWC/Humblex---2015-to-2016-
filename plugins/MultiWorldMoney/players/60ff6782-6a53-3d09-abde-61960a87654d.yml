@@ -1,0 +1,7 @@
+name: FakeR0197
+uuid: 60ff6782-6a53-3d09-abde-61960a87654d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

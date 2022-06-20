@@ -1,0 +1,7 @@
+name: Lowen_Brau
+uuid: c34113a1-3b56-39ec-9d5a-ece63ca82faa
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

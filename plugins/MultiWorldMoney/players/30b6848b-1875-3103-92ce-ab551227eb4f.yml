@@ -1,0 +1,14 @@
+name: Wolf0Minecraft12
+uuid: 30b6848b-1875-3103-92ce-ab551227eb4f
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 2220.0
+  spawn_the_end: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 121.5
+  map: 230.0
+  BH2: 0.0
+  skywars: 400.0

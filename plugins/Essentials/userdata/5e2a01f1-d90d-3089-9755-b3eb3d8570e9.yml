@@ -1,0 +1,27 @@
+lastAccountName: Cheatsmashed
+socialspy: false
+timestamps:
+  login: 1468008485735
+  kits:
+    daily: 1467967612736
+    coal: 1467970530466
+    tools: 1468008806166
+    weekly: 1467968361315
+  lastteleport: 1468009223466
+  logout: 1468009315774
+ipAddress: 68.7.246.233
+lastlocation:
+  world: spawn
+  x: -923.1278481675995
+  y: 64.0
+  z: 9553.220812005851
+  yaw: -221.89232
+  pitch: -6.146719
+money: '10.0'
+logoutlocation:
+  world: lobby
+  x: 0.349712756593468
+  y: 8.0
+  z: 0.6680903850311521
+  yaw: 0.0
+  pitch: 0.0

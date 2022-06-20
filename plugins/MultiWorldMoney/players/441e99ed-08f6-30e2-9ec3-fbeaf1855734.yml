@@ -1,0 +1,7 @@
+name: grope
+uuid: 441e99ed-08f6-30e2-9ec3-fbeaf1855734
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

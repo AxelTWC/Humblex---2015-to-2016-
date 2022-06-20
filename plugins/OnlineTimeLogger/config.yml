@@ -1,0 +1,1108 @@
+# 
+# 0 = backup only players with permission
+# 1 = backup only players without permission
+# Permission: onlinetimelogger.backup
+backup-enabled: true
+backup-after-seconds: 60
+backup-type: 0
+show-messages: false
+mysql:
+  enabled: false
+  server: localhost
+  port: 3306
+  user: root
+  password: '******'
+  db: minecraft
+  prefix: OTL_
+KryptialGaming:
+  onTime: 3115
+  onTimeReadable: 0:51:55
+  countingFrom: 1490497550432
+  countingFromReadable: '2017-03-26 05:05:50'
+  onTimeFromCountingFrom: 0
+GreenMasterGame:
+  onTime: 2585
+  onTimeReadable: 0:43:5
+  countingFrom: 1489301663693
+  countingFromReadable: '2017-03-12 07:54:23'
+  onTimeFromCountingFrom: 0
+LisaXD5:
+  onTime: 47
+  onTimeReadable: 0:0:47
+  countingFrom: 1488000853772
+  countingFromReadable: '2017-02-25 06:34:13'
+  onTimeFromCountingFrom: 0
+ThatsZman:
+  onTime: 4405
+  onTimeReadable: '1:13:25'
+  countingFrom: 1490447897382
+  countingFromReadable: '2017-03-25 14:18:17'
+  onTimeFromCountingFrom: 0
+Mr_SoufflesYT:
+  onTime: 11552
+  onTimeReadable: '3:12:32'
+  countingFrom: 1490497550432
+  countingFromReadable: '2017-03-26 05:05:50'
+  onTimeFromCountingFrom: 0
+audi2015:
+  onTime: 1294
+  onTimeReadable: 0:21:34
+  countingFrom: 1490275206118
+  countingFromReadable: '2017-03-23 14:20:06'
+  onTimeFromCountingFrom: 0
+llCHASEll:
+  onTime: 885
+  onTimeReadable: 0:14:45
+  countingFrom: 1490497593496
+  countingFromReadable: '2017-03-26 05:06:33'
+  onTimeFromCountingFrom: 0
+Supercraft0704:
+  onTime: 343
+  onTimeReadable: 0:5:43
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+NandoPlayss:
+  onTime: 407
+  onTimeReadable: 0:6:47
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+silent_assassin3:
+  onTime: 6523
+  onTimeReadable: '1:48:43'
+  countingFrom: 1490275206118
+  countingFromReadable: '2017-03-23 14:20:06'
+  onTimeFromCountingFrom: 0
+kaspervahlun:
+  onTime: 20
+  onTimeReadable: 0:0:20
+  countingFrom: 1488000853773
+  countingFromReadable: '2017-02-25 06:34:13'
+  onTimeFromCountingFrom: 0
+ProJohnTech:
+  onTime: 31751
+  onTimeReadable: '8:49:11'
+  countingFrom: 1489905353600
+  countingFromReadable: '2017-03-19 07:35:53'
+  onTimeFromCountingFrom: 0
+AxelTWC:
+  onTime: 17747
+  onTimeReadable: '4:55:47'
+  countingFrom: 1490771914771
+  countingFromReadable: '2017-03-29 09:18:34'
+  onTimeFromCountingFrom: 0
+kolohen3:
+  onTime: 15645
+  onTimeReadable: '4:20:45'
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+Cornmuncher123:
+  onTime: 26
+  onTimeReadable: 0:0:26
+  countingFrom: 1488000853773
+  countingFromReadable: '2017-02-25 06:34:13'
+  onTimeFromCountingFrom: 0
+Wengi:
+  onTime: 1161
+  onTimeReadable: 0:19:21
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+AshleyTCT:
+  onTime: 8352
+  onTimeReadable: '2:19:12'
+  countingFrom: 1488897229328
+  countingFromReadable: '2017-03-07 15:33:49'
+  onTimeFromCountingFrom: 0
+ikninja:
+  onTime: 13198
+  onTimeReadable: '3:39:58'
+  countingFrom: 1490771914771
+  countingFromReadable: '2017-03-29 09:18:34'
+  onTimeFromCountingFrom: 0
+mLite16:
+  onTime: 7327
+  onTimeReadable: '2:2:7'
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+Enchanted_Boy123:
+  onTime: 62
+  onTimeReadable: 0:1:2
+  countingFrom: 1488000852770
+  countingFromReadable: '2017-02-25 06:34:12'
+  onTimeFromCountingFrom: 0
+louloubg2002:
+  onTime: 35
+  onTimeReadable: 0:0:35
+  countingFrom: 1488897261372
+  countingFromReadable: '2017-03-07 15:34:21'
+  onTimeFromCountingFrom: 0
+TheRealAnEpicPie:
+  onTime: 13
+  onTimeReadable: 0:0:13
+  countingFrom: 1488897261372
+  countingFromReadable: '2017-03-07 15:34:21'
+  onTimeFromCountingFrom: 0
+OfficialRocky:
+  onTime: 142
+  onTimeReadable: 0:2:22
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+revo_traxxas_99:
+  onTime: 11349
+  onTimeReadable: '3:9:9'
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Girl_duper2012:
+  onTime: 61
+  onTimeReadable: 0:1:1
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Renzoswag80:
+  onTime: 80
+  onTimeReadable: 0:1:20
+  countingFrom: 1488897229328
+  countingFromReadable: '2017-03-07 15:33:49'
+  onTimeFromCountingFrom: 0
+Legendxry:
+  onTime: 28
+  onTimeReadable: 0:0:28
+  countingFrom: 1488897234367
+  countingFromReadable: '2017-03-07 15:33:54'
+  onTimeFromCountingFrom: 0
+ViezeJack:
+  onTime: 114
+  onTimeReadable: 0:1:54
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+ChocolateStone25:
+  onTime: 596
+  onTimeReadable: 0:9:56
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+nadia123:
+  onTime: 154
+  onTimeReadable: 0:2:34
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+PyroGuy15:
+  onTime: 210679
+  onTimeReadable: '58:31:19'
+  countingFrom: 1490791214947
+  countingFromReadable: '2017-03-29 14:40:14'
+  onTimeFromCountingFrom: 3805
+BananaPeeling:
+  onTime: 188
+  onTimeReadable: 0:3:8
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+ystrike099:
+  onTime: 35
+  onTimeReadable: 0:0:35
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+IcanLevitate:
+  onTime: 877
+  onTimeReadable: 0:14:37
+  countingFrom: 1488897234367
+  countingFromReadable: '2017-03-07 15:33:54'
+  onTimeFromCountingFrom: 0
+woozahYT:
+  onTime: 820
+  onTimeReadable: 0:13:40
+  countingFrom: 1488897220361
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+kalkkinaama:
+  onTime: 113
+  onTimeReadable: 0:1:53
+  countingFrom: 1490002893303
+  countingFromReadable: '2017-03-20 10:41:33'
+  onTimeFromCountingFrom: 0
+fxlc0n_:
+  onTime: 4447
+  onTimeReadable: '1:14:7'
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+IceGod5:
+  onTime: 24
+  onTimeReadable: 0:0:24
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+iCodeHit:
+  onTime: 5
+  onTimeReadable: 0:0:5
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+ZeddCC:
+  onTime: 55
+  onTimeReadable: 0:0:55
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Puppyluvs1999:
+  onTime: 25
+  onTimeReadable: 0:0:25
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+XxDuh_Itz_Andrew:
+  onTime: 43
+  onTimeReadable: 0:0:43
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+EmmaleeSue:
+  onTime: 100
+  onTimeReadable: 0:1:40
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Milo_16:
+  onTime: 71
+  onTimeReadable: 0:1:11
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+dssadefr:
+  onTime: 61
+  onTimeReadable: 0:1:1
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+grope:
+  onTime: 77
+  onTimeReadable: 0:1:17
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+MurderYT:
+  onTime: 146
+  onTimeReadable: 0:2:26
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Xioq:
+  onTime: 26
+  onTimeReadable: 0:0:26
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+thecoolduck94:
+  onTime: 35
+  onTimeReadable: 0:0:35
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+saloooo:
+  onTime: 57
+  onTimeReadable: 0:0:57
+  countingFrom: 1490002897303
+  countingFromReadable: '2017-03-20 10:41:37'
+  onTimeFromCountingFrom: 0
+_Bomb:
+  onTime: 68
+  onTimeReadable: 0:1:8
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Miki_xD:
+  onTime: 27
+  onTimeReadable: 0:0:27
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+NATSU:
+  onTime: 4772
+  onTimeReadable: '1:19:32'
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+Blank_infiety:
+  onTime: 1934
+  onTimeReadable: 0:32:14
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+DarKing:
+  onTime: 284
+  onTimeReadable: 0:4:44
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+noning:
+  onTime: 62
+  onTimeReadable: 0:1:2
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+FuriousDestroyer:
+  onTime: 239
+  onTimeReadable: 0:3:59
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+dungca09:
+  onTime: 48681
+  onTimeReadable: '13:31:21'
+  countingFrom: 1490771952728
+  countingFromReadable: '2017-03-29 09:19:12'
+  onTimeFromCountingFrom: 0
+xToshi:
+  onTime: 19
+  onTimeReadable: 0:0:19
+  countingFrom: 1488897220362
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+s_trap_v2:
+  onTime: 1657
+  onTimeReadable: 0:27:37
+  countingFrom: 1488897220363
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+BritishDab:
+  onTime: 119
+  onTimeReadable: 0:1:59
+  countingFrom: 1488897220363
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+DarkAspect:
+  onTime: 43
+  onTimeReadable: 0:0:43
+  countingFrom: 1488897220363
+  countingFromReadable: '2017-03-07 15:33:40'
+  onTimeFromCountingFrom: 0
+RoDTeddy:
+  onTime: 66
+  onTimeReadable: 0:1:6
+  countingFrom: 1489161800079
+  countingFromReadable: '2017-03-10 17:03:20'
+  onTimeFromCountingFrom: 0
+Dark_void322:
+  onTime: 81
+  onTimeReadable: 0:1:21
+  countingFrom: 1488897234367
+  countingFromReadable: '2017-03-07 15:33:54'
+  onTimeFromCountingFrom: 0
+bluedragon151:
+  onTime: 9801
+  onTimeReadable: '2:43:21'
+  countingFrom: 1490002863297
+  countingFromReadable: '2017-03-20 10:41:03'
+  onTimeFromCountingFrom: 0
+Wolf0Mc12:
+  onTime: 55
+  onTimeReadable: 0:0:55
+  countingFrom: 1488897234367
+  countingFromReadable: '2017-03-07 15:33:54'
+  onTimeFromCountingFrom: 0
+MomentousMaster:
+  onTime: 9351
+  onTimeReadable: '2:35:51'
+  countingFrom: 1490771914770
+  countingFromReadable: '2017-03-29 09:18:34'
+  onTimeFromCountingFrom: 0
+MoneyKiller234:
+  onTime: 42716
+  onTimeReadable: '11:51:56'
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+_Humorously_:
+  onTime: 221
+  onTimeReadable: 0:3:41
+  countingFrom: 1489161778080
+  countingFromReadable: '2017-03-10 17:02:58'
+  onTimeFromCountingFrom: 0
+SkyChase:
+  onTime: 12378
+  onTimeReadable: '3:26:18'
+  countingFrom: 1490771947776
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+WolfBoy___:
+  onTime: 13
+  onTimeReadable: 0:0:13
+  countingFrom: 1489161804081
+  countingFromReadable: '2017-03-10 17:03:24'
+  onTimeFromCountingFrom: 0
+Hator:
+  onTime: 38
+  onTimeReadable: 0:0:38
+  countingFrom: 1489161760026
+  countingFromReadable: '2017-03-10 17:02:40'
+  onTimeFromCountingFrom: 0
+manuel1907:
+  onTime: 486
+  onTimeReadable: 0:8:6
+  countingFrom: 1489301672690
+  countingFromReadable: '2017-03-12 07:54:32'
+  onTimeFromCountingFrom: 0
+Benja_Nerf:
+  onTime: 484
+  onTimeReadable: 0:8:4
+  countingFrom: 1489301672690
+  countingFromReadable: '2017-03-12 07:54:32'
+  onTimeFromCountingFrom: 0
+LqS_MaTrIx:
+  onTime: 2229
+  onTimeReadable: 0:37:9
+  countingFrom: 1489301657687
+  countingFromReadable: '2017-03-12 07:54:17'
+  onTimeFromCountingFrom: 0
+tylerspeediskey:
+  onTime: 1844
+  onTimeReadable: 0:30:44
+  countingFrom: 1489301657687
+  countingFromReadable: '2017-03-12 07:54:17'
+  onTimeFromCountingFrom: 0
+LunarFox2015:
+  onTime: 5122
+  onTimeReadable: '1:25:22'
+  countingFrom: 1489301685693
+  countingFromReadable: '2017-03-12 07:54:45'
+  onTimeFromCountingFrom: 0
+iierickii:
+  onTime: 75
+  onTimeReadable: 0:1:15
+  countingFrom: 1489301663693
+  countingFromReadable: '2017-03-12 07:54:23'
+  onTimeFromCountingFrom: 0
+TheFreddy123:
+  onTime: 8
+  onTimeReadable: 0:0:8
+  countingFrom: 1489301672690
+  countingFromReadable: '2017-03-12 07:54:32'
+  onTimeFromCountingFrom: 0
+CampingOG:
+  onTime: 32
+  onTimeReadable: 0:0:32
+  countingFrom: 1489301687694
+  countingFromReadable: '2017-03-12 07:54:47'
+  onTimeFromCountingFrom: 0
+dungcq:
+  onTime: 58
+  onTimeReadable: 0:0:58
+  countingFrom: 1489301673702
+  countingFromReadable: '2017-03-12 07:54:33'
+  onTimeFromCountingFrom: 0
+mackie4:
+  onTime: 930
+  onTimeReadable: 0:15:30
+  countingFrom: 1489301662693
+  countingFromReadable: '2017-03-12 07:54:22'
+  onTimeFromCountingFrom: 0
+WhySoVahun:
+  onTime: 41
+  onTimeReadable: 0:0:41
+  countingFrom: 1489301657687
+  countingFromReadable: '2017-03-12 07:54:17'
+  onTimeFromCountingFrom: 0
+Dazze:
+  onTime: 1995
+  onTimeReadable: 0:33:15
+  countingFrom: 1490447854328
+  countingFromReadable: '2017-03-25 14:17:34'
+  onTimeFromCountingFrom: 0
+Pano:
+  onTime: 1490
+  onTimeReadable: 0:24:50
+  countingFrom: 1489905367643
+  countingFromReadable: '2017-03-19 07:36:07'
+  onTimeFromCountingFrom: 0
+Frostimoon:
+  onTime: 61
+  onTimeReadable: 0:1:1
+  countingFrom: 1489301673702
+  countingFromReadable: '2017-03-12 07:54:33'
+  onTimeFromCountingFrom: 0
+MooneyKiller234:
+  onTime: 15
+  onTimeReadable: 0:0:15
+  countingFrom: 1489301673702
+  countingFromReadable: '2017-03-12 07:54:33'
+  onTimeFromCountingFrom: 0
+RAW5879:
+  onTime: 8
+  onTimeReadable: 0:0:8
+  countingFrom: 1489301685694
+  countingFromReadable: '2017-03-12 07:54:45'
+  onTimeFromCountingFrom: 0
+FaZeVex:
+  onTime: 11
+  onTimeReadable: 0:0:11
+  countingFrom: 1489301685694
+  countingFromReadable: '2017-03-12 07:54:45'
+  onTimeFromCountingFrom: 0
+DiamondMaster21:
+  onTime: 167
+  onTimeReadable: 0:2:47
+  countingFrom: 1489301657687
+  countingFromReadable: '2017-03-12 07:54:17'
+  onTimeFromCountingFrom: 0
+JuniorLover15:
+  onTime: 121
+  onTimeReadable: 0:2:1
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+_K1lls_:
+  onTime: 34
+  onTimeReadable: 0:0:34
+  countingFrom: 1489301662693
+  countingFromReadable: '2017-03-12 07:54:22'
+  onTimeFromCountingFrom: 0
+GorillasCanCombo:
+  onTime: 4
+  onTimeReadable: 0:0:4
+  countingFrom: 1489301685694
+  countingFromReadable: '2017-03-12 07:54:45'
+  onTimeFromCountingFrom: 0
+Grevern:
+  onTime: 55
+  onTimeReadable: 0:0:55
+  countingFrom: 1489301692652
+  countingFromReadable: '2017-03-12 07:54:52'
+  onTimeFromCountingFrom: 0
+Astrofish7:
+  onTime: 11597
+  onTimeReadable: '3:13:17'
+  countingFrom: 1490771947775
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+benz2017:
+  onTime: 63
+  onTimeReadable: 0:1:3
+  countingFrom: 1489815348910
+  countingFromReadable: '2017-03-18 06:35:48'
+  onTimeFromCountingFrom: 0
+neslon:
+  onTime: 457
+  onTimeReadable: 0:7:37
+  countingFrom: 1489815348910
+  countingFromReadable: '2017-03-18 06:35:48'
+  onTimeFromCountingFrom: 0
+XdejvosX:
+  onTime: 93
+  onTimeReadable: 0:1:33
+  countingFrom: 1489815348910
+  countingFromReadable: '2017-03-18 06:35:48'
+  onTimeFromCountingFrom: 0
+FreezingButt:
+  onTime: 14573
+  onTimeReadable: '4:2:53'
+  countingFrom: 1489905358605
+  countingFromReadable: '2017-03-19 07:35:58'
+  onTimeFromCountingFrom: 0
+Asswan:
+  onTime: 886
+  onTimeReadable: 0:14:46
+  countingFrom: 1489815348910
+  countingFromReadable: '2017-03-18 06:35:48'
+  onTimeFromCountingFrom: 0
+HackPlexMOD:
+  onTime: 62
+  onTimeReadable: 0:1:2
+  countingFrom: 1489815348910
+  countingFromReadable: '2017-03-18 06:35:48'
+  onTimeFromCountingFrom: 0
+Mustafa_GameOver:
+  onTime: 51
+  onTimeReadable: 0:0:51
+  countingFrom: 1489815348910
+  countingFromReadable: '2017-03-18 06:35:48'
+  onTimeFromCountingFrom: 0
+delicatedeer:
+  onTime: 55
+  onTimeReadable: 0:0:55
+  countingFrom: 1489905367643
+  countingFromReadable: '2017-03-19 07:36:07'
+  onTimeFromCountingFrom: 0
+DiEVern:
+  onTime: 81
+  onTimeReadable: 0:1:21
+  countingFrom: 1489905340573
+  countingFromReadable: '2017-03-19 07:35:40'
+  onTimeFromCountingFrom: 0
+Cutpo:
+  onTime: 8622
+  onTimeReadable: '2:23:42'
+  countingFrom: 1490356977363
+  countingFromReadable: '2017-03-24 13:02:57'
+  onTimeFromCountingFrom: 0
+haroldfungth:
+  onTime: 3543
+  onTimeReadable: 0:59:3
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+LawGreen:
+  onTime: 2821
+  onTimeReadable: 0:47:1
+  countingFrom: 1490447860312
+  countingFromReadable: '2017-03-25 14:17:40'
+  onTimeFromCountingFrom: 0
+BlazeLordNord:
+  onTime: 130
+  onTimeReadable: 0:2:10
+  countingFrom: 1489905367643
+  countingFromReadable: '2017-03-19 07:36:07'
+  onTimeFromCountingFrom: 0
+farelboy:
+  onTime: 8
+  onTimeReadable: 0:0:8
+  countingFrom: 1489905358605
+  countingFromReadable: '2017-03-19 07:35:58'
+  onTimeFromCountingFrom: 0
+FindNeverland:
+  onTime: 200
+  onTimeReadable: 0:3:20
+  countingFrom: 1489905340573
+  countingFromReadable: '2017-03-19 07:35:40'
+  onTimeFromCountingFrom: 0
+CJMark:
+  onTime: 1798
+  onTimeReadable: 0:29:58
+  countingFrom: 1489905376648
+  countingFromReadable: '2017-03-19 07:36:16'
+  onTimeFromCountingFrom: 0
+BenDaDoge:
+  onTime: 728
+  onTimeReadable: 0:12:8
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+iyadrozan:
+  onTime: 138
+  onTimeReadable: 0:2:18
+  countingFrom: 1490002887298
+  countingFromReadable: '2017-03-20 10:41:27'
+  onTimeFromCountingFrom: 0
+Rage360:
+  onTime: 459
+  onTimeReadable: 0:7:39
+  countingFrom: 1490275206118
+  countingFromReadable: '2017-03-23 14:20:06'
+  onTimeFromCountingFrom: 0
+ilyes_999:
+  onTime: 376
+  onTimeReadable: 0:6:16
+  countingFrom: 1490002863297
+  countingFromReadable: '2017-03-20 10:41:03'
+  onTimeFromCountingFrom: 0
+xDank:
+  onTime: 290
+  onTimeReadable: 0:4:50
+  countingFrom: 1490349838339
+  countingFromReadable: '2017-03-24 11:03:58'
+  onTimeFromCountingFrom: 0
+NIGGELDABOSS:
+  onTime: 44
+  onTimeReadable: 0:0:44
+  countingFrom: 1490002898301
+  countingFromReadable: '2017-03-20 10:41:38'
+  onTimeFromCountingFrom: 0
+NIGELDABOSS:
+  onTime: 2416
+  onTimeReadable: 0:40:16
+  countingFrom: 1490349872341
+  countingFromReadable: '2017-03-24 11:04:32'
+  onTimeFromCountingFrom: 0
+ScilenceOG:
+  onTime: 143
+  onTimeReadable: 0:2:23
+  countingFrom: 1490002864297
+  countingFromReadable: '2017-03-20 10:41:04'
+  onTimeFromCountingFrom: 0
+COOKIESAREGUD:
+  onTime: 155
+  onTimeReadable: 0:2:35
+  countingFrom: 1490002902302
+  countingFromReadable: '2017-03-20 10:41:42'
+  onTimeFromCountingFrom: 0
+CryingHate:
+  onTime: 41
+  onTimeReadable: 0:0:41
+  countingFrom: 1490002887298
+  countingFromReadable: '2017-03-20 10:41:27'
+  onTimeFromCountingFrom: 0
+JiProud:
+  onTime: 66
+  onTimeReadable: 0:1:6
+  countingFrom: 1490275211167
+  countingFromReadable: '2017-03-23 14:20:11'
+  onTimeFromCountingFrom: 0
+Enchanted_Boy:
+  onTime: 168
+  onTimeReadable: 0:2:48
+  countingFrom: 1490275211167
+  countingFromReadable: '2017-03-23 14:20:11'
+  onTimeFromCountingFrom: 0
+chards:
+  onTime: 10
+  onTimeReadable: 0:0:10
+  countingFrom: 1490275206118
+  countingFromReadable: '2017-03-23 14:20:06'
+  onTimeFromCountingFrom: 0
+Erwinrommel:
+  onTime: 112229
+  onTimeReadable: '31:10:29'
+  countingFrom: 1490791625425
+  countingFromReadable: '2017-03-29 14:47:05'
+  onTimeFromCountingFrom: 3409
+raceboy392:
+  onTime: 24
+  onTimeReadable: 0:0:24
+  countingFrom: 1490275228164
+  countingFromReadable: '2017-03-23 14:20:28'
+  onTimeFromCountingFrom: 0
+ModernBuilder:
+  onTime: 11
+  onTimeReadable: 0:0:11
+  countingFrom: 1490275211168
+  countingFromReadable: '2017-03-23 14:20:11'
+  onTimeFromCountingFrom: 0
+FatBoyChubbs:
+  onTime: 47
+  onTimeReadable: 0:0:47
+  countingFrom: 1490275228164
+  countingFromReadable: '2017-03-23 14:20:28'
+  onTimeFromCountingFrom: 0
+SaurusGames:
+  onTime: 581
+  onTimeReadable: 0:9:41
+  countingFrom: 1490275237162
+  countingFromReadable: '2017-03-23 14:20:37'
+  onTimeFromCountingFrom: 0
+Alessandro:
+  onTime: 1450
+  onTimeReadable: 0:24:10
+  countingFrom: 1490349838339
+  countingFromReadable: '2017-03-24 11:03:58'
+  onTimeFromCountingFrom: 0
+HabeSupport:
+  onTime: 183
+  onTimeReadable: 0:3:3
+  countingFrom: 1490349830270
+  countingFromReadable: '2017-03-24 11:03:50'
+  onTimeFromCountingFrom: 0
+Zimoni:
+  onTime: 2045
+  onTimeReadable: 0:34:5
+  countingFrom: 1490349847336
+  countingFromReadable: '2017-03-24 11:04:07'
+  onTimeFromCountingFrom: 0
+swagking:
+  onTime: 12460
+  onTimeReadable: '3:27:40'
+  countingFrom: 1490497550432
+  countingFromReadable: '2017-03-26 05:05:50'
+  onTimeFromCountingFrom: 0
+TurtleStomp:
+  onTime: 9
+  onTimeReadable: 0:0:9
+  countingFrom: 1490349872341
+  countingFromReadable: '2017-03-24 11:04:32'
+  onTimeFromCountingFrom: 0
+DeathsComing:
+  onTime: 60
+  onTimeReadable: 0:1:0
+  countingFrom: 1490771947775
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+mrsybro:
+  onTime: 18
+  onTimeReadable: 0:0:18
+  countingFrom: 1490349830270
+  countingFromReadable: '2017-03-24 11:03:50'
+  onTimeFromCountingFrom: 0
+RDG0713:
+  onTime: 2259
+  onTimeReadable: 0:37:39
+  countingFrom: 1490349838339
+  countingFromReadable: '2017-03-24 11:03:58'
+  onTimeFromCountingFrom: 0
+iAussie:
+  onTime: 502
+  onTimeReadable: 0:8:22
+  countingFrom: 1490356941363
+  countingFromReadable: '2017-03-24 13:02:21'
+  onTimeFromCountingFrom: 0
+ALESSANDRO:
+  onTime: 544
+  onTimeReadable: 0:9:4
+  countingFrom: 1490447873305
+  countingFromReadable: '2017-03-25 14:17:53'
+  onTimeFromCountingFrom: 0
+EnchantedMax:
+  onTime: 63
+  onTimeReadable: 0:1:3
+  countingFrom: 1490447863303
+  countingFromReadable: '2017-03-25 14:17:43'
+  onTimeFromCountingFrom: 0
+Defek7_:
+  onTime: 29
+  onTimeReadable: 0:0:29
+  countingFrom: 1490447882336
+  countingFromReadable: '2017-03-25 14:18:02'
+  onTimeFromCountingFrom: 0
+Furkanwb:
+  onTime: 590
+  onTimeReadable: 0:9:50
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+PoppinPumpkin:
+  onTime: 337
+  onTimeReadable: 0:5:37
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+Soccer_05:
+  onTime: 350
+  onTimeReadable: 0:5:50
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+Jvr20:
+  onTime: 34
+  onTimeReadable: 0:0:34
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+HiverHD:
+  onTime: 7
+  onTimeReadable: 0:0:7
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+adolfhitler:
+  onTime: 470
+  onTimeReadable: 0:7:50
+  countingFrom: 1490447863303
+  countingFromReadable: '2017-03-25 14:17:43'
+  onTimeFromCountingFrom: 0
+GuilleGamez:
+  onTime: 300
+  onTimeReadable: 0:5:0
+  countingFrom: 1490447863303
+  countingFromReadable: '2017-03-25 14:17:43'
+  onTimeFromCountingFrom: 0
+HeinrichHimmler:
+  onTime: 10
+  onTimeReadable: 0:0:10
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+Heinlichhimmler:
+  onTime: 9
+  onTimeReadable: 0:0:9
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+BehindThePanzer:
+  onTime: 59
+  onTimeReadable: 0:0:59
+  countingFrom: 1490447904400
+  countingFromReadable: '2017-03-25 14:18:24'
+  onTimeFromCountingFrom: 0
+NeukStaaf22:
+  onTime: 32831
+  onTimeReadable: '9:7:11'
+  countingFrom: 1490795014951
+  countingFromReadable: '2017-03-29 15:43:34'
+  onTimeFromCountingFrom: 0
+Henryboss:
+  onTime: 92
+  onTimeReadable: 0:1:32
+  countingFrom: 1490447863303
+  countingFromReadable: '2017-03-25 14:17:43'
+  onTimeFromCountingFrom: 0
+BrandonPeacee:
+  onTime: 100
+  onTimeReadable: 0:1:40
+  countingFrom: 1490447863303
+  countingFromReadable: '2017-03-25 14:17:43'
+  onTimeFromCountingFrom: 0
+Kierxn:
+  onTime: 1320
+  onTimeReadable: 0:22:0
+  countingFrom: 1490447882336
+  countingFromReadable: '2017-03-25 14:18:02'
+  onTimeFromCountingFrom: 0
+CoolLord22:
+  onTime: 624
+  onTimeReadable: 0:10:24
+  countingFrom: 1490497545433
+  countingFromReadable: '2017-03-26 05:05:45'
+  onTimeFromCountingFrom: 0
+JxnD:
+  onTime: 4979
+  onTimeReadable: '1:22:59'
+  countingFrom: 1490497583453
+  countingFromReadable: '2017-03-26 05:06:23'
+  onTimeFromCountingFrom: 0
+stucla:
+  onTime: 33
+  onTimeReadable: 0:0:33
+  countingFrom: 1490497550432
+  countingFromReadable: '2017-03-26 05:05:50'
+  onTimeFromCountingFrom: 0
+Sygeth:
+  onTime: 450
+  onTimeReadable: 0:7:30
+  countingFrom: 1490522933163
+  countingFromReadable: '2017-03-26 12:08:53'
+  onTimeFromCountingFrom: 0
+rafaellabbe:
+  onTime: 567
+  onTimeReadable: 0:9:27
+  countingFrom: 1490535254210
+  countingFromReadable: '2017-03-26 15:34:14'
+  onTimeFromCountingFrom: 0
+WRXtasy:
+  onTime: 467
+  onTimeReadable: 0:7:47
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+meep1304:
+  onTime: 407
+  onTimeReadable: 0:6:47
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+DinoCrafter06:
+  onTime: 299
+  onTimeReadable: 0:4:59
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+AleWGF:
+  onTime: 59
+  onTimeReadable: 0:0:59
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+ClickToBegin:
+  onTime: 39
+  onTimeReadable: 0:0:39
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+MasAssasianYT:
+  onTime: 76
+  onTimeReadable: 0:1:16
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+guijrtyullsxfm:
+  onTime: 11625
+  onTimeReadable: '3:13:45'
+  countingFrom: 1490771937767
+  countingFromReadable: '2017-03-29 09:18:57'
+  onTimeFromCountingFrom: 0
+DaWurstJigsawEva:
+  onTime: 119
+  onTimeReadable: 0:1:59
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+xxASAHIxx:
+  onTime: 124
+  onTimeReadable: 0:2:4
+  countingFrom: 1490771947775
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+iRemixPlayz:
+  onTime: 57
+  onTimeReadable: 0:0:57
+  countingFrom: 1490771947776
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+steventsui123:
+  onTime: 160
+  onTimeReadable: 0:2:40
+  countingFrom: 1490771947776
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+HeyImDarkyy:
+  onTime: 83
+  onTimeReadable: 0:1:23
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+CroatianBoys:
+  onTime: 539
+  onTimeReadable: 0:8:59
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+chinnu:
+  onTime: 193
+  onTimeReadable: 0:3:13
+  countingFrom: 1490771947776
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+Ra_Zi:
+  onTime: 31
+  onTimeReadable: 0:0:31
+  countingFrom: 1490771947776
+  countingFromReadable: '2017-03-29 09:19:07'
+  onTimeFromCountingFrom: 0
+guijrtyLillsxfm:
+  onTime: 99
+  onTimeReadable: 0:1:39
+  countingFrom: 1490771928772
+  countingFromReadable: '2017-03-29 09:18:48'
+  onTimeFromCountingFrom: 0
+bmfj:
+  onTime: 21628
+  onTimeReadable: '6:0:28'
+  countingFrom: 1490771923778
+  countingFromReadable: '2017-03-29 09:18:43'
+  onTimeFromCountingFrom: 0
+Dojo215:
+  onTime: 319
+  onTimeReadable: 0:5:19
+  countingFrom: 1490771914771
+  countingFromReadable: '2017-03-29 09:18:34'
+  onTimeFromCountingFrom: 0
+HenkGriek:
+  onTime: 55
+  onTimeReadable: 0:0:55
+  countingFrom: 1490795002867
+  countingFromReadable: '2017-03-29 15:43:22'
+  onTimeFromCountingFrom: 0
+egel123:
+  onTime: 1286
+  onTimeReadable: 0:21:26
+  countingFrom: 1490795002867
+  countingFromReadable: '2017-03-29 15:43:22'
+  onTimeFromCountingFrom: 0
+export:
+  onTime: 718
+  onTimeReadable: 0:11:58
+  countingFrom: 1490795027952
+  countingFromReadable: '2017-03-29 15:43:47'
+  onTimeFromCountingFrom: 0
+tjerk:
+  onTime: 253
+  onTimeReadable: 0:4:13
+  countingFrom: 1490795027952
+  countingFromReadable: '2017-03-29 15:43:47'
+  onTimeFromCountingFrom: 0

@@ -1,0 +1,7 @@
+name: abysmus
+uuid: 8dc5aa48-25a9-370f-8964-9fd5ceb4fe78
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,26 @@
+money: '150.0'
+lastAccountName: Bae_B
+timestamps:
+  login: 1480290936020
+  lastteleport: 1480292376013
+  kits:
+    daily: 1480289633942
+    weekly: 1480289619241
+  logout: 1480292502347
+ipAddress: 73.26.235.2
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1129.4771458704665
+  y: 72.0
+  z: 9723.106191370669
+  yaw: 187.5128
+  pitch: 20.488968
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

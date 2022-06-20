@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: Jpsh
+timestamps:
+  login: 1471389009123
+  kits:
+    tools: 1471318989512
+  logout: 1471389011501
+ipAddress: 86.46.217.33
+socialspy: false
+lastlocation:
+  world: map
+  x: -1002.6925059076557
+  y: 28.0
+  z: 307.2184588448302
+  yaw: -179.26822
+  pitch: 22.65
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

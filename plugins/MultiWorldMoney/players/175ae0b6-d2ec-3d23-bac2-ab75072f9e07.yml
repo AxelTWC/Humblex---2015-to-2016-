@@ -1,0 +1,7 @@
+name: pika_pikachu
+uuid: 175ae0b6-d2ec-3d23-bac2-ab75072f9e07
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

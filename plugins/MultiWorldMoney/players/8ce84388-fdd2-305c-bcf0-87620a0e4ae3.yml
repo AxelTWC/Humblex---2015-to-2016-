@@ -1,0 +1,8 @@
+name: Grevern
+uuid: 8ce84388-fdd2-305c-bcf0-87620a0e4ae3
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

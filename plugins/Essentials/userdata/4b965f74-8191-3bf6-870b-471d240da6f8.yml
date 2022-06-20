@@ -1,0 +1,25 @@
+money: '250.0'
+lastAccountName: WildMan9
+timestamps:
+  login: 1482016762323
+  kits:
+    daily: 1482016840008
+    weekly: 1482016819747
+  lastteleport: 1482017039946
+  logout: 1482017605628
+ipAddress: 202.56.48.71
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 43.75500677219805
+  y: 68.0
+  z: 186.89620547775664
+  yaw: 214.1589
+  pitch: -9.098871
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

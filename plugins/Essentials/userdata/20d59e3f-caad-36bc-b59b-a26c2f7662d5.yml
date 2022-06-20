@@ -1,0 +1,21 @@
+socialspy: false
+money: '160.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  logout: 1469796548497
+  login: 1469795377307
+lastAccountName: Audicale
+ipAddress: 201.82.101.134
+lastlocation:
+  world: spawn_nether
+  x: -206.09999027764087
+  y: 93.0
+  z: 1128.471108799488
+  yaw: 140.25027
+  pitch: 34.64994

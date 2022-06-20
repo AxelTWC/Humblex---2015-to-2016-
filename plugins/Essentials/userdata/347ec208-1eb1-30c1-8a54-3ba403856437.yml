@@ -1,0 +1,23 @@
+money: '350.0'
+socialspy: false
+lastAccountName: XxEnderProxX
+timestamps:
+  login: 1480826608450
+  lastteleport: 1480478209988
+  logout: 1480826611610
+ipAddress: 112.210.86.76
+lastlocation:
+  world: lobby
+  x: -0.47230499208556725
+  y: 81.0
+  z: -13.850006438038704
+  yaw: -201.02863
+  pitch: -5.5498734
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

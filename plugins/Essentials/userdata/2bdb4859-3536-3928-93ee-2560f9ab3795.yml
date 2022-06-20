@@ -1,0 +1,26 @@
+lastAccountName: itzVotex
+timestamps:
+  login: 1471026583635
+  kits:
+    daily: 1469897336777
+    tools: 1469897602510
+    weekly: 1469897518239
+  lastteleport: 1469983440872
+  logout: 1471026602500
+ipAddress: 77.78.214.228
+socialspy: false
+money: '1060.0'
+lastlocation:
+  world: spawn
+  x: -1131.3932026731864
+  y: 74.0
+  z: 9716.040343954108
+  yaw: -169.54202
+  pitch: 14.500802
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

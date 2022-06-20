@@ -1,0 +1,8 @@
+name: Mystical_Chicken
+uuid: 0fac4504-08e1-367a-92c4-fe83ef7c72f6
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

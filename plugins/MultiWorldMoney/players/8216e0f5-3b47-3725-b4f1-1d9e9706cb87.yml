@@ -1,0 +1,7 @@
+name: TheGeniusDeed
+uuid: 8216e0f5-3b47-3725-b4f1-1d9e9706cb87
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

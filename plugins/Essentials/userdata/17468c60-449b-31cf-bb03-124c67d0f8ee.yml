@@ -1,0 +1,26 @@
+money: '350.0'
+lastAccountName: LqS_MaTrIx
+timestamps:
+  login: 1489241025026
+  logout: 1489241045513
+  lastteleport: 1489168221034
+  kits:
+    daily: 1489168281018
+    weekly: 1489168253693
+ipAddress: 90.193.102.145
+socialspy: false
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: 844.7931599670246
+  y: 15.5
+  z: 264.5706212038705
+  yaw: -81.95512
+  pitch: 12.943325

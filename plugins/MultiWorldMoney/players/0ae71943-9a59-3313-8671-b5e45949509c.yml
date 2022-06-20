@@ -1,0 +1,7 @@
+name: RikplayMinecraft
+uuid: 0ae71943-9a59-3313-8671-b5e45949509c
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

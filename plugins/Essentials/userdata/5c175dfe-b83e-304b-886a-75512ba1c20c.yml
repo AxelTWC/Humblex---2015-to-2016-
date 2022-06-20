@@ -1,0 +1,22 @@
+lastAccountName: testsubject01
+timestamps:
+  login: 1467885572206
+  logout: 1467885576813
+  kits:
+    coal: 1467020982829
+ipAddress: 112.120.53.43
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.349712756593468
+  y: 8.0
+  z: 0.6680903850311521
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1130.5
+  y: 73.0
+  z: 9723.5
+  yaw: -177.87675
+  pitch: 11.001408

@@ -1,0 +1,7 @@
+name: VeerspieltRageMC
+uuid: 0709b09f-ea00-38fc-9a97-cf2fa81132d1
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

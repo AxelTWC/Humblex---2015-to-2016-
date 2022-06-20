@@ -1,0 +1,7 @@
+name: Thepoopplayz
+uuid: b6d310f3-c97f-331c-a194-3ca7d18e445f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

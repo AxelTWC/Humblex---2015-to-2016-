@@ -1,0 +1,114 @@
+enabled: true
+spawn1:
+  world: map
+  x: -1197.300000011921
+  y: 8.0
+  z: 357.30000001192093
+  yaw: 46.34586
+  pitch: 90.0
+spawn2:
+  world: map
+  x: -1237.699999988079
+  y: 8.0
+  z: 399.69999998807907
+  yaw: -133.58554
+  pitch: 5.556927
+prize:
+  economy:
+    enabled: false
+    amount: 50
+  items:
+    enabled: true
+    itemPrizes:
+    - ==: org.bukkit.inventory.ItemStack
+      type: STONE_PICKAXE
+countdown:
+  beforeTeleport:
+    enabled: true
+    duration: 5
+    sound: true
+  beforeFight:
+    enabled: true
+    duration: 5
+    disableMoving: true
+    blindness: false
+    invincibility: true
+    sound: true
+points:
+  win: 1
+  lose: -1
+firework:
+  inArena: true
+  afterTeleport: true
+health: 20
+timeOut: 300
+rounds: 3
+maximumTeleportDistance: 1
+playerItemDrop: false
+playerItemPickUp: false
+winAnnouncement: true
+commandsToRunAtStart:
+- ungod {PLAYER1}
+- ungod {PLAYER2}
+commandsToRunAtEnd:
+- give {WINNER} 367 1
+inventory:
+  items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_KNOCKBACK: 2
+        DURABILITY: 3
+        ARROW_INFINITE: 1
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_CARROT
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET

@@ -1,0 +1,43 @@
+socialspy: false
+lastAccountName: llCHASEll
+timestamps:
+  login: 1490493254244
+  kits:
+    illuminati: 1480132632886
+    elite: 1480132634536
+    ultimate: 1480492538672
+    daily: 1486770157940
+    titan: 1477832755475
+    coal: 1477832813450
+    tools: 1477833073933
+    god: 1480133315840
+    weekly: 1477832830048
+    pegasus: 1490493401774
+  logout: 1490493913637
+  lastteleport: 1490493839081
+ipAddress: 112.198.118.61
+lastlocation:
+  world: ASkyBlock
+  x: 399.3180983687375
+  y: 124.84643372950569
+  z: 400.755346112905
+  yaw: -240.04529
+  pitch: 28.483204
+money: '1191.00'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: ASkyBlock
+    x: 4.538920199454294
+    y: 116.0
+    z: -1398.7005652285186
+    yaw: 12.450439
+    pitch: 11.249969
+godmode: false

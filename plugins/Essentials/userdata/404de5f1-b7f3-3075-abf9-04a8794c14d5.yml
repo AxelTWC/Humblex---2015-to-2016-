@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: sherlock_30
+timestamps:
+  login: 1477825843482
+  logout: 1477827412287
+ipAddress: 218.102.209.47
+socialspy: false
+lastlocation:
+  world: map
+  x: -972.3205570458241
+  y: 89.0
+  z: 275.439002900602
+  yaw: -89.10431
+  pitch: -30.749966
+nickname: §3Tony
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

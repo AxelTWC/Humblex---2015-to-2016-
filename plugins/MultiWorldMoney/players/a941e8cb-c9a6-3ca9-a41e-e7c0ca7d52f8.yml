@@ -1,0 +1,7 @@
+name: EncryptedMiner
+uuid: a941e8cb-c9a6-3ca9-a41e-e7c0ca7d52f8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

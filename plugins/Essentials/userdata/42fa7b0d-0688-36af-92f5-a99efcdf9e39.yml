@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: _Mcpro_
+timestamps:
+  login: 1470224297304
+  logout: 1470224397627
+ipAddress: 203.87.133.178
+socialspy: false
+lastlocation:
+  world: map
+  x: -1031.247682999092
+  y: 19.0
+  z: 239.7699601060042
+  yaw: 74.7321
+  pitch: -7.3656445
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,8 @@
+name: TheSeanProject
+uuid: ca2fa557-b4f0-3b43-99cf-ab70b73f435e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

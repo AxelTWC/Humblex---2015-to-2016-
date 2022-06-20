@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: MattyTree
+timestamps:
+  login: 1475232294471
+  lastteleport: 1475231807406
+  logout: 1475232220879
+ipAddress: 78.184.194.165
+socialspy: false
+lastlocation:
+  world: map
+  x: -976.6025143345703
+  y: 15.0
+  z: 272.60168164026436
+  yaw: 69.42206
+  pitch: 20.058208
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

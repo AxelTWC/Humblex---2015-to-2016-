@@ -1,0 +1,24 @@
+money: '250.0'
+socialspy: false
+lastAccountName: johnny1912
+timestamps:
+  login: 1484337622792
+  logout: 1484337625152
+  kits:
+    daily: 1482765178154
+    weekly: 1482765180748
+ipAddress: 79.255.191.74
+lastlocation:
+  world: skyblock
+  x: 21.447065332930485
+  y: -115.90530035591489
+  z: 38.6657227743417
+  yaw: -245.40117
+  pitch: -36.449913
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

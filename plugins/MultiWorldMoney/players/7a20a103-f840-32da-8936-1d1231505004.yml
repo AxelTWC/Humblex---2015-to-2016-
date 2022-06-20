@@ -1,0 +1,7 @@
+name: ElderBuildXD
+uuid: 7a20a103-f840-32da-8936-1d1231505004
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

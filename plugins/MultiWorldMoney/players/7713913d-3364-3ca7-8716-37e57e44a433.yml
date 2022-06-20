@@ -1,0 +1,7 @@
+name: EatingOutBae
+uuid: 7713913d-3364-3ca7-8716-37e57e44a433
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

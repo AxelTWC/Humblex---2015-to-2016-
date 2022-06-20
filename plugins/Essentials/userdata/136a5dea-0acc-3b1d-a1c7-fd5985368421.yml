@@ -1,0 +1,21 @@
+lastAccountName: ERIKBOHACEK
+timestamps:
+  login: 1468417720992
+  logout: 1468417962688
+ipAddress: 90.224.73.23
+socialspy: false
+money: '160.0'
+lastlocation:
+  world: map
+  x: -975.9659801797279
+  y: 14.0
+  z: 267.4704463942023
+  yaw: 77.5804
+  pitch: 1.1560185
+logoutlocation:
+  world: lobby
+  x: 0.6894894532075332
+  y: 8.5
+  z: 0.4657392929413994
+  yaw: 0.0
+  pitch: 0.0

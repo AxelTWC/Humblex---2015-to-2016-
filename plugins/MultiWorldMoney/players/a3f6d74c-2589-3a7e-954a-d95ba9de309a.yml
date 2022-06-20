@@ -1,0 +1,12 @@
+name: ZeddCC
+uuid: a3f6d74c-2589-3a7e-954a-d95ba9de309a
+logoffworld: lobby
+balances:
+  lobby: 610.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

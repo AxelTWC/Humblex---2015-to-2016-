@@ -1,0 +1,42 @@
+money: '850.0'
+lastAccountName: Sparklez_World
+timestamps:
+  login: 1481678838752
+  logout: 1481679302060
+  lastteleport: 1481679199540
+  kits:
+    youtube: 1478444374939
+    daily: 1477438694387
+    tools: 1477520258585
+    weekly: 1477358724938
+  mute: 0
+ipAddress: 71.10.71.74
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: -2.0629419905620687
+  y: 120.0
+  z: -1198.3842649782412
+  yaw: 132.29994
+  pitch: 24.750013
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -989.1172450746117
+    y: 3.0
+    z: 8968.32468405677
+    yaw: 99.97512
+    pitch: 29.850067
+muted: false
+powertools:
+  '420':
+  - mob cow 10
+godmode: false

@@ -1,0 +1,27 @@
+money: '74.0'
+lastAccountName: Mr_SoufflesYT
+timestamps:
+  login: 1490452581442
+  lastteleport: 1490397635099
+  logout: 1490452820390
+  kits:
+    youtube: 1490280466852
+    weekly: 1488731706088
+  mute: 0
+ipAddress: 68.188.159.144
+socialspy: false
+lastlocation:
+  world: map
+  x: -959.512901587532
+  y: 13.0
+  z: 253.30836655712068
+  yaw: -269.09888
+  pitch: 5.1074777
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+muted: false

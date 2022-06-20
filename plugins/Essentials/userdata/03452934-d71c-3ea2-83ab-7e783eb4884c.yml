@@ -1,0 +1,35 @@
+money: '450.0'
+lastAccountName: CharlesPlaysMC
+timestamps:
+  login: 1473250074666
+  logout: 1473250602728
+  kits:
+    daily: 1473250160044
+    tools: 1473250469696
+    weekly: 1473250244036
+  lastteleport: 1473250485204
+ipAddress: 180.191.120.232
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1454.954930875459
+  y: 40.0
+  z: 9558.300000011921
+  yaw: -161.84207
+  pitch: 90.0
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -1475.7004070969442
+    y: 92.0
+    z: 9572.122889145397
+    yaw: 140.7081
+    pitch: 50.399982

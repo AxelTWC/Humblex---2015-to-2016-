@@ -1,0 +1,10 @@
+name: IfYouGetStuck
+uuid: 79ceca3b-3ecd-303f-963f-c50c8aaaa0e4
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

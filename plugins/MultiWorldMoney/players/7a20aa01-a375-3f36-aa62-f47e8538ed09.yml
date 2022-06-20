@@ -1,0 +1,7 @@
+name: Smikkel_Panda
+uuid: 7a20aa01-a375-3f36-aa62-f47e8538ed09
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

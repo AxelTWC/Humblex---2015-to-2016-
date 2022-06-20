@@ -1,0 +1,25 @@
+money: '250.0'
+lastAccountName: NicolasT228
+timestamps:
+  login: 1475882728703
+  logout: 1475883313037
+  kits:
+    daily: 1475882773667
+    tools: 1475882770167
+    weekly: 1475882780220
+ipAddress: 103.247.58.240
+socialspy: false
+lastlocation:
+  world: skyblock
+  x: -21.200332804572437
+  y: -119.12429237618474
+  z: 3.3525015231509943
+  yaw: 87.89904
+  pitch: 24.900093
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,11 @@
+name: OneMaster1
+uuid: 92ad7b8e-f143-3f98-83c7-03d792159bd4
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 700.0

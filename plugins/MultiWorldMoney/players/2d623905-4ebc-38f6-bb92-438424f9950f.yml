@@ -1,0 +1,7 @@
+name: BeachCraft11
+uuid: 2d623905-4ebc-38f6-bb92-438424f9950f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

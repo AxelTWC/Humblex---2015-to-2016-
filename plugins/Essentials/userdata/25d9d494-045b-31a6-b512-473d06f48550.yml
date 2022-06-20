@@ -1,0 +1,21 @@
+money: '350.0'
+lastAccountName: willian
+timestamps:
+  login: 1474397622544
+  logout: 1474397681315
+ipAddress: 187.114.173.86
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -960.7624999880791
+  y: 13.0
+  z: 304.7680240376816
+  yaw: 123.39571
+  pitch: 18.64511

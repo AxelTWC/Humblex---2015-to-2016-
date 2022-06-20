@@ -1,0 +1,7 @@
+name: ryan_rx
+uuid: 88df32f3-4d1a-3bd5-9c31-e914c8b61a9e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,14 @@
+money: '150.0'
+lastAccountName: grope
+timestamps:
+  login: 1488369188328
+  logout: 1488369264920
+socialspy: false
+ipAddress: 180.248.213.171
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

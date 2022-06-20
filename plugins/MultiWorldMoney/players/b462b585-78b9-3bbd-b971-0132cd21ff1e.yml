@@ -1,0 +1,8 @@
+name: ChickenJunkie
+uuid: b462b585-78b9-3bbd-b971-0132cd21ff1e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: RendHD
+timestamps:
+  login: 1479313793411
+  logout: 1479313918068
+ipAddress: 37.232.104.171
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 205.9005727176304
+  y: 53.99802291587579
+  z: -543.7568737239657
+  yaw: 118.3496
+  pitch: 32.099995
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

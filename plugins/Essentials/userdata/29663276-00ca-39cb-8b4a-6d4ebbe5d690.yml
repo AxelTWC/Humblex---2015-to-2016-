@@ -1,0 +1,24 @@
+socialspy: false
+money: '150.0'
+lastAccountName: renothujjj
+timestamps:
+  login: 1470085260340
+  logout: 1470086539048
+  lastteleport: 1470085425950
+  kits:
+    weekly: 1470085454504
+ipAddress: 143.159.100.157
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1123.9052739364608
+  y: 77.0
+  z: 9731.050000011921
+  yaw: -209.67664
+  pitch: 48.749966

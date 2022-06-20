@@ -1,0 +1,7 @@
+name: FactionsJay
+uuid: 33fd90b1-02ed-3ade-be6d-39fea1071cfe
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

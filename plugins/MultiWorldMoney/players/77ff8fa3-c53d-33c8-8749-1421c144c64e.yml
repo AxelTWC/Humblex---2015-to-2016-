@@ -1,0 +1,12 @@
+name: Kein_Craft
+uuid: 77ff8fa3-c53d-33c8-8749-1421c144c64e
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 500.0
+  map: 0.0
+  skywars: 0.0

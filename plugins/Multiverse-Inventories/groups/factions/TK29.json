@@ -1,0 +1,1 @@
+{"SURVIVAL":{"inventoryContents":{"0":{"==":"org.bukkit.inventory.ItemStack","type":"LEATHER","amount":2},"1":{"==":"org.bukkit.inventory.ItemStack","type":"DIRT"}},"armorContents":{},"enderChestContents":{},"stats":{"ma":"300","hp":"20","fd":"0.0","ft":"-20","ra":"300"}}}

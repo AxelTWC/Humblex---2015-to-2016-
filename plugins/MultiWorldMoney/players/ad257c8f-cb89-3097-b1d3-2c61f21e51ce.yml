@@ -1,0 +1,9 @@
+name: SuperTrank
+uuid: ad257c8f-cb89-3097-b1d3-2c61f21e51ce
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ice_1: 0.0
+  skywars: 0.0

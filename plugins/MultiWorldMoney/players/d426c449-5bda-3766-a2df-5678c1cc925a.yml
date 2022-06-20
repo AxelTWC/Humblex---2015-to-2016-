@@ -1,0 +1,14 @@
+name: Dazze
+uuid: d426c449-5bda-3766-a2df-5678c1cc925a
+logoffworld: lobby
+balances:
+  lobby: 100300.0
+  spawn: 9.999979966E11
+  hub: 0.0
+  spawn_the_end: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 2200.0
+  skywars: 2500.0

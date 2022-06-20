@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: Pano
+timestamps:
+  login: 1489820481867
+  logout: 1489820536336
+ipAddress: 92.29.239.159
+socialspy: false
+lastlocation:
+  world: map
+  x: -1209.8360408893404
+  y: 5.73574744882502
+  z: 240.9682580839426
+  yaw: -34.798798
+  pitch: 11.871005
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,77 @@
+#------------------
+#All Enchantments
+#PROTECTION_ENVIRONMENTAL
+#PROTECTION_FIRE
+#PROTECTION_FALL
+#PROTECTION_EXPLOSIONS
+#ROTECTION_PROJECTILE
+#OXYGEN
+#WATER_WORKER
+#DAMAGE_ALL
+#DAMAGE_UNDEAD
+#DAMAGE_ARTHROPODS
+#KNOCKBACK
+#FIRE_ASPECT
+#LOOT_BONUS_MOBS
+#DIG_SPEED
+#SILK_TOUCH
+#DURABILITY
+#LOOT_BONUS_BLOCKS
+#ARROW_DAMAGE
+#ARROW_KNOCKBACK
+#ARROW_FIRE
+#ARROW_INFINITE
+#------------------
+#Available Boss Types
+#Skeleton
+#Zombie
+#Slime
+#Witch
+#Iron Golem
+#Spider
+#EnderMan
+#Blaze
+#Silver Fish
+#Wither
+#Wither Boss
+#Ender Dragon
+#------------------
+Settings:
+  InventoryName: '&4&l&nThe Great Bosses'
+  Slots: 9 #Must be a factor of 9
+  KillAll: true #Kills all Bosses on Plugin Disable (Example: Server Restart or Reload)
+Bosses:
+  Skeleton:
+    GUI:
+      Item: '383:51' #Item used to spawn the Boss
+      Slot: 5 #The Slot in the GUI
+      Name: '&6&lSkeleton Boss' #The name of the Item
+      Lore: #The lore on the item
+        - '&3The Great Skeleton Boss'
+        - '&aCost: &6%Cost%'
+      Cost: 20 #How much the Spawn Egg Costs
+      BuyingMessage: '&3Thank you for buying &6&l&nThe Skeleton Boss&3.' #The message when it is Bought
+    SpawnEgg:
+      Item: '383:51'
+      Name: '&6&lSkeleton Boss Egg'
+      Lore:
+        - '&7Right click a block to'
+        - '&7Spawn the Boss'
+    Boss:
+      Name: '&6&l&nSkeleton Boss' #Name of the Boss
+      Health: 80 #The Bosses Health
+      BossType: 'Skeleton' #Type of Boss
+      ArmorType: 'Gold' #Armor Type
+      ArmorEnchantments: #Enchantments on the Armor
+        - 'PROTECTION_ENVIRONMENTAL:10'
+      WeaponType: '276' #Item that the boss Uses
+      WeaponEnchantments: #Enchantments on the Bosses Weapon
+        - 'KNOCKBACK:3'
+        - 'DAMAGE_ALL:10'
+      NatualDrops: false #Drops normal thing the Mob would drop on death
+      CustomDrops: #Drops custom items
+        - 'Type:1 Name:&6Stone Lore:&7This_is_a_cool,&4Piece_of_Stone KNOCKBACK:3'
+      MessageToKiller:
+        - '&c&lYou have just killed the Boss.'
+      Commands:
+        - 'eco give %Player% 1000'

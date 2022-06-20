@@ -1,0 +1,27 @@
+money: '149.998'
+lastAccountName: LunarFox2015
+timestamps:
+  login: 1489235650595
+  lastteleport: 1489235231955
+  kits:
+    daily: 1489172962388
+    tools: 1489175141403
+    weekly: 1489173260642
+  logout: 1489235666093
+ipAddress: 72.94.228.212
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 59.28162835910916
+  y: 78.0
+  z: 233.19191281510558
+  yaw: -182.95212
+  pitch: 3.0008872
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

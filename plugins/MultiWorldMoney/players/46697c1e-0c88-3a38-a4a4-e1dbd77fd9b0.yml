@@ -1,0 +1,7 @@
+name: GMlit
+uuid: 46697c1e-0c88-3a38-a4a4-e1dbd77fd9b0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

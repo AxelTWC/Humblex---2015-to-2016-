@@ -1,0 +1,6 @@
+OITC:
+  Countdown: 15
+  MaxPlayers: 20
+  KillsToWin: 10
+  AutoStartPlayers: 2
+  EndTime: 600

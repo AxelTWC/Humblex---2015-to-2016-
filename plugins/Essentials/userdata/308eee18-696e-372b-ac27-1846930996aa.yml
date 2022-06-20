@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: BugraaK
+timestamps:
+  login: 1477735498213
+  kits:
+    weekly: 1477735561286
+  logout: 1477735645382
+ipAddress: 78.178.122.219
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1121.9116962745218
+  y: 71.7531999805212
+  z: 9623.517649551924
+  yaw: -191.53693
+  pitch: 14.488987
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

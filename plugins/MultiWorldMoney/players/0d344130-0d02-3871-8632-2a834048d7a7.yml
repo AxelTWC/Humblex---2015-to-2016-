@@ -1,0 +1,7 @@
+name: Mouei
+uuid: 0d344130-0d02-3871-8632-2a834048d7a7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

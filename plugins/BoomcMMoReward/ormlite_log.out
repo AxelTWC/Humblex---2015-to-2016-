@@ -1,0 +1,1 @@
+2016-08-21 15:59:34,360 [ERROR] SqliteDatabaseType WARNING: you seem to not be using the Xerial SQLite driver.  See ORMLite docs on SQLite: http://ormlite.com/docs/sqlite

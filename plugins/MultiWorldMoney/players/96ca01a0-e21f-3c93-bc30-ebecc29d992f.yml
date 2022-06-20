@@ -1,0 +1,7 @@
+name: Jackertud
+uuid: 96ca01a0-e21f-3c93-bc30-ebecc29d992f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

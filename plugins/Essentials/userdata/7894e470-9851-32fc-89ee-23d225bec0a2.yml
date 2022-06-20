@@ -1,0 +1,26 @@
+money: '350.0'
+socialspy: false
+lastAccountName: _AloKePr0_
+timestamps:
+  login: 1480102806716
+  logout: 1480103202286
+  kits:
+    daily: 1480102845753
+    tools: 1480102862304
+    weekly: 1480102853804
+  lastteleport: 1480103169919
+ipAddress: 177.92.6.46
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skywars
+  x: -218.6853805377245
+  y: 12.0
+  z: -9.315254667088452
+  yaw: -288.59775
+  pitch: 28.631115

@@ -1,0 +1,7 @@
+name: export
+uuid: 53d0e6b8-9ab9-3911-af62-f09e141da0dc
+logoffworld: lobby
+balances:
+  lobby: 150.005
+  spawn: 123.62
+  spawn_nether: 0.0

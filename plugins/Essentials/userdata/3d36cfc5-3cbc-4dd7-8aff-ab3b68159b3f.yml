@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: AxelTWC
+timestamps:
+  login: 1470984854772
+  logout: 1470981851067
+  lastteleport: 1470978902073
+  kits:
+    emerald: 1470976815322
+ipAddress: 112.120.53.155
+logoutlocation:
+  world: spawn
+  x: -905.3000000119209
+  y: 69.0
+  z: 9734.699999988079
+  yaw: -194.52527
+  pitch: 11.849925
+nickname: §a§lAxel§d§l§nTWC
+lastlocation:
+  world: spawn
+  x: -905.3000000119209
+  y: 69.0
+  z: 9734.699999988079
+  yaw: -194.52527
+  pitch: 11.849925
+money: '250.0'
+godmode: false
+afk: false

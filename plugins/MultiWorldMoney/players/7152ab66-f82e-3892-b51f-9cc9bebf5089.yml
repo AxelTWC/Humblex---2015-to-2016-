@@ -1,0 +1,7 @@
+name: xBlack_exe
+uuid: 7152ab66-f82e-3892-b51f-9cc9bebf5089
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

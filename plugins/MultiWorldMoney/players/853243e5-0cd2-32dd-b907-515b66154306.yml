@@ -1,0 +1,7 @@
+name: crystalballmac
+uuid: 853243e5-0cd2-32dd-b907-515b66154306
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

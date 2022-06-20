@@ -1,0 +1,7 @@
+name: Heinlichhimmler
+uuid: 07eb0ad3-9bb1-3b7f-abe6-fcdf28f2a12a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

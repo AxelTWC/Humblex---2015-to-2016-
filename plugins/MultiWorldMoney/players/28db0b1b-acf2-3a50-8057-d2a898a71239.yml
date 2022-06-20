@@ -1,0 +1,7 @@
+name: ActorSlimeHD
+uuid: 28db0b1b-acf2-3a50-8057-d2a898a71239
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

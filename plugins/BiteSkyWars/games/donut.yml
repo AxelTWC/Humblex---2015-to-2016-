@@ -1,0 +1,34 @@
+name: donut
+customname: donut
+countdownLobby: 80
+countdownRelease: 20
+min-players: 10
+max-players: 20
+eventsEnabled: true
+spawns:
+- -45.0;30.0;-33.0;0.0;0.0;donut
+- -34.0;30.0;-45.0;0.0;0.0;donut
+- 51.0;30.0;-17.0;0.0;0.0;donut
+- 51.0;30.0;17.0;0.0;0.0;donut
+- 17.0;30.0;51.0;0.0;0.0;donut
+- -51.0;30.0;17.0;0.0;0.0;donut
+- -17.0;30.0;51.0;0.0;0.0;donut
+- 0.0;30.0;51.0;0.0;0.0;donut
+- 45.0;30.0;33.0;0.0;0.0;donut
+- 34.0;30.0;45.0;0.0;0.0;donut
+- -45.0;30.0;34.0;0.0;0.0;donut
+- -33.0;30.0;45.0;0.0;0.0;donut
+- 51.0;30.0;0.0;0.0;0.0;donut
+- -51.0;30.0;0.0;0.0;0.0;donut
+- 0.0;30.0;-51.0;0.0;0.0;donut
+- -51.0;30.0;-17.0;0.0;0.0;donut
+- -17.0;30.0;-51.0;0.0;0.0;donut
+- 45.0;30.0;-34.0;0.0;0.0;donut
+- 33.0;30.0;-45.0;0.0;0.0;donut
+- 17.0;30.0;-51.0;0.0;0.0;donut
+game-settings:
+  playAgain:
+    enabled: false
+    item: 339,1,0
+    itemName: '&aPlay Again &7(Right Click)'
+    slotHotbar: 6

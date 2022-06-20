@@ -1,0 +1,14 @@
+money: '0.0'
+lastAccountName: nadia123
+timestamps:
+  login: 1488088228763
+  logout: 1488088352139
+ipAddress: 36.73.190.36
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: -240.0
+  y: 5.0
+  z: -3.0
+  yaw: -262.0
+  pitch: 84.0

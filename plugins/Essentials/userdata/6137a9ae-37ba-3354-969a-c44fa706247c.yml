@@ -1,0 +1,17 @@
+money: '150.0'
+lastAccountName: roudan24
+timestamps:
+  login: 1484453749833
+  kits:
+    daily: 1484453764968
+    weekly: 1484453766418
+  logout: 1484453779384
+ipAddress: 107.212.125.133
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

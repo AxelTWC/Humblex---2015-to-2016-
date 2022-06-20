@@ -1,0 +1,7 @@
+name: AllenCC
+uuid: 6aa0c733-d70a-38e7-a1f4-22886c102957
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,10 @@
+name: Parise
+uuid: 05572500-7f07-3369-8162-847db2a5397c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

@@ -1,0 +1,7 @@
+name: SilverScianix
+uuid: 555a9a0f-0b4e-33ca-98c8-399815438e3e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

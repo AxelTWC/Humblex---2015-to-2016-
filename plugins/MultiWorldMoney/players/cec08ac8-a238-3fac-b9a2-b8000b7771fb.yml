@@ -1,0 +1,7 @@
+name: permit101
+uuid: cec08ac8-a238-3fac-b9a2-b8000b7771fb
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,8 @@
+name: SmartCookiesBae
+uuid: 287fcd05-d450-3f46-800b-ca80e261a60f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

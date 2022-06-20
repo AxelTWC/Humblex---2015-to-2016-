@@ -1,0 +1,7 @@
+name: PigPvp
+uuid: 2b17fe49-ce99-37d4-95a3-763d26a26556
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

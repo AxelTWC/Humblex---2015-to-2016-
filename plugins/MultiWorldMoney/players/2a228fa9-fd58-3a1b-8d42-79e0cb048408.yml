@@ -1,0 +1,8 @@
+name: GOATVIKING
+uuid: 2a228fa9-fd58-3a1b-8d42-79e0cb048408
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

@@ -1,0 +1,9 @@
+name: BeastModeDion
+uuid: 4194dd6d-ec7e-3b34-9983-07149fdd7ff4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ice_1: 0.0
+  skywars: 0.0

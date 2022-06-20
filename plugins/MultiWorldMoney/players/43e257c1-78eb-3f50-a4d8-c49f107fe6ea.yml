@@ -1,0 +1,9 @@
+name: DaBestYOLO
+uuid: 43e257c1-78eb-3f50-a4d8-c49f107fe6ea
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ice_1: 0.0
+  skywars: 0.0

@@ -1,0 +1,17 @@
+money: '250.0'
+socialspy: false
+lastAccountName: Cercy
+timestamps:
+  login: 1481195775846
+  kits:
+    daily: 1481195797590
+    weekly: 1481195803091
+  logout: 1481197341507
+ipAddress: 95.90.228.184
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: NaturesWrath4
+uuid: 971586eb-a99e-3fcf-be2a-79c26453dfdf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

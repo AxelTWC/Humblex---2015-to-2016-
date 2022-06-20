@@ -1,0 +1,26 @@
+money: '0.0'
+lastAccountName: Cutpo
+timestamps:
+  login: 1490351166591
+  logout: 1490351438413
+  lastteleport: 1490351186075
+  kits:
+    daily: 1489836613835
+    weekly: 1489836613434
+ipAddress: 14.199.228.187
+socialspy: false
+logoutlocation:
+  world: spawn
+  x: 54.51227399306048
+  y: 78.0
+  z: 218.55602414921066
+  yaw: 269.9068
+  pitch: 45.45488
+lastlocation:
+  world: spawn
+  x: 54.42914619959383
+  y: 78.0
+  z: 218.56501430353504
+  yaw: 266.016
+  pitch: 62.47718
+afk: false

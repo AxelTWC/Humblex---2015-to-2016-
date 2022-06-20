@@ -1,0 +1,23 @@
+lastAccountName: AdminShop
+timestamps:
+  login: 1469957752925
+  lastteleport: 1469900752398
+  logout: 1469959082103
+ipAddress: 165.169.35.121
+socialspy: false
+money: '159.0'
+lastlocation:
+  world: ASkyBlock
+  x: -800.611921569776
+  y: -207.53192414002243
+  z: 994.8147629204316
+  yaw: -234.9071
+  pitch: 78.90004
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+afk: false

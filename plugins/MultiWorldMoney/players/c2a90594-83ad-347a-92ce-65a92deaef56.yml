@@ -1,0 +1,11 @@
+name: PhysicsBraker
+uuid: c2a90594-83ad-347a-92ce-65a92deaef56
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 1700.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

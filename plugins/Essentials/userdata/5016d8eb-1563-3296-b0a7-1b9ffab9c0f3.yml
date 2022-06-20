@@ -1,0 +1,22 @@
+money: '550.0'
+lastAccountName: blockbuilder
+timestamps:
+  login: 1479121177645
+  lastteleport: 1479121277572
+  logout: 1479121614435
+ipAddress: 112.210.50.225
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 56.5
+  y: 88.0
+  z: 0.5
+  yaw: 247.58313
+  pitch: -84.6
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: Ekkospotlight
+uuid: 6ea795c9-f064-3393-98bb-8fbfae498ccf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

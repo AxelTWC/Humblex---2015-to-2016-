@@ -1,0 +1,7 @@
+name: BuildBuildHD
+uuid: 6d04cc68-fb76-3c11-ae27-ec35e649834f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

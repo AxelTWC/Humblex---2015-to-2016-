@@ -1,0 +1,24 @@
+lastAccountName: bread
+timestamps:
+  login: 1476183782732
+  kits:
+    weekly: 1475291647669
+  lastteleport: 1475292758333
+  logout: 1476183799055
+ipAddress: 218.252.94.213
+socialspy: false
+money: '250.0'
+lastlocation:
+  world: spawn
+  x: -1124.5961945155211
+  y: 67.0
+  z: 9764.300000011921
+  yaw: 251.26323
+  pitch: 16.050032
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

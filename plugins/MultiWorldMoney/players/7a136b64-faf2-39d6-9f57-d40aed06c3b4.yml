@@ -1,0 +1,10 @@
+name: Hator
+uuid: 7a136b64-faf2-39d6-9f57-d40aed06c3b4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

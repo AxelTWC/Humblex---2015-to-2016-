@@ -1,0 +1,10 @@
+name: LollY12
+uuid: b92edde3-507f-322f-b406-671293668d87
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

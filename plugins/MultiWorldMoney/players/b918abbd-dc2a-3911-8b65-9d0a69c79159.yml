@@ -1,0 +1,7 @@
+name: Tryx
+uuid: b918abbd-dc2a-3911-8b65-9d0a69c79159
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

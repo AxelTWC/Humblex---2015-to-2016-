@@ -1,0 +1,8 @@
+name: BugraaK
+uuid: 308eee18-696e-372b-ac27-1846930996aa
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_the_end: 0.0
+  spawn_nether: 0.0

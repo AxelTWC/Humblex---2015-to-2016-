@@ -1,0 +1,17 @@
+socialspy: false
+money: '150.0'
+lastAccountName: mrsybro
+timestamps:
+  login: 1490298501602
+  kits:
+    daily: 1490298514417
+    weekly: 1490298513416
+  logout: 1490298519366
+ipAddress: 89.98.38.85
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

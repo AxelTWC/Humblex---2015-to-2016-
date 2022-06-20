@@ -1,0 +1,12 @@
+name: Ludvig_007
+uuid: 10e4304a-cf0f-3f47-8d35-52d26d5eb0e5
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

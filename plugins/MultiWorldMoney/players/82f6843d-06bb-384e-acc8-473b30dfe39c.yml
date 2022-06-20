@@ -1,0 +1,7 @@
+name: GoldyPlayz
+uuid: 82f6843d-06bb-384e-acc8-473b30dfe39c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

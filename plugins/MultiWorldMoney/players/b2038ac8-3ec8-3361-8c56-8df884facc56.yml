@@ -1,0 +1,7 @@
+name: banana
+uuid: b2038ac8-3ec8-3361-8c56-8df884facc56
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

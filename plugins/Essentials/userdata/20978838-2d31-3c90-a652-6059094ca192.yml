@@ -1,0 +1,33 @@
+money: '750.0'
+lastAccountName: ErwinRommel
+timestamps:
+  login: 1485274983404
+  lastteleport: 1479139605203
+  logout: 1485275005043
+  kits:
+    daily: 1478807779864
+ipAddress: 107.137.56.200
+socialspy: false
+homes:
+  home:
+    world: spawn
+    x: 1155.300000011921
+    y: 59.0
+    z: 11332.705180554134
+    yaw: -129.29865
+    pitch: 22.949654
+lastlocation:
+  world: spawn
+  x: 1107.8932514869377
+  y: 68.0
+  z: 11314.391771744367
+  yaw: -276.6045
+  pitch: 7.19941
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

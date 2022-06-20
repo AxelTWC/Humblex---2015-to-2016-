@@ -1,0 +1,32 @@
+money: '250.0'
+lastAccountName: 7nkRoblox
+timestamps:
+  login: 1474754424046
+  lastteleport: 1474756081193
+  kits:
+    daily: 1474755286818
+  logout: 1474756092514
+ipAddress: 94.59.10.229
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1124.511275545158
+  y: 71.5
+  z: 9710.075341195823
+  yaw: -304.78717
+  pitch: -4.260974
+homes:
+  home:
+    world: spawn
+    x: 425.69999998807907
+    y: 41.0
+    z: -157.69999998807907
+    yaw: 45.451427
+    pitch: 60.000076
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,11 @@
+name: ConMan0820
+uuid: b0c428f5-2338-33db-9c68-af0c6578722d
+logoffworld: lobby
+balances:
+  lobby: 60.0
+  spawn: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

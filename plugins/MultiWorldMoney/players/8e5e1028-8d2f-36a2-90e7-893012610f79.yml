@@ -1,0 +1,15 @@
+name: gcon5
+uuid: 8e5e1028-8d2f-36a2-90e7-893012610f79
+logoffworld: map
+balances:
+  lobby: 750.0
+  spawn: 0.0
+  spawn_the_end: 0.0
+  hub: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 2100.0
+  Survival: 0.0
+  skywars: 0.0

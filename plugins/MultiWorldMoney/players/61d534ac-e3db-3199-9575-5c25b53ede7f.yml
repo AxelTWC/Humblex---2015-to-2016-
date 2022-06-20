@@ -1,0 +1,7 @@
+name: TEMC40
+uuid: 61d534ac-e3db-3199-9575-5c25b53ede7f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

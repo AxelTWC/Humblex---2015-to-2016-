@@ -1,0 +1,52 @@
+lastAccountName: Popcorn_Poppor
+timestamps:
+  login: 1482091504070
+  kits:
+    daily: 1468584649827
+    titan: 1469210607972
+    coal: 1474221251193
+    tools: 1467038299613
+    weekly: 1468499222866
+  logout: 1482092420424
+  lastteleport: 1479432320841
+ipAddress: 71.10.71.74
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1129.4160270809837
+  y: 72.0
+  z: 9719.469590705781
+  yaw: -111.73811
+  pitch: -87.3848
+money: '1567691.0'
+homes:
+  home:
+    world: spawn
+    x: -1082.6986396706702
+    y: 72.0
+    z: 9622.845597109175
+    yaw: -86.52042
+    pitch: 16.200006
+  coolbase:
+    world: spawn
+    x: -1027.6891928769644
+    y: 68.0
+    z: 10666.899910937906
+    yaw: 255.55098
+    pitch: 23.850126
+  base:
+    world: spawn
+    x: 625.9667937728468
+    y: 64.0
+    z: 297.9778635316604
+    yaw: 182.10138
+    pitch: 3.600063
+nickname: §6§l§nPopcorn
+afk: false

@@ -1,0 +1,25 @@
+lastAccountName: MuslimGamer334
+timestamps:
+  login: 1469129424536
+  logout: 1469129894563
+  lastteleport: 1468799843327
+  kits:
+    daily: 1469129478119
+    weekly: 1469129489627
+ipAddress: 74.15.54.209
+socialspy: false
+money: '60.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1069.699999988079
+  y: 57.36636801779938
+  z: 9601.699999988079
+  yaw: 248.43112
+  pitch: 36.89998

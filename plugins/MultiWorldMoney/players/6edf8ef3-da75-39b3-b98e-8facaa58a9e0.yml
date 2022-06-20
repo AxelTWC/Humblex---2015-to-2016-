@@ -1,0 +1,7 @@
+name: MkDon
+uuid: 6edf8ef3-da75-39b3-b98e-8facaa58a9e0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

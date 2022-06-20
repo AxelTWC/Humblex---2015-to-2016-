@@ -1,0 +1,26 @@
+lastAccountName: ipenguins
+timestamps:
+  login: 1484917605476
+  kits:
+    daily: 1468808703711
+    tools: 1468810128571
+    weekly: 1468808715462
+  lastteleport: 1468814198650
+  logout: 1484917622961
+ipAddress: 112.120.53.49
+socialspy: false
+money: '1826.00'
+lastlocation:
+  world: lobby
+  x: 0.35718648631124017
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

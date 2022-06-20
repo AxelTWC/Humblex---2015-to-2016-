@@ -1,0 +1,7 @@
+name: noning
+uuid: c6325dd7-6a73-3f1b-b1fb-5323b651af1d
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

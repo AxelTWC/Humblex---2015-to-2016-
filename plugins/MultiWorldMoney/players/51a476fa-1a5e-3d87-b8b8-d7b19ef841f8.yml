@@ -1,0 +1,8 @@
+name: FuriousDestroyer
+uuid: 51a476fa-1a5e-3d87-b8b8-d7b19ef841f8
+logoffworld: lobby
+balances:
+  lobby: 110.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

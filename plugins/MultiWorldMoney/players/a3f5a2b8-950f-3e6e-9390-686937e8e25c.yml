@@ -1,0 +1,7 @@
+name: DanTEM5968
+uuid: a3f5a2b8-950f-3e6e-9390-686937e8e25c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

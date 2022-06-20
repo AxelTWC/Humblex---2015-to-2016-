@@ -1,0 +1,11 @@
+name: PeteZahHutt
+uuid: 8c53cba5-6262-3784-b23f-f43369b165cf
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

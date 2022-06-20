@@ -1,0 +1,7 @@
+name: _Host_
+uuid: 3f8fb76d-cbe0-316b-a812-afea839c852e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

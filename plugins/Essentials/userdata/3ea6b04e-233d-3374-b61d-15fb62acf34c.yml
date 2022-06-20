@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Dark06Killer
+timestamps:
+  login: 1467378909722
+  logout: 1467378929284
+ipAddress: 2.35.160.160
+lastlocation:
+  world: spawn
+  x: -9.5
+  y: 109.0
+  z: 135.5
+  yaw: 0.0
+  pitch: 0.0
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -10.366887045033565
+  y: 109.5
+  z: 153.87175861648566
+  yaw: -144.59497
+  pitch: 13.725478

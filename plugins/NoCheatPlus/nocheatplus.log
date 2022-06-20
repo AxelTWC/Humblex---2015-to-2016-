@@ -1,0 +1,821 @@
+17-03-25 14:18:43 [INFO] Logger started.
+17-03-25 14:18:43 [INFO] Logging system initialized.
+17-03-25 14:18:43 [INFO] Detected Minecraft version: 1.8.8
+17-03-25 14:18:59 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-25 14:18:59 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-25 14:18:59 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-25 14:18:59 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-25 14:18:59 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-25 14:18:59 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-25 14:18:59 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-25 14:18:59 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-25 14:18:59 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-25 14:19:32 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-25 14:19:32 [INFO] Post-enable running...
+17-03-25 14:19:33 [INFO] Post-enable finished.
+17-03-25 14:19:33 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-25 14:19:34 [INFO] Astrofish7 failed SurvivalFly: tried to move unexpectedly. VL 137.
+17-03-25 14:19:37 [INFO] Astrofish7 failed SurvivalFly: tried to move from -1010.93, 14.07, 236.80 to -1010.93, 13.60, 236.80 over a distance of 0.46 block(s). VL 416.
+17-03-25 14:19:42 [INFO] Astrofish7 failed SurvivalFly: tried to move from -1010.93, 14.07, 236.80 to -1010.93, 13.83, 236.80 over a distance of 0.23 block(s). VL 951.
+17-03-25 14:19:46 [INFO] Astrofish7 failed SurvivalFly: tried to move from -1010.93, 14.07, 236.80 to -1010.93, 13.83, 236.80 over a distance of 0.23 block(s). VL 1510.
+17-03-25 14:19:46 [INFO] (CONSOLE) Kicked Astrofish7 : Kicked for flying (or related)
+17-03-25 14:22:07 [INFO] Astrofish7 failed AttackFrequency: attacks with too high a frequency (40/10, sec_half). VL 30.
+17-03-25 14:22:09 [INFO] Astrofish7 failed AttackFrequency: attacks with too high a frequency (220/60, sec_four). VL 160.
+17-03-25 14:22:09 [INFO] (CONSOLE) Kicked Astrofish7 : Unlikely fast clicking.
+17-03-25 14:22:09 [INFO] Astrofish7 failed AttackFrequency: attacks with too high a frequency (221/60, sec_four). VL 161.
+17-03-25 14:22:09 [INFO] Astrofish7 failed AttackFrequency: attacks with too high a frequency (222/60, sec_four). VL 162.
+17-03-25 14:22:09 [INFO] Astrofish7 failed AttackFrequency: attacks with too high a frequency (223/60, sec_four). VL 163.
+17-03-25 14:22:09 [INFO] Astrofish7 failed AttackFrequency: attacks with too high a frequency (224/60, sec_four). VL 164.
+17-03-25 14:24:36 [INFO] Astrofish7 failed Passable: moved into a block (15) from 501.50, 60.00, 590.50 to 501.50, 59.71, 590.50 distance 0.29 . VL 10.
+17-03-25 14:33:05 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (id=1548376319).
+17-03-25 14:33:05 [SEVERE] [java.lang.Thread.getStackTrace(Thread.java:1556), fr.neatmonster.nocheatplus.utilities.CheckUtils.improperAPIAccess(CheckUtils.java:201), fr.neatmonster.nocheatplus.utilities.CheckUtils.hasBypass(CheckUtils.java:191), fr.neatmonster.nocheatplus.checks.Check.isEnabled(Check.java:186), fr.neatmonster.nocheatplus.checks.inventory.Open.check(Open.java:46), fr.neatmonster.nocheatplus.checks.inventory.InventoryListener.onPlayerTeleport(InventoryListener.java:343), sun.reflect.GeneratedMethodAccessor206.invoke(Unknown Source), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), us.Myles.PWP.TransparentListeners.PerWorldPluginLoader$1.execute(PerWorldPluginLoader.java:120), org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62), org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:36), us.Myles.PWP.TransparentListeners.PWPTimedRegisteredListener.callEvent(PWPTimedRegisteredListener.java:30), org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517), org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502), org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer.teleport(CraftPlayer.java:541), org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.teleport(CraftEntity.java:236), me.CaveBoy36.PerWorldSpawn.PerWorldSpawnMain$1.run(PerWorldSpawnMain.java:67), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53), org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617), java.lang.Thread.run(Thread.java:745)]
+17-03-25 14:33:05 [INFO] PyroGuy15 failed Passable: moved into a block (95) from 59.52, 78.00, 242.51 to 59.52, 77.61, 242.51 distance 0.39 . VL 11.
+17-03-25 14:33:34 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 14:34:02 [INFO] PyroGuy15 failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 11.
+17-03-25 14:38:44 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.50, 62.00, 27172.50 to 42985.50, 61.51, 27172.50 distance 0.49 . VL 10.
+17-03-25 14:47:24 [INFO] Erwinrommel failed Commands: issued too many commands. VL 1.
+17-03-25 14:47:24 [INFO] (CONSOLE) Kicked Erwinrommel for 1 minutes: You're not allowed to spam commands!
+17-03-25 14:50:27 [INFO] PyroGuy15 failed Direction: tried to hit an entity out of line of sight. VL 143.
+17-03-25 15:08:20 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 15:09:03 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.50, 62.00, 27172.50 to 42985.50, 61.80, 27172.50 distance 0.20 . VL 11.
+17-03-25 15:09:29 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 15:09:30 [INFO] Erwinrommel failed Passable: moved into a block (95) from 59.52, 78.00, 242.51 to 59.52, 77.90, 242.51 distance 0.10 . VL 14.
+17-03-25 15:17:33 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 83.
+17-03-25 15:17:41 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 110.
+17-03-25 15:18:31 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 2.
+17-03-25 15:19:44 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.53, -0.50 distance 0.47 . VL 11.
+17-03-25 15:20:17 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 11.
+17-03-25 15:20:36 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.90, -0.50 distance 0.10 . VL 16.
+17-03-25 15:21:03 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 19.
+17-03-25 15:26:00 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.90, -0.50 distance 0.10 . VL 17.
+17-03-25 15:26:38 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 21.
+17-03-25 15:31:50 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 14.
+17-03-25 15:33:48 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 12.
+17-03-25 15:35:29 [INFO] SkyChase failed Passable: moved into a block (21) from 1.32, 116.00, -1394.00 to 1.30, 116.00, -1394.03 distance 0.04 . VL 16.
+17-03-25 15:39:44 [INFO] SkyChase failed Passable: moved into a block (1) from 1.69, 116.00, -1394.00 to 1.69, 116.00, -1394.03 distance 0.04 . VL 11.
+17-03-25 15:40:55 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 83.
+17-03-25 15:43:55 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42774.50, 64.00, 26169.50 to 42774.50, 63.71, 26169.50 distance 0.29 . VL 11.
+17-03-25 15:44:28 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 13.
+17-03-25 15:44:50 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42774.50, 64.00, 26169.50 to 42774.50, 63.90, 26169.50 distance 0.10 . VL 16.
+17-03-25 15:45:38 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 23.
+17-03-25 15:46:07 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42774.50, 64.00, 26169.50 to 42774.50, 63.90, 26169.50 distance 0.10 . VL 24.
+17-03-25 15:46:54 [INFO] SkyChase failed FastBreak: tried to break blocks (16) faster than possible. VL 1.
+17-03-25 15:46:59 [INFO] SkyChase failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+17-03-25 15:47:04 [INFO] SkyChase failed FastBreak: tried to break blocks (14) faster than possible. VL 1.
+17-03-25 15:47:09 [INFO] SkyChase failed FastBreak: tried to break blocks (21) faster than possible. VL 2.
+17-03-25 15:47:14 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 3.
+17-03-25 15:47:19 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 3.
+17-03-25 15:47:24 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 5.
+17-03-25 15:48:15 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 11.
+17-03-25 15:49:33 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42775.50, 64.00, 26168.50 to 42775.50, 63.90, 26168.50 distance 0.10 . VL 16.
+17-03-25 15:52:29 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 15:52:30 [INFO] Erwinrommel failed Passable: moved into a block (95) from 59.52, 78.00, 242.51 to 59.52, 77.90, 242.51 distance 0.10 . VL 21.
+17-03-25 15:53:08 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.50, 21.00, 26225.50 to 42774.50, 20.90, 26225.50 distance 0.10 . VL 17.
+17-03-25 15:58:50 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.36, 15.00, 26382.61 to 42774.36, 15.00, 26383.14 distance 0.53 . VL 22.
+17-03-25 16:00:30 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 143.
+17-03-25 16:05:46 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 53.
+17-03-25 16:05:46 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-25 16:05:57 [INFO] JxnD failed Passable: moved into a block (1) from -1400.02, 119.00, 198.70 to -1399.99, 119.00, 198.70 distance 0.03 . VL 11.
+17-03-25 16:05:57 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 29.
+17-03-25 16:06:10 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.61, 27168.15 distance 0.39 . VL 10.
+17-03-25 16:06:26 [INFO] JxnD failed Passable: moved into a block (4) from -1399.31, 119.00, 199.27 to -1399.31, 119.00, 198.97 distance 0.30 . VL 11.
+17-03-25 16:06:51 [INFO] JxnD failed Passable: moved into a block (4) from -1399.31, 119.00, 199.27 to -1399.32, 119.00, 198.87 distance 0.40 . VL 15.
+17-03-25 16:07:21 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 53.
+17-03-25 16:07:21 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-25 16:07:24 [INFO] JxnD failed Passable: moved into a block (1) from -1398.73, 119.09, 198.65 to -1399.01, 119.00, 198.65 distance 0.29 . VL 16.
+17-03-25 16:07:49 [INFO] JxnD failed Passable: moved into a block (1) from -1399.55, 119.00, 199.27 to -1399.52, 119.00, 198.87 distance 0.40 . VL 17.
+17-03-25 16:07:57 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 10.
+17-03-25 16:07:58 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-25 16:08:25 [INFO] JxnD failed Passable: moved into a block (4) from -1399.31, 119.00, 199.27 to -1399.32, 119.00, 198.94 distance 0.33 . VL 19.
+17-03-25 16:08:27 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 10.
+17-03-25 16:08:27 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 104.
+17-03-25 16:09:22 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 6.
+17-03-25 16:09:25 [INFO] JxnD failed Passable: moved into a block (4) from -1399.50, 119.00, 199.26 to -1399.49, 119.00, 198.99 distance 0.27 . VL 19.
+17-03-25 16:09:28 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.50, 15.00, 26542.50 to 42774.50, 14.80, 26542.50 distance 0.20 . VL 11.
+17-03-25 16:09:34 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 26.
+17-03-25 16:09:46 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 21.
+17-03-25 16:09:58 [INFO] JxnD failed Passable: moved into a block (4) from -1399.48, 119.00, 199.00 to -1399.48, 119.00, 198.94 distance 0.06 . VL 20.
+17-03-25 16:09:59 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 7.
+17-03-25 16:10:02 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 14.
+17-03-25 16:10:37 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.50, 15.00, 26542.50 to 42774.50, 14.90, 26542.50 distance 0.10 . VL 14.
+17-03-25 16:10:48 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 10.
+17-03-25 16:10:48 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 104.
+17-03-25 16:11:46 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 10.
+17-03-25 16:11:47 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 104.
+17-03-25 16:12:08 [INFO] JxnD failed Passable: moved into a block (15) from -1399.42, 119.00, 199.06 to -1399.42, 119.00, 198.97 distance 0.10 . VL 22.
+17-03-25 16:12:08 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 17.
+17-03-25 16:12:13 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 115.
+17-03-25 16:12:18 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 77.
+17-03-25 16:13:07 [INFO] JxnD failed Passable: moved into a block (73) from -1399.41, 119.00, 199.16 to -1399.40, 119.00, 198.98 distance 0.18 . VL 19.
+17-03-25 16:13:19 [INFO] JxnD failed Passable: moved into a block (1) from -1399.33, 119.00, 199.03 to -1399.33, 119.00, 198.99 distance 0.03 . VL 23.
+17-03-25 16:13:49 [INFO] JxnD failed Passable: moved into a block (4) from -1399.43, 119.00, 199.30 to -1399.43, 119.00, 198.87 distance 0.43 . VL 22.
+17-03-25 16:14:15 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 34.
+17-03-25 16:14:15 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-25 16:14:35 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 10.
+17-03-25 16:14:50 [INFO] JxnD failed Passable: moved into a block (1) from -1399.47, 119.00, 199.02 to -1399.46, 119.00, 198.99 distance 0.03 . VL 25.
+17-03-25 16:14:50 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 4.
+17-03-25 16:14:50 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-25 16:16:49 [INFO] JxnD failed Passable: moved into a block (1) from -1399.56, 119.00, 200.43 to -1399.56, 119.00, 199.86 distance 0.56 . VL 29.
+17-03-25 16:50:39 [INFO] stucla failed SurvivalFly: tried to move unexpectedly. VL 221.
+17-03-25 17:05:59 [INFO] Erwinrommel failed Passable: moved into a block (95) from 0.36, 83.00, -0.53 to 0.36, 82.90, -0.49 distance 0.10 . VL 11.
+17-03-25 18:20:57 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 57.
+17-03-25 18:21:07 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 7.
+17-03-25 18:21:09 [INFO] JxnD failed Passable: moved into a block (4) from -1399.53, 119.00, 199.28 to -1399.52, 119.00, 198.89 distance 0.38 . VL 11.
+17-03-25 18:21:27 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 5.
+17-03-25 18:21:39 [INFO] JxnD failed Passable: moved into a block (21) from -1399.39, 119.00, 199.02 to -1399.39, 119.00, 198.96 distance 0.06 . VL 12.
+17-03-25 18:21:39 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 2.
+17-03-25 18:21:40 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 102.
+17-03-25 18:21:50 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 27.
+17-03-25 18:22:01 [INFO] JxnD failed Passable: moved into a block (16) from -1399.30, 119.00, 200.41 to -1399.30, 119.00, 199.85 distance 0.56 . VL 15.
+17-03-25 18:30:32 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 1.
+17-03-25 18:30:48 [INFO] JxnD failed Passable: moved into a block (14) from -1399.45, 119.00, 200.42 to -1399.48, 119.00, 199.95 distance 0.47 . VL 10.
+17-03-25 18:30:49 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 5.
+17-03-25 18:31:02 [INFO] JxnD failed Passable: moved into a block (4) from -1399.45, 119.00, 199.05 to -1399.44, 119.00, 198.99 distance 0.06 . VL 11.
+17-03-25 18:31:02 [INFO] JxnD failed SurvivalFly: tried to move unexpectedly. VL 8.
+17-03-25 18:31:51 [INFO] JxnD failed Passable: moved into a block (1) from -1399.44, 119.00, 200.61 to -1399.48, 119.00, 199.57 distance 1.03 . VL 15.
+17-03-25 18:31:57 [INFO] JxnD failed Passable: moved into a block (1) from -1399.48, 119.00, 200.44 to -1399.51, 119.00, 199.97 distance 0.47 . VL 16.
+17-03-25 18:32:29 [INFO] JxnD failed Passable: moved into a block (73) from -1399.70, 119.00, 200.42 to -1399.70, 119.00, 199.95 distance 0.47 . VL 20.
+17-03-25 18:34:50 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 11.
+17-03-25 18:36:13 [INFO] JxnD failed Passable: moved into a block (4) from -1399.34, 119.00, 200.70 to -1399.34, 119.00, 199.74 distance 0.96 . VL 15.
+17-03-25 18:42:56 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.50, 15.00, 26542.50 to 42774.50, 14.51, 26542.50 distance 0.49 . VL 11.
+17-03-25 18:46:22 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.55, 15.00, 27104.73 to 42774.54, 15.00, 27105.22 distance 0.50 . VL 10.
+17-03-25 18:48:38 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 158.
+17-03-25 18:49:40 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 14.
+17-03-25 18:50:42 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.50, 15.00, 26542.50 to 42774.50, 14.90, 26542.50 distance 0.10 . VL 16.
+17-03-25 18:57:52 [INFO] Erwinrommel failed Passable: moved into a block (1) from 42774.50, 15.00, 26542.50 to 42774.50, 14.51, 26542.50 distance 0.49 . VL 11.
+17-03-25 19:08:56 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42778.50, 64.00, 26167.50 to 42778.50, 63.80, 26167.50 distance 0.20 . VL 10.
+17-03-25 19:20:40 [INFO] NeukStaaf22 failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.51, 27168.15 distance 0.49 . VL 10.
+17-03-25 19:21:41 [INFO] NeukStaaf22 failed Passable: moved into a block (4) from 60.50, 68.00, 209.50 to 60.50, 67.71, 209.50 distance 0.29 . VL 11.
+17-03-25 19:23:29 [INFO] NeukStaaf22 failed Passable: moved into a block (2) from 42795.50, 70.00, 26164.50 to 42795.50, 69.90, 26164.50 distance 0.10 . VL 14.
+17-03-25 19:25:52 [INFO] NeukStaaf22 failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 12.
+17-03-25 19:35:05 [INFO] NeukStaaf22 failed Passable: moved into a block (194) from 42973.02, 63.00, 27178.30 to 42972.66, 63.00, 27178.30 distance 0.36 . VL 11.
+17-03-25 20:07:20 [INFO] Erwinrommel failed Passable: moved into a block (4) from 60.50, 68.00, 209.50 to 60.50, 67.80, 209.50 distance 0.20 . VL 11.
+17-03-25 20:08:37 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42778.50, 64.00, 26167.50 to 42778.50, 63.90, 26167.50 distance 0.10 . VL 10.
+17-03-25 20:22:40 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 128.
+17-03-25 20:52:58 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.51, 27168.15 distance 0.49 . VL 10.
+17-03-25 20:55:53 [INFO] Erwinrommel failed Passable: moved into a block (4) from 60.50, 68.00, 209.50 to 60.50, 67.71, 209.50 distance 0.29 . VL 10.
+17-03-25 20:56:45 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42778.50, 64.00, 26167.50 to 42778.50, 63.90, 26167.50 distance 0.10 . VL 12.
+17-03-25 20:57:05 [INFO] Erwinrommel failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 17.
+17-03-25 20:59:20 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42778.50, 64.00, 26167.50 to 42778.50, 63.90, 26167.50 distance 0.10 . VL 16.
+17-03-25 21:00:08 [INFO] Erwinrommel failed MorePackets: sent too many moves (10 epsacc). VL 10.
+17-03-25 21:37:51 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42778.50, 64.00, 26167.50 to 42778.50, 63.61, 26167.50 distance 0.39 . VL 10.
+17-03-25 21:45:33 [INFO] Erwinrommel failed Passable: moved into a block (2) from 42778.50, 64.00, 26167.50 to 42778.50, 63.51, 26167.50 distance 0.49 . VL 10.
+17-03-25 21:50:56 [INFO] Erwinrommel failed Passable: moved into a block (2) from -1399.50, 118.00, 400.50 to -1399.50, 117.80, 400.50 distance 0.20 . VL 11.
+17-03-25 21:52:38 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 21:52:47 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 21:54:42 [INFO] Erwinrommel failed Passable: moved into a block (2) from -1399.50, 118.00, 800.50 to -1399.50, 117.90, 800.50 distance 0.10 . VL 12.
+17-03-25 21:54:58 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 21:55:22 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 118.00, 800.50 to -1399.50, 117.71, 800.50 distance 0.29 . VL 11.
+17-03-25 22:06:07 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:07:39 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:15:35 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:17:15 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:17:24 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:18:05 [INFO] swagking failed Passable: moved into a block (2) from -1399.50, 120.00, 1202.50 to -1399.50, 119.90, 1202.50 distance 0.10 . VL 10.
+17-03-25 22:22:06 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:22:43 [INFO] swagking failed Passable: moved into a block (2) from -1399.50, 120.00, 1202.50 to -1399.50, 119.90, 1202.50 distance 0.10 . VL 13.
+17-03-25 22:23:24 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:23:46 [INFO] swagking failed Passable: moved into a block (2) from -1399.50, 120.00, 1202.50 to -1399.50, 119.90, 1202.50 distance 0.10 . VL 12.
+17-03-25 22:25:06 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:28:13 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:28:50 [INFO] swagking failed Passable: moved into a block (2) from -1399.50, 120.00, 1202.50 to -1399.50, 119.90, 1202.50 distance 0.10 . VL 11.
+17-03-25 22:32:39 [INFO] swagking failed Passable: moved into a block (89) from 1000.50, 120.00, -793.50 to 1000.50, 119.90, -793.50 distance 0.10 . VL 14.
+17-03-25 22:33:12 [INFO] swagking failed Passable: moved into a block (15) from 801.50, 118.00, 602.50 to 801.50, 117.90, 602.50 distance 0.10 . VL 15.
+17-03-25 22:33:35 [INFO] swagking failed Passable: moved into a block (2) from -0.50, 120.00, -796.50 to -0.50, 119.90, -796.50 distance 0.10 . VL 22.
+17-03-25 22:33:40 [INFO] swagking failed Passable: moved into a block (89) from -798.50, 120.00, -198.50 to -798.50, 119.71, -198.50 distance 0.29 . VL 29.
+17-03-25 22:34:29 [INFO] swagking failed Passable: moved into a block (89) from 1000.50, 120.00, -793.50 to 1000.50, 119.90, -793.50 distance 0.10 . VL 27.
+17-03-25 22:39:21 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 22:40:15 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 0.
+17-03-25 23:01:36 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:02:44 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:06:06 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:09:22 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:09:38 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:10:57 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:11:00 [INFO] Erwinrommel failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.51, 800.50 distance 0.49 . VL 10.
+17-03-25 23:11:58 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:12:17 [INFO] Erwinrommel failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.90, 800.50 distance 0.10 . VL 11.
+17-03-25 23:16:39 [INFO] Erwinrommel failed Passable: moved into a block (16) from -1394.05, 113.00, 798.70 to -1393.95, 113.00, 798.70 distance 0.10 . VL 11.
+17-03-25 23:16:40 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 30.
+17-03-25 23:17:02 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:18:48 [INFO] PyroGuy15 failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.61, 800.50 distance 0.39 . VL 10.
+17-03-25 23:19:15 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:20:47 [INFO] PyroGuy15 failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.61, 800.50 distance 0.39 . VL 11.
+17-03-25 23:28:38 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:32:37 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:33:16 [INFO] PyroGuy15 failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.51, 800.50 distance 0.49 . VL 11.
+17-03-25 23:47:42 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:47:58 [INFO] swagking failed Passable: moved into a block (0) from 0.36, 83.00, -0.55 to 8.50, 65.00, 8.50 distance 21.73 . VL 28.
+17-03-25 23:49:37 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-25 23:57:37 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-26 00:00:22 [INFO] PyroGuy15 failed Passable: moved into a block (4) from 199.50, 120.00, -799.50 to 199.50, 119.51, -799.50 distance 0.49 . VL 10.
+17-03-26 00:00:44 [INFO] Erwinrommel failed Passable: moved into a block (15) from 801.50, 118.00, 602.50 to 801.50, 117.80, 602.50 distance 0.20 . VL 10.
+17-03-26 00:00:57 [INFO] PyroGuy15 failed Passable: moved into a block (15) from 801.50, 118.00, 602.50 to 801.50, 117.80, 602.50 distance 0.20 . VL 11.
+17-03-26 00:01:41 [INFO] Erwinrommel failed Passable: moved into a block (43) from -349.50, 121.00, -33.50 to -349.50, 120.90, -33.50 distance 0.10 . VL 12.
+17-03-26 00:01:52 [INFO] PyroGuy15 failed Passable: moved into a block (43) from -349.50, 121.00, -33.50 to -349.50, 120.90, -33.50 distance 0.10 . VL 12.
+17-03-26 00:02:19 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 26.
+17-03-26 00:02:38 [INFO] Erwinrommel failed Passable: moved into a block (2) from -399.50, 118.00, -199.50 to -399.50, 117.90, -199.50 distance 0.10 . VL 13.
+17-03-26 00:02:58 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 15.
+17-03-26 00:02:58 [INFO] Erwinrommel failed Passable: moved into a block (0) from -400.07, 119.00, -195.99 to -399.83, 119.00, -196.16 distance 0.29 . VL 15.
+17-03-26 00:03:00 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 105.
+17-03-26 00:03:14 [INFO] PyroGuy15 failed Passable: moved into a block (89) from 1000.50, 120.00, -793.50 to 1000.50, 119.71, -793.50 distance 0.29 . VL 10.
+17-03-26 00:03:23 [INFO] Erwinrommel failed Passable: moved into a block (89) from 1000.50, 120.00, -793.50 to 1000.50, 119.90, -793.50 distance 0.10 . VL 33.
+17-03-26 00:04:27 [INFO] Erwinrommel failed Passable: moved into a block (2) from -0.50, 120.00, -796.50 to -0.50, 119.90, -796.50 distance 0.10 . VL 23.
+17-03-26 00:04:35 [INFO] Erwinrommel failed Passable: moved into a block (89) from -798.50, 120.00, -198.50 to -798.50, 119.90, -198.50 distance 0.10 . VL 28.
+17-03-26 00:04:52 [INFO] PyroGuy15 failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.61, 800.50 distance 0.39 . VL 11.
+17-03-26 00:05:35 [INFO] Erwinrommel failed Passable: moved into a block (2) from 200.50, 120.00, 2.50 to 200.50, 119.90, 2.50 distance 0.10 . VL 17.
+17-03-26 00:05:45 [INFO] Erwinrommel failed Passable: moved into a block (2) from -399.50, 118.00, -199.50 to -399.50, 117.90, -199.50 distance 0.10 . VL 22.
+17-03-26 00:05:55 [INFO] Erwinrommel failed Passable: moved into a block (7) from -1399.50, 116.00, 800.50 to -1399.50, 115.90, 800.50 distance 0.10 . VL 27.
+17-03-26 00:07:18 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-26 00:08:29 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1548376319).
+17-03-26 03:40:36 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.80, -0.55 distance 0.20 . VL 10.
+17-03-26 03:41:27 [INFO] SkyChase failed Passable: moved into a block (15) from 0.97, 116.00, -1394.31 to 1.07, 116.00, -1394.31 distance 0.10 . VL 14.
+17-03-26 03:41:40 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 7.
+17-03-26 03:41:45 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 10.
+17-03-26 03:41:59 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 6.
+17-03-26 03:42:05 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 6.
+17-03-26 03:42:15 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 2.
+17-03-26 03:42:20 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 2.
+17-03-26 03:42:25 [INFO] SkyChase failed FastBreak: tried to break blocks (1) faster than possible. VL 2.
+17-03-26 03:42:30 [INFO] SkyChase failed FastBreak: tried to break blocks (1) faster than possible. VL 2.
+17-03-26 03:42:41 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 1.
+17-03-26 03:42:49 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 1.
+17-03-26 03:42:56 [INFO] SkyChase failed FastBreak: tried to break blocks (16) faster than possible. VL 1.
+17-03-26 03:43:03 [INFO] SkyChase failed FastBreak: tried to break blocks (16) faster than possible. VL 1.
+17-03-26 03:43:08 [INFO] SkyChase failed FastBreak: tried to break blocks (74) faster than possible. VL 2.
+17-03-26 03:43:16 [INFO] SkyChase failed FastBreak: tried to break blocks (129) faster than possible. VL 1.
+17-03-26 03:43:21 [INFO] SkyChase failed FastBreak: tried to break blocks (16) faster than possible. VL 2.
+17-03-26 03:43:46 [INFO] SkyChase failed FastBreak: tried to break blocks (17) faster than possible. VL 1.
+17-03-26 03:44:52 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.90, -0.50 distance 0.10 . VL 15.
+17-03-26 03:45:07 [INFO] SkyChase failed Passable: moved into a block (5) from 59.50, 78.00, 225.50 to 59.50, 77.90, 225.50 distance 0.10 . VL 19.
+17-03-26 03:46:29 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.90, -0.50 distance 0.10 . VL 20.
+17-03-26 03:47:20 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 22.
+17-03-26 03:47:54 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 1572.
+17-03-26 03:47:59 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 4631.
+17-03-26 03:49:51 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 12.
+17-03-26 03:50:47 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 208.
+17-03-26 03:51:07 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 465.
+17-03-26 03:51:55 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 16.
+17-03-26 03:51:57 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 533.
+17-03-26 03:51:59 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 13.
+17-03-26 03:52:02 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 593.
+17-03-26 03:52:11 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 501.
+17-03-26 03:52:13 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 5.
+17-03-26 03:52:16 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 613.
+17-03-26 03:56:26 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.71, 400.50 distance 0.29 . VL 10.
+17-03-26 03:56:59 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 12.
+17-03-26 03:57:20 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 17.
+17-03-26 03:58:04 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 21.
+17-03-26 03:58:30 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 26.
+17-03-26 03:58:47 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 30.
+17-03-26 03:59:55 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 29.
+17-03-26 04:00:16 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 34.
+17-03-26 04:00:45 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 38.
+17-03-26 04:01:13 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 42.
+17-03-26 04:01:34 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 47.
+17-03-26 04:01:34 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.61, 400.50 distance 0.39 . VL 50.
+17-03-26 04:01:51 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 52.
+17-03-26 04:02:15 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 57.
+17-03-26 04:02:49 [INFO] llCHASEll failed Passable: moved into a block (2) from 4.50, 116.00, -1398.50 to 4.50, 115.90, -1398.50 distance 0.10 . VL 56.
+17-03-26 04:03:03 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 6273.
+17-03-26 04:03:20 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 61.
+17-03-26 04:04:17 [INFO] llCHASEll failed Passable: moved into a block (2) from 400.50, 117.00, 400.50 to 400.50, 116.90, 400.50 distance 0.10 . VL 56.
+17-03-26 04:05:07 [INFO] llCHASEll failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 48.
+17-03-26 04:05:07 [INFO] llCHASEll failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.71, -1399.50 distance 0.29 . VL 50.
+17-03-26 05:06:46 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-26 05:06:46 [FINE] | canceldead 1 (1/0) | illegalitem 0 | boatsanywhere 0 | throwenderpearl 1 (1/0) | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 690076 (690076/0) | event.player.move.handled.pos 272142 (272142/0) | event.player.move.handled.look 76938 (76938/0) | event.player.move.handled.pos_look 338710 (338710/0) | packet.flying.nullplayer 0 | packet.flying.handled 1842392 (0/1842392) | packet.flying.asynchronous 1842392 (0/1842392) | packet.outgoing_position.untracked 28 (20/8) | packet.sound.cancel 0 |
+17-03-26 05:07:00 [INFO] Logger started.
+17-03-26 05:07:00 [INFO] Logging system initialized.
+17-03-26 05:07:00 [INFO] Detected Minecraft version: 1.8.8
+17-03-26 05:07:14 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-26 05:07:14 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-26 05:07:14 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-26 05:07:14 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-26 05:07:14 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-26 05:07:14 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-26 05:07:14 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-26 05:07:14 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-26 05:07:14 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-26 05:07:46 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-26 05:07:46 [INFO] Post-enable running...
+17-03-26 05:07:46 [INFO] Post-enable finished.
+17-03-26 05:07:47 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-26 05:19:25 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-26 05:19:33 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 67.
+17-03-26 05:19:43 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 26.
+17-03-26 05:20:12 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 61.
+17-03-26 07:05:46 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 61.
+17-03-26 07:07:35 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 96.
+17-03-26 07:07:40 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 3163.
+17-03-26 07:07:46 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 7873.
+17-03-26 07:25:57 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.53, -0.55 distance 0.47 . VL 11.
+17-03-26 07:27:04 [INFO] SkyChase failed Passable: moved into a block (0) from 0.36, 83.00, -0.55 to 8.50, 65.00, 8.50 distance 21.73 . VL 12.
+17-03-26 07:28:11 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 17.
+17-03-26 07:29:18 [INFO] SkyChase failed Passable: moved into a block (0) from 0.36, 83.00, -0.55 to 8.50, 65.00, 8.50 distance 21.73 . VL 22.
+17-03-26 07:30:25 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 27.
+17-03-26 07:31:33 [INFO] SkyChase failed Passable: moved into a block (0) from 0.36, 83.00, -0.55 to 8.50, 65.00, 8.50 distance 21.73 . VL 32.
+17-03-26 07:32:39 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 38.
+17-03-26 07:33:46 [INFO] SkyChase failed Passable: moved into a block (0) from 0.36, 83.00, -0.55 to 8.50, 65.00, 8.50 distance 21.73 . VL 43.
+17-03-26 07:34:54 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 48.
+17-03-26 07:34:54 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.61, -0.55 distance 0.39 . VL 51.
+17-03-26 07:35:24 [INFO] SkyChase failed Passable: moved into a block (17) from -2.49, 83.00, 3.47 to -2.49, 82.90, 3.47 distance 0.10 . VL 53.
+17-03-26 08:04:34 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 36.
+17-03-26 08:04:49 [INFO] SkyChase failed SurvivalFly: tried to move unexpectedly. VL 39.
+17-03-26 08:04:51 [INFO] SkyChase failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-26 08:04:53 [INFO] SkyChase failed SurvivalFly: tried to move from -2.49, 83.52, 3.00 to -2.49, 83.75, 3.00 over a distance of 0.23 block(s). VL 415.
+17-03-26 08:04:58 [INFO] SkyChase failed SurvivalFly: tried to move from -2.49, 83.75, 3.00 to -2.48, 83.75, 2.98 over a distance of 0.03 block(s). VL 859.
+17-03-26 08:05:06 [INFO] SkyChase failed SurvivalFly: tried to move from -2.49, 83.00, 3.00 to -2.49, 83.00, 3.00 over a distance of 0.00 block(s). VL 1362.
+17-03-26 08:08:24 [INFO] SkyChase failed SurvivalFly: tried to move unexpectedly. VL 92.
+17-03-26 08:08:24 [INFO] SkyChase failed SurvivalFly: tried to move unexpectedly. VL 138.
+17-03-26 08:08:40 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 17.
+17-03-26 08:08:56 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 231.
+17-03-26 08:08:57 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 12.
+17-03-26 08:09:01 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 229.
+17-03-26 08:09:06 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 278.
+17-03-26 08:09:09 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 14.
+17-03-26 08:09:11 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 218.
+17-03-26 08:09:18 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 260.
+17-03-26 08:09:21 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 12.
+17-03-26 08:09:24 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 397.
+17-03-26 08:09:29 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 587.
+17-03-26 08:09:30 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 7.
+17-03-26 08:09:35 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 7904.
+17-03-26 08:09:39 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 452.
+17-03-26 08:09:41 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 7.
+17-03-26 08:09:44 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 513.
+17-03-26 08:09:49 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 2008.
+17-03-26 08:09:49 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 551.
+17-03-26 08:09:58 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 437.
+17-03-26 08:10:00 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 521.
+17-03-26 08:10:03 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 257.
+17-03-26 08:10:08 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 404.
+17-03-26 08:10:09 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 19.
+17-03-26 08:10:21 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 510.
+17-03-26 08:10:23 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 33.
+17-03-26 08:10:26 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 475.
+17-03-26 08:10:31 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 2678.
+17-03-26 08:10:31 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 518.
+17-03-26 08:10:58 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 152.
+17-03-26 08:11:03 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 484.
+17-03-26 08:11:08 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 434.
+17-03-26 08:11:08 [INFO] SkyChase failed Improbable: meets the improbable more than expected. VL 29.
+17-03-26 08:11:13 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 463.
+17-03-26 08:11:18 [INFO] SkyChase failed Speed: tried to throw projectiles too quickly. VL 374.
+17-03-26 08:15:02 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.90, -0.50 distance 0.10 . VL 11.
+17-03-26 08:16:33 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 8003.
+17-03-26 08:18:59 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 14.
+17-03-26 08:19:12 [INFO] SkyChase failed Passable: moved into a block (17) from 62.50, 93.00, -0.50 to 62.50, 92.90, -0.50 distance 0.10 . VL 19.
+17-03-26 08:21:43 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 24.
+17-03-26 08:24:01 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 8015.
+17-03-26 09:40:50 [INFO] Sygeth failed SurvivalFly: tried to move unexpectedly. VL 33.
+17-03-26 09:40:51 [INFO] Sygeth failed SurvivalFly: tried to move unexpectedly. VL 113.
+17-03-26 09:45:40 [INFO] Sygeth failed Passable: moved into a block (73) from 400.45, 119.00, 399.11 to 400.50, 119.00, 398.71 distance 0.39 . VL 11.
+17-03-26 09:45:46 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 13.
+17-03-26 09:46:21 [INFO] Sygeth failed SurvivalFly: tried to move unexpectedly. VL 53.
+17-03-26 09:46:22 [INFO] Sygeth failed SurvivalFly: tried to move unexpectedly. VL 107.
+17-03-26 09:46:24 [INFO] Sygeth failed SurvivalFly: tried to move from 401.24, 119.22, 398.68 to 401.50, 119.35, 398.30 over a distance of 0.48 block(s). VL 424.
+17-03-26 09:55:29 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 12.
+17-03-26 09:56:05 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.90, -1399.50 distance 0.10 . VL 12.
+17-03-26 10:00:08 [INFO] SkyChase failed MorePackets: sent too many moves (10 epsacc). VL 10.
+17-03-26 12:09:48 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-26 12:09:48 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 72201 (72201/0) | event.player.move.handled.pos 33746 (33746/0) | event.player.move.handled.look 4718 (4718/0) | event.player.move.handled.pos_look 33621 (33621/0) | packet.flying.nullplayer 0 | packet.flying.handled 190332 (0/190332) | packet.flying.asynchronous 190332 (0/190332) | packet.outgoing_position.untracked 23 (7/16) | packet.sound.cancel 0 |
+17-03-26 12:10:01 [INFO] Logger started.
+17-03-26 12:10:01 [INFO] Logging system initialized.
+17-03-26 12:10:01 [INFO] Detected Minecraft version: 1.8.8
+17-03-26 12:10:14 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-26 12:10:14 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-26 12:10:14 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-26 12:10:14 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-26 12:10:14 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-26 12:10:14 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-26 12:10:14 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-26 12:10:14 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-26 12:10:14 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-26 12:10:47 [INFO] Post-enable running...
+17-03-26 12:10:47 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-26 12:10:47 [INFO] Post-enable finished.
+17-03-26 12:10:48 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-26 14:07:33 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (id=676179322).
+17-03-26 14:07:33 [SEVERE] [java.lang.Thread.getStackTrace(Thread.java:1556), fr.neatmonster.nocheatplus.utilities.CheckUtils.improperAPIAccess(CheckUtils.java:201), fr.neatmonster.nocheatplus.utilities.CheckUtils.hasBypass(CheckUtils.java:191), fr.neatmonster.nocheatplus.checks.Check.isEnabled(Check.java:186), fr.neatmonster.nocheatplus.checks.inventory.Open.check(Open.java:46), fr.neatmonster.nocheatplus.checks.inventory.InventoryListener.onPlayerTeleport(InventoryListener.java:343), sun.reflect.GeneratedMethodAccessor212.invoke(Unknown Source), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), us.Myles.PWP.TransparentListeners.PerWorldPluginLoader$1.execute(PerWorldPluginLoader.java:120), org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62), org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:36), us.Myles.PWP.TransparentListeners.PWPTimedRegisteredListener.callEvent(PWPTimedRegisteredListener.java:30), org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517), org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502), org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer.teleport(CraftPlayer.java:541), org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.teleport(CraftEntity.java:236), me.CaveBoy36.PerWorldSpawn.PerWorldSpawnMain$1.run(PerWorldSpawnMain.java:67), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53), org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617), java.lang.Thread.run(Thread.java:745)]
+17-03-26 14:37:54 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-26 14:37:54 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 56798 (56798/0) | event.player.move.handled.pos 22923 (22923/0) | event.player.move.handled.look 4255 (4255/0) | event.player.move.handled.pos_look 29433 (29433/0) | packet.flying.nullplayer 0 | packet.flying.handled 165475 (0/165475) | packet.flying.asynchronous 165475 (0/165475) | packet.outgoing_position.untracked 1 (0/1) | packet.sound.cancel 0 |
+17-03-26 14:38:09 [INFO] Logger started.
+17-03-26 14:38:09 [INFO] Logging system initialized.
+17-03-26 14:38:09 [INFO] Detected Minecraft version: 1.8.8
+17-03-26 14:38:23 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-26 14:38:23 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-26 14:38:23 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-26 14:38:23 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-26 14:38:23 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-26 14:38:23 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-26 14:38:23 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-26 14:38:23 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-26 14:38:23 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-26 14:38:53 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-26 14:38:54 [INFO] Post-enable running...
+17-03-26 14:38:54 [INFO] Post-enable finished.
+17-03-26 14:38:55 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-26 15:04:00 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (id=2064325920).
+17-03-26 15:04:00 [SEVERE] [java.lang.Thread.getStackTrace(Thread.java:1556), fr.neatmonster.nocheatplus.utilities.CheckUtils.improperAPIAccess(CheckUtils.java:201), fr.neatmonster.nocheatplus.utilities.CheckUtils.hasBypass(CheckUtils.java:191), fr.neatmonster.nocheatplus.checks.Check.isEnabled(Check.java:186), fr.neatmonster.nocheatplus.checks.inventory.Open.check(Open.java:46), fr.neatmonster.nocheatplus.checks.inventory.InventoryListener.onPlayerTeleport(InventoryListener.java:343), sun.reflect.GeneratedMethodAccessor261.invoke(Unknown Source), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), us.Myles.PWP.TransparentListeners.PerWorldPluginLoader$1.execute(PerWorldPluginLoader.java:120), org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62), org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:36), us.Myles.PWP.TransparentListeners.PWPTimedRegisteredListener.callEvent(PWPTimedRegisteredListener.java:30), org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517), org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502), org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer.teleport(CraftPlayer.java:541), org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.teleport(CraftEntity.java:236), me.CaveBoy36.PerWorldSpawn.PerWorldSpawnMain$1.run(PerWorldSpawnMain.java:67), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53), org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617), java.lang.Thread.run(Thread.java:745)]
+17-03-26 15:06:51 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-26 15:06:51 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 41372 (41372/0) | event.player.move.handled.pos 20529 (20529/0) | event.player.move.handled.look 2372 (2372/0) | event.player.move.handled.pos_look 18385 (18385/0) | packet.flying.nullplayer 0 | packet.flying.handled 99718 (0/99718) | packet.flying.asynchronous 99718 (0/99718) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+17-03-26 15:07:07 [INFO] Logger started.
+17-03-26 15:07:07 [INFO] Logging system initialized.
+17-03-26 15:07:07 [INFO] Detected Minecraft version: 1.8.8
+17-03-26 15:07:23 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-26 15:07:23 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-26 15:07:23 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-26 15:07:23 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-26 15:07:23 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-26 15:07:23 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-26 15:07:23 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-26 15:07:23 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-26 15:07:23 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-26 15:07:58 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-26 15:07:58 [INFO] Post-enable running...
+17-03-26 15:07:58 [INFO] Post-enable finished.
+17-03-26 15:07:59 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-26 15:08:56 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-26 15:08:56 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 53 (53/0) | event.player.move.handled.pos 20 (20/0) | event.player.move.handled.look 25 (25/0) | event.player.move.handled.pos_look 8 (8/0) | packet.flying.nullplayer 0 | packet.flying.handled 936 (0/936) | packet.flying.asynchronous 936 (0/936) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+17-03-26 15:09:10 [INFO] Logger started.
+17-03-26 15:09:10 [INFO] Logging system initialized.
+17-03-26 15:09:10 [INFO] Detected Minecraft version: 1.8.8
+17-03-26 15:09:24 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-26 15:09:24 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-26 15:09:24 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-26 15:09:24 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-26 15:09:24 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-26 15:09:24 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-26 15:09:24 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-26 15:09:25 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-26 15:09:25 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-26 15:09:55 [INFO] Post-enable running...
+17-03-26 15:09:55 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-26 15:09:55 [INFO] Post-enable finished.
+17-03-26 15:09:55 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-26 15:11:22 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (id=-194487167).
+17-03-26 15:11:22 [SEVERE] [java.lang.Thread.getStackTrace(Thread.java:1556), fr.neatmonster.nocheatplus.utilities.CheckUtils.improperAPIAccess(CheckUtils.java:201), fr.neatmonster.nocheatplus.utilities.CheckUtils.hasBypass(CheckUtils.java:191), fr.neatmonster.nocheatplus.checks.Check.isEnabled(Check.java:186), fr.neatmonster.nocheatplus.checks.inventory.Open.check(Open.java:46), fr.neatmonster.nocheatplus.checks.inventory.InventoryListener.onPlayerTeleport(InventoryListener.java:343), sun.reflect.GeneratedMethodAccessor284.invoke(Unknown Source), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), us.Myles.PWP.TransparentListeners.PerWorldPluginLoader$1.execute(PerWorldPluginLoader.java:120), org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62), org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:36), us.Myles.PWP.TransparentListeners.PWPTimedRegisteredListener.callEvent(PWPTimedRegisteredListener.java:30), org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517), org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502), org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer.teleport(CraftPlayer.java:541), org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.teleport(CraftEntity.java:236), me.CaveBoy36.PerWorldSpawn.PerWorldSpawnMain$1.run(PerWorldSpawnMain.java:67), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53), org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617), java.lang.Thread.run(Thread.java:745)]
+17-03-26 15:20:01 [INFO] PyroGuy15 failed Relog: relogs too fast. VL 1.
+17-03-26 15:30:00 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-194487167).
+17-03-26 15:34:42 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-26 15:34:42 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 38259 (38259/0) | event.player.move.handled.pos 20640 (20640/0) | event.player.move.handled.look 2490 (2490/0) | event.player.move.handled.pos_look 15074 (15074/0) | packet.flying.nullplayer 0 | packet.flying.handled 127170 (0/127170) | packet.flying.asynchronous 127170 (0/127170) | packet.outgoing_position.untracked 3 (2/1) | packet.sound.cancel 0 |
+17-03-26 15:34:56 [INFO] Logger started.
+17-03-26 15:34:56 [INFO] Logging system initialized.
+17-03-26 15:34:56 [INFO] Detected Minecraft version: 1.8.8
+17-03-26 15:35:10 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-26 15:35:10 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-26 15:35:10 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-26 15:35:10 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-26 15:35:10 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-26 15:35:10 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-26 15:35:10 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-26 15:35:10 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-26 15:35:10 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-26 15:35:44 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-26 15:35:44 [INFO] Post-enable running...
+17-03-26 15:35:45 [INFO] Post-enable finished.
+17-03-26 15:35:45 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-26 17:04:02 [INFO] DinoCrafter06 failed SurvivalFly: tried to move unexpectedly. VL 91.
+17-03-26 17:04:02 [INFO] DinoCrafter06 failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-26 17:06:13 [INFO] DinoCrafter06 failed SurvivalFly: tried to move unexpectedly. VL 22.
+17-03-26 17:20:40 [INFO] JuniorLover15 failed SurvivalFly: tried to move unexpectedly. VL 92.
+17-03-26 17:20:41 [INFO] JuniorLover15 failed SurvivalFly: tried to move unexpectedly. VL 123.
+17-03-26 17:20:42 [INFO] JuniorLover15 failed SurvivalFly: tried to move from -250.38, 2.77, 9.47 to -250.33, 2.84, 9.46 over a distance of 0.10 block(s). VL 405.
+17-03-26 17:20:44 [INFO] JuniorLover15 failed SurvivalFly: tried to move from -250.49, 2.37, 9.45 to -250.49, 2.45, 9.45 over a distance of 0.08 block(s). VL 1505.
+17-03-26 17:20:44 [INFO] (CONSOLE) Kicked JuniorLover15 : Kicked for flying (or related)
+17-03-26 18:12:36 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 120.00, 1002.50 to -1399.50, 119.90, 1002.50 distance 0.10 . VL 10.
+17-03-26 19:10:23 [INFO] Erwinrommel failed SurvivalFly: tried to move unexpectedly. VL 29.
+17-03-26 19:13:55 [INFO] Erwinrommel failed Commands: issued too many commands. VL 1.
+17-03-26 19:13:55 [INFO] (CONSOLE) Kicked Erwinrommel for 1 minutes: You're not allowed to spam commands!
+17-03-26 19:26:39 [INFO] Erwinrommel failed Passable: moved into a block (162) from -218.88, 4.00, -2.76 to -218.88, 3.51, -2.76 distance 0.49 . VL 10.
+17-03-26 19:33:04 [INFO] Erwinrommel failed Relog: relogs too fast. VL 1.
+17-03-26 21:18:34 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (id=1281188891).
+17-03-26 21:18:34 [SEVERE] [java.lang.Thread.getStackTrace(Thread.java:1556), fr.neatmonster.nocheatplus.utilities.CheckUtils.improperAPIAccess(CheckUtils.java:201), fr.neatmonster.nocheatplus.utilities.CheckUtils.hasBypass(CheckUtils.java:191), fr.neatmonster.nocheatplus.checks.Check.isEnabled(Check.java:186), fr.neatmonster.nocheatplus.checks.inventory.Open.check(Open.java:46), fr.neatmonster.nocheatplus.checks.inventory.InventoryListener.onPlayerTeleport(InventoryListener.java:343), sun.reflect.GeneratedMethodAccessor257.invoke(Unknown Source), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), us.Myles.PWP.TransparentListeners.PerWorldPluginLoader$1.execute(PerWorldPluginLoader.java:120), org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62), org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:36), us.Myles.PWP.TransparentListeners.PWPTimedRegisteredListener.callEvent(PWPTimedRegisteredListener.java:30), org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517), org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502), org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer.teleport(CraftPlayer.java:541), org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.teleport(CraftEntity.java:236), me.CaveBoy36.PerWorldSpawn.PerWorldSpawnMain$1.run(PerWorldSpawnMain.java:67), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53), org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617), java.lang.Thread.run(Thread.java:745)]
+17-03-26 22:29:18 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 44.
+17-03-26 22:29:20 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 101.
+17-03-26 22:29:25 [INFO] mLite16 failed SurvivalFly: tried to move from -41.00, 108.00, -31.00 to -40.90, 108.00, -30.90 over a distance of 0.14 block(s). VL 406.
+17-03-26 22:29:33 [INFO] mLite16 failed SurvivalFly: tried to move from -45.86, 110.00, -28.58 to -47.94, 112.00, -26.24 over a distance of 3.72 block(s). VL 557.
+17-03-26 22:31:50 [INFO] mLite16 failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.71, -0.55 distance 0.29 . VL 10.
+17-03-26 22:31:52 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 119.
+17-03-26 22:38:00 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 66.
+17-03-26 22:38:00 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 102.
+17-03-26 22:38:02 [INFO] mLite16 failed SurvivalFly: tried to move from -39.80, 99.00, -25.00 to -40.00, 99.00, -25.00 over a distance of 0.20 block(s). VL 411.
+17-03-26 22:38:07 [INFO] mLite16 failed SurvivalFly: tried to move from -40.00, 99.00, -25.00 to -39.60, 98.77, -25.00 over a distance of 0.46 block(s). VL 902.
+17-03-26 22:38:22 [INFO] mLite16 failed SurvivalFly: tried to move from -40.89, 85.00, -22.88 to -40.79, 85.00, -22.76 over a distance of 0.16 block(s). VL 1141.
+17-03-26 22:47:18 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 107.
+17-03-26 22:48:04 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 126.
+17-03-26 22:49:05 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 188.
+17-03-26 22:55:01 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 65.
+17-03-26 22:55:01 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 191.
+17-03-26 22:59:12 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 100.
+17-03-26 22:59:23 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 222.
+17-03-26 23:23:07 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 11.
+17-03-26 23:23:57 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 75.
+17-03-26 23:24:08 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 61.
+17-03-26 23:25:27 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-26 23:25:48 [INFO] mLite16 failed Passable: moved into a block (3) from -4884.50, 62.00, -5386.50 to -4884.50, 61.63, -5386.50 distance 0.37 . VL 11.
+17-03-26 23:25:50 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 163.
+17-03-26 23:30:15 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 50.
+17-03-26 23:30:17 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 105.
+17-03-26 23:30:21 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 121.
+17-03-26 23:30:57 [INFO] mLite16 failed Passable: moved into a block (1) from -4887.47, 135.00, -5323.50 to -4887.43, 134.90, -5323.50 distance 0.11 . VL 10.
+17-03-26 23:30:59 [INFO] mLite16 failed SurvivalFly: tried to move unexpectedly. VL 109.
+17-03-26 23:31:05 [INFO] mLite16 failed SurvivalFly: tried to move from -4885.26, 134.00, -5323.82 to -4885.73, 134.00, -5323.75 over a distance of 0.48 block(s). VL 409.
+17-03-26 23:31:05 [INFO] mLite16 failed SurvivalFly: tried to move from -4885.26, 134.00, -5323.82 to -4885.73, 134.00, -5323.75 over a distance of 0.48 block(s). VL 1518.
+17-03-26 23:31:05 [INFO] (CONSOLE) Kicked mLite16 : Kicked for flying (or related)
+17-03-26 23:31:14 [INFO] mLite16 failed SurvivalFly: tried to move from 0.24, 83.00, -0.90 to 0.30, 83.00, -1.26 over a distance of 0.36 block(s). VL 882.
+17-03-26 23:32:10 [INFO] mLite16 failed Passable: moved into a block (1) from -4899.50, 137.00, -5329.50 to -4899.50, 136.90, -5329.50 distance 0.10 . VL 11.
+17-03-26 23:36:13 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.44, 119.00, 1599.05 to -1399.44, 119.00, 1598.88 distance 0.17 . VL 10.
+17-03-26 23:36:43 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.38, 119.00, 1599.05 to -1399.38, 119.00, 1598.99 distance 0.06 . VL 12.
+17-03-26 23:37:22 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.36, 119.00, 1599.30 to -1399.37, 119.00, 1598.97 distance 0.33 . VL 14.
+17-03-26 23:37:31 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.37, 119.00, 1599.30 to -1399.38, 119.00, 1598.97 distance 0.33 . VL 15.
+17-03-26 23:37:59 [INFO] guijrtyullsxfm failed Passable: moved into a block (1) from -1399.53, 119.00, 1599.30 to -1399.49, 119.00, 1598.87 distance 0.43 . VL 16.
+17-03-26 23:40:02 [INFO] guijrtyullsxfm failed Passable: moved into a block (1) from -1399.37, 119.00, 1599.02 to -1399.37, 119.00, 1598.98 distance 0.03 . VL 16.
+17-03-26 23:40:08 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.31, 119.00, 1599.05 to -1399.31, 119.00, 1598.99 distance 0.06 . VL 17.
+17-03-26 23:40:30 [INFO] guijrtyullsxfm failed Passable: moved into a block (1) from -1399.59, 119.00, 1599.02 to -1399.59, 119.00, 1598.97 distance 0.05 . VL 21.
+17-03-26 23:40:31 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 29.
+17-03-26 23:41:28 [INFO] guijrtyullsxfm failed Passable: moved into a block (15) from -1399.30, 119.00, 1599.34 to -1399.30, 119.00, 1598.95 distance 0.39 . VL 21.
+17-03-26 23:41:28 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 1.
+17-03-26 23:41:33 [INFO] guijrtyullsxfm failed Passable: moved into a block (14) from -1399.32, 119.00, 1599.03 to -1399.32, 119.00, 1599.00 distance 0.04 . VL 22.
+17-03-26 23:42:12 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.40, 119.00, 1599.05 to -1399.40, 119.00, 1598.99 distance 0.06 . VL 23.
+17-03-26 23:42:21 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 6.
+17-03-26 23:42:21 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.31, 119.00, 1599.25 to -1399.31, 119.00, 1598.99 distance 0.27 . VL 30.
+17-03-26 23:43:15 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 13.
+17-03-26 23:43:18 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.31, 119.00, 1599.05 to -1399.31, 119.00, 1598.99 distance 0.06 . VL 30.
+17-03-26 23:43:43 [INFO] guijrtyullsxfm failed Passable: moved into a block (73) from -1399.34, 119.00, 1599.03 to -1399.34, 119.00, 1598.86 distance 0.17 . VL 32.
+17-03-26 23:43:43 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 1.
+17-03-26 23:43:55 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 11.
+17-03-26 23:43:56 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-26 23:44:19 [INFO] guijrtyullsxfm failed Passable: moved into a block (1) from -1399.40, 119.00, 1599.02 to -1399.40, 119.00, 1598.99 distance 0.04 . VL 39.
+17-03-26 23:44:30 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.40, 119.00, 1599.05 to -1399.40, 119.00, 1598.97 distance 0.08 . VL 40.
+17-03-26 23:44:34 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 11.
+17-03-26 23:47:25 [INFO] guijrtyullsxfm failed Passable: moved into a block (1) from -1399.30, 119.00, 1600.40 to -1399.33, 119.00, 1599.92 distance 0.48 . VL 44.
+17-03-26 23:47:32 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.48, 119.00, 1599.29 to -1399.50, 119.00, 1598.89 distance 0.40 . VL 45.
+17-03-26 23:47:47 [INFO] guijrtyullsxfm failed Passable: moved into a block (16) from -1399.42, 119.00, 1600.50 to -1399.47, 119.00, 1599.46 distance 1.04 . VL 46.
+17-03-27 00:01:19 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move from -1400.95, 120.00, 1601.11 to -1396.70, 120.00, 1596.74 over a distance of 6.09 block(s). VL 596.
+17-03-27 00:07:36 [INFO] guijrtyullsxfm failed Passable: moved into a block (16) from -1399.42, 119.00, 1600.36 to -1399.46, 119.00, 1599.89 distance 0.47 . VL 14.
+17-03-27 00:11:03 [INFO] guijrtyullsxfm failed Passable: moved into a block (43) from -1415.21, 117.00, 1601.54 to -1415.22, 116.77, 1601.54 distance 0.23 . VL 10.
+17-03-27 00:12:42 [INFO] guijrtyullsxfm failed Passable: moved into a block (43) from -1417.37, 116.00, 1598.66 to -1417.37, 115.92, 1598.60 distance 0.10 . VL 13.
+17-03-27 00:13:54 [INFO] guijrtyullsxfm failed Passable: moved into a block (43) from -1416.66, 116.29, 1597.43 to -1416.66, 115.98, 1597.43 distance 0.30 . VL 12.
+17-03-27 00:15:00 [INFO] guijrtyullsxfm failed Passable: moved into a block (21) from -1399.40, 119.00, 1600.43 to -1399.40, 119.00, 1599.86 distance 0.56 . VL 14.
+17-03-27 00:16:04 [INFO] guijrtyullsxfm failed Passable: moved into a block (43) from -1416.95, 116.02, 1596.70 to -1416.95, 115.79, 1596.70 distance 0.23 . VL 14.
+17-03-27 01:24:53 [INFO] DaWurstJigsawEva failed SurvivalFly: tried to move unexpectedly. VL 99.
+17-03-27 09:27:49 [INFO] xxASAHIxx failed SurvivalFly: tried to move from 59.62, 78.00, 233.06 to 59.52, 78.00, 242.51 over a distance of 9.45 block(s). VL 816.
+17-03-27 10:26:52 [INFO] DeathsComing failed SurvivalFly: tried to move unexpectedly. VL 239.
+17-03-27 12:00:11 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 26.
+17-03-27 12:00:12 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-27 12:35:42 [INFO] Astrofish7 failed SurvivalFly: tried to move unexpectedly. VL 107.
+17-03-27 12:42:46 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 62.
+17-03-27 12:42:46 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 122.
+17-03-27 12:43:23 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 32.
+17-03-27 12:51:21 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 30.
+17-03-27 12:51:23 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 102.
+17-03-27 13:04:15 [INFO] guijrtyullsxfm failed Passable: moved into a block (2) from -1399.50, 120.00, 1602.50 to -1399.50, 119.71, 1602.50 distance 0.29 . VL 10.
+17-03-27 16:47:07 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-27 17:04:27 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-27 17:57:28 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-27 18:13:29 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-27 18:51:53 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-27 22:54:04 [INFO] SkyChase failed Passable: moved into a block (7) from 0.50, 116.00, -1399.50 to 0.50, 115.80, -1399.50 distance 0.20 . VL 10.
+17-03-27 22:54:34 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 60.
+17-03-27 22:54:40 [INFO] SkyChase failed FastClick: tried to move items in their inventory too quickly. VL 924.
+17-03-28 11:19:18 [INFO] SkyChase failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 11.
+17-03-28 13:31:45 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 13:41:07 [INFO] CroatianBoys failed SurvivalFly: tried to move unexpectedly. VL 16.
+17-03-28 13:41:47 [INFO] CroatianBoys failed SurvivalFly: tried to move unexpectedly. VL 4.
+17-03-28 13:42:53 [INFO] CroatianBoys failed Commands: issued too many commands. VL 1.
+17-03-28 13:42:53 [INFO] (CONSOLE) Kicked CroatianBoys for 1 minutes: You're not allowed to spam commands!
+17-03-28 13:46:00 [INFO] Astrofish7 failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.51, -0.55 distance 0.49 . VL 10.
+17-03-28 13:47:10 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 14:42:13 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 14:53:09 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 16:23:05 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 16:41:24 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 16:46:59 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 16:49:50 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 16:56:06 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 17:27:40 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 40.
+17-03-28 17:27:41 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 109.
+17-03-28 17:30:08 [INFO] PyroGuy15 failed Passable: moved into a block (15) from -1400.70, 120.00, 996.00 to -1400.70, 120.00, 995.96 distance 0.04 . VL 11.
+17-03-28 17:32:41 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 17:32:58 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 17:33:39 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 120.00, 1000.50 to -1399.50, 119.90, 1000.50 distance 0.10 . VL 14.
+17-03-28 17:39:16 [INFO] PyroGuy15 failed Passable: moved into a block (1) from -1400.70, 120.00, 996.02 to -1400.70, 120.00, 995.97 distance 0.05 . VL 17.
+17-03-28 17:44:01 [INFO] PyroGuy15 failed Passable: moved into a block (1) from -1400.70, 120.00, 996.01 to -1400.70, 120.00, 995.98 distance 0.04 . VL 17.
+17-03-28 17:44:26 [INFO] PyroGuy15 failed Passable: moved into a block (21) from -1400.30, 120.00, 996.04 to -1400.30, 120.00, 995.99 distance 0.05 . VL 18.
+17-03-28 17:45:02 [INFO] PyroGuy15 failed Passable: moved into a block (1) from -1401.02, 120.00, 995.48 to -1400.98, 120.00, 995.46 distance 0.05 . VL 19.
+17-03-28 17:45:02 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 45.
+17-03-28 17:45:03 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-28 17:45:44 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 17:45:44 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 4.
+17-03-28 17:49:39 [INFO] PyroGuy15 failed Passable: moved into a block (18) from -1399.50, 125.00, 1000.50 to -1399.50, 124.90, 1000.50 distance 0.10 . VL 18.
+17-03-28 17:58:26 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 17:59:05 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 120.00, 1002.50 to -1399.50, 119.90, 1002.50 distance 0.10 . VL 11.
+17-03-28 18:02:53 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 18:04:22 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 120.00, 1002.50 to -1399.50, 119.90, 1002.50 distance 0.10 . VL 11.
+17-03-28 19:59:58 [INFO] guijrtyLillsxfm failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-28 20:00:04 [INFO] guijrtyLillsxfm failed SurvivalFly: tried to move from 0.56, 83.00, 0.41 to 0.57, 83.00, 0.19 over a distance of 0.22 block(s). VL 407.
+17-03-28 20:00:19 [INFO] guijrtyLillsxfm failed SurvivalFly: tried to move from 0.56, 83.00, 0.41 to 0.56, 83.00, 0.41 over a distance of 0.00 block(s). VL 407.
+17-03-28 20:00:22 [INFO] guijrtyLillsxfm failed SurvivalFly: tried to move unexpectedly. VL 389.
+17-03-28 20:00:25 [INFO] guijrtyLillsxfm failed SurvivalFly: tried to move from 0.56, 83.00, 0.41 to 0.57, 83.00, 0.30 over a distance of 0.12 block(s). VL 403.
+17-03-28 20:00:55 [INFO] guijrtyLillsxfm failed SurvivalFly: tried to move unexpectedly. VL 362.
+17-03-28 20:34:52 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move from -1423.18, 115.75, 1604.70 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+17-03-28 20:45:12 [INFO] guijrtyullsxfm failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 10.
+17-03-28 20:47:15 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 120.00, 1002.50 to -1399.50, 119.90, 1002.50 distance 0.10 . VL 12.
+17-03-28 20:58:46 [INFO] PyroGuy15 failed Passable: moved into a block (1) from -1400.70, 120.00, 996.01 to -1400.70, 120.00, 995.98 distance 0.03 . VL 14.
+17-03-28 21:09:56 [INFO] guijrtyullsxfm failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 14.
+17-03-28 21:10:24 [INFO] guijrtyullsxfm failed Passable: moved into a block (17) from -2.49, 83.00, 3.47 to -2.49, 82.90, 3.47 distance 0.10 . VL 12.
+17-03-28 21:10:31 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 163.
+17-03-28 21:11:02 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.50, 120.00, 1600.50 to -1399.50, 119.92, 1600.50 distance 0.08 . VL 16.
+17-03-28 21:11:12 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 21:11:43 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move from -1406.94, 120.10, 1600.01 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+17-03-28 21:11:58 [INFO] PyroGuy15 failed Passable: moved into a block (2) from -1399.50, 120.00, 1002.50 to -1399.50, 119.90, 1002.50 distance 0.10 . VL 13.
+17-03-28 21:26:49 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 48.
+17-03-28 21:26:50 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 104.
+17-03-28 21:34:10 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 75.
+17-03-28 21:34:10 [INFO] PyroGuy15 failed SurvivalFly: tried to move unexpectedly. VL 110.
+17-03-28 21:36:11 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 21:36:58 [INFO] guijrtyullsxfm failed Passable: moved into a block (95) from 0.36, 83.00, -0.55 to 0.36, 82.90, -0.55 distance 0.10 . VL 18.
+17-03-28 21:37:50 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.65, 119.00, 1601.50 to -1399.65, 119.00, 1600.93 distance 0.56 . VL 16.
+17-03-28 21:37:56 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 110.
+17-03-28 21:37:57 [INFO] guijrtyullsxfm failed Passable: moved into a block (4) from -1399.65, 119.00, 1602.06 to -1399.65, 119.00, 1601.60 distance 0.46 . VL 17.
+17-03-28 21:46:16 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=1281188891).
+17-03-28 21:48:34 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 52.
+17-03-28 21:53:24 [INFO] bmfj failed Passable: moved into a block (4) from 31.50, 33.00, -438.50 to 31.50, 32.61, -438.50 distance 0.39 . VL 11.
+17-03-28 22:08:21 [INFO] guijrtyullsxfm failed SurvivalFly: tried to move unexpectedly. VL 30.
+17-03-28 22:14:34 [INFO] bmfj failed Passable: moved into a block (1) from 466.50, 43.00, -583.50 to 466.50, 42.90, -583.50 distance 0.10 . VL 11.
+17-03-28 22:25:45 [INFO] bmfj failed Passable: moved into a block (1) from 466.50, 43.00, -583.50 to 466.50, 42.51, -583.50 distance 0.49 . VL 10.
+17-03-28 22:42:42 [INFO] bmfj failed Passable: moved into a block (4) from 60.50, 68.00, 209.50 to 60.50, 67.90, 209.50 distance 0.10 . VL 13.
+17-03-29 06:21:50 [INFO] bmfj failed Passable: moved into a block (4) from -567.18, 77.00, -608.77 to -567.18, 76.71, -608.77 distance 0.29 . VL 11.
+17-03-29 06:23:41 [INFO] bmfj failed Passable: moved into a block (4) from 31.50, 33.00, -438.50 to 31.50, 32.90, -438.50 distance 0.10 . VL 12.
+17-03-29 06:24:36 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 12.
+17-03-29 06:24:38 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 103.
+17-03-29 06:25:36 [INFO] bmfj failed Passable: moved into a block (4) from -567.18, 77.00, -608.77 to -567.18, 76.90, -608.77 distance 0.10 . VL 17.
+17-03-29 06:47:11 [INFO] bmfj failed Passable: moved into a block (2) from -65.50, 63.00, -741.50 to -65.50, 62.51, -741.50 distance 0.49 . VL 11.
+17-03-29 06:48:39 [INFO] dungca09 failed SurvivalFly: tried to move unexpectedly. VL 133.
+17-03-29 06:49:21 [INFO] dungca09 failed Passable: moved into a block (57) from 846.95, 16.00, 263.12 to 846.95, 15.80, 263.12 distance 0.20 . VL 10.
+17-03-29 06:50:26 [INFO] dungca09 failed FastClick: tried to move items in their inventory too quickly. VL 90.
+17-03-29 06:51:32 [INFO] bmfj failed Passable: moved into a block (1) from 179.51, 9.00, -867.52 to 179.51, 8.54, -867.52 distance 0.46 . VL 10.
+17-03-29 06:52:28 [INFO] bmfj failed Passable: moved into a block (2) from 162.50, 73.00, 297.50 to 162.50, 72.90, 297.50 distance 0.10 . VL 11.
+17-03-29 06:53:23 [INFO] bmfj failed Passable: moved into a block (2) from 480.50, 63.00, -301.50 to 480.50, 62.90, -301.50 distance 0.10 . VL 16.
+17-03-29 06:54:02 [INFO] dungca09 failed Passable: moved into a block (4) from 60.50, 68.00, 209.50 to 60.50, 67.90, 209.50 distance 0.10 . VL 11.
+17-03-29 06:57:52 [INFO] dungca09 failed Passable: moved into a block (57) from 846.95, 16.00, 263.12 to 846.95, 15.90, 263.12 distance 0.10 . VL 14.
+17-03-29 06:59:53 [INFO] bmfj failed Passable: moved into a block (18) from 880.50, 69.00, 914.50 to 880.50, 68.90, 914.50 distance 0.10 . VL 18.
+17-03-29 07:06:21 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 8.
+17-03-29 07:07:15 [INFO] bmfj failed Passable: moved into a block (1) from 988.30, 63.00, 717.43 to 988.30, 62.92, 717.43 distance 0.08 . VL 12.
+17-03-29 07:25:48 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 68.
+17-03-29 07:25:53 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 110.
+17-03-29 07:25:56 [INFO] bmfj failed SurvivalFly: tried to move from 947.02, 63.75, 782.69 to 947.02, 64.17, 782.69 over a distance of 0.41 block(s). VL 415.
+17-03-29 07:26:28 [INFO] bmfj failed Passable: moved into a block (1) from 993.30, 28.00, 771.13 to 993.30, 27.80, 771.13 distance 0.20 . VL 10.
+17-03-29 07:30:16 [INFO] bmfj failed Passable: moved into a block (4) from 31.50, 33.00, -438.50 to 31.50, 32.90, -438.50 distance 0.10 . VL 12.
+17-03-29 07:31:30 [INFO] bmfj failed Passable: moved into a block (1) from 993.30, 28.00, 771.13 to 993.30, 27.90, 771.13 distance 0.10 . VL 19.
+17-03-29 07:56:08 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 92.
+17-03-29 07:56:09 [INFO] bmfj failed SurvivalFly: tried to move unexpectedly. VL 133.
+17-03-29 09:19:20 [INFO] Removed hook: AllViolations(NCP) [1.0].
+17-03-29 09:19:20 [FINE] | canceldead 1 (1/0) | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 972110 (972110/0) | event.player.move.handled.pos 326280 (326280/0) | event.player.move.handled.look 103297 (103297/0) | event.player.move.handled.pos_look 540126 (540126/0) | packet.flying.nullplayer 0 | packet.flying.handled 2493166 (0/2493166) | packet.flying.asynchronous 2493166 (0/2493166) | packet.outgoing_position.untracked 143 (126/17) | packet.sound.cancel 0 |
+17-03-29 09:19:34 [INFO] Logger started.
+17-03-29 09:19:34 [INFO] Logging system initialized.
+17-03-29 09:19:34 [INFO] Detected Minecraft version: 1.8.8
+17-03-29 09:19:45 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+17-03-29 09:19:45 [INFO] Added block-info for Minecraft 1.5 blocks.
+17-03-29 09:19:45 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+17-03-29 09:19:45 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+17-03-29 09:19:45 [INFO] Added block-info for Minecraft 1.8 blocks.
+17-03-29 09:19:47 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+17-03-29 09:19:47 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+17-03-29 09:19:47 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+17-03-29 09:19:47 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+17-03-29 09:20:18 [INFO] Added hook: AllViolations(NCP) [1.0].
+17-03-29 09:20:18 [INFO] Post-enable running...
+17-03-29 09:20:19 [INFO] Post-enable finished.
+17-03-29 09:20:19 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-"4c7641d" ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+17-03-29 10:43:13 [INFO] NeukStaaf22 failed Passable: moved into a block (1) from 1.00, 87.00, -48.00 to 1.00, 87.00, -48.01 distance 0.01 . VL 10.
+17-03-29 10:43:18 [INFO] NeukStaaf22 failed Passable: moved into a block (169) from 1.00, 87.00, -47.59 to 0.92, 87.00, -47.64 distance 0.10 . VL 42.
+17-03-29 10:43:44 [INFO] NeukStaaf22 failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.90, 27168.15 distance 0.10 . VL 47.
+17-03-29 10:43:44 [INFO] NeukStaaf22 failed Passable: moved into a block (80) from 42985.96, 62.00, 27168.15 to 42985.96, 61.51, 27168.15 distance 0.49 . VL 51.
+17-03-29 10:51:35 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (id=-979158344).
+17-03-29 10:51:35 [SEVERE] [java.lang.Thread.getStackTrace(Thread.java:1556), fr.neatmonster.nocheatplus.utilities.CheckUtils.improperAPIAccess(CheckUtils.java:201), fr.neatmonster.nocheatplus.utilities.CheckUtils.hasBypass(CheckUtils.java:191), fr.neatmonster.nocheatplus.checks.Check.isEnabled(Check.java:186), fr.neatmonster.nocheatplus.checks.inventory.Open.check(Open.java:46), fr.neatmonster.nocheatplus.checks.inventory.InventoryListener.onPlayerTeleport(InventoryListener.java:343), sun.reflect.GeneratedMethodAccessor214.invoke(Unknown Source), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), us.Myles.PWP.TransparentListeners.PerWorldPluginLoader$1.execute(PerWorldPluginLoader.java:120), org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62), org.bukkit.plugin.TimedRegisteredListener.callEvent(TimedRegisteredListener.java:36), us.Myles.PWP.TransparentListeners.PWPTimedRegisteredListener.callEvent(PWPTimedRegisteredListener.java:30), org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517), org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502), org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer.teleport(CraftPlayer.java:541), org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.teleport(CraftEntity.java:236), me.CaveBoy36.PerWorldSpawn.PerWorldSpawnMain$1.run(PerWorldSpawnMain.java:67), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59), org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53), org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617), java.lang.Thread.run(Thread.java:745)]
+17-03-29 10:52:41 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-979158344).
+17-03-29 10:59:37 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-979158344).
+17-03-29 10:59:38 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-979158344).
+17-03-29 11:04:41 [INFO] tjerk failed SurvivalFly: tried to move unexpectedly. VL 0.
+17-03-29 11:04:42 [INFO] tjerk failed SurvivalFly: tried to move unexpectedly. VL 113.
+17-03-29 11:04:53 [INFO] tjerk failed SurvivalFly: tried to move unexpectedly. VL 113.
+17-03-29 11:06:47 [INFO] tjerk failed Passable: moved into a block (174) from 43049.53, 132.00, 27144.59 to 43049.59, 131.80, 27144.74 distance 0.25 . VL 10.
+17-03-29 11:06:54 [INFO] tjerk failed Passable: moved into a block (174) from 43049.53, 132.00, 27144.59 to 43049.56, 131.90, 27144.66 distance 0.12 . VL 11.
+17-03-29 11:07:32 [INFO] tjerk failed Passable: moved into a block (79) from 43045.43, 64.00, 27169.57 to 43045.38, 63.90, 27169.63 distance 0.12 . VL 11.
+17-03-29 12:14:08 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-979158344).
+17-03-29 12:21:16 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-979158344).
+17-03-29 14:43:24 [SEVERE] Off primary thread call to hasByPass for INVENTORY_OPEN (see earlier log with id=-979158344).

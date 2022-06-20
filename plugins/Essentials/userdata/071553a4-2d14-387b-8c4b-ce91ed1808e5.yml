@@ -1,0 +1,22 @@
+lastAccountName: speedygameur
+timestamps:
+  login: 1472887872174
+  logout: 1472888247285
+  lastteleport: 1472887068532
+ipAddress: 81.248.215.134
+socialspy: false
+money: '360.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: -793.0310074055665
+  y: -261.198619943541
+  z: 1002.0513791131019
+  yaw: -144.73279
+  pitch: -83.24996

@@ -1,0 +1,7 @@
+name: DarkSoundwave
+uuid: 74ae2251-3e01-3711-8f57-21f8cb53043e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

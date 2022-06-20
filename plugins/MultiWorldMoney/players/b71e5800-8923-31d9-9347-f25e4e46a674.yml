@@ -1,0 +1,10 @@
+name: ChaseSk8rs
+uuid: b71e5800-8923-31d9-9347-f25e4e46a674
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

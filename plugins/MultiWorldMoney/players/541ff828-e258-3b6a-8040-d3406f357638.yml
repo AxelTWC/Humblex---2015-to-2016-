@@ -1,0 +1,7 @@
+name: wjpp
+uuid: 541ff828-e258-3b6a-8040-d3406f357638
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: 1000cupcakes
+uuid: 090665b6-1708-3b92-aa3c-40ca9a5065cb
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

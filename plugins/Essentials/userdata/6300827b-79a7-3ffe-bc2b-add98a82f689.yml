@@ -1,0 +1,16 @@
+money: '250.0'
+lastAccountName: rapha0916
+timestamps:
+  login: 1476094910105
+  logout: 1476094952132
+  mute: 0
+ipAddress: 59.189.107.183
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+muted: true

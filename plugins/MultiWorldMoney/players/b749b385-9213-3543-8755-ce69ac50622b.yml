@@ -1,0 +1,9 @@
+name: haklaim
+uuid: b749b385-9213-3543-8755-ce69ac50622b
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

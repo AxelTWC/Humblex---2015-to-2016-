@@ -1,0 +1,7 @@
+name: Kingpixels
+uuid: 3cba20e5-5d32-3206-940d-36e3e3bd1e34
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

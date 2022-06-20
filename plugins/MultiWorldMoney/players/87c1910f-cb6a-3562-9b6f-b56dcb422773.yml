@@ -1,0 +1,7 @@
+name: CaptainMC
+uuid: 87c1910f-cb6a-3562-9b6f-b56dcb422773
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

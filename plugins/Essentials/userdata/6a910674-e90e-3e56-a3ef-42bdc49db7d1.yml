@@ -1,0 +1,21 @@
+money: '250.0'
+socialspy: false
+lastAccountName: ahmetoyundayt12
+timestamps:
+  login: 1475669212235
+  logout: 1475669291100
+ipAddress: 212.253.111.101
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skyblock
+  x: -5.950467361016378
+  y: 82.0
+  z: 2.72252908300553
+  yaw: -145.20107
+  pitch: -5.6999006

@@ -1,0 +1,7 @@
+name: Xxhero
+uuid: af8da4b7-fc69-3aa3-9994-13a7c5b47b0e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

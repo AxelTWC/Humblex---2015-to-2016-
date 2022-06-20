@@ -1,0 +1,7 @@
+name: Cam190
+uuid: 01e1dc1d-ed7b-303e-b91d-8c40833afc12
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

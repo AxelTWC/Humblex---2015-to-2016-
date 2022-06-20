@@ -1,0 +1,14 @@
+name: mio0
+uuid: 1c6aa323-f6b7-356e-8a2b-41280e61e314
+logoffworld: lobby
+balances:
+  lobby: 2510.0
+  spawn: 1492585.0
+  hub: 0.0
+  spawn_the_end: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 580040.0
+  map: 800.0
+  skywars: 0.0

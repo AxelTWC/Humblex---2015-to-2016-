@@ -1,0 +1,37 @@
+lastAccountName: wolfpower101
+socialspy: false
+timestamps:
+  login: 1472501741686
+  kits:
+    daily: 1471545999612
+    tools: 1471545987326
+    weekly: 1469870402926
+  logout: 1472501813506
+  lastteleport: 1472146788788
+ipAddress: 84.86.39.110
+money: '2000.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -929.5439961495186
+  y: 68.0
+  z: 10721.118689903484
+  yaw: 1.366394
+  pitch: 15.2230835
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -1297.816382906573
+    y: 65.0
+    z: 9438.677531091584
+    yaw: 104.29382
+    pitch: 13.499978
+nickname: §1Wolf§4Flash
+godmode: false

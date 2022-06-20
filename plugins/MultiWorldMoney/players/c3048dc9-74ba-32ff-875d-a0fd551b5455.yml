@@ -1,0 +1,8 @@
+name: LoLPvPer
+uuid: c3048dc9-74ba-32ff-875d-a0fd551b5455
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 4000.0
+  spawn_nether: 0.0
+  map: 0.0

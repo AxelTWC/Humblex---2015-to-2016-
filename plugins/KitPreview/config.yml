@@ -1,0 +1,83 @@
+EnableSound: true
+Sound: ENDERMAN_TELEPORT
+data:
+  block:
+    w:skyblockx:3y:82z:-6: ultimate
+    w:skyblockx:5y:82z:-6: god
+    w:skyblockx:7y:82z:-6: illuminati
+    w:skyblockx:6y:82z:-9: pegasus
+    w:skyblockx:3y:82z:-8: legendary
+    w:skyblockx:3y:82z:-10: elite
+    w:spawnx:-1141y:71z:9727: daily
+    w:spawnx:-1141y:71z:9719: weekly
+    w:spawnx:-1145y:71z:9723: youtube
+    w:spawnx:-1149y:71z:9727: coal
+    w:spawnx:-1149y:71z:9719: titan
+    w:spawnx:-1153y:71z:9723: emerald
+    w:spawnx:61y:78z:196: youtube
+    w:spawnx:57y:78z:196: coal
+    w:spawnx:57y:78z:194: titan
+    w:spawnx:57y:78z:192: emerald
+    w:spawnx:61y:78z:192: daily
+    w:spawnx:61y:78z:194: weekly
+  holo:
+    w:skyblockx:3y:82z:-6: true
+    w:skyblockx:5y:82z:-6: true
+    w:skyblockx:7y:82z:-6: true
+    w:skyblockx:6y:82z:-9: true
+    w:skyblockx:3y:82z:-8: true
+    w:skyblockx:3y:82z:-10: true
+    w:spawnx:-1141y:71z:9727: true
+    w:spawnx:-1141y:71z:9719: true
+    w:spawnx:-1145y:71z:9723: true
+    w:spawnx:-1149y:71z:9727: true
+    w:spawnx:-1149y:71z:9719: true
+    w:spawnx:-1153y:71z:9723: true
+    w:spawnx:61y:78z:196: true
+    w:spawnx:57y:78z:196: true
+    w:spawnx:57y:78z:194: true
+    w:spawnx:57y:78z:192: true
+    w:spawnx:61y:78z:194: true
+    w:spawnx:61y:78z:192: true
+  kit:
+    titan:
+      title: '&c&lTitan'
+      eco: 500000.0
+      commands:
+      - /kit titan <player>
+    coal:
+      title: '&1Coal'
+    emerald:
+      title: '&a&lEmerald'
+    weekly:
+      title: '&3Weekly'
+      eco: 1000.0
+      commands:
+      - /kit weekly <player>
+    daily:
+      title: '&eDaily'
+      eco: 100.0
+      commands:
+      - /kit daily <player>
+    elite:
+      title: '&3Elite'
+      eco: 100.0
+      commands:
+      - /kit elite <player>
+    legendary:
+      title: '&2Legendary'
+    ultimate:
+      title: '&cUltimate'
+      eco: 10000.0
+      commands:
+      - /kit ultimate <player>
+    god:
+      title: '&6&LGOD'
+    illuminati:
+      title: '&ailluminati'
+    pegasus:
+      title: '&b&lPegasus'
+    youtube:
+      eco: 10000.0
+      commands:
+      - /kit youtube <player>

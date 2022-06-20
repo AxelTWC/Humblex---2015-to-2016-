@@ -1,0 +1,7 @@
+name: adolia
+uuid: bc8c7ae4-d7a3-3211-a980-50d3d30c672b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

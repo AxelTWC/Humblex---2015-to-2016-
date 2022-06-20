@@ -1,0 +1,8 @@
+name: _McGamer_
+uuid: 5f8b2fde-bdb4-36b7-8332-61ba1f3e0619
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 1600.0
+  spawn_nether: 0.0
+  map: 300.0

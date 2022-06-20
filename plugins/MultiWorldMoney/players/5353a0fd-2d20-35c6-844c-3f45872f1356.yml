@@ -1,0 +1,7 @@
+name: GuilleGamez
+uuid: 5353a0fd-2d20-35c6-844c-3f45872f1356
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

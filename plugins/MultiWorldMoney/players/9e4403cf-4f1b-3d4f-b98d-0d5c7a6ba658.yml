@@ -1,0 +1,7 @@
+name: Hepro_FTW
+uuid: 9e4403cf-4f1b-3d4f-b98d-0d5c7a6ba658
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

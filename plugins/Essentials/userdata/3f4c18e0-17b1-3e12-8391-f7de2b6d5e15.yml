@@ -1,0 +1,22 @@
+lastAccountName: UkiePeter
+timestamps:
+  login: 1467815557482
+  lastteleport: 1467815653145
+  logout: 1467815669695
+ipAddress: 99.234.46.110
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -34.70059618203479
+  y: 109.0
+  z: 131.6137247112189
+  yaw: 75.298965
+  pitch: 51.150024
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -1145.5130825300948
+  y: 70.0
+  z: 9733.714361001752
+  yaw: 278.27298
+  pitch: 30.000051

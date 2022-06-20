@@ -1,0 +1,14 @@
+socialspy: false
+money: '150.0'
+lastAccountName: Hallway_Monitor
+timestamps:
+  login: 1472575245998
+  logout: 1472575274554
+ipAddress: 75.118.64.224
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

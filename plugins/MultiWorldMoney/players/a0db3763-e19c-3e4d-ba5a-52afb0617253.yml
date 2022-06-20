@@ -1,0 +1,7 @@
+name: CFUN
+uuid: a0db3763-e19c-3e4d-ba5a-52afb0617253
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

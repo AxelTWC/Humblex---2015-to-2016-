@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: LovkaYT
+timestamps:
+  login: 1484347608210
+  logout: 1484348168568
+ipAddress: 87.133.166.224
+socialspy: false
+lastlocation:
+  world: map
+  x: -1018.5590011519996
+  y: 12.248562464013695
+  z: 286.69999998807907
+  yaw: -14.404388
+  pitch: 14.100044
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

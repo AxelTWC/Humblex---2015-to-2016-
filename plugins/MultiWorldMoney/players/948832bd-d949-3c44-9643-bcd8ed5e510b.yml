@@ -1,0 +1,7 @@
+name: Grizzzie
+uuid: 948832bd-d949-3c44-9643-bcd8ed5e510b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 500.0
+  spawn_nether: 0.0

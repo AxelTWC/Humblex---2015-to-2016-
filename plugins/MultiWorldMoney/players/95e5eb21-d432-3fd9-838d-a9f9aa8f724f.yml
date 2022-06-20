@@ -1,0 +1,7 @@
+name: Graser10
+uuid: 95e5eb21-d432-3fd9-838d-a9f9aa8f724f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

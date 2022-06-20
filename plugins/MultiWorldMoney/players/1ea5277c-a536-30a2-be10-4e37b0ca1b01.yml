@@ -1,0 +1,7 @@
+name: Shotsfired
+uuid: 1ea5277c-a536-30a2-be10-4e37b0ca1b01
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

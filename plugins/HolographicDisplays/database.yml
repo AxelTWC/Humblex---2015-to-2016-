@@ -1,0 +1,165 @@
+skyshop:
+  location: ASkyBlock, 59.216, 93.620, -0.839
+  lines:
+  - '&6Welcome to the skyblock shop'
+shop:
+  location: spawn, 62.289, 79.492, 209.475
+  lines:
+  - '&6Welcome to the shop'
+faction:
+  location: lobby, 0.579, 87.058, -42.844
+  lines:
+  - '&d Factions-Survival'
+faction1:
+  location: lobby, 0.370, 10.366, -16.706
+  lines:
+  - '&d Factions-Survival'
+skyblock:
+  location: lobby, 37.234, 86.747, 0.555
+  lines:
+  - '&aKit&4PVP'
+skyblock1:
+  location: lobby, -41.234, 86.747, 0.565
+  lines:
+  - '&eSkyblock'
+hub:
+  location: lobby, 0.524, 86.489, -8.032
+  lines:
+  - '&4&kk&aChoose &6Any &5Gamemodes&4&kk'
+  - '&4&kk&3By &1Portals&4&kk'
+  - '&5 If you''re new type &d/register password password'
+  - '&4 any password you like'
+  - '&eIf you already /register use /login password'
+  - '&9The password you used to register before'
+  - '&bVote for Money,Tresure Chest and faction crates in Faction'
+pvp:
+  location: map, -990.566, 92.654, 280.806
+  lines:
+  - '&6Drop &5Down &3To &cPvp'
+  - '&eGo right if you are in rank pvper'
+  - '&aGo left if you are a donator or staff'
+  - '&6Choosee your kits'
+  - '&5Enjoy'
+  - '&4Remove your kit by /suicide'
+  - '&cTEAMING &9is allowed'
+  - '&1NO FLYING &8While &4&nPVP'
+pvper:
+  location: map, -1008.557, 93.508, 275.633
+  lines:
+  - '&4Choose Your kits &f[&6Pvper&f]'
+donatorpvp:
+  location: map, -970.793, 93.769, 275.405
+  lines:
+  - '&4Choose Your kits &f[&3Donator&f]'
+minishop:
+  location: skyblock, -2.329, 83.049, -20.095
+  lines:
+  - '&4&kkk&6Type &b/island minishop &4&kkk'
+skywars:
+  location: lobby, 0.583, 88.146, 43.269
+  lines:
+  - '&6Minigames'
+  - '&4&kk&a&lRELEASED!&4&kk'
+cosmetic-chest:
+  location: lobby, -9.410, 84.641, -21.475
+  lines:
+  - '&aOpen Treasure Chest here!'
+cosmetic-chest1:
+  location: lobby, 10.442, 85.394, 22.345
+  lines:
+  - '&aOpen Treasure Chest here!'
+mini-pvp:
+  location: lobby, -13.266, 86.382, 32.856
+  lines:
+  - '&1&kk&4&nMini&6-&d&lPVP&1&kk'
+skywar:
+  location: skywars, 9.438, 42.224, 2.216
+  lines:
+  - '&4&kk&5Sky-wars&4&kk'
+  - '&4&kk&b&lTNTRUN&4&kk'
+  - '&4&kk&b&lTNTRUN&9at back&4&kk'
+mini-parkour:
+  location: skywars, 48.300, 42.200, 7.681
+  lines:
+  - '&3&kk&eMini&5-&9Parkour&3&kk'
+1v1:
+  location: map, -990.708, 91.707, 259.606
+  lines:
+  - '&4&kk&c1&a&n&lv&c1&4&kk'
+  - '&3&kk&d&lDueling &6&lPractice&3&kk'
+  - '&a&kk&b&lDiamond_&bKit &8for &c&lKitpvp&a&kk'
+  - '&a&kk&eWill Be Rewarded Per Win&a&kk'
+astro:
+  location: spawn, -320.552, 79.501, -479.815
+  lines:
+  - '&9Harambe''s &aEnclosure'
+staff:
+  location: spawn, -1129.505, 72.419, 9734.201
+  lines:
+  - '&cHumblex''s &3Staff &0Hall of &6Fame'
+spawn:
+  location: skyblock, -2.627, 83.000, -2.330
+  lines:
+  - '&6Welcome To &3&lSky&2&nBlock'
+  - '&3&kk&5Earn &6Money &5By &9Selling &4Items And Stuff&3&kk'
+  - '&7In /warp skyshop'
+  - '&1View Rankings for /rankup &e&lBEHIND &dYou!'
+bruh:
+  location: spawn, 718.106, 85.059, 88.719
+  lines:
+  - '&4&lEnchant &n&8Room'
+bedroom:
+  location: spawn, 728.021, 86.200, 91.300
+  lines:
+  - '&6&lBedroom'
+hai:
+  location: spawn, 714.793, 81.200, 94.387
+  lines:
+  - '&6Dining &4&nRoom'
+livingroom:
+  location: spawn, 728.302, 80.700, 93.904
+  lines:
+  - '&3Living &2&nRoom'
+swim:
+  location: spawn, 716.594, 81.655, 104.956
+  lines:
+  - '&2Swimming &4&lPool'
+book:
+  location: lobby, 0.807, 85.164, 3.921
+  lines:
+  - '&6&lSTEP ON PRESSURE PLATES &3To get a book'
+factionsspawn:
+  location: spawn, 59.473, 82.029, 236.547
+  lines:
+  - '&4====>&8[&b&l-&8]&6&nHumblex&2-&5Factions&8[&b&l-&8]&4<===='
+  - '&4=====>&8[&b&l-&8]&dCustom-Enchants and more&8[&b&l-&8]&4<====='
+  - '&4========>&8[&b&l-&8]&aCreate a &2Faction &aTo start&8[&b&l-&8]&4<======='
+  - '&4========>&8[&b&l-&8]&c/RandomTp ~ To go To &2&lWilderness&8[&b&l-&8]&4<======='
+skywarsportal1:
+  location: skywars, -225.943, 6.540, 11.535
+  lines:
+  - '&bJump_IN'
+skywarsportal2:
+  location: skywars, -252.727, 6.540, 10.295
+  lines:
+  - '&bJump_IN'
+skywarsportal3:
+  location: skywars, -252.147, 6.540, -15.236
+  lines:
+  - '&bJump_IN'
+skywarsportal4:
+  location: skywars, -227.007, 6.540, -14.874
+  lines:
+  - '&bJump_IN'
+bedrockbreak:
+  location: spawn, 59.432, 83.200, 207.735
+  lines:
+  - '&c15 TNT can &l&4Break &0Bedrock'
+staffteam:
+  location: lobby, 2.502, 163.378, 0.675
+  lines:
+  - '&4&kk&6We gather all the humblex staff team&4&kk'
+jobs:
+  location: spawn, 46.745, 85.971, 223.829
+  lines:
+  - '&5{&7-&5}&2&l&nJobs&5{&7-&5}'

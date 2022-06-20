@@ -1,0 +1,7 @@
+name: testaccvonlegen
+uuid: 69568807-46b7-3c57-a50c-037b1ed28f7a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

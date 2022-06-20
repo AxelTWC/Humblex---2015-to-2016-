@@ -1,0 +1,21 @@
+money: '362.0'
+lastAccountName: AlfieStar_
+timestamps:
+  login: 1472016899986
+  logout: 1472017425995
+ipAddress: 180.150.22.164
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: lobby
+  x: 2.558650060184328
+  y: 10.5
+  z: -12.842346084983943
+  yaw: -343.34387
+  pitch: 40.79999

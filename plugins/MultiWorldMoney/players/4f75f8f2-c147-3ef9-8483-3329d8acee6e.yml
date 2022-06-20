@@ -1,0 +1,7 @@
+name: BeachSuper99
+uuid: 4f75f8f2-c147-3ef9-8483-3329d8acee6e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

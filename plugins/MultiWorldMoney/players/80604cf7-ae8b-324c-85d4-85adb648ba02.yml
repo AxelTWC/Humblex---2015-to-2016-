@@ -1,0 +1,7 @@
+name: clampet
+uuid: 80604cf7-ae8b-324c-85d4-85adb648ba02
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

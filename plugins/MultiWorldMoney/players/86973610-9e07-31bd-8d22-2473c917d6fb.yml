@@ -1,0 +1,7 @@
+name: blackouTT
+uuid: 86973610-9e07-31bd-8d22-2473c917d6fb
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

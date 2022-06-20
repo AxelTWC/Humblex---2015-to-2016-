@@ -1,0 +1,27 @@
+money: '396.0'
+lastAccountName: XGamer_pvpx
+timestamps:
+  login: 1474104267986
+  logout: 1474104357387
+  kits:
+    daily: 1474089613161
+    weekly: 1474089651635
+  lastteleport: 1474104091140
+  mute: 0
+ipAddress: 180.190.68.217
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1053.9391578566951
+  y: 71.0
+  z: 9734.02667351507
+  yaw: -44.816895
+  pitch: 23.032515
+logoutlocation:
+  world: lobby
+  x: 0.5964028097698006
+  y: 83.0
+  z: -0.03132876637085538
+  yaw: 0.0
+  pitch: 0.0
+muted: false

@@ -1,0 +1,23 @@
+money: '150.0'
+lastAccountName: xJSTNB
+timestamps:
+  login: 1486854727897
+  kits:
+    weekly: 1486854398604
+  logout: 1486854740567
+ipAddress: 45.47.46.246
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skywars_the_end
+  x: 1.699999988079071
+  y: 63.582309611255205
+  z: -4.699999988079071
+  yaw: -209.85396
+  pitch: 17.679293

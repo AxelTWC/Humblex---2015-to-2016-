@@ -1,0 +1,24 @@
+# The first value is the particle effect.
+# The second value is the cost to unlock that particle effect.
+
+effects:
+- water 10
+- flame 10
+- smoke 10
+- critical 20
+- slime 50
+- snow 100
+- magic 150
+- music 150
+- happy 200
+- angry 200
+- potion 200
+- poison 200
+- alphabet 200
+- lava 500
+- lava_drip 500
+- heart 500
+- redstone 1000
+- sparks 1000
+- portal 1000
+- clouds 1000

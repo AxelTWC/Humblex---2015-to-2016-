@@ -1,0 +1,33 @@
+lastAccountName: Asif
+timestamps:
+  login: 1480787883081
+  logout: 1480787892981
+  mute: 0
+  kits:
+    daily: 1474788914937
+    coal: 1474172072274
+    weekly: 1474092290747
+    emerald: 1478871803075
+  lastteleport: 1479013290228
+ipAddress: 112.120.53.93
+socialspy: false
+money: '454645474.0'
+lastlocation:
+  world: spawn
+  x: 28.53314427487898
+  y: 88.0
+  z: 131.7742973542559
+  yaw: -3.192566
+  pitch: -17.999977
+logoutlocation:
+  world: lobby
+  x: 36.14409010097392
+  y: 81.0
+  z: -14.649221046425044
+  yaw: -304.0498
+  pitch: 3.899999
+afk: false
+muted: false
+godmode: false
+nickname: Duh
+teleportenabled: true

@@ -1,0 +1,32 @@
+money: '250.0'
+lastAccountName: _DutchAnonymous_
+timestamps:
+  login: 1474992988647
+  logout: 1474993085509
+  kits:
+    weekly: 1474992883224
+  lastteleport: 1474993038630
+ipAddress: 86.93.134.161
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1129.5
+  y: 72.0
+  z: 9723.5
+  yaw: -177.88719
+  pitch: 3.688967
+homes:
+  home:
+    world: spawn
+    x: -3506.5
+    y: 64.0
+    z: 10085.5
+    yaw: 89.78687
+    pitch: 4.083552
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

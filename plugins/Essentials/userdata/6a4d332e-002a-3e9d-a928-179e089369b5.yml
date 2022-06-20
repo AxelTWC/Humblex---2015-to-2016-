@@ -1,0 +1,18 @@
+money: '250.0'
+lastAccountName: ErolDude
+timestamps:
+  login: 1472559933430
+  kits:
+    daily: 1472560076197
+    tools: 1472560094455
+    weekly: 1472560085649
+  logout: 1472560247383
+ipAddress: 31.176.232.126
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

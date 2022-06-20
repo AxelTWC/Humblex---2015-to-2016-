@@ -1,0 +1,8 @@
+name: rangewonk
+uuid: aae77f52-cd62-3ae5-9703-207b66ad9a34
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

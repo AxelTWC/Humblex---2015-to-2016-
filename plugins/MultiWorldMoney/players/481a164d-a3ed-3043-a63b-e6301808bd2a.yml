@@ -1,0 +1,7 @@
+name: Exxudo
+uuid: 481a164d-a3ed-3043-a63b-e6301808bd2a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

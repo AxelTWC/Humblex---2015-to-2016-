@@ -1,0 +1,7 @@
+name: Vengeur100
+uuid: 41002bc9-0052-3251-8d65-be35e2a19e92
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

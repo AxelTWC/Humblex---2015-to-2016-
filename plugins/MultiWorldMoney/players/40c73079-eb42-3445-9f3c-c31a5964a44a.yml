@@ -1,0 +1,7 @@
+name: Admin
+uuid: 40c73079-eb42-3445-9f3c-c31a5964a44a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

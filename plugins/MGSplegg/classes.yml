@@ -1,0 +1,27 @@
+# Used for saving classes. Default class:
+config:
+  kits:
+    default:
+      name: default
+      items: 277#DIG_SPEED:1*1;332*16
+      lore: Stone
+      requires_money: false
+      requires_permission: false
+      money_amount: 100
+      permission_node: minigames.core.kits.default
+    iron:
+      name: iron
+      items: 277#DIG_SPEED:3*1;332*64
+      lore: Iron
+      requires_money: false
+      requires_permission: false
+      money_amount: 100
+      permission_node: minigames.core.kits.iron
+    diamond:
+      name: diamond
+      items: 277#DIG_SPEED:5*1;332*64;332*64;332*64
+      lore: Diamond
+      requires_money: false
+      requires_permission: false
+      money_amount: 100
+      permission_node: minigames.core.kits.diamond

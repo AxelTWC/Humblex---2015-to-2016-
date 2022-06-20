@@ -1,0 +1,1 @@
+{"SURVIVAL":{"inventoryContents":{"0":{"==":"org.bukkit.inventory.ItemStack","type":"IRON_PICKAXE"},"1":{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE"},"2":{"==":"org.bukkit.inventory.ItemStack","type":"GOLD_SPADE"}},"armorContents":{},"enderChestContents":{},"stats":{"ma":"300","hp":"20","ft":"-20","fd":"0.0","ra":"300"}}}

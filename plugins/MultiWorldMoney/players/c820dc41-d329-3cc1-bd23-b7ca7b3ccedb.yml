@@ -1,0 +1,7 @@
+name: Scythe_001
+uuid: c820dc41-d329-3cc1-bd23-b7ca7b3ccedb
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

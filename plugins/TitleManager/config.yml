@@ -1,0 +1,33 @@
+usingConfig: true
+config-version: 3
+using-bungeecord: false
+legacy-client-support: false
+updater:
+  check-automatically: true
+tabmenu:
+  enabled: true
+  header: '&awww.humblex.enjin.com\n&bEnjoy!'
+  footer: animation:test1
+welcome_message:
+  enabled: true
+  title: '&6&lWelcome back &a{PLAYER}&bTo &d&lHumblex!'
+  subtitle: '&5&nSkywars Released'
+  fadeIn: 20
+  stay: 40
+  fadeOut: 20
+  first-join:
+    title: '&7Welcome to MyServer &a{PLAYER}'
+    subtitle: '&7Hope you enjoy your stay!'
+actionbar-welcome:
+  enabled: true
+  message: '&a&lWelcome!Back to &5humblex'
+  first-join:
+    message: '&2&lWelcome It''s your first time!'
+number-format:
+  enabled: true
+  format: '#,###.##'
+date-format:
+  format: EEE, dd MMM yyyy HH:mm:ss z
+disabled-variables:
+- my-disabled-variable
+- also-called-placeholders

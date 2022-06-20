@@ -1,0 +1,25 @@
+money: '730.0'
+lastAccountName: Hawk_assassin19
+timestamps:
+  login: 1485700735003
+  logout: 1485700952941
+  kits:
+    weekly: 1485686828816
+  lastteleport: 1485700890450
+ipAddress: 70.189.94.225
+socialspy: false
+afk: false
+lastlocation:
+  world: lobby
+  x: 2.0
+  y: 81.0
+  z: -7.0
+  yaw: 2.0998783
+  pitch: 2.8499615
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

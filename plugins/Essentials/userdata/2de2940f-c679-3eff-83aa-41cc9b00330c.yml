@@ -1,0 +1,14 @@
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+lastAccountName: 1r0n7
+timestamps:
+  login: 1469755437421
+  logout: 1469755440153
+ipAddress: 91.22.65.102
+money: '160.0'

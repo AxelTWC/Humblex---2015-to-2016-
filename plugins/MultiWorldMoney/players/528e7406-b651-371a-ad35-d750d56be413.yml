@@ -1,0 +1,9 @@
+name: VaizERD
+uuid: 528e7406-b651-371a-ad35-d750d56be413
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

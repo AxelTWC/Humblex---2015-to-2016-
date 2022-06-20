@@ -1,0 +1,18 @@
+money: '250.0'
+lastAccountName: puggyuk
+timestamps:
+  login: 1472848285562
+  kits:
+    daily: 1472848362228
+    tools: 1472848354825
+    weekly: 1472848371388
+  logout: 1472848473342
+ipAddress: 24.57.151.200
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: Moding
+uuid: 04103811-814d-3740-97b3-2492e406444f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

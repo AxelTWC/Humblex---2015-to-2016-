@@ -1,0 +1,7 @@
+name: HackPlexMOD
+uuid: ce34b291-a881-3ff9-84e0-bff842003cd0
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

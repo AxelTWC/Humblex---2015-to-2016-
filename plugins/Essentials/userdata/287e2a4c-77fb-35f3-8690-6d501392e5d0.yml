@@ -1,0 +1,30 @@
+money: '349.999000000000002'
+lastAccountName: silent_assassin3
+timestamps:
+  login: 1490115154391
+  logout: 1490116069044
+  kits:
+    daily: 1488083878149
+    titan: 1488680425774
+    tools: 1485818497773
+    weekly: 1485817414855
+    emerald: 1487616455208
+    pegasus: 1489896686612
+  lastteleport: 1489896712893
+ipAddress: 73.26.235.2
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+lastlocation:
+  world: skyblock
+  x: 4.384811382817107
+  y: 112.68860550218777
+  z: -3.6446436256495702
+  yaw: -29.22976
+  pitch: 90.0

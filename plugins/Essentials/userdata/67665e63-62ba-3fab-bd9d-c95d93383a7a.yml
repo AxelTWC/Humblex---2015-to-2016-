@@ -1,0 +1,14 @@
+money: '0.0'
+lastAccountName: RapeComboz
+timestamps:
+  login: 1478388041762
+  logout: 1478388136849
+ipAddress: 73.85.207.47
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 39.0
+  z: 7.0
+  yaw: -180.0
+  pitch: -45.0

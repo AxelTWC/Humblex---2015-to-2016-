@@ -1,0 +1,13 @@
+name: PerfectGirl
+uuid: 37bdfe3b-77fb-3891-85ce-00446c77e1d1
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 2000.0
+  map: 0.0
+  summit_1: 0.0
+  skywars: 0.0

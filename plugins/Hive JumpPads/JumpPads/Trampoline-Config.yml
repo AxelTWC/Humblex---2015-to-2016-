@@ -1,0 +1,26 @@
+# Hive JumpPads vpre 2.15 | Trampoline Configuration | Developed by Sendarox
+# 
+# Available Sounds and Effects:
+# Sounds: http://dev.bukkit.org/bukkit-plugins/hive-jumppads/pages/sounds/
+# Effects: http://dev.bukkit.org/bukkit-plugins/hive-jumppads/pages/effects/
+
+HiveJumpPads:
+  Trampoline:
+    Enable Trampolines: true
+    3x3 Field: true
+    BlockID: 152
+    PressurePlateID: 147
+  Height:
+    JumpHeight: 10.0
+  Sounds & Effects:
+    Enable Sounds: false
+    Enable Effects: true
+    Enable message: false
+    Sound: WITHER_SHOOT
+    Effect: SMOKE
+    message: '&aGET UP.'
+  Trampolines:
+    DisabledWorlds:
+    - World 1
+    - World 2
+    - World 3

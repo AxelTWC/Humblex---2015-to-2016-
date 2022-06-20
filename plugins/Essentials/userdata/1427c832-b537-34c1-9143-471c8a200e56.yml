@@ -1,0 +1,15 @@
+money: '250.0'
+lastAccountName: Swake
+timestamps:
+  login: 1477644389953
+  logout: 1477644490019
+ipAddress: 14.201.31.49
+socialspy: false
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

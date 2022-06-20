@@ -1,0 +1,28 @@
+money: '150.0'
+socialspy: false
+lastAccountName: Dilobo
+timestamps:
+  login: 1472732731115
+  kits:
+    daily: 1472676144689
+    tools: 1472722139741
+    weekly: 1472676090440
+  logout: 1472732732898
+  lastteleport: 1472723219620
+  mute: 0
+ipAddress: 77.54.215.83
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -950.3000000119209
+  y: 14.561460867146364
+  z: 317.22054209044916
+  yaw: 110.9955
+  pitch: 31.350056
+muted: false

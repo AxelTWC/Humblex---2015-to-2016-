@@ -1,0 +1,7 @@
+name: Blitzfitz
+uuid: 07cb8525-6dec-3b26-a30b-ca0d3c045988
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

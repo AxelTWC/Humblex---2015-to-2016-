@@ -1,0 +1,22 @@
+lastAccountName: broccolihoward
+timestamps:
+  login: 1468378577492
+  lastteleport: 1468040524458
+  logout: 1468378590658
+ipAddress: 73.3.99.123
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1128.4932687476835
+  y: 73.0
+  z: 9723.1274453563
+  yaw: -247.02672
+  pitch: 16.4014
+money: '110.0'
+logoutlocation:
+  world: lobby
+  x: 0.6894894532075332
+  y: 8.5
+  z: 0.4657392929413994
+  yaw: 0.0
+  pitch: 0.0

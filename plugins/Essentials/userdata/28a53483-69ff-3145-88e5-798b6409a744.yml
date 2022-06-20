@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: stokesinman
+timestamps:
+  login: 1472575232538
+  logout: 1472575233062
+ipAddress: 208.123.238.170
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

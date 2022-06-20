@@ -1,0 +1,7 @@
+name: Gardaofwars
+uuid: ab449fa7-a725-3c66-b0a2-94a174a9d1b2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

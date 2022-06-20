@@ -1,0 +1,9 @@
+name: Soccer_05
+uuid: bbd96a18-67df-3bca-a2d0-fef3d6d362bb
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  paradise_1: 0.0
+  skywars: 0.0

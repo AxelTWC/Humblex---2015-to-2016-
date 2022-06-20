@@ -1,0 +1,380 @@
+users:
+  0289f3e3-a578-3e6c-8a98-87f8463948a7:
+    lastname: NicolasT228
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.gadgets.blackhole
+    - ultracosmetics.gadgets.freezecannon
+    - ultracosmetics.gadgets.snowball
+    - ultracosmetics.pets.christmaself
+  0de061a0-cd69-3e2d-b36c-6dbf42838e24:
+    lastname: dungca09
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.angry
+    - ultracosmetics.emotes.wink
+    - ultracosmetics.gadgets.partypopper
+    - ultracosmetics.gadgets.rocket
+    - ultracosmetics.gadgets.snowball
+    - ultracosmetics.gadgets.tnt
+    - ultracosmetics.hats.angel
+    - ultracosmetics.hats.enderman
+    - ultracosmetics.hats.golem
+    - ultracosmetics.hats.luigi
+    - ultracosmetics.morphs.snowman
+    - ultracosmetics.mounts.druggedhorse
+    - ultracosmetics.mounts.ecologisthorse
+    - ultracosmetics.mounts.hypecart
+    - ultracosmetics.mounts.mountofwater
+    - ultracosmetics.mounts.rudolph
+    - ultracosmetics.mounts.slime
+    - ultracosmetics.mounts.walkingdead
+    - ultracosmetics.pets.easterbunny
+    - ultracosmetics.pets.mooshroom
+    - ultracosmetics.pets.wither
+  1960e078-ebd2-33f8-b767-1751ddfd7642:
+    lastname: kolohen3
+    group: Admin
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.angry
+    - ultracosmetics.emotes.cry
+    - ultracosmetics.gadgets.antigravity
+    - ultracosmetics.gadgets.firework
+    - ultracosmetics.gadgets.portalgun
+    - ultracosmetics.hats.astronaut
+    - ultracosmetics.hats.enderman
+    - ultracosmetics.hats.ghost
+    - ultracosmetics.morphs.blaze
+    - ultracosmetics.morphs.snowman
+    - ultracosmetics.mounts.druggedhorse
+    - ultracosmetics.mounts.mountofwater
+    - ultracosmetics.particleeffects.inlove
+    - ultracosmetics.particleeffects.santahat
+    - ultracosmetics.pets.christmaself
+    - ultracosmetics.pets.cow
+    - ultracosmetics.pets.mooshroom
+    - ultracosmetics.pets.sheep
+    - ultracosmetics.suits.rave.boots
+    - ultracosmetics.suits.santa.helmet
+  23b7c419-ae4d-3397-b570-2e2a46912f49:
+    lastname: IcanLevitate
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.cool
+    - ultracosmetics.morphs.blaze
+    - ultracosmetics.pets.kitty
+  287e2a4c-77fb-35f3-8690-6d501392e5d0:
+    lastname: silent_assassin3
+    group: Moderator
+    subgroups: []
+    permissions: []
+  41a72a0e-7063-36dc-941f-22145d6b4c1d:
+    lastname: Mr_SoufflesYT
+    group: Youtuber
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.surprised
+    - ultracosmetics.gadgets.blackhole
+    - ultracosmetics.gadgets.chickenator
+    - ultracosmetics.gadgets.etherealpearl
+    - ultracosmetics.gadgets.smashdown
+    - ultracosmetics.hats.batman
+    - ultracosmetics.mounts.druggedhorse
+    - ultracosmetics.pets.chick
+  57564731-a0ad-3c2f-9388-13df00293b0a:
+    lastname: Erwinrommel
+    group: Apprentice
+    subgroups: []
+    permissions: []
+  605b416a-6ce9-3730-9358-092320cbb0f1:
+    lastname: Astrofish7
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.gadgets.melonthrower
+    - ultracosmetics.gadgets.partypopper
+    - ultracosmetics.mounts.flyingship
+  631c74d4-8cb4-3882-915f-59cfa7bfe6d8:
+    lastname: BenDaDoge
+    group: Titan
+    subgroups: []
+    permissions:
+    - ultracosmetics.morphs.bat
+    - ultracosmetics.morphs.snowman
+    - ultracosmetics.pets.wither
+  6b19f15a-b890-3653-b268-4de250edfcda:
+    lastname: Rage360
+    group: Titan
+    subgroups: []
+    permissions: []
+  704f3255-58ae-3efc-a82b-337facb95d96:
+    lastname: PyroGuy15
+    group: Apprentice
+    subgroups: []
+    permissions: []
+  a3b0aea4-76b5-3a4f-8345-49a2021ff868:
+    lastname: ikninja
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.angry
+    - ultracosmetics.emotes.cheeky
+    - ultracosmetics.emotes.cool
+    - ultracosmetics.emotes.cry
+    - ultracosmetics.emotes.dealwithit
+    - ultracosmetics.emotes.happy
+    - ultracosmetics.emotes.love
+    - ultracosmetics.emotes.surprised
+    - ultracosmetics.emotes.wink
+    - ultracosmetics.gadgets.antigravity
+    - ultracosmetics.gadgets.batblaster
+    - ultracosmetics.gadgets.blackhole
+    - ultracosmetics.gadgets.chickenator
+    - ultracosmetics.gadgets.christmastree
+    - ultracosmetics.gadgets.colorbomb
+    - ultracosmetics.gadgets.discoball
+    - ultracosmetics.gadgets.etherealpearl
+    - ultracosmetics.gadgets.explosivesheep
+    - ultracosmetics.gadgets.fungun
+    - ultracosmetics.gadgets.ghostparty
+    - ultracosmetics.gadgets.melonthrower
+    - ultracosmetics.gadgets.paintballgun
+    - ultracosmetics.gadgets.parachute
+    - ultracosmetics.gadgets.partypopper
+    - ultracosmetics.gadgets.portalgun
+    - ultracosmetics.gadgets.quakegun
+    - ultracosmetics.gadgets.rocket
+    - ultracosmetics.gadgets.smashdown
+    - ultracosmetics.gadgets.snowball
+    - ultracosmetics.gadgets.thorhammer
+    - ultracosmetics.gadgets.tnt
+    - ultracosmetics.gadgets.trampoline
+    - ultracosmetics.gadgets.tsunami
+    - ultracosmetics.hats.cool
+    - ultracosmetics.hats.crying
+    - ultracosmetics.hats.gold
+    - ultracosmetics.hats.kissy
+    - ultracosmetics.hats.mario
+    - ultracosmetics.hats.music
+    - ultracosmetics.hats.piston
+    - ultracosmetics.hats.sad
+    - ultracosmetics.hats.scaryclown
+    - ultracosmetics.hats.snowman
+    - ultracosmetics.hats.wink
+    - ultracosmetics.morphs.bat
+    - ultracosmetics.morphs.blaze
+    - ultracosmetics.morphs.creeper
+    - ultracosmetics.morphs.pig
+    - ultracosmetics.morphs.snowman
+    - ultracosmetics.morphs.witherskeleton
+    - ultracosmetics.mounts.dragon
+    - ultracosmetics.mounts.druggedhorse
+    - ultracosmetics.mounts.ecologisthorse
+    - ultracosmetics.mounts.flyingship
+    - ultracosmetics.mounts.glacialsteed
+    - ultracosmetics.mounts.hypecart
+    - ultracosmetics.mounts.infernalhorror
+    - ultracosmetics.mounts.moltensnake
+    - ultracosmetics.mounts.mountoffire
+    - ultracosmetics.mounts.mountofwater
+    - ultracosmetics.mounts.nyansheep
+    - ultracosmetics.mounts.rudolph
+    - ultracosmetics.mounts.skysquid
+    - ultracosmetics.mounts.slime
+    - ultracosmetics.mounts.snake
+    - ultracosmetics.mounts.spider
+    - ultracosmetics.mounts.walkingdead
+    - ultracosmetics.particleeffects.angelwings
+    - ultracosmetics.particleeffects.bloodhelix
+    - ultracosmetics.particleeffects.enchanted
+    - ultracosmetics.particleeffects.enderaura
+    - ultracosmetics.particleeffects.flamefairy
+    - ultracosmetics.particleeffects.flamerings
+    - ultracosmetics.particleeffects.frozenwalk
+    - ultracosmetics.particleeffects.greensparks
+    - ultracosmetics.particleeffects.inferno
+    - ultracosmetics.particleeffects.music
+    - ultracosmetics.particleeffects.superhero
+    - ultracosmetics.pets.chick
+    - ultracosmetics.pets.cow
+    - ultracosmetics.pets.dog
+    - ultracosmetics.pets.easterbunny
+    - ultracosmetics.pets.kitty
+    - ultracosmetics.pets.mooshroom
+    - ultracosmetics.pets.piggy
+    - ultracosmetics.pets.pumpling
+    - ultracosmetics.pets.sheep
+    - ultracosmetics.pets.wither
+    - ultracosmetics.suits.astronaut.boots
+    - ultracosmetics.suits.diamond.boots
+    - ultracosmetics.suits.diamond.helmet
+    - ultracosmetics.suits.diamond.leggings
+    - ultracosmetics.suits.rave.boots
+    - ultracosmetics.suits.rave.helmet
+    - ultracosmetics.suits.rave.leggings
+    - ultracosmetics.suits.santa.boots
+    - ultracosmetics.suits.santa.helmet
+  a62267f4-8a4f-3616-93aa-e60535faaf9d:
+    lastname: NandoPlayss
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.mounts.druggedhorse
+    - ultracosmetics.mounts.flyingship
+    - ultracosmetics.particleeffects.inlove
+  afa8e45c-6d0e-334b-a418-49bd64eca156:
+    lastname: AxelTWC
+    group: Owner
+    subgroups: []
+    permissions: []
+  audi2015:
+    group: Developer
+    subgroups: []
+    permissions: []
+  bfe47ad8-86cf-30a9-967a-2e14635378d8:
+    lastname: ProJohnTech
+    group: Admin
+    subgroups: []
+    permissions:
+    - ultracosmetics.gadgets.paintballgun
+    - ultracosmetics.hats.scared
+    - ultracosmetics.pets.kitty
+  c1bd264d-94e2-36e7-b7b4-9341f44d13e5:
+    lastname: ScilenceOG
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.angry
+    - ultracosmetics.gadgets.tnt
+    - ultracosmetics.hats.embarassed
+    - ultracosmetics.hats.enderman
+    - ultracosmetics.hats.snowman
+    - ultracosmetics.mounts.skysquid
+    - ultracosmetics.suits.astronaut.chestplate
+  c2698cb4-e97e-3309-bca1-47d42c42461a:
+    lastname: MomentousMaster
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  d31c2b87-7502-30ca-b675-f7e55e93d270:
+    lastname: Blank_infiety
+    group: Moderator
+    subgroups: []
+    permissions: []
+  d426c449-5bda-3766-a2df-5678c1cc925a:
+    lastname: Dazze
+    group: Moderator
+    subgroups: []
+    permissions: []
+  da7f35a0-634f-30d4-bc7f-e6b134efcbac:
+    lastname: KryptialGaming
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.gadgets.trampoline
+    - ultracosmetics.hats.astronaut
+    - ultracosmetics.mounts.mountofwater
+    - ultracosmetics.pets.cow
+  dcca4683-808d-37d5-9f29-8fdce272dbb3:
+    lastname: AshleyTCT
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.emotes.*
+    - ultracosmetics.emotes.cheeky
+    - ultracosmetics.emotes.love
+    - ultracosmetics.emotes.surprised
+    - ultracosmetics.gadgets.*
+    - ultracosmetics.gadgets.antigravity
+    - ultracosmetics.gadgets.batblaster
+    - ultracosmetics.gadgets.blizzardblaster
+    - ultracosmetics.gadgets.chickenator
+    - ultracosmetics.gadgets.colorbomb
+    - ultracosmetics.gadgets.freezecannon
+    - ultracosmetics.gadgets.melonthrower
+    - ultracosmetics.gadgets.paintballgun
+    - ultracosmetics.gadgets.partypopper
+    - ultracosmetics.gadgets.quakegun
+    - ultracosmetics.gadgets.smashdown
+    - ultracosmetics.gadgets.tnt
+    - ultracosmetics.gadgets.trampoline
+    - ultracosmetics.hats.*
+    - ultracosmetics.hats.gold
+    - ultracosmetics.hats.squid
+    - ultracosmetics.morphs.*
+    - ultracosmetics.morphs.bat
+    - ultracosmetics.morphs.chicken
+    - ultracosmetics.morphs.snowman
+    - ultracosmetics.morphs.witherskeleton
+    - ultracosmetics.mounts.*
+    - ultracosmetics.mounts.dragon
+    - ultracosmetics.mounts.glacialsteed
+    - ultracosmetics.mounts.infernalhorror
+    - ultracosmetics.mounts.mountoffire
+    - ultracosmetics.mounts.mountofwater
+    - ultracosmetics.mounts.nyansheep
+    - ultracosmetics.mounts.spider
+    - ultracosmetics.mounts.walkingdead
+    - ultracosmetics.particleeffects.*
+    - ultracosmetics.particleeffects.greensparks
+    - ultracosmetics.pets.*
+    - ultracosmetics.pets.chick
+    - ultracosmetics.pets.cow
+    - ultracosmetics.pets.dog
+    - ultracosmetics.pets.easterbunny
+    - ultracosmetics.pets.kitty
+    - ultracosmetics.pets.mooshroom
+    - ultracosmetics.pets.piggy
+    - ultracosmetics.pets.pumpling
+    - ultracosmetics.suits.*
+    - ultracosmetics.suits.diamond.boots
+  Dojo215:
+    group: Moderator
+    subgroups: []
+    permissions: []
+  ecc10f1e-c73f-3095-b1a8-a065927810f8:
+    lastname: OfficialRocky
+    group: hub
+    subgroups: []
+    permissions:
+    - ultracosmetics.gadgets.partypopper
+    - ultracosmetics.hats.jackolantern
+    - ultracosmetics.hats.smile
+    - ultracosmetics.pets.dog
+  Enchanted_Boy:
+    group: Moderator
+    subgroups: []
+    permissions: []
+  f19bd2f2-9776-3269-b51c-9e06964773c5:
+    lastname: MoneyKiller234
+    group: Builder
+    subgroups: []
+    permissions: []
+  GreenMasterGame:
+    group: Builder
+    subgroups: []
+    permissions: []
+  KryptialGaming:
+    group: Admin
+    subgroups: []
+    permissions: []
+  MrPiggy:
+    group: Builder
+    subgroups: []
+    permissions: []
+  NIGELDABOSS:
+    group: Manager
+    subgroups: []
+    permissions: []
+  swagking:
+    group: Apprentice
+    subgroups: []
+    permissions: []
+  TheSlimeJunior:
+    group: Co-Owner
+    subgroups: []
+    permissions: []

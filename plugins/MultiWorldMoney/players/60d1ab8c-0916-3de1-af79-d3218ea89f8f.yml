@@ -1,0 +1,7 @@
+name: nio0
+uuid: 60d1ab8c-0916-3de1-af79-d3218ea89f8f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

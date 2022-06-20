@@ -1,0 +1,31 @@
+BuildUHC:
+    State:
+        Lobby: "Lobby"
+        InGame: "In Game"
+        Ending: "Restarting..."
+    Game:
+        welcomeMessage: "&7Welcome to &e&lBUILDUHC&7, please wait to the other opponents"
+        welcomeTitle: "&c&lBUILD&6&lUHC"
+        welcomeSubtitle: "&7The game will start in seconds..."
+        saveInventory: "&7You have &a&l20 &7seconds to adjust your inventory"
+        winnerMessage: "&7Winner of the match: &e%winner%"
+        goodluck: "&b&lDon't get rekt boi"
+        starting: "&cKICK SOME BOOTY in &l%count%"
+        player_death: "&e%death% &7is RIP..."
+        player_death_by_player: "&e%death% &7got rekt by &e%killer%"
+        player_shot: "&e%affected% &7current life is &e%health%&4♥"
+        goldenHead: "&6Golden Head"
+        arenaName: BuildUHC
+        authorName: Felipe Fonseca
+scoreboard:
+    title: "   &c&lBUILD&6&lUHC   "
+    line1: "&7Time"
+    line2: "&e%time%"
+    line3: "&7Players"
+    line4: "&a%online%&d/&a%max%"
+    line5: "&7State"
+    line6: "&a%state%"
+    line7: "&7Map"
+    line8: "&7Author: &e%author%"
+    line9: "&7Name: &e%map%"
+    line10: "&cmc.serverip.com"

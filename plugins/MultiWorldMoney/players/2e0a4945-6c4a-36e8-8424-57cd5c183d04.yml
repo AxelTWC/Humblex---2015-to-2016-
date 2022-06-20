@@ -1,0 +1,7 @@
+name: Troller1015
+uuid: 2e0a4945-6c4a-36e8-8424-57cd5c183d04
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

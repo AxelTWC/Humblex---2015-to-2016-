@@ -1,0 +1,7 @@
+name: iTz_NoSkill_PvP
+uuid: 21bd2799-7245-3b97-9221-16a714ea8c7b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

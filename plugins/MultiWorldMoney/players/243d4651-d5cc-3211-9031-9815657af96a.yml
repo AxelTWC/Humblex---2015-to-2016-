@@ -1,0 +1,7 @@
+name: Tic__Tack
+uuid: 243d4651-d5cc-3211-9031-9815657af96a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

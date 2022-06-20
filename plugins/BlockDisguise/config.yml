@@ -1,0 +1,27 @@
+version: 2
+
+# How often (in ticks) to update the hidden block's location
+# 20 ticks / second
+update-interval: 10
+
+# Blocks away a player should be before they no longer receive updates
+update-distance: 170
+
+# If set true logs player use
+verbose-logging: false
+
+# Whether to render the player invisible while the block is shown
+make-players-invisible: true
+
+# Whether to undisguise a player when they attack something
+undisguise-on-pvp: true
+
+# If true, undisguises disguised players when they are clicked
+undisguise-on-click: true
+
+# Can be overriden with permission BlockDisguise.allowAllBlocks
+blacklisted-blocks:
+  - AIR
+  
+# If true, will require player to have BlockDisguise.block.BLOCK_NAME or BlockDisguise.block.*
+use_individual_permissions: true

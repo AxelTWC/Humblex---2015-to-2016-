@@ -1,0 +1,11 @@
+name: bdoak2
+uuid: 7416e27b-a6cf-38b5-b58a-467c732b4ac0
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 0.0

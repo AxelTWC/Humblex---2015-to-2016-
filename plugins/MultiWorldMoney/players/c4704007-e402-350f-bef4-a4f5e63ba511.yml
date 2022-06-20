@@ -1,0 +1,7 @@
+name: scoobysnakcers
+uuid: c4704007-e402-350f-bef4-a4f5e63ba511
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

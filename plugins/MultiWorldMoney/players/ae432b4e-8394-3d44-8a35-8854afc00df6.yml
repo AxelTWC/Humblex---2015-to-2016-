@@ -1,0 +1,7 @@
+name: Buddah
+uuid: ae432b4e-8394-3d44-8a35-8854afc00df6
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

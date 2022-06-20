@@ -1,0 +1,7 @@
+name: Teddy_Tiger
+uuid: 40751fe8-8787-3af3-99b1-8f058165e032
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

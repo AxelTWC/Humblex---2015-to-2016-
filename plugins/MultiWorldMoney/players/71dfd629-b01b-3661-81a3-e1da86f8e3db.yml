@@ -1,0 +1,7 @@
+name: DarkMinerMC
+uuid: 71dfd629-b01b-3661-81a3-e1da86f8e3db
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,26 @@
+money: '450.0'
+lastAccountName: MrSwaggyKill
+timestamps:
+  login: 1476695919616
+  kits:
+    daily: 1476696148968
+    tools: 1476697299025
+    weekly: 1476185921604
+  lastteleport: 1476695980815
+  logout: 1476697424812
+ipAddress: 49.177.103.5
+socialspy: false
+lastlocation:
+  world: lobby
+  x: -0.7937788375321492
+  y: 83.0
+  z: 39.482106986685494
+  yaw: -178.0969
+  pitch: 5.9843064E-6
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

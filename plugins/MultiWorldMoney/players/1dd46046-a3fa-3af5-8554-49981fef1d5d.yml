@@ -1,0 +1,7 @@
+name: Dizzysquirrl
+uuid: 1dd46046-a3fa-3af5-8554-49981fef1d5d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: robberbandit
+uuid: c2fe3825-9503-323d-86d8-c13b8f61808e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

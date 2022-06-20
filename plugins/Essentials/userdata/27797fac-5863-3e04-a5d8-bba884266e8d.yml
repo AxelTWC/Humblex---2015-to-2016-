@@ -1,0 +1,22 @@
+lastAccountName: thekenbob1
+timestamps:
+  login: 1477750679035
+  lastteleport: 1467829367792
+  logout: 1477750784283
+ipAddress: 70.173.250.36
+lastlocation:
+  world: spawn
+  x: -1130.5
+  y: 73.5
+  z: 9723.5
+  yaw: -177.87675
+  pitch: 11.001408
+socialspy: false
+money: '210.0'
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

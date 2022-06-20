@@ -1,0 +1,21 @@
+lastAccountName: quentin019
+timestamps:
+  login: 1487238404398
+  logout: 1487238412365
+ipAddress: 2.13.224.147
+money: '150.0'
+socialspy: false
+lastlocation:
+  world: map
+  x: -1192.5097244783885
+  y: 6.44545360280381
+  z: 252.15074835339675
+  yaw: 8.288605
+  pitch: 13.551232
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

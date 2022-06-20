@@ -1,0 +1,7 @@
+name: FitMC
+uuid: ae8f213f-daae-31ce-8bca-bab1e5659664
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

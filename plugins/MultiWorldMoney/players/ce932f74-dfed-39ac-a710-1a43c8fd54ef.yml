@@ -1,0 +1,7 @@
+name: Jenkks
+uuid: ce932f74-dfed-39ac-a710-1a43c8fd54ef
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,42 @@
+lastAccountName: kolohen3
+timestamps:
+  login: 1490552818290
+  kits:
+    illuminati: 1482329199066
+    firework: 1490281351301
+    color: 1490280849154
+    daily: 1471452123903
+    coal: 1482017559177
+    weekly: 1489176990997
+    pegasus: 1489215745993
+    emerald: 1489845923078
+  lastteleport: 1490281517386
+  logout: 1490552999967
+ipAddress: 89.123.11.63
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 852.3000000119209
+  y: 15.0
+  z: 271.20839110746965
+  yaw: -267.39838
+  pitch: 60.386337
+money: '7417.001500000000431'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -1262.199999988079
+    y: 5.0
+    z: 9467.550282710567
+    yaw: 299.25958
+    pitch: 27.979134
+nickname: §bkolohen§c3
+powertools: {}

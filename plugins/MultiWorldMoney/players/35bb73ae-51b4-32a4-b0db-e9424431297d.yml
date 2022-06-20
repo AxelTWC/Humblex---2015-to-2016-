@@ -1,0 +1,7 @@
+name: PatatesPure
+uuid: 35bb73ae-51b4-32a4-b0db-e9424431297d
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: Cossachok
+uuid: 194c0d1d-4243-3391-9504-724a2583bee7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

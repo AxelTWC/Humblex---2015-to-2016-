@@ -1,0 +1,7 @@
+name: CoinsSystem
+uuid: 97d2d109-e1c0-3c69-8440-b28706c10eed
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

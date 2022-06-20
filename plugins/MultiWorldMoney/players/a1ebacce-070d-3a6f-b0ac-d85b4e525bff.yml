@@ -1,0 +1,7 @@
+name: BehindThePanzer
+uuid: a1ebacce-070d-3a6f-b0ac-d85b4e525bff
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

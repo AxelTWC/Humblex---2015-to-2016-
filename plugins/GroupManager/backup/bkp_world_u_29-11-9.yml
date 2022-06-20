@@ -1,0 +1,363 @@
+users:
+  0340e5b8-0a98-3eb9-9ea2-e682b478e641:
+    lastname: AwesomeCreeperz
+    group: Chat-Moderator
+    subgroups: []
+    permissions: []
+  03bf2773-31a3-35c7-89ac-6012041670ad:
+    lastname: aliyan
+    group: Admin
+    subgroups: []
+    permissions: []
+  09cc7b45-3798-39dc-8087-f455f7101fd1:
+    lastname: ProKingLikeABoss
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  0ee1d074-52b3-36c9-8f5a-cca38e568e0e:
+    lastname: Lairva22
+    group: Builder
+    subgroups: []
+    permissions: []
+  16199a30-eec2-3413-aa81-d691f383f14b:
+    lastname: KryFax
+    group: Developer
+    subgroups: []
+    permissions: []
+  1960e078-ebd2-33f8-b767-1751ddfd7642:
+    lastname: kolohen3
+    group: Coal
+    subgroups: []
+    permissions: []
+  1abe6554-f34b-3daa-8e74-8853621edcbf:
+    lastname: Asif
+    group: Owner
+    subgroups: []
+    permissions: []
+  1c84232a-a563-3fdd-bc25-f40381945407:
+    lastname: iYoghurt
+    group: Moderator
+    subgroups: []
+    permissions: []
+  1d9ed592-f4d0-3822-8012-6875fa5fc01f:
+    lastname: CriticalHitt
+    group: Manager
+    subgroups: []
+    permissions: []
+  226e5f2d-0711-3634-b696-a668b5f387cd:
+    lastname: RYAN_RX
+    group: Novice
+    subgroups: []
+    permissions:
+    - anticheat.check.exempt
+    - BlockDisguise.disguise.*
+  231204ec-1471-3f18-a872-e413fb28105f:
+    lastname: NIGELDABOSS
+    group: Apprentice
+    subgroups: []
+    permissions: []
+  2319d781-74fb-33e9-a96a-7631319775d6:
+    lastname: Deepy_
+    group: Novice
+    subgroups: []
+    permissions:
+    - anticheat.check.exempt
+  287e2a4c-77fb-35f3-8690-6d501392e5d0:
+    lastname: silent_assassin3
+    group: Moderator
+    subgroups: []
+    permissions: []
+  2d49d48b-4661-3c3e-b8fb-143a448a6489:
+    lastname: StarterFood
+    group: Builder
+    subgroups: []
+    permissions: []
+  301bd49e-630c-3204-9e6b-d91a74f11777:
+    lastname: MasteraulAngel
+    group: Moderator
+    subgroups: []
+    permissions: []
+  3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f:
+    lastname: AxelTWC
+    group: Owner
+    subgroups: []
+    permissions: []
+  432bdf21-574d-3123-9eaa-533ae28db4fc:
+    lastname: Sparklez_World
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  468b5bb2-443b-3121-935c-d1d4a73c33ab:
+    lastname: MayorMcCheese227
+    group: Titan
+    subgroups: []
+    permissions: []
+  5016d8eb-1563-3296-b0a7-1b9ffab9c0f3:
+    lastname: null
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  5f5c2de4-caab-3aa5-aa17-9f6a4367b259:
+    lastname: null
+    group: Admin
+    subgroups: []
+    permissions: []
+  605b416a-6ce9-3730-9358-092320cbb0f1:
+    lastname: Astrofish7
+    group: Manager
+    subgroups: []
+    permissions: []
+  642001cd-7660-3788-9509-d498c5f47d35:
+    lastname: dj34
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  64c4255b-d6f1-378a-8e62-25d9f27f8d6d:
+    lastname: ervin
+    group: Moderator
+    subgroups: []
+    permissions:
+    - bukkit.command.gamemode
+    - essentials.gamemode
+    - essentials.gamemode.creative
+    - essentials.gamemode.survival
+  65873c46-eb58-308b-b4b8-a7151f470d84:
+    lastname: ak47delta
+    group: Co-Owner
+    subgroups: []
+    permissions:
+    - blockdisguise.disguise
+    - BlockDisguise.disguise.*
+  803964b8-33ea-3f1c-94cf-648b13f9588f:
+    lastname: Popcorn_Poppor
+    group: Titan
+    subgroups: []
+    permissions:
+    - essentials.kit
+    - essentials.kits.Coal
+  814b5276-3895-3661-b9ec-a5650dd5883c:
+    lastname: audi2015
+    group: Developer
+    subgroups: []
+    permissions:
+    - '*'
+    - worldedit.*
+  847de654-89bb-3fcc-844d-3e2d282d4f20:
+    lastname: BryceYT
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  84df1f6b-e28c-38fb-b2fb-83973fc49e3e:
+    lastname: null
+    group: Admin
+    subgroups: []
+    permissions: []
+  85d6348c-3e3c-3d8c-900e-25c6ed6087ff:
+    lastname: JuniorLover13
+    group: Admin
+    subgroups: []
+    permissions:
+    - adminshop.*
+    - anticheat.check.exempt
+    - archoncrates.create.sign.buy
+    - archoncrates.remove.sign.buy
+    - blockdisguise.disguise
+    - BlockDisguise.disguise.*
+    - chestshop.admin
+    - essentials.fly
+    - silkspawners.*
+    - silkspawners.craft
+    - world
+  873fca5e-0c09-32fb-87b6-64c8aff814e2:
+    lastname: GreenMasterGame
+    group: Developer
+    subgroups: []
+    permissions: []
+  8897b863-5794-3d42-93c4-a80033e47f47:
+    lastname: thenameisemma03
+    group: Manager
+    subgroups: []
+    permissions: []
+  8b818ba8-24a8-3e21-88de-9a16f4704ed1:
+    lastname: SpiritPotato
+    group: Novice
+    subgroups: []
+    permissions: []
+    info:
+      prefix: Novice
+  8e5cafcb-b1c9-37ff-ad8f-f3cc31b5246a:
+    lastname: _ToyBonnie73_
+    group: Novice
+    subgroups: []
+    permissions:
+    - skinrestorer.*
+  8e5e1028-8d2f-36a2-90e7-893012610f79:
+    lastname: gcon5
+    group: Developer
+    subgroups: []
+    permissions: []
+  96e724d9-515c-374f-886a-db0bd2f151f9:
+    lastname: kimeplayzz
+    group: Novice
+    subgroups: []
+    permissions:
+    - nocheatplus.checks
+  a23bdf8d-1d51-47b0-8018-0043c3a60ba5:
+    lastname: null
+    group: Moderator
+    subgroups: []
+    permissions: []
+  afa8e45c-6d0e-334b-a418-49bd64eca156:
+    lastname: AxelTWC
+    group: Owner
+    subgroups:
+    - Titan
+    permissions: []
+  bc09b879-4aa0-3954-95a7-e3e949cc7ce2:
+    lastname: shmoeface
+    group: Moderator
+    subgroups: []
+    permissions: []
+  bfe47ad8-86cf-30a9-967a-2e14635378d8:
+    lastname: ProJohnTech
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  blockbuilder:
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  c2698cb4-e97e-3309-bca1-47d42c42461a:
+    lastname: MomentousMaster
+    group: Moderator
+    subgroups: []
+    permissions: []
+  c7e683c6-e1f8-34c2-9d0b-6005710db225:
+    lastname: G3TD0NE
+    group: Developer
+    subgroups: []
+    permissions: []
+  c9b56c46-9235-33d4-8afa-e8352b434d81:
+    lastname: TImePxl
+    group: Novice
+    subgroups:
+    - Titan
+    permissions:
+    - anticheat.check.exempt
+    - anticheat.check.fastplace
+    - essentials.build.*
+    - essentials.build.place.327
+    - essentials.place*
+    - essentials.place.*
+    - iDisguise.mob.*
+    - multiverse.*
+    - multiverse.portal.create
+    - silkspawners.*
+    - silkspawners.craft
+    - worldedit.*
+    - worldguard.*
+  d31c2b87-7502-30ca-b675-f7e55e93d270:
+    lastname: Blank_infiety
+    group: Moderator
+    subgroups: []
+    permissions: []
+  d426c449-5bda-3766-a2df-5678c1cc925a:
+    lastname: Dazze
+    group: Developer
+    subgroups: []
+    permissions: []
+  d91ddfa6-b789-3bcf-ad66-a2902bc2e9e4:
+    lastname: MrGucciBoy
+    group: Novice
+    subgroups: []
+    permissions:
+    - multiverse.core.modify
+    - multiverse.core.modify.set
+    - multiverse.modify.*
+  da7f35a0-634f-30d4-bc7f-e6b134efcbac:
+    lastname: KryptialGaming
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  dbb279e5-4d71-3321-8481-3dbfdacb1fc3:
+    lastname: chinnu
+    group: Novice
+    subgroups: []
+    permissions:
+    - echopet.*
+  dcca4683-808d-37d5-9f29-8fdce272dbb3:
+    lastname: AshleyTCT
+    group: Novice
+    subgroups: []
+    permissions:
+    - essentials.gamemode
+    - worldedit.*
+  e345eb00-fcc3-382a-8971-69f13a8f323f:
+    lastname: DemonicBones
+    group: Moderator
+    subgroups: []
+    permissions: []
+  e41417ae-af88-32de-adec-aeb7f759a356:
+    lastname: TheGoldenman5
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  ed3f25c2-b2f5-348f-9529-448e14ae53d3:
+    lastname: clairee_0605
+    group: Admin
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f53ef38c-7621-3f1e-9db3-17de83833e1a:
+    lastname: iamManos
+    group: Emerald
+    subgroups: []
+    permissions: []
+  f55e1235-4f0b-3e5f-ba98-7dfa828c49a6:
+    lastname: Felix1337
+    group: Moderator
+    subgroups: []
+    permissions:
+    - iDisguise.*
+    - worldedit.*
+  f5d53aaa-92e4-3377-9e22-ce23812c6847:
+    lastname: TheSlimeJunior
+    group: Co-Owner
+    subgroups: []
+    permissions: []
+  f6db51cf-d8b9-31d0-8046-ada9cb35766c:
+    lastname: Titans
+    group: Coal
+    subgroups: []
+    permissions: []
+  fec666e9-6d71-322b-b97b-24a93cb274e4:
+    lastname: null
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  FelixFlame:
+    group: Admin
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  MrPiggy:
+    group: Builder
+    subgroups: []
+    permissions: []
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Sparklez_World:
+    group: Coal
+    subgroups: []
+    permissions: []

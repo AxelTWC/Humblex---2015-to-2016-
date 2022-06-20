@@ -1,0 +1,16 @@
+money: '150.0'
+lastAccountName: NiceGuy_Heaz
+timestamps:
+  login: 1486274940338
+  kits:
+    weekly: 1486274900123
+  logout: 1486275041685
+ipAddress: 24.5.193.183
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

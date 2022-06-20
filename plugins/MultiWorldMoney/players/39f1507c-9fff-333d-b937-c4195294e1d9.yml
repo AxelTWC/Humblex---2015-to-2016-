@@ -1,0 +1,7 @@
+name: Lockewiggen
+uuid: 39f1507c-9fff-333d-b937-c4195294e1d9
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

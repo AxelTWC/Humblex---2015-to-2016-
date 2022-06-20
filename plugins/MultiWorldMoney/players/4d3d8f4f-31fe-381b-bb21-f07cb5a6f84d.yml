@@ -1,0 +1,10 @@
+name: xDank
+uuid: 4d3d8f4f-31fe-381b-bb21-f07cb5a6f84d
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

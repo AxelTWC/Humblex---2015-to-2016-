@@ -1,0 +1,10 @@
+name: DSMinecrafter
+uuid: 8670ab6c-4836-337f-bc09-e87ba9fb8655
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

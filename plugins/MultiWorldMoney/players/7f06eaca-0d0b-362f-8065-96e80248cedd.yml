@@ -1,0 +1,7 @@
+name: Chew_Kok
+uuid: 7f06eaca-0d0b-362f-8065-96e80248cedd
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

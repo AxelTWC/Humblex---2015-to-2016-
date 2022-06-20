@@ -1,0 +1,7 @@
+name: Fenikss
+uuid: 9f3aae89-94c4-35b6-8106-7387bf2b012d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

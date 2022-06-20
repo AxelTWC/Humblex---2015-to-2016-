@@ -1,0 +1,25 @@
+SimpleCommandNPCs Permission List:
+- CommandNpc.*:
+    description: All Permission to plugin
+- CommandNpc.list:
+    description: Permission to list npcs
+- CommandNpc.help:
+    description: Permission to see the help page
+- CommandNpc.info:
+    description: Permission to see information about a npc
+- CommandNpc.create:
+    description: Permission to create a NPC
+- CommandNpc.remove:
+    description: Permission to remove a NPC
+
+- CommandNpc.setname:
+    description: Permission to set the name of the NPC
+- CommandNpc.setskin:
+    description: Permission to set the skin of the NPC
+- CommandNpc.setcommand:
+    description: Permission to set the command of the NPC
+
+- CommandNpc.toggle:
+    description: Permission to toggle console commands
+- CommandNpc.canlook:
+    description: Permission to change if npc looks at players

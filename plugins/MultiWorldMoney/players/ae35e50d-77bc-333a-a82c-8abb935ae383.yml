@@ -1,0 +1,7 @@
+name: stucla
+uuid: ae35e50d-77bc-333a-a82c-8abb935ae383
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

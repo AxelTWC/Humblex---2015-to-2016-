@@ -1,0 +1,11 @@
+name: Cool
+uuid: 7f76284c-4c69-35b3-8d98-b2b2489ae826
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

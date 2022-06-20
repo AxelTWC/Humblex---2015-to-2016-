@@ -1,0 +1,13 @@
+name: darking
+uuid: 62d8b91a-06fb-3b8f-b3c8-09d6bed50a22
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 100.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 3.0
+  skyblock: 0.0
+  skywars_the_end: 0.0
+  map: 0.0
+  skywars: 0.0

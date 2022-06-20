@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Fena
+timestamps:
+  login: 1468430275577
+  lastteleport: 1467234173453
+  logout: 1468430997212
+ipAddress: 191.250.48.227
+lastlocation:
+  world: spawn
+  x: -10.372700804266827
+  y: 109.0
+  z: 156.12150746137735
+  yaw: -77.550545
+  pitch: 4.7999845
+money: '30.0'
+logoutlocation:
+  world: lobby
+  x: 0.6894894532075332
+  y: 8.5
+  z: 0.4657392929413994
+  yaw: 0.0
+  pitch: 0.0

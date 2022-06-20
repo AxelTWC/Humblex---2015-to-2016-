@@ -1,0 +1,10 @@
+name: Skilleh
+uuid: b8cf8b93-15fe-3401-a723-291566d7f27e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

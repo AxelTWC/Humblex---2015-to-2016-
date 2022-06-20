@@ -1,0 +1,7 @@
+name: TowerActorYT
+uuid: 42f82f54-b609-3337-9ee8-8cae81043dfa
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

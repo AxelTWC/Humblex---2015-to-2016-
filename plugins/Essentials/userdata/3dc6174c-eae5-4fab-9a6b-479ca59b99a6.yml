@@ -1,0 +1,22 @@
+lastAccountName: thenameisemma03
+timestamps:
+  login: 1475294834947
+  logout: 1470980552625
+  lastteleport: 1470978211296
+ipAddress: 67.175.56.95
+socialspy: false
+money: '250.0'
+lastlocation:
+  world: map
+  x: -975.0385276704683
+  y: 13.121296840539191
+  z: 286.97083677839214
+  yaw: 309.74567
+  pitch: 28.050014
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

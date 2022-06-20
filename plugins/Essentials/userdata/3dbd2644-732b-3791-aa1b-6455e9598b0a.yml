@@ -1,0 +1,17 @@
+money: '150.0'
+lastAccountName: EmeraldMiner233
+timestamps:
+  login: 1484002600809
+  kits:
+    daily: 1484002625650
+    weekly: 1484002626900
+  logout: 1484002657931
+ipAddress: 74.204.107.87
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

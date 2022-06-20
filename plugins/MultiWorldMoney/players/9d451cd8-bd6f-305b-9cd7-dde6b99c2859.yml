@@ -1,0 +1,7 @@
+name: SpiderGuy03
+uuid: 9d451cd8-bd6f-305b-9cd7-dde6b99c2859
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 2500.0
+  spawn_nether: 0.0

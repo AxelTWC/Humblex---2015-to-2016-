@@ -1,0 +1,7 @@
+name: SerefliOyuncu
+uuid: 51f20a37-5046-3a90-abe7-631eda7307b0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

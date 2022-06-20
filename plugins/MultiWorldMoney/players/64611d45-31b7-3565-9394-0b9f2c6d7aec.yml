@@ -1,0 +1,7 @@
+name: them_mc_pvper
+uuid: 64611d45-31b7-3565-9394-0b9f2c6d7aec
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

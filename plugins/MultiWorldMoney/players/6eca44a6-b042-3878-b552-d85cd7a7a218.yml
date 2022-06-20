@@ -1,0 +1,7 @@
+name: EllenRipley
+uuid: 6eca44a6-b042-3878-b552-d85cd7a7a218
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

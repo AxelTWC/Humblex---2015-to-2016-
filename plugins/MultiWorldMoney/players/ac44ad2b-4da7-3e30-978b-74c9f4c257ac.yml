@@ -1,0 +1,7 @@
+name: WormsHyper11
+uuid: ac44ad2b-4da7-3e30-978b-74c9f4c257ac
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

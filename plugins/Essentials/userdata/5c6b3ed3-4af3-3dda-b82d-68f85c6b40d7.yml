@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: drewig
+timestamps:
+  login: 1472825896824
+  lastteleport: 1472826186382
+  logout: 1472826383359
+ipAddress: 71.191.73.105
+socialspy: false
+lastlocation:
+  world: map
+  x: -1004.423113983285
+  y: 14.13462103785362
+  z: 284.7232142344079
+  yaw: 55.812828
+  pitch: 16.370008
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

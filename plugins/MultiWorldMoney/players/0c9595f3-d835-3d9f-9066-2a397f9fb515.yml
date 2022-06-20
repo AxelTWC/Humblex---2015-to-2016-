@@ -1,0 +1,7 @@
+name: Duroners
+uuid: 0c9595f3-d835-3d9f-9066-2a397f9fb515
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: OfficialNL
+uuid: 6d2220aa-1ca8-3eeb-a272-4e45b0d04bf2
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

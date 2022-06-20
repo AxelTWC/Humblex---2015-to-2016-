@@ -1,0 +1,7 @@
+name: CocaCola
+uuid: 7e675a2d-d44f-31ae-a3e3-25a4c7c02407
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

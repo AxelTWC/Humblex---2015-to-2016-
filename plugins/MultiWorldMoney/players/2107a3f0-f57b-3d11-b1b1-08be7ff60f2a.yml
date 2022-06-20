@@ -1,0 +1,11 @@
+name: tattoxtreme
+uuid: 2107a3f0-f57b-3d11-b1b1-08be7ff60f2a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 209.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

@@ -1,0 +1,7 @@
+name: SuperPlaysHD
+uuid: 08352718-ac97-3ee7-8302-4e6134dc39ca
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

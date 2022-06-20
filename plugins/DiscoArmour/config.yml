@@ -1,0 +1,12 @@
+Settings:
+  RefreshRate: 10
+  RandomArmour: false
+  AutoEquip: true
+  Helmet: true
+  Chestplate: true
+  Leggings: true
+  Boots: true
+  DiscoPrefix: '&8&l[&bD&ci&ds&ec&5o &9Armour&8&l] '
+  DiscoActivated: '&aYour &bD&ci&ds&ec&5o &aPowers Have Been &lActivated!'
+  DiscoDeactivated: '&cYour &bD&ci&ds&ec&5o &cPowers Have Been &lDeactivated!'
+  DiscoNoPerms: '&4You Don''t Have The Power To D.I.S.C.O...'

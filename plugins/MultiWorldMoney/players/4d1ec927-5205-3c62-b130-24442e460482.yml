@@ -1,0 +1,12 @@
+name: coolstain101
+uuid: 4d1ec927-5205-3c62-b130-24442e460482
+logoffworld: lobby
+balances:
+  lobby: 550.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 200.0
+  skywars: 0.0

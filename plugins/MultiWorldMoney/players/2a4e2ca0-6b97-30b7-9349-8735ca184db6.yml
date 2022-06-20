@@ -1,0 +1,7 @@
+name: Mugiwaraah
+uuid: 2a4e2ca0-6b97-30b7-9349-8735ca184db6
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

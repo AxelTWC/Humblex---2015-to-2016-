@@ -1,0 +1,7 @@
+name: Benja_Nerf
+uuid: 9222ea66-2135-3574-bdeb-b9804177be7f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

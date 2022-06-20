@@ -1,0 +1,23 @@
+lastAccountName: Greninja_YT
+timestamps:
+  login: 1479254883299
+  lastteleport: 1479254901802
+  logout: 1479255996180
+ipAddress: 67.168.22.37
+socialspy: false
+money: '150.0'
+lastlocation:
+  world: lobby
+  x: 0.35718648631124017
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: -183.17862
+  pitch: -10.499872
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

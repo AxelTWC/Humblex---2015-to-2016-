@@ -1,0 +1,7 @@
+name: GoldJordans
+uuid: a2708bba-50b4-3568-a70c-03d8d9a331ad
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

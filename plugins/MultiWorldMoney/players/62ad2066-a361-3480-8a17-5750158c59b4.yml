@@ -1,0 +1,7 @@
+name: Frostimoon
+uuid: 62ad2066-a361-3480-8a17-5750158c59b4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

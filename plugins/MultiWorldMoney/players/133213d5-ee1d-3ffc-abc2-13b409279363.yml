@@ -1,0 +1,7 @@
+name: _Humorously_
+uuid: 133213d5-ee1d-3ffc-abc2-13b409279363
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 400.0
+  spawn_nether: 0.0

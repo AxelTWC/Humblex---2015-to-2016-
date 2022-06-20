@@ -1,0 +1,35 @@
+Arenas:
+  OITC:
+    Signs:
+      Counter: 1
+      '1':
+        X: -262.0
+        Y: 5.0
+        Z: -3.0
+        World: skywars
+    Spawns:
+      Counter: 2
+      '1':
+        X: 986.2122501386841
+        Y: 23.0
+        Z: 89.87975137390498
+        World: ThePachaMamaFlat
+        Pitch: 4.4124956
+        Yaw: -173.78534
+    Lobby:
+      Spawn:
+        X: -239.5
+        Y: 5.0
+        Z: -2.5
+        World: skywars
+        Pitch: -0.6554737
+        Yaw: -269.75824
+  List:
+  - OITC
+LobbySpawn:
+  X: -239.27433455980284
+  Y: 5.0
+  Z: -2.5170283168120227
+  World: skywars
+  Pitch: 1.0475835
+  Yaw: -270.03278

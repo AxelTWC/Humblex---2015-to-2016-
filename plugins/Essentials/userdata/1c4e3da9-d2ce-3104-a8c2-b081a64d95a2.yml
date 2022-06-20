@@ -1,0 +1,26 @@
+money: '250.0'
+socialspy: false
+lastAccountName: timothytitus
+timestamps:
+  login: 1478778831775
+  kits:
+    daily: 1478777137615
+    tools: 1478777265789
+    weekly: 1478777144359
+  lastteleport: 1478778825949
+  logout: 1478780996567
+ipAddress: 58.153.187.194
+lastlocation:
+  world: summit_1
+  x: 1.617816429055261
+  y: 48.84164553573921
+  z: 2.099575538072054
+  yaw: -164.55078
+  pitch: 34.649944
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

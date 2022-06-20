@@ -1,0 +1,7 @@
+name: killea
+uuid: 3551bbf8-730d-3055-a90d-af7138f4232b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

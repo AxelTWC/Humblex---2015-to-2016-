@@ -1,0 +1,7 @@
+name: MrSiga
+uuid: 0e0102a4-7df9-395f-9dcd-50fb89a052f8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

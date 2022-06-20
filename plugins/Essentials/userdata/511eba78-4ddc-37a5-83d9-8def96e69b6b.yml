@@ -1,0 +1,18 @@
+money: '250.0'
+socialspy: false
+lastAccountName: MineChat_
+timestamps:
+  login: 1478444560916
+  kits:
+    daily: 1478445073262
+    weekly: 1478445086094
+  logout: 1478445882835
+ipAddress: 174.140.83.211
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

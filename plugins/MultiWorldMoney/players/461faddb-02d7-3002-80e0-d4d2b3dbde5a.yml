@@ -1,0 +1,7 @@
+name: FadingNight
+uuid: 461faddb-02d7-3002-80e0-d4d2b3dbde5a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

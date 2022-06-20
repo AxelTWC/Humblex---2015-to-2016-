@@ -1,0 +1,28 @@
+#
+#Sat Jul 09 17:00:16 CEST 2016
+npcDieAfterTime=false
+tagMessageDamaged=You have been hit by [player]. Type /ct to check your remaining tag time.
+blockEditWhileTagged=true
+updateEnabled=true
+stopCombatSafezoning=true
+blockCreativeTagging=true
+dontSpawnInWG=false
+Enable-Debugging=false
+onlyDamagerTagged=false
+Version=1.0.12
+commandMessageTagged=You are in combat for [time] seconds.
+npcDespawnTime=-1
+commandMessageNotTagged=You are not currently in combat.
+disabledCommands=[]
+InstaKill=false
+npcName=PvpLogger
+sendMessageWhenTagged=false
+blockTeleport=false
+Tag-Duration=10
+disabledWorlds=[exampleWorld,exampleWorld2]
+mobTag=false
+blockEnderPearl=false
+tagMessageDamager=You have hit [player]. Type /ct to check your remaining tag time.
+blockFlying=false
+playerTag=true
+DropTagOnKick=true

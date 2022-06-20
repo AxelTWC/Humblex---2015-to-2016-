@@ -1,0 +1,10 @@
+# Hive JumpPads vpre 2.15 | Main Configuration | Developed by Sendarox
+
+HiveJumpPads:
+  Disable_GlobalFallDamage: false
+  Disable_JumpPadFallDamage: true
+  Use_Updater: false
+  Disabed_Worlds_for_both_JumpPads:
+  - World 1
+  - World 2
+  - World 3

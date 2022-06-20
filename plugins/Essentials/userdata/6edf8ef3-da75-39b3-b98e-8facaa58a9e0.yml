@@ -1,0 +1,26 @@
+money: '250.0'
+lastAccountName: MkDon
+timestamps:
+  login: 1478889722739
+  kits:
+    daily: 1478889813114
+    tools: 1478889810713
+    weekly: 1478889900537
+  lastteleport: 1478890111198
+  logout: 1478890225125
+ipAddress: 2.217.254.203
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1214.4193596039308
+  y: 69.0
+  z: 9746.399091925925
+  yaw: -304.78726
+  pitch: 9.149993
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

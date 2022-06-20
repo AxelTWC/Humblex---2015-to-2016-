@@ -1,0 +1,10 @@
+name: dooon
+uuid: 6ce2b3b4-3e38-336c-9a7f-c5d3437abbfd
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 14110.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

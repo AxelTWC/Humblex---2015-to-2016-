@@ -1,0 +1,32 @@
+money: '150.0'
+lastAccountName: ColdKraken
+timestamps:
+  login: 1484482404107
+  kits:
+    daily: 1484482544929
+    tools: 1484482691785
+  logout: 1484482781882
+ipAddress: 114.74.111.6
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 47.293546373141
+  y: 81.24918707874468
+  z: 227.97885566358434
+  yaw: 175.4668
+  pitch: 18.633396
+homes:
+  home:
+    world: spawn
+    x: -574.6999999880791
+    y: 68.0
+    z: -675.9677027269408
+    yaw: 72.92274
+    pitch: 33.54693
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

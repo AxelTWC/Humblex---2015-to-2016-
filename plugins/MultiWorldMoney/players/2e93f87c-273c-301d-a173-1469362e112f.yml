@@ -1,0 +1,7 @@
+name: The_vils
+uuid: 2e93f87c-273c-301d-a173-1469362e112f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 3200.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: TheEggOfDoom
+uuid: 22ab65e7-ea77-3a6e-a14b-ae9d235fe673
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

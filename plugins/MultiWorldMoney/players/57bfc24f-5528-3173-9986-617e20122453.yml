@@ -1,0 +1,8 @@
+name: BlackQueenWinona
+uuid: 57bfc24f-5528-3173-9986-617e20122453
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

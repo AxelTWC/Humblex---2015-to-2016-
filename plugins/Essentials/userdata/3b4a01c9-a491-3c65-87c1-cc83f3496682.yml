@@ -1,0 +1,34 @@
+money: '650.00'
+socialspy: false
+lastAccountName: bluedragon151
+timestamps:
+  login: 1489953425210
+  kits:
+    daily: 1485130350832
+    weekly: 1485130344232
+  lastteleport: 1489194402964
+  logout: 1489953455047
+ipAddress: 75.84.132.105
+lastlocation:
+  world: spawn
+  x: -818.2534316712837
+  y: 11.0
+  z: -79.3109414869837
+  yaw: 7.350006
+  pitch: 27.299978
+homes:
+  home:
+    world: spawn
+    x: -731.1394971268217
+    y: 41.0
+    z: 1036.5148241005402
+    yaw: 226.00238
+    pitch: 30.149975
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

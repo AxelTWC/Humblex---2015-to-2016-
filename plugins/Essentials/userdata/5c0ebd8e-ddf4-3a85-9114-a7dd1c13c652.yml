@@ -1,0 +1,27 @@
+lastAccountName: pyro_the_king
+timestamps:
+  login: 1468056913402
+  lastteleport: 1468057579639
+  mute: 0
+  logout: 1468057647932
+  kits:
+    coal: 1467976781101
+ipAddress: 213.128.174.13
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -885.6509319861472
+  y: 54.0
+  z: -1055.462026859984
+  yaw: -14.976737
+  pitch: 31.2
+money: '376.0'
+muted: false
+logoutlocation:
+  world: lobby
+  x: 0.349712756593468
+  y: 8.0
+  z: 0.6680903850311521
+  yaw: 0.0
+  pitch: 0.0
+afk: false

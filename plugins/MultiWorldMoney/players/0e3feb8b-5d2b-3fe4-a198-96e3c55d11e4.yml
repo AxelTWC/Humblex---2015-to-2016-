@@ -1,0 +1,7 @@
+name: DaroxAtlas
+uuid: 0e3feb8b-5d2b-3fe4-a198-96e3c55d11e4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

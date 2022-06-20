@@ -1,0 +1,7 @@
+name: GorillasCanCombo
+uuid: 1f16e2dc-d74d-3cab-848d-b868e0f51088
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,55 @@
+money: '653.0'
+lastAccountName: Snopy_
+timestamps:
+  login: 1476913226140
+  lastteleport: 1475841787139
+  logout: 1476913286625
+  kits:
+    daily: 1471883664897
+    titan: 1474301667245
+    coal: 1474301653953
+    tools: 1474378340845
+    weekly: 1474991978354
+    emerald: 1474300953576
+  mute: 0
+ipAddress: 77.138.44.244
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 2.128505413031081
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: spawn
+    x: -1467.1943960030164
+    y: 73.0
+    z: 9775.604680628448
+    yaw: 184.50839
+    pitch: 2.699979
+  b:
+    world: spawn
+    x: -1160.2198980425796
+    y: 74.28180042650071
+    z: 9057.36702308498
+    yaw: 251.62
+    pitch: 84.29999
+  funinspeed:
+    world: spawn
+    x: -1584.1464630163543
+    y: 62.0
+    z: 9972.158681295494
+    yaw: 355.06116
+    pitch: -37.94997
+afk: false
+muted: true
+teleportenabled: true

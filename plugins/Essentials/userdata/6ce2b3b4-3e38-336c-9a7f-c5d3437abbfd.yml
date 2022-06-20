@@ -1,0 +1,25 @@
+money: '350.0'
+lastAccountName: dooon
+timestamps:
+  login: 1472144674705
+  lastteleport: 1472145419967
+  logout: 1472145697983
+  kits:
+    daily: 1471679236332
+    weekly: 1471679481892
+ipAddress: 59.149.52.20
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: -144.42075862424053
+  y: 130.0
+  z: 179.74994327539423
+  yaw: 107.38983
+  pitch: 22.419104
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

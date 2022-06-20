@@ -1,0 +1,7 @@
+name: Extra
+uuid: aabc0029-768a-3a9e-bcaf-9682bb917726
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

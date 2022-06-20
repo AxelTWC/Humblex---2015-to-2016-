@@ -1,0 +1,9 @@
+name: Mom21Love
+uuid: 2bf32e43-3f17-3ce8-b66b-1e81594edef2
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  summit_1: 0.0
+  skywars: 0.0

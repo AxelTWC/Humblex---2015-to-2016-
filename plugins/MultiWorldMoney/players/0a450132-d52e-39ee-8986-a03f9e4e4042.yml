@@ -1,0 +1,7 @@
+name: __Cheese__
+uuid: 0a450132-d52e-39ee-8986-a03f9e4e4042
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0
+  spawn_nether: 0.0

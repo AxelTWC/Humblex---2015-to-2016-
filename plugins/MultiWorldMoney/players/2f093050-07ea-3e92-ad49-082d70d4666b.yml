@@ -1,0 +1,10 @@
+name: RDG0713
+uuid: 2f093050-07ea-3e92-ad49-082d70d4666b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 300.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

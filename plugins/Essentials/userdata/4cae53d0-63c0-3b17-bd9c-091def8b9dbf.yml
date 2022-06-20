@@ -1,0 +1,25 @@
+money: '250.0'
+socialspy: false
+lastAccountName: gabrieladams01
+timestamps:
+  login: 1477078071879
+  kits:
+    daily: 1477077297157
+    tools: 1477077665873
+    weekly: 1477077221756
+  logout: 1477078274715
+ipAddress: 184.161.150.213
+lastlocation:
+  world: spawn
+  x: -1137.5011486668661
+  y: 72.0
+  z: 9646.569359921114
+  yaw: 231.18811
+  pitch: 9.513626
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

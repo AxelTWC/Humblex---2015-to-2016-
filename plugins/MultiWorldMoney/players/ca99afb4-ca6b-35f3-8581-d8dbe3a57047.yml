@@ -1,0 +1,7 @@
+name: GamesPlays11
+uuid: ca99afb4-ca6b-35f3-8581-d8dbe3a57047
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

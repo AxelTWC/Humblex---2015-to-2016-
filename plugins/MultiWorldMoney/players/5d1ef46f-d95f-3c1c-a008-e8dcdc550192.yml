@@ -1,0 +1,7 @@
+name: TronMaster
+uuid: 5d1ef46f-d95f-3c1c-a008-e8dcdc550192
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,11 @@
+name: DemonicBones
+uuid: a23bdf8d-1d51-47b0-8018-0043c3a60ba5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

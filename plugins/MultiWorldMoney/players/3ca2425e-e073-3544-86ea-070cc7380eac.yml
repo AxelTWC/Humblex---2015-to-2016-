@@ -1,0 +1,7 @@
+name: fig555
+uuid: 3ca2425e-e073-3544-86ea-070cc7380eac
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

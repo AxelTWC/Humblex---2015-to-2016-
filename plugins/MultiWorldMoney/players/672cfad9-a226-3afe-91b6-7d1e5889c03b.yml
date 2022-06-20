@@ -1,0 +1,10 @@
+name: UnofficialWizard
+uuid: 672cfad9-a226-3afe-91b6-7d1e5889c03b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

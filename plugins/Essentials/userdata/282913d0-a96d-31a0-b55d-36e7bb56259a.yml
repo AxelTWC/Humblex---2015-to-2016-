@@ -1,0 +1,24 @@
+lastAccountName: arabnoob16
+timestamps:
+  login: 1480496088673
+  logout: 1480497034129
+  kits:
+    pegasus: 1480496471525
+ipAddress: 79.177.162.63
+socialspy: false
+money: '150.0'
+lastlocation:
+  world: ASkyBlock
+  x: 1419.4326683879692
+  y: 120.0
+  z: 808.2949957799207
+  yaw: 0.7499355
+  pitch: 16.350004
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

@@ -1,0 +1,7 @@
+name: HenkGriek
+uuid: 6b48b054-d12b-3a45-b789-055d7c8720f4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

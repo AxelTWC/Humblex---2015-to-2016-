@@ -1,0 +1,31 @@
+money: '2359.00'
+lastAccountName: MrPiggy
+timestamps:
+  login: 1483873927958
+  kits:
+    elite: 1478004742893
+    daily: 1477910212358
+    tools: 1477836642774
+    weekly: 1477910208670
+  logout: 1483874672466
+  lastteleport: 1483874354652
+  jail: 0
+ipAddress: 93.142.61.233
+socialspy: false
+lastlocation:
+  world: map
+  x: -995.6999999880788
+  y: 14.0
+  z: 295.8534011087892
+  yaw: -294.15723
+  pitch: 46.199963
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+nickname: Piggy
+afk: false
+jailed: false

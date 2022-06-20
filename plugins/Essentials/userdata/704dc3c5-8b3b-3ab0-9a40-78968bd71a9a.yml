@@ -1,0 +1,21 @@
+money: '250.0'
+socialspy: false
+lastAccountName: Jas_
+timestamps:
+  login: 1474123882547
+  logout: 1474124089592
+ipAddress: 86.1.102.28
+lastlocation:
+  world: map
+  x: -979.5832793754968
+  y: 13.0
+  z: 304.13236710969994
+  yaw: -144.02492
+  pitch: 21.121721
+logoutlocation:
+  world: lobby
+  x: 0.3470818587759365
+  y: 83.0
+  z: 0.6051973465879426
+  yaw: 0.0
+  pitch: 0.0

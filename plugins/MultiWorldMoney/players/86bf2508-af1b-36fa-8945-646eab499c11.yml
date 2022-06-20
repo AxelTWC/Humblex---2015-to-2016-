@@ -1,0 +1,7 @@
+name: YoloMaster02
+uuid: 86bf2508-af1b-36fa-8945-646eab499c11
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

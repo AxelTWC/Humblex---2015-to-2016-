@@ -1,0 +1,7 @@
+name: Perra
+uuid: 340bcd49-0c14-39d4-b29b-59d855d068c3
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

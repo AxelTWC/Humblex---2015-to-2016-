@@ -1,0 +1,25 @@
+money: '250.0'
+lastAccountName: badeea6531
+timestamps:
+  login: 1474343469339
+  logout: 1474343573157
+  lastteleport: 1474343374360
+  kits:
+    weekly: 1474342956017
+ipAddress: 185.98.24.5
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1128.6141216772128
+  y: 71.0
+  z: 9700.26735723691
+  yaw: -59.960796
+  pitch: 14.748172
+afk: false

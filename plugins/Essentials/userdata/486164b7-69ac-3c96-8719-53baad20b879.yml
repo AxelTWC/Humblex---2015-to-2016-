@@ -1,0 +1,14 @@
+money: '0.0'
+lastAccountName: lMemoriess
+timestamps:
+  login: 1475383081405
+  logout: 1475383147514
+ipAddress: 187.132.184.81
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 39.0
+  z: 7.0
+  yaw: -180.0
+  pitch: -45.0

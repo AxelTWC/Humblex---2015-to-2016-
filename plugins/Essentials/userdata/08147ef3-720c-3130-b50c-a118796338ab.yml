@@ -1,0 +1,21 @@
+money: '0.0'
+lastAccountName: modiste
+timestamps:
+  login: 1483822803888
+  logout: 1483822954723
+ipAddress: 84.171.57.96
+socialspy: false
+logoutlocation:
+  world: map
+  x: -995.8456200073421
+  y: 13.0
+  z: 268.33518660954246
+  yaw: 311.72473
+  pitch: 5.3008943
+lastlocation:
+  world: map
+  x: -995.8456200073421
+  y: 13.0
+  z: 268.33518660954246
+  yaw: 311.72473
+  pitch: 5.3008943

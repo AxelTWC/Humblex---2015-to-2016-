@@ -1,0 +1,7 @@
+name: DjRefusinq
+uuid: 21d2f1a2-72ad-398e-9f0f-845c7bdd4501
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

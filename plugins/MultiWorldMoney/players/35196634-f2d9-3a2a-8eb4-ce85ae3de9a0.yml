@@ -1,0 +1,8 @@
+name: matrix1940
+uuid: 35196634-f2d9-3a2a-8eb4-ce85ae3de9a0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

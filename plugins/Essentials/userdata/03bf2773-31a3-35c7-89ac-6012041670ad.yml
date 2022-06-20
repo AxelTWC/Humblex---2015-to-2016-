@@ -1,0 +1,32 @@
+lastAccountName: aliyan
+timestamps:
+  login: 1475145578467
+  logout: 1475148237835
+  kits:
+    firework: 1468410476294
+    titan: 1468410497851
+    coal: 1470042311612
+    notch: 1468410456673
+    emerald: 1470042810860
+    weekly: 1468312482971
+  lastteleport: 1471270855732
+ipAddress: 111.119.170.117
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -964.5344559263431
+  y: 19.0
+  z: 275.43211400925793
+  yaw: -338.10406
+  pitch: -28.199997
+money: '91054.0'
+godmode: false
+nickname: Aliyan
+afk: false

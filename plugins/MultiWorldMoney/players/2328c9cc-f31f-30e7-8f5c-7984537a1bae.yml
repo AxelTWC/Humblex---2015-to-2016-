@@ -1,0 +1,7 @@
+name: JacobPirate
+uuid: 2328c9cc-f31f-30e7-8f5c-7984537a1bae
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

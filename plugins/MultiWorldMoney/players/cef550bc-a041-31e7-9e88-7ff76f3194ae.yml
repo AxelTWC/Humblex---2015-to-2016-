@@ -1,0 +1,7 @@
+name: claylock
+uuid: cef550bc-a041-31e7-9e88-7ff76f3194ae
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

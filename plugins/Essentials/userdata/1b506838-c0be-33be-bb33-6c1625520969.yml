@@ -1,0 +1,28 @@
+money: '1450.0'
+lastAccountName: popblibob
+timestamps:
+  login: 1480068195746
+  logout: 1480070388224
+  kits:
+    daily: 1474182721582
+    weekly: 1474090570479
+  lastteleport: 1480068833510
+  mute: 0
+ipAddress: 79.179.37.68
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -1018.6024263475648
+  y: 12.337339677533127
+  z: 281.30000001192093
+  yaw: 228.68947
+  pitch: 39.008823
+muted: false
+afk: false

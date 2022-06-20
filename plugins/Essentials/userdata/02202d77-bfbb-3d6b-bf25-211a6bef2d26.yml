@@ -1,0 +1,23 @@
+lastAccountName: LionSPACEYT
+timestamps:
+  login: 1467370320297
+  lastteleport: 1467208713220
+  logout: 1467370348111
+ipAddress: 84.109.119.115
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -10.189513152870598
+  y: 109.0
+  z: 107.95685535646788
+  yaw: 194.68904
+  pitch: -16.708004
+money: '110.0'
+afk: false
+logoutlocation:
+  world: spawn
+  x: -116.38489479566073
+  y: 122.0
+  z: 88.69999998807907
+  yaw: -107.235794
+  pitch: 57.76528

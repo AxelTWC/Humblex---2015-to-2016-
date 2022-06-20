@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: Marc
+timestamps:
+  login: 1485881369673
+  logout: 1485881431256
+ipAddress: 84.137.240.28
+socialspy: false
+lastlocation:
+  world: map
+  x: -962.7624999880791
+  y: 13.0
+  z: 302.384700929132
+  yaw: -102.87143
+  pitch: 6.4383206
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

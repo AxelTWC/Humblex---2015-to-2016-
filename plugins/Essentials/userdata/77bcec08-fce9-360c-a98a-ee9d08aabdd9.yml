@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: Viper
+timestamps:
+  login: 1474474108768
+  logout: 1474474504002
+ipAddress: 68.200.100.59
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

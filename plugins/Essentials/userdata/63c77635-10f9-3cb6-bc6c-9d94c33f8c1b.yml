@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: davedog124
+timestamps:
+  login: 1467268584023
+  logout: 1467268725868
+  lastteleport: 1467268605315
+  kits:
+    daily: 1467268624307
+ipAddress: 124.187.71.164
+lastlocation:
+  world: spawn
+  x: -10.018949625290226
+  y: 110.5
+  z: 151.69999998807907
+  yaw: 354.14948
+  pitch: 31.650011
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -1158.4600288815789
+  y: 66.0
+  z: 9887.186192247565
+  yaw: -4.2506495
+  pitch: 27.449982

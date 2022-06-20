@@ -1,0 +1,8 @@
+name: FliamonYT
+uuid: 284f54ff-ed72-32ab-8ba5-5069d3c0ec11
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 200.0

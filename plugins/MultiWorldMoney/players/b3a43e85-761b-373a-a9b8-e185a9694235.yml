@@ -1,0 +1,10 @@
+name: Yolo3D
+uuid: b3a43e85-761b-373a-a9b8-e185a9694235
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

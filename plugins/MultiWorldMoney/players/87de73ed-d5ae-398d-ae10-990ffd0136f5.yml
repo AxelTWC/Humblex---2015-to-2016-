@@ -1,0 +1,7 @@
+name: adolfhitler
+uuid: 87de73ed-d5ae-398d-ae10-990ffd0136f5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

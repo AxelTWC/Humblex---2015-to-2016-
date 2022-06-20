@@ -1,0 +1,7 @@
+name: 459pm
+uuid: 82b59831-1934-3f86-82bc-b75b712f24e2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,27 @@
+# Settings file for the plugin WBR by YoFuzzy3
+#
+# Please make changes and then use /wbr reload
+#
+# The settings BookShop.Enabled and CustomCommands.Enabled require
+# a server restart/reload to take effect, this is to improve performance
+#
+# For help please visit dev.bukkit.org/bukkit-plugins/welcomebook/
+
+FirstJoin:
+  Enabled: true
+  Books: []
+EveryJoin:
+  Enabled: false
+  Books: []
+CmdGB:
+  Books: []
+BookCooldown: 0
+BookShop:
+  Enabled: false
+  AdminShopName: '[BookStore]'
+  Fee:
+    Enabled: false
+    Amount: 23.99
+CustomCommands:
+  Enabled: false
+  Books: []

@@ -1,0 +1,33 @@
+money: '150.0'
+lastAccountName: DetectiveBrown
+timestamps:
+  login: 1485110330080
+  kits:
+    tools: 1485037443985
+    weekly: 1485036387166
+  lastteleport: 1485039799626
+  logout: 1485110482998
+ipAddress: 173.202.207.193
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 55.96048515641637
+  y: 78.5
+  z: 217.5277857852182
+  yaw: -346.40125
+  pitch: 2.3680933
+homes:
+  home:
+    world: spawn
+    x: -548.9213502767925
+    y: 68.0
+    z: -680.3381964307512
+    yaw: -33.18825
+    pitch: 40.5092
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

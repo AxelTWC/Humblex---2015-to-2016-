@@ -1,0 +1,553 @@
+Version: 1.11
+'1':
+  Text: You got the items for day &f1&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'2':
+  Text: You got the items for day &f2&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'3':
+  Text: You got the items for day &f3&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'4':
+  Text: You got the items for day &f4&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'5':
+  Text: You got the items for day &f5&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'6':
+  Text: You got the items for day &f6&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'7':
+  Text: You got the items for day &f7&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'8':
+  Text: You got the items for day &f8&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'9':
+  Text: You got the items for day &f9&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'10':
+  Text: You got the items for day &f10&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'11':
+  Text: You got the items for day &f11&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'12':
+  Text: You got the items for day &f12&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'13':
+  Text: You got the items for day &f13&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'14':
+  Text: You got the items for day &f14&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'15':
+  Text: You got the items for day &f15&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'16':
+  Text: You got the items for day &f16&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'17':
+  Text: You got the items for day &f17&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'18':
+  Text: You got the items for day &f18&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'19':
+  Text: You got the items for day &f19&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'20':
+  Text: You got the items for day &f20&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'21':
+  Text: You got the items for day &f21&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'22':
+  Text: You got the items for day &f22&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'23':
+  Text: You got the items for day &f23&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []
+'24':
+  Text: You got the items for day &f24&9.
+  Items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  - ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  Players: []
+  Commands: []

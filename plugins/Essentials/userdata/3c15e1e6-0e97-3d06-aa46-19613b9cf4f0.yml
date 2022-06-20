@@ -1,0 +1,26 @@
+money: '250.0'
+lastAccountName: Tridoh
+timestamps:
+  login: 1473092048240
+  kits:
+    daily: 1473092259141
+    tools: 1473092253362
+    weekly: 1473092264644
+  lastteleport: 1473092378654
+  logout: 1473093659466
+ipAddress: 89.165.137.165
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 19.523228352170968
+  y: 67.0
+  z: 136.1153297900259
+  yaw: 204.68584
+  pitch: -3.150016
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

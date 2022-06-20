@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: VaizERD
+timestamps:
+  login: 1480288424440
+  lastteleport: 1480288581045
+  logout: 1480288832704
+ipAddress: 98.235.242.119
+socialspy: false
+lastlocation:
+  world: skywars
+  x: 50.75646295933266
+  y: 40.0
+  z: 6.286277252778424
+  yaw: 49.909554
+  pitch: 6.9542727
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,160 @@
+Variable list online: https://www.spigotmc.org/wiki/ctsnc-variables/
+'1': ' '
+1*: ' '
+1**: ' '
+'- #S': Symbols
+<1>: ❤
+<2>: ☀
+<3>: ★
+<4>: ☢
+<5>: ☎
+<6: ♫
+<7>: ❄
+<8>: «
+<9>: »
+<10>: Ω
+<11>: ☠
+<12>: ☣
+'2': ' '
+2*: ' '
+2**: ' '
+'- #P': Player
+'[ctsnc-player-exp]': exp
+'[ctsnc-player-level]': level
+'[ctsnc-player-ip]': IP
+'[ctsnc-player-health]': health
+'[ctsnc-player-maxhealth]': max health
+'[ctsnc-player-displayname]': display name
+'[ctsnc-player-foodlevel]': food level
+'[ctsnc-player-gamemode]': current gamemode
+'[ctsnc-player-name]': player name
+'3': ' '
+3*: ' '
+3**: ' '
+'- #PW&P': Player World & Position
+'[ctsnc-world-name]': world name
+'[ctsnc-world-players-size]': size of all players (in the same world)
+'[ctsnc-world-time]': world time
+'[ctsnc-world-biome]': biome
+'[ctsnc-world-sealevel]': see level
+'[ctsnc-player-position-x]': x
+'[ctsnc-player-position-y]': y
+'[ctsnc-player-position-z]': z
+'[ctsnc-player-position-pitch]': pitch
+'[ctsnc-player-position-yaw]': yaw
+'[ctsnc-player-direction]': view direction
+'[ctsnc-player-view-direction]': player view direction
+'4': ' '
+4*: ' '
+4**: ' '
+'- #PA': Player Armor
+'[ctsnc-player-armor-helmet]': helmet
+'[ctsnc-player-armor-chestplate]': chestplate
+'[ctsnc-player-armor-leggings]': leggings
+'[ctsnc-player-armor-boots]': boots
+'5': ' '
+5*: ' '
+5**: ' '
+'- #PS': Player Stats
+'[ctsnc-player-deaths]': deaths
+'[ctsnc-player-kills]': kills
+'[ctsnc-player-kdr]': kill/death rate
+'[ctsnc-player-kills-mobs]': mobkills
+'6': ' '
+6*: ' '
+6**: ' '
+'- #PEX': PermissionEx
+'[permissionsex-group]': permission group
+'[permissionsex-group-prefix]': permission prefix
+'[permissionsex-group-suffix]': permission suffix
+'7': ' '
+7*: ' '
+7**: ' '
+'- #GM': GroupManager
+'[groupmanager-group]': group
+'8': ' '
+8*: ' '
+8**: ' '
+'- #PAPI': PointsAPI
+'[pointsapi-points]': points
+'9': ' '
+9*: ' '
+9**: ' '
+'- #TM': TokenManager
+'[tokenmanager-tokens]': tokens
+'10': ' '
+10*: ' '
+10**: ' '
+'- #V': Vault/Economy
+'[vault-money]': money
+'11': ' '
+11*: ' '
+11**: ' '
+'- #PP': PlayerPoints
+'[playerpoints-points]': points
+'12': ' '
+12*: ' '
+12**: ' '
+'- #S&S': Server & System
+'[ctsnc-server-name]': server name
+'[ctsnc-server-players-online]': online players (size)
+'[ctsnc-server-players-max]': max players
+'[ctsnc-server-time]': time of server system
+'[ctsnc-server-ram-free]': free RAM in MB
+'[ctsnc-server-ram-max]': maximum RAM in MB
+'[ctsnc-server-ram-used]': used RAM in MB
+'[ctsnc-server-players-online-list]': online player (player name list)
+'[ctsnc-server-motd]': message of the day
+'[ctsnc-nextline]': next line
+'13': ' '
+13*: ' '
+13**: ' '
+'- #TPS&P': Ticks per Second & Ping
+'[ctsnc-tps]': ticks per second
+'[ctsnc-ping]': ping
+'14': ' '
+14*: ' '
+14**: ' '
+'- #SW': Stopwatch
+'[ctsnc-stopwatch-seconds]': seconds
+'[ctsnc-stopwatch-minutes]': minutes
+'[ctsnc-stopwatch-hours]': hours
+'15': ' '
+15*: ' '
+15**: ' '
+'- #RPGPL': RPGPlayerLeveling
+'[rpgplayerleveling-level]': level
+'[rpgplayerleveling-statspoints]': points for stats
+'[rpgplayerleveling-strength]': strength
+'[rpgplayerleveling-stamina]': stamina
+'[rpgplayerleveling-dexterity]': dexeterity
+'[rpgplayerleveling-intellect]': intellect
+'[rpgplayerleveling-power]': power
+'[rpgplayerleveling-power-max]': max power
+'[rpgplayerleveling-mana]': mana
+'[rpgplayerleveling-mana-max]': max mana
+'[rpgplayerleveling-exp]': experience
+'[rpgplayerleveling-exp-max]': max experience
+'16': ' '
+16*: ' '
+16**: ' '
+'- #AR': Autorank
+'[autorank-player-time]': time of player
+'[autorank-playtime-global]': global play time
+'[autorank-playtime-local]': local play time
+'[autorank-group-nextrankup]': next rankup group
+'[autorank-group-primary]': primary group
+'17': ' '
+17*: ' '
+17**: ' '
+'- #PvpL': PvpLevels
+'[pvplevels-deaths]': show your deaths
+'[pvplevels-kills]': show your kills
+'[pvplevels-killstreak]': show your killstreak
+'[pvplevels-level]': show your pvp level
++: ' '
++*: ' '
++**: ' '
+'- #CTNSC+': CTSNC+
+'[OTM]': online minutes
+'[OTH]': online hours

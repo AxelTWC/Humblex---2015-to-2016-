@@ -1,0 +1,7 @@
+name: moxiedigs
+uuid: a62721d6-48b2-3bc0-b60f-f3a0f7b6fed1
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

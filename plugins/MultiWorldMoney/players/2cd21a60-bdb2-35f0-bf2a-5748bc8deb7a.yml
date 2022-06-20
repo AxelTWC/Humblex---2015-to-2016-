@@ -1,0 +1,7 @@
+name: OnlyGames
+uuid: 2cd21a60-bdb2-35f0-bf2a-5748bc8deb7a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

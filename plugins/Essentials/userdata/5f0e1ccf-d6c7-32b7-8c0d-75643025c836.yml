@@ -1,0 +1,24 @@
+lastAccountName: N1gga
+timestamps:
+  login: 1474738548647
+  lastteleport: 1474738795551
+  kits:
+    tools: 1474738979760
+  logout: 1474739036249
+ipAddress: 193.83.55.241
+money: '150.0'
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -983.5169832649767
+  y: 67.0
+  z: 10638.814239324907
+  yaw: -52.019478
+  pitch: 17.916656
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

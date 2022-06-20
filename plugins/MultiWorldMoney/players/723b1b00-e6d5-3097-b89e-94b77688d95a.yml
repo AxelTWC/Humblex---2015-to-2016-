@@ -1,0 +1,7 @@
+name: _Bomb
+uuid: 723b1b00-e6d5-3097-b89e-94b77688d95a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

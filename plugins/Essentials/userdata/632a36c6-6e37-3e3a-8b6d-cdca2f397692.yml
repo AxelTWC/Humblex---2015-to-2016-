@@ -1,0 +1,16 @@
+money: '150.0'
+lastAccountName: BritishDab
+timestamps:
+  login: 1488703202579
+  kits:
+    weekly: 1488703266058
+  logout: 1488703320807
+ipAddress: 81.157.61.22
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

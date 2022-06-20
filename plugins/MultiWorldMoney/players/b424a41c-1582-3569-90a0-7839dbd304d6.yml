@@ -1,0 +1,8 @@
+name: blackpower
+uuid: b424a41c-1582-3569-90a0-7839dbd304d6
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

@@ -1,0 +1,7 @@
+name: JiProud
+uuid: c5464a23-57d8-3c83-95af-191998fd5a23
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

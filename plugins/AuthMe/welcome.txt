@@ -1,0 +1,2 @@
+&2Welcome &6{PLAYER} &2on Humblex server
+&2Players online:&c {ONLINE} 

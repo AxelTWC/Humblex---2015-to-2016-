@@ -1,0 +1,18 @@
+money: '250.0'
+socialspy: false
+lastAccountName: XxMagexX
+timestamps:
+  login: 1472725919372
+  kits:
+    daily: 1472726107459
+    weekly: 1472726223570
+  logout: 1472727229582
+ipAddress: 60.241.54.129
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: TheBroGuy
+uuid: 9c59c5cd-8928-3e9d-b016-f619c862c57e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

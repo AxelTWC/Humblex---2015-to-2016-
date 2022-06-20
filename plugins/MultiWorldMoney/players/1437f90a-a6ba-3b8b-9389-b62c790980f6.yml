@@ -1,0 +1,7 @@
+name: thePJ1
+uuid: 1437f90a-a6ba-3b8b-9389-b62c790980f6
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

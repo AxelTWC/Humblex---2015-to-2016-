@@ -1,0 +1,96 @@
+
+# ____________________________________________________________________________ #
+#                                                                              #
+#            Default configuration file for More Enchants Plus v2.0            #
+#                                                                              #
+#            Author: Adam561                                                   #
+#            Version: 2.0                                                      #
+#            Website: http://dev.bukkit.org/bukkit-plugins/moreenchatsplus/    #
+# ____________________________________________________________________________ #
+
+
+# ____________________________________________ #
+#                                              #
+#           Enchantments Configuration         #
+# ____________________________________________ #
+
+# _______________________________________________________________________________________________ #
+#                                                                                                 #
+#                                      Guide for configuring                                      #
+#                                                                                                 #
+#  chance_for_...: x         - Chance to enchant an item with the given enchantment. ( x% )       #
+#  min_exp_cost_for_...: x   - Minimum exp cost for enchantment.                     ( x Levels ) #
+#  max_level_for_...: x      - Maximum level for enchant, may not affect all items.  ( x Level )  #
+# _______________________________________________________________________________________________ #
+
+
+#   Fire-Infused
+chance_for_FireInfused: 45
+min_exp_cost_for_FireInfused: 1
+max_level_for_FireInfused: 10
+
+#   Water-Infused
+chance_for_WaterInfused: 45
+min_exp_cost_for_WaterInfused: 1
+max_level_for_WaterInfused: 10
+
+#   Elemental
+chance_for_Elemental: 40
+min_exp_cost_for_Elemental: 15
+max_level_for_Elemental: 10
+
+#   Knowledge-Infused
+chance_for_Knowledge: 0
+min_exp_cost_for_Knowledge: 10
+max_level_for_Knowledge: 10
+
+#   Poison
+chance_for_Poison: 50
+min_exp_cost_for_Poison: 1
+max_level_for_Poison: 10
+
+#   Wither
+chance_for_Wither: 50
+min_exp_cost_for_Wither: 1
+max_level_for_Wither: 10
+
+#   Ice
+chance_for_Ice: 50
+min_exp_cost_for_Ice: 1
+max_level_for_Ice: 10
+
+#   Speed
+chance_for_Speed: 50
+min_exp_cost_for_Speed: 10
+max_level_for_Speed: 10
+
+#   Magic-Resistant
+chance_for_MagicResistant: 45
+min_exp_cost_for_MagicResistant: 10
+max_level_for_MagicResistant: 10
+
+#   Friendly
+chance_for_Friendly: 30
+min_exp_cost_for_Friendly: 10
+max_level_for_Friendly: 10
+
+#   Saturation
+chance_for_Saturation: 40
+min_exp_cost_for_Saturation: 10
+max_level_for_Saturation: 10
+
+# ____________________________________________ #
+#                                              #
+#            Metrics and AutoUpdate            #
+# ____________________________________________ #
+
+
+# Determines if the command /mep update does anything or checks for updates
+canUpdate: true
+
+# Determines if the plugin metrics data is collected (more info at: https://bukkit.org/threads/mcstats-plugin-metrics-r7-easy-advanced-plugin-statistics.77352/)
+metrics: true
+
+
+
+

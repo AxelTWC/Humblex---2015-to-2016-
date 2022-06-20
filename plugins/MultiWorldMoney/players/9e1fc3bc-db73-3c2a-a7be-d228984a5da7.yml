@@ -1,0 +1,7 @@
+name: HungerBoatz
+uuid: 9e1fc3bc-db73-3c2a-a7be-d228984a5da7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

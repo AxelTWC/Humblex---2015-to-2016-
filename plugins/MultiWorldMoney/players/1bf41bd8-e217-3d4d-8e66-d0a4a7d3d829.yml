@@ -1,0 +1,10 @@
+name: _SassyTay
+uuid: 1bf41bd8-e217-3d4d-8e66-d0a4a7d3d829
+logoffworld: lobby
+balances:
+  lobby_nether: 0.0
+  lobby: 950.0
+  spawn: 1200000.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 0.0

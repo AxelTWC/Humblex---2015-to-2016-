@@ -1,0 +1,29 @@
+##################################
+## CONFIGURE STRINGS INVENTORY  ##
+##################################
+game-inventory:
+ name: "&eGame Arena List"
+ rows: 3
+state-string:
+ waiting: "&a&lWAITING"
+ starting: "&6&lSTARTING"
+inventory:
+ waiting:
+  name: "&b» &eArena: &7%name%" 
+  item: "95,5"
+  lore:
+  - "&f"
+  - "&f&lStatus: %gameState%"
+  - "&fPlayers: &8(&7%alivep%/%maxp%&8)"
+  - "&f"
+  - "&e&lClick to join!"
+ starting:
+  name: "&b» &eArena: &7%name%" 
+  item: "95,4"
+  lore:
+  - "&f"
+  - "&f&lStatus: %gameState%"
+  - "&fPlayers: &8(&7%alivep%/%maxp%&8)"
+  - "&f"
+  - "&e&lClick to join!"
+ 

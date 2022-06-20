@@ -1,0 +1,7 @@
+name: Inp_Alive
+uuid: 942c1632-2173-3d21-ae4e-2832c3657c8e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,41 @@
+lastAccountName: SkyChase
+timestamps:
+  login: 1490692756697
+  lastteleport: 1490647922441
+  kits:
+    illuminati: 1490451774428
+    elite: 1490647854818
+    ultimate: 1490452912432
+    legendary: 1490647824848
+    daily: 1490647885377
+    tools: 1490647887577
+    god: 1490452455835
+    pegasus: 1490450428888
+    weekly: 1490450474283
+  logout: 1490692766003
+ipAddress: 112.198.118.210
+socialspy: false
+money: '150.0'
+lastlocation:
+  world: ASkyBlock
+  x: 1.0528270141428386
+  y: 117.0
+  z: -1400.8848380110733
+  yaw: -113.699585
+  pitch: 62.999935
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: ASkyBlock
+    x: 208.72773214604075
+    y: 201.0
+    z: -1210.8272248352837
+    yaw: -96.24245
+    pitch: 16.93404

@@ -1,0 +1,27 @@
+money: '1150.0'
+lastAccountName: Supercraft0704
+timestamps:
+  login: 1488135830259
+  logout: 1488136074294
+  lastteleport: 1484390047896
+  kits:
+    elite: 1477906288220
+    daily: 1477906164203
+    weekly: 1483177637948
+ipAddress: 176.115.6.100
+socialspy: false
+lastlocation:
+  world: skywars
+  x: -239.5
+  y: 5.0
+  z: -2.5
+  yaw: -96.04296
+  pitch: 68.54999
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

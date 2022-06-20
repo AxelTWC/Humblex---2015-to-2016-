@@ -1,0 +1,7 @@
+name: HiverHD
+uuid: 397c60ee-c640-32d2-bc0b-1f98343dbcb2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

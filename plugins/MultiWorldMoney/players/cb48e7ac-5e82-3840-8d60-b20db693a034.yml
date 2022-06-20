@@ -1,0 +1,7 @@
+name: LOLeannie
+uuid: cb48e7ac-5e82-3840-8d60-b20db693a034
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

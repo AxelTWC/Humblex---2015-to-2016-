@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: ToprakYT
+timestamps:
+  login: 1471170656435
+  lastteleport: 1471171031209
+  logout: 1471171345887
+ipAddress: 78.182.47.18
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1080.3385054111588
+  y: 69.0
+  z: 9624.673088784164
+  yaw: -265.77722
+  pitch: -35.549988
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

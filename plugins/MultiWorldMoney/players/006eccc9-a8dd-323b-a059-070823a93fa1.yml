@@ -1,0 +1,7 @@
+name: TowerCrazy50
+uuid: 006eccc9-a8dd-323b-a059-070823a93fa1
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

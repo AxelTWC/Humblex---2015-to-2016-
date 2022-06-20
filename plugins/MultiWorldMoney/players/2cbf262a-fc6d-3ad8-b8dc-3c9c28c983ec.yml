@@ -1,0 +1,11 @@
+name: XGamer_pvpx
+uuid: 2cbf262a-fc6d-3ad8-b8dc-3c9c28c983ec
+logoffworld: lobby
+balances:
+  lobby: 396.0
+  spawn: 1500.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 600.0

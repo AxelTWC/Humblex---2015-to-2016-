@@ -1,0 +1,25 @@
+lastAccountName: Travis101
+timestamps:
+  login: 1468474155139
+  kits:
+    daily: 1468473452791
+    tools: 1468473449341
+  logout: 1468474918073
+  lastteleport: 1468474666158
+ipAddress: 76.121.140.23
+socialspy: false
+money: '160.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: skyblock
+  x: -3.0848706457595396
+  y: 4.5
+  z: 2.8000000119209343
+  yaw: -192.75005
+  pitch: 11.399973

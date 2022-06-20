@@ -1,0 +1,192 @@
+money: '7436.0'
+lastAccountName: mLite16
+timestamps:
+  login: 1490563870645
+  kits:
+    youtube: 1478662647035
+    illuminati: 1478491669776
+    dtools: 1478931812243
+    tools: 1490563772954
+    weekly: 1490498642926
+    pegasus: 1483851638871
+    firework: 1484630157686
+    elite: 1478478845594
+    daily: 1490563660262
+    titan: 1485015057247
+    coal: 1482017400153
+    notch: 1477328184862
+    god: 1479010670824
+    emerald: 1485035653993
+  lastteleport: 1490563930138
+  logout: 1490563954784
+ipAddress: 75.117.230.133
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 59.307419856266165
+  y: 78.0
+  z: 233.8541150331878
+  yaw: -209.50885
+  pitch: 7.3003664
+homes:
+  nether:
+    world: spawn_nether
+    x: -1005.7095575714063
+    y: 213.0
+    z: 622.8078824148081
+    yaw: 240.2232
+    pitch: 61.800003
+  emma:
+    world: spawn
+    x: -3486.005127967725
+    y: 67.0
+    z: 10005.77428274121
+    yaw: 242.55266
+    pitch: 14.699827
+  cave3:
+    world: spawn
+    x: -4856.703064288551
+    y: 15.0
+    z: -5033.851381509011
+    yaw: 301.87616
+    pitch: 41.549988
+  end:
+    world: spawn_the_end
+    x: -24.5
+    y: 172.0
+    z: 321.5
+    yaw: 178.69232
+    pitch: 85.049995
+  skyblock:
+    world: skyblock
+    x: 11.290382316808797
+    y: 71.0
+    z: 396.9019661218638
+    yaw: 351.44708
+    pitch: 36.59999
+  base:
+    world: spawn
+    x: -5117.417866042124
+    y: 11.0
+    z: -5257.694624785826
+    yaw: 174.21454
+    pitch: 69.74999
+  test:
+    world: hub
+    x: 403.5085963900732
+    y: 4.0
+    z: -329.2016082907032
+    yaw: -196.14795
+    pitch: 38.739063
+  oldspawn:
+    world: spawn
+    x: -838.5546944035179
+    y: 69.0
+    z: -980.4608345459702
+    yaw: -177.45001
+    pitch: 8.399982
+  sniper:
+    world: spawn
+    x: -1768.5491326407355
+    y: 29.0
+    z: 8627.298354920693
+    yaw: 19.574158
+    pitch: 17.400063
+  spawn:
+    world: skywars
+    x: -376.611517854205
+    y: 4.0
+    z: -166.52548110129845
+    yaw: -230.40291
+    pitch: 87.00004
+  getdone:
+    world: spawn
+    x: -41.385486468566214
+    y: 84.0
+    z: 742.0099003774052
+    yaw: 50.846558
+    pitch: 14.550001
+  chocolate:
+    world: spawn
+    x: 1303.5987558917668
+    y: 65.0
+    z: 209.9579963893896
+    yaw: 257.60437
+    pitch: -16.80003
+  temple:
+    world: spawn
+    x: -1476.479842040711
+    y: 56.0
+    z: 583.4059552549242
+    yaw: 133.19977
+    pitch: -0.8999818
+  krypt:
+    world: spawn
+    x: 757.4839683875256
+    y: 63.257051244147355
+    z: -308.5429849028446
+    yaw: 84.29636
+    pitch: 22.13257
+  fhome:
+    world: spawn
+    x: -1719.3431708638764
+    y: 37.0
+    z: 9163.31248776012
+    yaw: 10.500244
+    pitch: 65.54999
+  nb:
+    world: spawn
+    x: -2387.9468090580344
+    y: 71.0
+    z: -1524.4980473313115
+    yaw: 170.09972
+    pitch: 20.952635
+  portalend:
+    world: spawn
+    x: 884.2930226026506
+    y: 37.0
+    z: -268.8941223672714
+    yaw: 4.3515224
+    pitch: 2.5090723
+  moment:
+    world: spawn
+    x: -575.3522741212608
+    y: 68.0
+    z: -671.6224091179761
+    yaw: 192.14908
+    pitch: 40.200016
+  dodo:
+    world: spawn
+    x: -728.448162559873
+    y: 51.0
+    z: 1001.9943757824037
+    yaw: 278.64392
+    pitch: 69.15002
+  fake:
+    world: spawn
+    x: 910.723058788386
+    y: 13.409272224058098
+    z: -600.0116900339162
+    yaw: 336.74997
+    pitch: 41.7
+  glitch:
+    world: MarriageChapel
+    x: -0.41677845474122555
+    y: 4.0
+    z: -47.186569872612345
+    yaw: 94.200195
+    pitch: 7.349997
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+godmode: false
+powertools:
+  '352':
+  - fireball
+  '262':
+  - fireball

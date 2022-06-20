@@ -1,0 +1,8 @@
+name: LaxusGM
+uuid: c505ee3b-55fa-3973-b98d-de8e9a7a4be6
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

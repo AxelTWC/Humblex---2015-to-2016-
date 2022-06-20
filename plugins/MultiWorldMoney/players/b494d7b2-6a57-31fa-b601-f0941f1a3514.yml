@@ -1,0 +1,7 @@
+name: FRE3DOM_FIGHT3R
+uuid: b494d7b2-6a57-31fa-b601-f0941f1a3514
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

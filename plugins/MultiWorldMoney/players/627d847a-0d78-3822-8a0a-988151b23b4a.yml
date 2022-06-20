@@ -1,0 +1,12 @@
+name: Phonetixx
+uuid: 627d847a-0d78-3822-8a0a-988151b23b4a
+logoffworld: lobby
+balances:
+  lobby: 330.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

@@ -1,0 +1,7 @@
+name: kalkkinaama
+uuid: bd76a75e-6bd5-3772-b040-0712be557343
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

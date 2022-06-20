@@ -1,0 +1,6 @@
+name: ItalianoLambo
+uuid: a286a0f4-1aa2-3700-acf8-7c136b53190b
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0

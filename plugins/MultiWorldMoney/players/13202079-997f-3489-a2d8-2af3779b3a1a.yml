@@ -1,0 +1,7 @@
+name: FindNeverland
+uuid: 13202079-997f-3489-a2d8-2af3779b3a1a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

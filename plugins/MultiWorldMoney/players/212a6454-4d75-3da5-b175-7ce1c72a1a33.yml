@@ -1,0 +1,10 @@
+name: NatsuSan
+uuid: 212a6454-4d75-3da5-b175-7ce1c72a1a33
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

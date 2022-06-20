@@ -1,0 +1,7 @@
+name: HelixShMing
+uuid: 2a87c02b-9097-3e2a-8baa-12925b7b7fb0
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

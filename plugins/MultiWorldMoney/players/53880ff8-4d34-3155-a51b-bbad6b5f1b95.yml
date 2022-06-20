@@ -1,0 +1,7 @@
+name: WRXtasy
+uuid: 53880ff8-4d34-3155-a51b-bbad6b5f1b95
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

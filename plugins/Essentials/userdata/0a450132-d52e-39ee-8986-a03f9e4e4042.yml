@@ -1,0 +1,19 @@
+lastAccountName: __Cheese__
+timestamps:
+  login: 1469672290555
+  kits:
+    daily: 1469672365449
+    tools: 1469672369104
+    weekly: 1469672357849
+  logout: 1469673004373
+ipAddress: 180.190.93.58
+socialspy: false
+money: '160.0'
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: Zyrex
+uuid: 5387b912-0683-3f47-817b-5cfeff706512
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

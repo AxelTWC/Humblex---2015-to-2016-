@@ -1,0 +1,7 @@
+name: DaddyTime
+uuid: aa5d66eb-ea8c-3c31-aa9c-7713cd8dd2d0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,27 @@
+money: '150.003999999999998'
+lastAccountName: RageEye
+timestamps:
+  login: 1485011283357
+  logout: 1485011284440
+  kits:
+    daily: 1484948139389
+    tools: 1484948716778
+    weekly: 1484948661744
+  lastteleport: 1484949410745
+ipAddress: 95.178.219.6
+socialspy: false
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: 87.45704345090479
+  y: 78.0
+  z: 179.12700535191303
+  yaw: 107.69232
+  pitch: 50.826782

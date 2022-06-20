@@ -1,0 +1,7 @@
+name: RAINING_BLOOD
+uuid: 38c3b036-ced8-3eb1-a12d-ebb78688637c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

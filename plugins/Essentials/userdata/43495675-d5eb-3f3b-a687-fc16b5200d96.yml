@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Athena2873
+timestamps:
+  login: 1467792400535
+  lastteleport: 1467792429352
+  logout: 1467792516558
+ipAddress: 218.250.64.75
+lastlocation:
+  world: spawn
+  x: -10.77585973305012
+  y: 109.0
+  z: 107.39753639737286
+  yaw: 137.39938
+  pitch: 10.649958
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -98.72734805179465
+  y: 123.5
+  z: 84.18372583938401
+  yaw: -43.708496
+  pitch: 16.564632

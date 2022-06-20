@@ -1,0 +1,7 @@
+name: NoxitePlays
+uuid: 559c40d4-91d7-39e1-8826-471ddd52188d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

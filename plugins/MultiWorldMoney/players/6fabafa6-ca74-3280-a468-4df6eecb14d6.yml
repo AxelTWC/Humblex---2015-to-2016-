@@ -1,0 +1,7 @@
+name: SuperWadee2
+uuid: 6fabafa6-ca74-3280-a468-4df6eecb14d6
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

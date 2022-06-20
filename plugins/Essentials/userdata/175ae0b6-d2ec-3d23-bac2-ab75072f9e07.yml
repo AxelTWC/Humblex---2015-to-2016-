@@ -1,0 +1,14 @@
+money: '150.0'
+lastAccountName: pika_pikachu
+timestamps:
+  login: 1486793199377
+  logout: 1486793221644
+ipAddress: 130.105.196.4
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,20 @@
+lastAccountName: zigand
+timestamps:
+  login: 1467565131457
+  logout: 1467565136477
+ipAddress: 24.211.76.13
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -9.5
+  y: 109.0
+  z: 135.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: -10.5
+  y: 110.0
+  z: 131.5
+  yaw: 181.04927
+  pitch: 30.149965

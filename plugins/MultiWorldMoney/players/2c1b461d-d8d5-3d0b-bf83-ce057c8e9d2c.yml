@@ -1,0 +1,12 @@
+name: KRBDicky
+uuid: 2c1b461d-d8d5-3d0b-bf83-ce057c8e9d2c
+logoffworld: lobby
+balances:
+  lobby: 850.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

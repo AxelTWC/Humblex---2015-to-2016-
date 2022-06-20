@@ -1,0 +1,37 @@
+# FusionFFA by: MineFans
+# Opcions:
+Blood:
+  Enabled: true
+ScoreBoard:
+  Enabled: true
+BuildUhc:
+  Enabled: true
+prefix: '&bFFA>> '
+set_the_spawn: '&aSpawn Has Been Set'
+set_the_lobby: '&aLobby Has Been Set'
+setkit_message: '&aThe kit has been put'
+join_message: '&3You have entered the FFA'
+leave_message: '&aYou have left the FFA'
+no_permission: '&cYou dont have permissions to use this command!'
+spawn_is_not_set: '&cThe spawn is not set'
+lobby_is_not_set: '&cThe lobby is not set'
+error_join: '&cYou are now in the FFA'
+error_leave: '&cYou are not within the FFA to exit'
+error_nokit: '&cThe kit is not set'
+death_message: '&7You just got rekt by &e&l%player%'
+kill_message: '&7You MLG THUG LIFE DESTROYED &a&l%player%'
+no_command: '&eRight now you can only use the command &e&l/ffa'
+lobby:
+  x: -990.4470358765757
+  y: 87.5
+  z: 276.04545503599815
+  pitch: 1.1882848
+  yaw: 3.1785362
+  world: map
+spawn:
+  x: -1200.5250203583214
+  y: 65.0
+  z: 244.30371922356943
+  pitch: 18.756079
+  yaw: -177.81836
+  world: map

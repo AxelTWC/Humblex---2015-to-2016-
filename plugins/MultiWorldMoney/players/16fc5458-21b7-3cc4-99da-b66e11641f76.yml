@@ -1,0 +1,10 @@
+name: bystaxx
+uuid: 16fc5458-21b7-3cc4-99da-b66e11641f76
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

@@ -1,0 +1,8 @@
+name: SavageMonk
+uuid: 340584c2-3fd3-312d-8010-ae56aea55ca7
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

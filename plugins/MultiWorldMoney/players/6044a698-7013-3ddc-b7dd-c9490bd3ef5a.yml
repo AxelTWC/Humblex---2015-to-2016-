@@ -1,0 +1,8 @@
+name: RoDTeddy
+uuid: 6044a698-7013-3ddc-b7dd-c9490bd3ef5a
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

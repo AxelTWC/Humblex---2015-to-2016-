@@ -1,0 +1,7 @@
+name: FennixDZN
+uuid: 5d686ead-0f5f-325c-a629-60f11d54c7f0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

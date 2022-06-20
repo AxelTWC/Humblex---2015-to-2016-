@@ -1,0 +1,7 @@
+name: Goli
+uuid: 2c47b681-130b-31ee-aecb-48feb595d4ae
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

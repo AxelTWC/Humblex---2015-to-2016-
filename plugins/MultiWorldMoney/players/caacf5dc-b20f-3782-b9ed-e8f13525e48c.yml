@@ -1,0 +1,7 @@
+name: Zorching
+uuid: caacf5dc-b20f-3782-b9ed-e8f13525e48c
+logoffworld: spawn
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,11 @@
+name: CJMark
+uuid: 94cbcbff-e332-35a3-920d-ec5fe5dd1cdc
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 100.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

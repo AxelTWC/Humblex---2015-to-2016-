@@ -1,0 +1,10 @@
+name: DinoCrafter06
+uuid: 351ffbed-c2c7-33d1-9eff-dca535c5a586
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

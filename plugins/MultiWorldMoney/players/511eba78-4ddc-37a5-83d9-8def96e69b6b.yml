@@ -1,0 +1,7 @@
+name: MineChat_
+uuid: 511eba78-4ddc-37a5-83d9-8def96e69b6b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: Miguel25
+timestamps:
+  login: 1479236306102
+  logout: 1479236489156
+ipAddress: 91.3.232.208
+socialspy: false
+lastlocation:
+  world: spawn_nether
+  x: 395.41004364561127
+  y: 66.0101080036776
+  z: 162.09424182988084
+  yaw: -22.37586
+  pitch: 59.871017
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Mark
+timestamps:
+  login: 1467301178657
+  lastteleport: 1467301442236
+  kits:
+    weekly: 1467301236839
+  logout: 1467301566731
+ipAddress: 178.203.232.90
+lastlocation:
+  world: spawn
+  x: -1284.7380094799742
+  y: 89.0
+  z: -716.4889191625324
+  yaw: 217.95706
+  pitch: 13.200027
+money: '110.0'
+logoutlocation:
+  world: ASkyBlock
+  x: -599.0738727992158
+  y: 120.0
+  z: 202.5208502489083
+  yaw: -331.34985
+  pitch: 42.599995

@@ -1,0 +1,10 @@
+name: PlayYT
+uuid: 880d9474-e4da-3dde-886b-44a3d56c5c73
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

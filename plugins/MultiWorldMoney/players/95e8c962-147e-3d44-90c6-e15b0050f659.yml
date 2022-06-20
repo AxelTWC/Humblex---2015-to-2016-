@@ -1,0 +1,11 @@
+name: neoxylise
+uuid: 95e8c962-147e-3d44-90c6-e15b0050f659
+logoffworld: lobby
+balances:
+  lobby: 260.0
+  spawn: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

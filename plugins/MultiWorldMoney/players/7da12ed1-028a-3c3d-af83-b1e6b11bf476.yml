@@ -1,0 +1,6 @@
+name: KrashBG
+uuid: 7da12ed1-028a-3c3d-af83-b1e6b11bf476
+logoffworld: lobby
+balances:
+  lobby: 60.0
+  spawn: 0.0

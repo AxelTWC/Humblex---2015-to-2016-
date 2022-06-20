@@ -1,0 +1,26 @@
+money: '350.0'
+lastAccountName: Ludvig_007
+timestamps:
+  login: 1475850147484
+  kits:
+    daily: 1474208948988
+    tools: 1474208988806
+    weekly: 1474208994710
+  logout: 1475850774100
+ipAddress: 46.230.128.71
+socialspy: false
+lastlocation:
+  world: map
+  x: -961.2627957719507
+  y: 13.0
+  z: 285.2605593953758
+  yaw: 280.34555
+  pitch: 27.299967
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+afk: false

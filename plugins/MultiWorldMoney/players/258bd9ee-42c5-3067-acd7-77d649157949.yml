@@ -1,0 +1,7 @@
+name: Odex
+uuid: 258bd9ee-42c5-3067-acd7-77d649157949
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

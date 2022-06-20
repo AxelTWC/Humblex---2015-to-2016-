@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: manos
+timestamps:
+  login: 1469297957346
+  lastteleport: 1469298379627
+  logout: 1469298626417
+ipAddress: 5.54.21.157
+lastlocation:
+  world: spawn
+  x: -1160.2335190170497
+  y: 64.0
+  z: 9821.174232654286
+  yaw: 250.37338
+  pitch: 16.050018
+money: '110.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: OPPower_
+uuid: b6a5ca0b-074b-36f2-bbed-6057fc8ecbe2
+logoffworld: spawn
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

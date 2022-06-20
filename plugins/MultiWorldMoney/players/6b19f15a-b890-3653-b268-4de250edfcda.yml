@@ -1,0 +1,9 @@
+name: Rage360
+uuid: 6b19f15a-b890-3653-b268-4de250edfcda
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 0.0

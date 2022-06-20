@@ -1,0 +1,7 @@
+name: GoDLioN
+uuid: 1e3a2074-df31-3305-bdff-ec52b7356a9b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

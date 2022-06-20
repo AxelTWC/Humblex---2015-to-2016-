@@ -1,0 +1,22 @@
+money: '250.0'
+socialspy: false
+lastAccountName: Jamalik2006
+timestamps:
+  login: 1478699255704
+  lastteleport: 1478699263421
+  logout: 1478699283761
+ipAddress: 216.172.142.113
+lastlocation:
+  world: lobby
+  x: 0.7664636468257222
+  y: 81.0
+  z: 8.13355003612399
+  yaw: 30.000004
+  pitch: 33.150005
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

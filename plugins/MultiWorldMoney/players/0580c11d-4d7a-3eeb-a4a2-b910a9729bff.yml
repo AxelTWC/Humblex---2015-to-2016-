@@ -1,0 +1,8 @@
+name: dogi64
+uuid: 0580c11d-4d7a-3eeb-a4a2-b910a9729bff
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

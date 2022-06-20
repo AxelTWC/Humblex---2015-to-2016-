@@ -1,0 +1,15 @@
+name: popblibob
+uuid: 1b506838-c0be-33be-bb33-6c1625520969
+logoffworld: lobby
+balances:
+  lobby: 1450.0
+  spawn: 1000.0
+  spawn_the_end: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 3980.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  ice_1: 0.0
+  map: 300.0
+  skywars: 0.0

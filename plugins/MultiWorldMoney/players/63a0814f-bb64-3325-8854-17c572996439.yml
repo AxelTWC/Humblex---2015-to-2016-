@@ -1,0 +1,10 @@
+name: RedBo08
+uuid: 63a0814f-bb64-3325-8854-17c572996439
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

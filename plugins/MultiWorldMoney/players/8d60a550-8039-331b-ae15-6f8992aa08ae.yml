@@ -1,0 +1,7 @@
+name: agentkiz
+uuid: 8d60a550-8039-331b-ae15-6f8992aa08ae
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

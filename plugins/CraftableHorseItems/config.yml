@@ -1,0 +1,8 @@
+# Default config for CraftableHorseItems by BliksemArt
+# Change it to 'false' if you would disable crafting of that item. Example: 'NameTag: false'
+IronHorseArmor: true
+GoldHorseArmor: true
+DiamondHorseArmor: true
+Saddle: true
+NameTag: true
+ChiBookEnabled: true

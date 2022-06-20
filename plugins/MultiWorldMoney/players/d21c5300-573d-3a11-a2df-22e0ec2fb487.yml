@@ -1,0 +1,11 @@
+name: UASauHI2
+uuid: d21c5300-573d-3a11-a2df-22e0ec2fb487
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 100.0

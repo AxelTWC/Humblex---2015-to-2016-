@@ -1,0 +1,7 @@
+name: kukublz
+uuid: ca2304d5-66e5-3172-8cec-a50624ee92e7
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

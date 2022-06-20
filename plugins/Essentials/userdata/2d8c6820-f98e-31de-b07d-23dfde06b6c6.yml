@@ -1,0 +1,27 @@
+money: '550.0'
+lastAccountName: _Kawaii_Millie_
+timestamps:
+  login: 1477222190793
+  logout: 1477222506336
+  kits:
+    daily: 1474721901773
+    tools: 1475683640403
+    weekly: 1477222439033
+  lastteleport: 1477134596159
+ipAddress: 94.13.213.29
+socialspy: false
+lastlocation:
+  world: skywars
+  x: -12.739693784816104
+  y: 38.0
+  z: -0.06109850878695455
+  yaw: -71.64144
+  pitch: -1.0325139
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0
+afk: false

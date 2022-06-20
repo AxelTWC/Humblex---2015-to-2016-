@@ -1,0 +1,6 @@
+name: Fruit
+uuid: a1b8ede9-1585-3100-a83a-fbb5e4c63007
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0

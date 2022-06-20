@@ -1,0 +1,24 @@
+lastAccountName: Syagmax
+timestamps:
+  login: 1467846545083
+  lastteleport: 1467846744823
+  logout: 1467846897637
+  kits:
+    weekly: 1467846871657
+ipAddress: 108.63.105.44
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 43.00972283569435
+  y: 70.0
+  z: -46.30500340572973
+  yaw: -277.8121
+  pitch: 4.9289913
+money: '10.0'
+logoutlocation:
+  world: spawn
+  x: 527.285009782132
+  y: 64.0
+  z: 256.19957853990104
+  yaw: 1.8815918
+  pitch: 10.127998

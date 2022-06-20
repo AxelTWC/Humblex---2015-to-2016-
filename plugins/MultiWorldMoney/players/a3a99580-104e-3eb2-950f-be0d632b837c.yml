@@ -1,0 +1,7 @@
+name: SirDancealot
+uuid: a3a99580-104e-3eb2-950f-be0d632b837c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

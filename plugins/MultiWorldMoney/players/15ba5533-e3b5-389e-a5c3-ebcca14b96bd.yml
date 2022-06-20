@@ -1,0 +1,7 @@
+name: Meowiii
+uuid: 15ba5533-e3b5-389e-a5c3-ebcca14b96bd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

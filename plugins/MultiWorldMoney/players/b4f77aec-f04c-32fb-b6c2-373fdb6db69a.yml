@@ -1,0 +1,12 @@
+name: Cheeseguy
+uuid: b4f77aec-f04c-32fb-b6c2-373fdb6db69a
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 600.0
+  spawn_the_end: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

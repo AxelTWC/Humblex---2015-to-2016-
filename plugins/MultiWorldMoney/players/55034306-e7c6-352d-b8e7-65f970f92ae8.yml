@@ -1,0 +1,8 @@
+name: Official_Millie
+uuid: 55034306-e7c6-352d-b8e7-65f970f92ae8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

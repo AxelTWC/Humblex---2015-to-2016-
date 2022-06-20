@@ -1,0 +1,27 @@
+money: '550.0'
+lastAccountName: ChocolateStone25
+timestamps:
+  login: 1490397752632
+  logout: 1490397841466
+  lastteleport: 1484969883589
+  kits:
+    daily: 1485141177646
+    tools: 1485141167206
+    weekly: 1486530222598
+ipAddress: 75.117.230.133
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: 63.14363684338853
+  y: 79.0
+  z: 189.53150464087264
+  yaw: -91.95032
+  pitch: 4.002647
+afk: false

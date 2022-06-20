@@ -1,0 +1,7 @@
+name: MaterazePvP
+uuid: 1f8b0345-9e46-3f77-9e0b-4f10801b6441
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

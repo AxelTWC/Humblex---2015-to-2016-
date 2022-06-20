@@ -1,0 +1,7 @@
+name: QwertyQwertz
+uuid: c0c474c9-14fc-39a3-8562-b817e9c7b450
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

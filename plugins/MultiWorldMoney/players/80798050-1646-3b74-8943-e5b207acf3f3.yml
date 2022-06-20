@@ -1,0 +1,7 @@
+name: ohnoimdead
+uuid: 80798050-1646-3b74-8943-e5b207acf3f3
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

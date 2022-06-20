@@ -1,0 +1,7 @@
+name: BuildElderLP
+uuid: 12f6da3e-2fb0-3a2c-82ed-860897ad43dd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

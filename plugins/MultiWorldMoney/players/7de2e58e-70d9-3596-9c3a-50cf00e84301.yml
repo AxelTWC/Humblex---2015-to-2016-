@@ -1,0 +1,7 @@
+name: kiwi6
+uuid: 7de2e58e-70d9-3596-9c3a-50cf00e84301
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

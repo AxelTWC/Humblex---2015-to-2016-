@@ -1,0 +1,7 @@
+name: omegasnab1
+uuid: 7c8c61ac-6463-3d5d-92d9-72c1329cc3bc
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

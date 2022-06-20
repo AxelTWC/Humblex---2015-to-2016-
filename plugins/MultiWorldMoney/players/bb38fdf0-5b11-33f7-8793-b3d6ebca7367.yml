@@ -1,0 +1,7 @@
+name: DancingWolves
+uuid: bb38fdf0-5b11-33f7-8793-b3d6ebca7367
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

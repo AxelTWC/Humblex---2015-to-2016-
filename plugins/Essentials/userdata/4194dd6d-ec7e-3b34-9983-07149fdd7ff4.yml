@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: BeastModeDion
+timestamps:
+  login: 1476647079050
+  logout: 1476647135743
+ipAddress: 46.99.132.170
+socialspy: false
+lastlocation:
+  world: ice_1
+  x: -50.929833462118104
+  y: -65.49983917735828
+  z: -2.835222372965455
+  yaw: -63.648052
+  pitch: -11.750389
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

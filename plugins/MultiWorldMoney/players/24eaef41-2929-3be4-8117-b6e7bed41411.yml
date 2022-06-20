@@ -1,0 +1,13 @@
+name: tattoextreme
+uuid: 24eaef41-2929-3be4-8117-b6e7bed41411
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 9.5
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

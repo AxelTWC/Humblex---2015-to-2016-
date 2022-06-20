@@ -1,0 +1,8 @@
+name: TheMasteredPanda
+uuid: 12d24e57-8782-318e-8c04-7eb6a00604d6
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

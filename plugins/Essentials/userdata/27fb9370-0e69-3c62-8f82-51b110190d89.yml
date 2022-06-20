@@ -1,0 +1,22 @@
+money: '350.0'
+socialspy: false
+lastAccountName: CommonSenze
+timestamps:
+  login: 1475119090362
+  lastteleport: 1474118755142
+  logout: 1475119093166
+ipAddress: 73.155.62.165
+lastlocation:
+  world: lobby
+  x: 3.796731215177413
+  y: 81.0
+  z: 4.168111212658431
+  yaw: -65.70392
+  pitch: 33.632298
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

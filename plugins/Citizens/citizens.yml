@@ -1,0 +1,46 @@
+range:
+  arrow:
+    min: 3
+    max: 13
+  look: 5
+  pathfinding: 16.0
+ticks:
+  pathing:
+    max-stationary: -1
+    max-pathing: -1
+  saving:
+    delay: 72000
+    save-often: true
+    use-task: true
+  waypoints:
+    right-click-pause: 70
+general:
+  chat:
+    format: '[%name%]: '
+    default-text: Hello.;How are you today?;Having a nice day?;Good weather today.;Stop hitting me!;I'm bored.;
+    selection-message: <g>You selected <y><npc><g> (ID <y><npcid><g>).
+    creation-message: <g>The NPC <y><npc><g> was born!
+    space-char: /
+  colors:
+    npc-colour: f
+    use-npc-colours: true
+  pathing:
+    realistic: false
+  defaults:
+    enable-following: true
+    talk-when-close: false
+  quick-select: false
+  notify-updates: true
+  pvp:
+    deny:
+      attack-disabled-pvp-players: true
+items:
+  talk-items: 340,
+  select-items: '*'
+debug:
+  debug-mode: false
+economy:
+  use-economy: true
+  prices:
+    basic:
+      creation: 100

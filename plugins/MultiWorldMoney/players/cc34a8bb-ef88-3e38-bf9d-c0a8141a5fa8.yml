@@ -1,0 +1,7 @@
+name: AsterV
+uuid: cc34a8bb-ef88-3e38-bf9d-c0a8141a5fa8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

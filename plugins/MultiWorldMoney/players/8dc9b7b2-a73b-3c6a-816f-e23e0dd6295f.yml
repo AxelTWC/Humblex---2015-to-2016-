@@ -1,0 +1,7 @@
+name: SmooreBaby
+uuid: 8dc9b7b2-a73b-3c6a-816f-e23e0dd6295f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

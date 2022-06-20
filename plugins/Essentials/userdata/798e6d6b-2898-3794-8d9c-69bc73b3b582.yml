@@ -1,0 +1,24 @@
+money: '150.0'
+lastAccountName: Asif2
+timestamps:
+  login: 1476183892353
+  lastteleport: 1476184020511
+  kits:
+    weekly: 1476184043290
+  logout: 1476184180267
+ipAddress: 218.252.94.213
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1131.050000011921
+  y: 72.0
+  z: 9704.79210626084
+  yaw: -297.58737
+  pitch: 38.03898
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

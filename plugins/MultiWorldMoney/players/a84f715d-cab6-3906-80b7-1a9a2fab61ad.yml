@@ -1,0 +1,9 @@
+name: hknclk50
+uuid: a84f715d-cab6-3906-80b7-1a9a2fab61ad
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 1000.0
+  spawn_nether: 0.0
+  map: 500.0
+  skywars: 0.0

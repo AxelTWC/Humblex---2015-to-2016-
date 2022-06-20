@@ -1,0 +1,26 @@
+lastAccountName: corythosaurus_
+timestamps:
+  login: 1469041240512
+  logout: 1469041243248
+  lastteleport: 1468673019346
+  kits:
+    daily: 1467896314539
+    tools: 1467896317841
+    weekly: 1468671745670
+ipAddress: 69.47.163.80
+socialspy: false
+lastlocation:
+  world: map
+  x: -1026.6154358752628
+  y: 12.06984371367842
+  z: 281.86131167714177
+  yaw: -172.2041
+  pitch: 3.9000306
+money: '410.0'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

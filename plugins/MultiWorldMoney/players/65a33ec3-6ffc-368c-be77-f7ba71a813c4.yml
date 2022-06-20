@@ -1,0 +1,7 @@
+name: ErunTurk
+uuid: 65a33ec3-6ffc-368c-be77-f7ba71a813c4
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

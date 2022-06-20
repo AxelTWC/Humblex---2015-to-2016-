@@ -1,0 +1,7 @@
+name: Winters_Frost
+uuid: 3d63b69e-d985-3cb8-be7a-e4bdbef3da90
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

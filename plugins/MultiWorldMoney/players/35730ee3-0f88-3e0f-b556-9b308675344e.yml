@@ -1,0 +1,11 @@
+name: JxnD
+uuid: 35730ee3-0f88-3e0f-b556-9b308675344e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 800.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 0.0

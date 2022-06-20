@@ -1,0 +1,7 @@
+name: SlimeWorms50
+uuid: 5b49bd04-adc6-3410-9cea-0c418bc7c42a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,24 @@
+----------------------------------------
+Error Log started on Fri Mar 24 13:03:19 CET 2017
+----------------------------------------
+Server Version: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+FactionsPlus Version: 2.0.0-beta6
+Factions Version: 2.8.19
+MassiveCore Version: 2.8.21
+----------------------------------------
+Error:Instance has not yet been fetched a plugin provided
+----------------------------------------
+java.lang.NullPointerException: Instance has not yet been fetched a plugin provided
+	at me.markeh.factionsplus.util.Metrics.get(Metrics.java:59)
+	at me.markeh.factionsplus.FactionsPlus.disable(FactionsPlus.java:150)
+	at me.markeh.factionsplus.FactionsPlusPlugin.onDisable(FactionsPlusPlugin.java:122)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323)
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:360)
+	at us.Myles.PWP.TransparentListeners.PerWorldPluginLoader.disablePlugin(PerWorldPluginLoader.java:140)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:427)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:420)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.disablePlugins(CraftServer.java:338)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.stop(MinecraftServer.java:456)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:652)
+	at java.lang.Thread.run(Thread.java:745)
+----------------------------------------

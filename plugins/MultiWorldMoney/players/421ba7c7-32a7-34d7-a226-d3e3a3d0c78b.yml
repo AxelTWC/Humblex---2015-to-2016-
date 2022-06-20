@@ -1,0 +1,7 @@
+name: Rosdower
+uuid: 421ba7c7-32a7-34d7-a226-d3e3a3d0c78b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

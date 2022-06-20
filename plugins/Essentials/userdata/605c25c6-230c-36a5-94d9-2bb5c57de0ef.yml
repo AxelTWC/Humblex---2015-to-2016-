@@ -1,0 +1,20 @@
+lastAccountName: Hypixel_Watchdog
+timestamps:
+  login: 1467377648624
+  logout: 1467377651380
+ipAddress: 104.57.172.241
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -9.5
+  y: 109.0
+  z: 135.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: -10.5
+  y: 109.0
+  z: 131.5
+  yaw: 90.899536
+  pitch: 2.0167463

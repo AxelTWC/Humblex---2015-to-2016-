@@ -1,0 +1,29 @@
+----------------------------------------
+Error Log started on Wed Feb 22 14:05:22 CET 2017
+----------------------------------------
+Server Version: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+FactionsPlus Version: 2.0.0-beta6
+Factions Version: 2.8.19
+MassiveCore Version: 2.8.21
+----------------------------------------
+Error:com.massivecraft.factions.cmd.CmdFactions.addChild(Lcom/massivecraft/massivecore/command/MassiveCommand;)V
+----------------------------------------
+java.lang.NoSuchMethodError: com.massivecraft.factions.cmd.CmdFactions.addChild(Lcom/massivecraft/massivecore/command/MassiveCommand;)V
+	at me.markeh.factionsframework.command.versions.FactionsCommandManager2_X.addCommand(FactionsCommandManager2_X.java:27)
+	at me.markeh.factionsplus.commands.CommandManager.enableCmd(CommandManager.java:73)
+	at me.markeh.factionsplus.commands.CommandManager.add(CommandManager.java:44)
+	at me.markeh.factionsplus.FactionsPlus.enable(FactionsPlus.java:79)
+	at me.markeh.factionsplus.FactionsPlusPlugin.onEnable(FactionsPlusPlugin.java:108)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+	at us.Myles.PWP.TransparentListeners.PerWorldPluginLoader.enablePlugin(PerWorldPluginLoader.java:145)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+	at java.lang.Thread.run(Thread.java:745)
+----------------------------------------

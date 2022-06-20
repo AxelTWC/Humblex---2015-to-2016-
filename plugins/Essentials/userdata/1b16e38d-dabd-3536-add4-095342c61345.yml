@@ -1,0 +1,22 @@
+lastAccountName: ImDerrick
+timestamps:
+  login: 1467857657557
+  lastteleport: 1467857767170
+  logout: 1467857799415
+ipAddress: 173.67.158.183
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -10.592325953750274
+  y: 109.0
+  z: 156.536236180981
+  yaw: 145.94948
+  pitch: 50.399963
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -1137.1421784600732
+  y: 74.5
+  z: 9728.613324882044
+  yaw: 54.623283
+  pitch: 32.901447

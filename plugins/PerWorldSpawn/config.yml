@@ -1,0 +1,83 @@
+messages:
+  spawnset: '&7Spawn set in world {WORLD}!'
+  delspawn: '&7Spawn removed in world {WORLD}'
+  teleporting: '&7Hold on! You will be teleported in 5 seconds!'
+  teleported: '&7*whoop*'
+  teleportcancelmove: '&7Teleporting cancelled because you moved!'
+  nospawnset: '&7There is no spawn set yet in world {WORLD}'
+settings:
+  seconds: 5
+  cancelonmove: true
+spawns:
+  spawn:
+    ==: org.bukkit.Location
+    world: spawn
+    x: 59.522292097181165
+    y: 78.0
+    z: 242.51459807118326
+    pitch: 3.5526443
+    yaw: -182.40036
+  skyblock:
+    ==: org.bukkit.Location
+    world: skyblock
+    x: -2.5
+    y: 83.0
+    z: 3.5
+    pitch: -19.65005
+    yaw: 183.89973
+  map:
+    ==: org.bukkit.Location
+    world: map
+    x: -990.5648388210356
+    y: 87.0
+    z: 275.4929202203065
+    pitch: 90.0
+    yaw: 110.693085
+  ASkyBlock:
+    ==: org.bukkit.Location
+    world: ASkyBlock
+    x: 56.5
+    y: 88.0
+    z: 0.5
+    pitch: -84.6
+    yaw: -112.41686
+  lobby:
+    ==: org.bukkit.Location
+    world: lobby
+    x: 0.5649238594345327
+    y: 83.0
+    z: 0.41366250519039244
+    pitch: 0.78594184
+    yaw: -179.59074
+  spawn_nether:
+    ==: org.bukkit.Location
+    world: spawn_nether
+    x: 78.55282341627898
+    y: 55.0
+    z: -19.724667081657053
+    pitch: 35.509567
+    yaw: 1.0316356
+  spawn_the_end:
+    ==: org.bukkit.Location
+    world: spawn_the_end
+    x: 39.39228970698276
+    y: 63.0
+    z: -14.58441614972753
+    pitch: 82.00967
+    yaw: -269.7763
+  skywars:
+    ==: org.bukkit.Location
+    world: skywars
+    x: -239.27433455980284
+    y: 5.0
+    z: -2.5170283168120227
+    pitch: 2.4117293
+    yaw: -87.79297
+  sw1:
+    ==: org.bukkit.Location
+    world: sw1
+    x: 2.9901159602472065
+    y: 75.0
+    z: 1.3336243973863426
+    pitch: -90.0
+    yaw: -262.95023

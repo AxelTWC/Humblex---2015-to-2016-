@@ -1,0 +1,9 @@
+name: EwShimmer
+uuid: 9794a146-440f-3888-804b-fc8bbce82453
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ice_1: 0.0
+  skywars: 0.0

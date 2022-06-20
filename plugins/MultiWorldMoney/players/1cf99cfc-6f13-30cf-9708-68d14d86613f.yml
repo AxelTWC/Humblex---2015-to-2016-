@@ -1,0 +1,7 @@
+name: ClickToBegin
+uuid: 1cf99cfc-6f13-30cf-9708-68d14d86613f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

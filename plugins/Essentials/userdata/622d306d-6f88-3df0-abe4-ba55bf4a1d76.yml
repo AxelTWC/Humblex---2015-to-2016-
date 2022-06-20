@@ -1,0 +1,25 @@
+money: '450.0'
+socialspy: false
+lastAccountName: DaekstarePlaysMC
+timestamps:
+  login: 1472652594649
+  logout: 1472653175368
+  kits:
+    daily: 1472648464610
+    tools: 1472652697797
+    weekly: 1472548515494
+ipAddress: 180.191.93.248
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -992.8006879894342
+  y: 15.483344036429404
+  z: 293.1389168681766
+  yaw: 55.94507
+  pitch: -16.049982

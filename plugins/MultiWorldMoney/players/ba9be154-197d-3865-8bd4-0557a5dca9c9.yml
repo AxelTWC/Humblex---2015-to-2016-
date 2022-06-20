@@ -1,0 +1,7 @@
+name: poopypoopman
+uuid: ba9be154-197d-3865-8bd4-0557a5dca9c9
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

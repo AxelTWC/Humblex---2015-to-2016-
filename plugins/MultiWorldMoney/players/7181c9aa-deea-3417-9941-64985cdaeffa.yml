@@ -1,0 +1,8 @@
+name: TryHard_Survival
+uuid: 7181c9aa-deea-3417-9941-64985cdaeffa
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

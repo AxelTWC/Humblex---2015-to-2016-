@@ -1,0 +1,97 @@
+playerName: RYAN_RX
+hasIsland: true
+islandLocation: ASkyBlock:-400:115:-400:0:0
+hasTeam: true
+teamLeader: 226e5f2d-0711-3634-b696-a668b5f387cd
+teamIslandLocation: ASkyBlock:-400:115:-400:0:0
+islandLevel: 23
+members:
+- 0340e5b8-0a98-3eb9-9ea2-e682b478e641
+- 226e5f2d-0711-3634-b696-a668b5f387cd
+resetsLeft: 10
+deaths: 10
+locale: ''
+useControlPanel: true
+startIslandRating: 50
+homeLocations:
+  '1': ASkyBlock:-404:119:-403:-1011677591:-1079194498
+challenges:
+  status:
+    expert: true
+    advanced: true
+    dj: true
+    craftsman: false
+    beaconator: false
+    stewmaker: true
+    enderpearls: true
+    pioneer: true
+    shepherd: true
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    elite: false
+    homestead: true
+    mason: false
+    builder: false
+    dyemaker: true
+    itsamonsterparty: false
+    glassmaker: true
+    novice: false
+    nether: true
+    alchemist: false
+    gemcollector: true
+    grinder: true
+    papermaker: true
+    cobblemaker: true
+    seedbank: true
+    cookiemaker: true
+    slimeballfarmer: true
+    itsaparty: false
+    competent: true
+    baker: true
+    breadmaker: true
+    myprecious: false
+    snowplay: false
+    farmer: true
+    angler: true
+    treecutter: true
+  times:
+    expert: 1
+    advanced: 1
+    dj: 1
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 1
+    enderpearls: 1
+    pioneer: 1
+    shepherd: 1
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    elite: 0
+    homestead: 1
+    mason: 0
+    builder: 0
+    dyemaker: 1
+    itsamonsterparty: 0
+    glassmaker: 1
+    novice: 0
+    nether: 1
+    alchemist: 0
+    gemcollector: 1
+    grinder: 1
+    papermaker: 1
+    cobblemaker: 1
+    seedbank: 1
+    cookiemaker: 1
+    slimeballfarmer: 1
+    itsaparty: 0
+    competent: 1
+    baker: 1
+    breadmaker: 1
+    myprecious: 0
+    snowplay: 0
+    farmer: 1
+    angler: 1
+    treecutter: 1
+islandInfo: -400:115:-400:200:200:226e5f2d-0711-3634-b696-a668b5f387cd:false:false:1000000001001000000000011000010:MESA:0

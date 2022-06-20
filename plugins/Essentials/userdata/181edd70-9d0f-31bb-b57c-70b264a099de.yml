@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: PBandJenny
+timestamps:
+  login: 1482838937081
+  logout: 1482839470481
+ipAddress: 24.253.78.165
+socialspy: false
+lastlocation:
+  world: map
+  x: -989.7568858858492
+  y: 88.0
+  z: 278.90743737227496
+  yaw: 18.077301
+  pitch: -14.179218
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

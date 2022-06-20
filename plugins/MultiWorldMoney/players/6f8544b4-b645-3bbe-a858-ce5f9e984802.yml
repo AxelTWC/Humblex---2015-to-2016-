@@ -1,0 +1,7 @@
+name: Skipplez
+uuid: 6f8544b4-b645-3bbe-a858-ce5f9e984802
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,12 @@
+name: Cutpo
+uuid: 5635d9f3-a00b-396e-b6bb-b0f644f7e3f4
+logoffworld: spawn
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 500.0
+  skywars: 0.0

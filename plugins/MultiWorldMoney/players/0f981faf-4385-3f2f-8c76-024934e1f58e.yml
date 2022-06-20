@@ -1,0 +1,7 @@
+name: SaurusGames
+uuid: 0f981faf-4385-3f2f-8c76-024934e1f58e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

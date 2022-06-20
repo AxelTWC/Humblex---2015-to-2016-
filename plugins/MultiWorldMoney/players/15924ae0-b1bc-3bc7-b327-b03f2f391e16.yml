@@ -1,0 +1,7 @@
+name: Blushee
+uuid: 15924ae0-b1bc-3bc7-b327-b03f2f391e16
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

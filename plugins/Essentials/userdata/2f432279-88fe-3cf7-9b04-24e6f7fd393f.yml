@@ -1,0 +1,25 @@
+money: '350.0'
+lastAccountName: _TheScorpion_
+timestamps:
+  login: 1472620129162
+  kits:
+    daily: 1472345556670
+    weekly: 1472345551895
+  lastteleport: 1472345596883
+  logout: 1472620129482
+ipAddress: 79.173.212.20
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1131.1521331801848
+  y: 72.0
+  z: 9726.391627786945
+  yaw: 180.10408
+  pitch: 19.895794
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

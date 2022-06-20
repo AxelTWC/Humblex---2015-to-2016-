@@ -1,0 +1,32 @@
+money: '250.0'
+lastAccountName: JavierPL
+timestamps:
+  login: 1470062823936
+  kits:
+    weekly: 1470062907028
+  lastteleport: 1470062992479
+  logout: 1470063426979
+ipAddress: 178.149.242.122
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1125.237500011921
+  y: 74.0
+  z: 9718.020046851812
+  yaw: 27.473112
+  pitch: 25.05
+homes:
+  home:
+    world: spawn
+    x: -705.1307486600213
+    y: 70.0
+    z: 9235.58164128658
+    yaw: 261.95132
+    pitch: 12.1500225
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

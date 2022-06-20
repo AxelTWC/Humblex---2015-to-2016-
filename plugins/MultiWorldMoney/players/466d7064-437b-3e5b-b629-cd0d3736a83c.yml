@@ -1,0 +1,7 @@
+name: Kumpass_dodo
+uuid: 466d7064-437b-3e5b-b629-cd0d3736a83c
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

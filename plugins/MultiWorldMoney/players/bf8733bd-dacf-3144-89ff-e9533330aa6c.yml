@@ -1,0 +1,8 @@
+name: Troll
+uuid: bf8733bd-dacf-3144-89ff-e9533330aa6c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

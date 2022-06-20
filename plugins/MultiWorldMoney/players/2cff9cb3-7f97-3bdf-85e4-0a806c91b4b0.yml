@@ -1,0 +1,9 @@
+name: Krypto14
+uuid: 2cff9cb3-7f97-3bdf-85e4-0a806c91b4b0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

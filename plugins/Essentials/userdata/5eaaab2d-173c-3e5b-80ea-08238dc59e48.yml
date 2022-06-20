@@ -1,0 +1,23 @@
+lastAccountName: Nekhoo
+timestamps:
+  login: 1469985775794
+  lastteleport: 1469985823017
+  logout: 1469986297699
+ipAddress: 78.166.189.133
+socialspy: false
+money: '160.0'
+lastlocation:
+  world: spawn
+  x: -1141.3281998921584
+  y: 71.0
+  z: 9724.923696480191
+  yaw: -317.22668
+  pitch: 12.527023
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

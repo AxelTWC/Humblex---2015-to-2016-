@@ -1,0 +1,25 @@
+lastAccountName: _McGamer_
+timestamps:
+  login: 1470220004179
+  kits:
+    daily: 1470220829315
+    tools: 1470220868963
+    weekly: 1470220807011
+  logout: 1470224633260
+ipAddress: 121.54.54.47
+money: '150.0'
+socialspy: false
+lastlocation:
+  world: map
+  x: -1027.222120680101
+  y: 25.0
+  z: 321.69665438327985
+  yaw: 104.54538
+  pitch: 33.750027
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

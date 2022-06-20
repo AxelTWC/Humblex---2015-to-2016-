@@ -1,0 +1,7 @@
+name: AdvertLords
+uuid: 658e66f3-2ce0-3768-8b11-d3d86063a092
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

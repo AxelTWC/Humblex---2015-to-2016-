@@ -1,0 +1,7 @@
+name: troyt16
+uuid: 408e539c-1a8b-3379-8183-99365139f5d9
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

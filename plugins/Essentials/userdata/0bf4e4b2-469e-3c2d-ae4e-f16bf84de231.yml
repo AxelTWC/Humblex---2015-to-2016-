@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: ZwBookX
+timestamps:
+  login: 1482000193748
+  logout: 1482000546928
+ipAddress: 124.120.118.175
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: 1398.4626858945105
+  y: -118.33062146234435
+  z: -599.5953022293024
+  yaw: 14.249298
+  pitch: -85.19997

@@ -1,0 +1,11 @@
+name: Jackerez
+uuid: c3699b07-2633-3932-9ba0-1c0af4ea4228
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

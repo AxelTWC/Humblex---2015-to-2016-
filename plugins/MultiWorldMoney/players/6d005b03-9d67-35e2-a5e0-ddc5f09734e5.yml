@@ -1,0 +1,10 @@
+name: HappyUserman
+uuid: 6d005b03-9d67-35e2-a5e0-ddc5f09734e5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

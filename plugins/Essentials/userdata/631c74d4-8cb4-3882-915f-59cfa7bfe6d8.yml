@@ -1,0 +1,23 @@
+lastAccountName: BenDaDoge
+timestamps:
+  login: 1490765354177
+  kits:
+    titan: 1489906198607
+  logout: 1490765360812
+ipAddress: 118.149.81.7
+money: '197.0'
+socialspy: false
+lastlocation:
+  world: skywars
+  x: -238.93115605655424
+  y: 5.0
+  z: -3.255062927537415
+  yaw: 38.240025
+  pitch: 3.2636416
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

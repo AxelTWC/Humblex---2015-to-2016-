@@ -1,0 +1,37 @@
+money: '0.0'
+lastAccountName: _Raffael
+timestamps:
+  login: 1472065860330
+  lastteleport: 1472065878485
+  logout: 1472065855203
+  kits:
+    daily: 1470385864235
+    tools: 1470305823750
+    weekly: 1470155142140
+  mute: 0
+ipAddress: 37.24.99.236
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 8.0
+  z: 1.7599852589508118
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+nickname: §bPoliceMan
+muted: false
+homes:
+  home:
+    world: spawn
+    x: -1011.3306499620062
+    y: 68.0
+    z: 10568.951296278705
+    yaw: -117.5249
+    pitch: 8.379102

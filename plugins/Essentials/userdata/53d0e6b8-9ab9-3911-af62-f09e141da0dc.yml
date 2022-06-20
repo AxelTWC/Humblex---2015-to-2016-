@@ -1,0 +1,21 @@
+lastAccountName: export
+timestamps:
+  login: 1490777787696
+  logout: 1490778503935
+ipAddress: 92.66.8.9
+money: '150.004999999999995'
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 43030.5
+  y: 93.0
+  z: 27143.5
+  yaw: -305.45035
+  pitch: 54.57429
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

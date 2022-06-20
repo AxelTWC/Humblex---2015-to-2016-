@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ofir12
+timestamps:
+  login: 1484465234337
+  logout: 1484465325852
+ipAddress: 46.121.76.241
+lastlocation:
+  world: spawn
+  x: -1130.5
+  y: 73.5
+  z: 9723.5
+  yaw: -177.87675
+  pitch: 11.001408
+money: '0.0'
+logoutlocation:
+  world: skywars
+  x: -240.0
+  y: 5.0
+  z: -3.0
+  yaw: -262.0
+  pitch: 84.0

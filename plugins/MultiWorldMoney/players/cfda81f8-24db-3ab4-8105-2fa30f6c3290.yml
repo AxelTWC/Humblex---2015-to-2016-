@@ -1,0 +1,7 @@
+name: M0nstrosity
+uuid: cfda81f8-24db-3ab4-8105-2fa30f6c3290
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

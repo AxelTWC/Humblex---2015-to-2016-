@@ -1,0 +1,21 @@
+money: '593.0'
+lastAccountName: Maddybacon
+timestamps:
+  login: 1472495315260
+  logout: 1472495316251
+ipAddress: 31.11.70.72
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: lobby
+  x: 0.7075938190572132
+  y: 20.0
+  z: -17.30000001192093
+  yaw: 6.662813
+  pitch: 24.083073

@@ -1,0 +1,7 @@
+name: MinecraftMaster
+uuid: 5c2dc4e6-0b7b-30dc-bbb6-6d04ae6fc9ca
+logoffworld: lobby
+balances:
+  lobby: 330.0
+  spawn: 0.0
+  spawn_nether: 0.0

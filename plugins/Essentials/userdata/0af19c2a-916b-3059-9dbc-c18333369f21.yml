@@ -1,0 +1,25 @@
+money: '2700.0'
+lastAccountName: xX_scyp10_Xx
+timestamps:
+  login: 1475354088854
+  logout: 1475354078499
+  lastteleport: 1475352620526
+  kits:
+    daily: 1475300247772
+ipAddress: 101.185.142.112
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1131.214363620725
+  y: 66.25220334025373
+  z: 9867.988345537531
+  yaw: -30.775618
+  pitch: 12.928319
+afk: false

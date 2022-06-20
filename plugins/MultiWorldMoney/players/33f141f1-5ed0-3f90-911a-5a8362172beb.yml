@@ -1,0 +1,7 @@
+name: Space_Zebra_God
+uuid: 33f141f1-5ed0-3f90-911a-5a8362172beb
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

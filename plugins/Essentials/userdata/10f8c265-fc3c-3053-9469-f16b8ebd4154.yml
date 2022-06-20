@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: MutatedPanda
+timestamps:
+  login: 1479009745895
+  lastteleport: 1479009775178
+  logout: 1479010111373
+ipAddress: 72.27.67.188
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.4269549223896303
+  y: 82.5
+  z: -1.9548930917788034
+  yaw: -5.2786093
+  pitch: 15.900136
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

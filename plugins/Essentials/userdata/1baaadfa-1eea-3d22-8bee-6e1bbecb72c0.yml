@@ -1,0 +1,25 @@
+money: '650.0'
+lastAccountName: reystroyer01
+socialspy: false
+timestamps:
+  login: 1475285728967
+  lastteleport: 1475028773259
+  logout: 1475285738317
+  kits:
+    daily: 1475028719372
+    weekly: 1475028723523
+ipAddress: 73.211.139.141
+lastlocation:
+  world: spawn
+  x: -881.3000000119209
+  y: 48.0
+  z: -1055.4688906449007
+  yaw: -235.55792
+  pitch: -1.1144671
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

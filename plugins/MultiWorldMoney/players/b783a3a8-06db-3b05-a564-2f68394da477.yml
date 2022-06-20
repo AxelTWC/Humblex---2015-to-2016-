@@ -1,0 +1,7 @@
+name: PlaysCrazyLP
+uuid: b783a3a8-06db-3b05-a564-2f68394da477
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

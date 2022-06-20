@@ -1,0 +1,11 @@
+name: elvisstars
+uuid: 1bb14b75-d240-30c9-9160-062fe90ee2d7
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

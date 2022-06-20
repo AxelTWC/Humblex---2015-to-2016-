@@ -1,0 +1,16 @@
+general:
+  spawn:
+    delay: 200
+evil:
+  items:
+    tame-item: 354
+    drops: 260,357,2256,
+  misc:
+    tame-chance: 5
+    names: Evil_aPunch,Evil_fullwall,Evil_Notch,Herobrine,
+    health: 20
+    failed-tame-messages: Ha! You can't tame me!;Nice try, <name>!;Muahahaha, I am evil!;
+  spawn:
+    max: 2
+    chance: 100
+    spawn: false

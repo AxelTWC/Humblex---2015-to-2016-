@@ -1,0 +1,7 @@
+name: CaptainB
+uuid: c2da97d9-82cc-35be-872a-be2c7a5cf4e4
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

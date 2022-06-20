@@ -1,0 +1,17 @@
+money: '150.0'
+lastAccountName: FindNeverland
+timestamps:
+  login: 1489880565492
+  kits:
+    daily: 1489880586334
+    weekly: 1489880588535
+  logout: 1489880763799
+ipAddress: 66.215.211.208
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

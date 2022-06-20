@@ -1,0 +1,7 @@
+name: SlayerKJ
+uuid: a473db89-c329-3e01-8cbb-93b348e45ecd
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

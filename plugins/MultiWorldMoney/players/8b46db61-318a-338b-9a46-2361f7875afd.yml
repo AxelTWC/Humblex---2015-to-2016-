@@ -1,0 +1,7 @@
+name: HabeSupport
+uuid: 8b46db61-318a-338b-9a46-2361f7875afd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 500.0
+  spawn_nether: 0.0

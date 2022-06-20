@@ -1,0 +1,7 @@
+name: BuildCrazy50
+uuid: 19e8a51b-9a7a-325e-8399-369f62146c0a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

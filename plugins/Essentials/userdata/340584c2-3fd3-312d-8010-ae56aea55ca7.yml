@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: SavageMonk
+timestamps:
+  login: 1484968444035
+  logout: 1484970217083
+ipAddress: 114.74.111.6
+socialspy: false
+lastlocation:
+  world: map
+  x: -1005.1800277535815
+  y: 13.0
+  z: 280.7455343129271
+  yaw: -146.30005
+  pitch: 11.578052
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

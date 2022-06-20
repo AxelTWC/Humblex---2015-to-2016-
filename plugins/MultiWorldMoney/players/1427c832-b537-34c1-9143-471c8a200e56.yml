@@ -1,0 +1,7 @@
+name: Swake
+uuid: 1427c832-b537-34c1-9143-471c8a200e56
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

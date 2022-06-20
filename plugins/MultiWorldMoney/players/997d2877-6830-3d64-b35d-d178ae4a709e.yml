@@ -1,0 +1,7 @@
+name: WormsTower11
+uuid: 997d2877-6830-3d64-b35d-d178ae4a709e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

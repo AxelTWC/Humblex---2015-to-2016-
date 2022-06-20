@@ -1,0 +1,22 @@
+money: '250.0'
+lastAccountName: Troller1015
+timestamps:
+  login: 1476068910925
+  lastteleport: 1476068921459
+  logout: 1476068931395
+ipAddress: 198.144.105.42
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.5964028097698006
+  y: 83.0
+  z: -0.031328766370855354
+  yaw: -181.95003
+  pitch: 0.6000014
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

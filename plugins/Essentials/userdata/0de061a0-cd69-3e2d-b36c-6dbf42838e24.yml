@@ -1,0 +1,27 @@
+money: '1314.997000000000266'
+lastAccountName: dungca09
+timestamps:
+  login: 1490762885391
+  logout: 1490763515863
+  kits:
+    daily: 1489208244471
+    tools: 1489889152896
+    weekly: 1489189305349
+  lastteleport: 1490763242007
+ipAddress: 111.125.110.78
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: 848.624905325372
+  y: 16.0
+  z: 263.9295815787244
+  yaw: 77.114624
+  pitch: 30.000046
+afk: false

@@ -1,0 +1,7 @@
+name: FazyTazyTraLaLa
+uuid: d386a535-c8e9-3b41-83f2-6601336b634b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

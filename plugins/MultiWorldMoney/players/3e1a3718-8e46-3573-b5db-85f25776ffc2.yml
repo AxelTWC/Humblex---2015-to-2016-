@@ -1,0 +1,7 @@
+name: FreckleDew
+uuid: 3e1a3718-8e46-3573-b5db-85f25776ffc2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

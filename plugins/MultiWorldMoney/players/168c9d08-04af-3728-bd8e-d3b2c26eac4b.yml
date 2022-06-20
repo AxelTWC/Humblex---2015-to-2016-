@@ -1,0 +1,12 @@
+name: MrCarlosJob
+uuid: 168c9d08-04af-3728-bd8e-d3b2c26eac4b
+logoffworld: map
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

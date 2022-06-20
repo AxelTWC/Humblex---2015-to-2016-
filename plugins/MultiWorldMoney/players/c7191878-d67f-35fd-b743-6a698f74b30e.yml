@@ -1,0 +1,6 @@
+name: DinnerBone
+uuid: c7191878-d67f-35fd-b743-6a698f74b30e
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0

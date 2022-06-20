@@ -1,0 +1,22 @@
+money: '0.0'
+lastAccountName: DaRkDiLeMmA
+timestamps:
+  login: 1477717489497
+  lastteleport: 1477716855164
+  logout: 1477717372826
+ipAddress: 118.101.164.106
+socialspy: false
+lastlocation:
+  world: summit_1
+  x: 0.14000598005322917
+  y: 50.0
+  z: 4.536537907343716
+  yaw: -319.27014
+  pitch: 25.789856
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

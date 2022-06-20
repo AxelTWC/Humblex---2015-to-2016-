@@ -1,0 +1,7 @@
+name: krshn2
+uuid: 1b782a67-b92c-3929-9fe8-f7d8deefb661
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

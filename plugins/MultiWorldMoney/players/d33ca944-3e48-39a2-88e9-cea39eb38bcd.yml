@@ -1,0 +1,7 @@
+name: chards
+uuid: d33ca944-3e48-39a2-88e9-cea39eb38bcd
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

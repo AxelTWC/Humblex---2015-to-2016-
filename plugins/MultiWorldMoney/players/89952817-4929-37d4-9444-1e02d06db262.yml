@@ -1,0 +1,7 @@
+name: FeaRNeoz
+uuid: 89952817-4929-37d4-9444-1e02d06db262
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: BuildWormsXD
+uuid: 3110f924-b801-39a2-b003-fb6ae8d10d5e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

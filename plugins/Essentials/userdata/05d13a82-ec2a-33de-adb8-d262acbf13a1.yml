@@ -1,0 +1,35 @@
+lastAccountName: Arsa_02
+timestamps:
+  login: 1468622286352
+  kits:
+    daily: 1468622980431
+    tools: 1468622911093
+    weekly: 1468513398022
+  lastteleport: 1468623009236
+  logout: 1468623372809
+ipAddress: 175.141.29.53
+socialspy: false
+money: '15410.50'
+lastlocation:
+  world: spawn
+  x: 565.3000000119209
+  y: 66.0
+  z: 468.5257884233813
+  yaw: 106.20865
+  pitch: 16.39594
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: spawn
+    x: -1246.7576851236822
+    y: 6.0
+    z: 9461.345803844437
+    yaw: 78.27607
+    pitch: 34.404457
+afk: false

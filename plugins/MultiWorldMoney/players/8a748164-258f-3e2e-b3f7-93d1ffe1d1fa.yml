@@ -1,0 +1,11 @@
+name: _diamond_lord_
+uuid: 8a748164-258f-3e2e-b3f7-93d1ffe1d1fa
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

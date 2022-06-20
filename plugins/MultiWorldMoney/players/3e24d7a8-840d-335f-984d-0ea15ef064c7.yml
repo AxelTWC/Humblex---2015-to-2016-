@@ -1,0 +1,7 @@
+name: tharcon
+uuid: 3e24d7a8-840d-335f-984d-0ea15ef064c7
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

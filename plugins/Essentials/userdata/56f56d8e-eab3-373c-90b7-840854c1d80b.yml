@@ -1,0 +1,27 @@
+money: '450.00'
+socialspy: false
+lastAccountName: RyderWaylander
+timestamps:
+  login: 1479445077323
+  lastteleport: 1479445771844
+  logout: 1479446006448
+  kits:
+    elite: 1479445170544
+    daily: 1479254335654
+    tools: 1479254331953
+    weekly: 1479254340007
+ipAddress: 67.168.22.37
+lastlocation:
+  world: ASkyBlock
+  x: -1199.5
+  y: 116.0
+  z: -199.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

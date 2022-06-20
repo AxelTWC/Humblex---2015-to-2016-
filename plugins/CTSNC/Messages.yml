@@ -1,0 +1,6 @@
+CTSNC:
+  COMMANDS:
+    Cts_Me_Scoreboard: '&a&lYou toggled your &escoreboard &a&lsuccessful!'
+    Cts_Me_Tablist: '&a&lYou toggled your &etablist &a&lsuccessful!'
+  MODULES:
+    Missing: '&c&lYou dont have the right module installed!'

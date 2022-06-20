@@ -1,0 +1,9 @@
+name: Dasnvi
+uuid: b6de0b57-52f6-3cf7-944e-cf22b185c7d8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 0.0

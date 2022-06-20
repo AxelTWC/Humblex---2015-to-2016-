@@ -1,0 +1,11 @@
+name: ZQBabyruth
+uuid: 78a3c546-7af4-313f-8061-1746370c3a9f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  skywars: 0.0

@@ -1,0 +1,9 @@
+name: vTech367
+uuid: 06c347fe-ca44-3afe-bae0-10c6224a0866
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 0.0

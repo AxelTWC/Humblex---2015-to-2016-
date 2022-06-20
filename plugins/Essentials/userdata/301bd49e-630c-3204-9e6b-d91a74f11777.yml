@@ -1,0 +1,47 @@
+money: '1631131.29999999999999'
+lastAccountName: MasteraulAngel
+timestamps:
+  login: 1485409443504
+  lastteleport: 1485410176049
+  logout: 1485410185752
+  kits:
+    illuminati: 1481899795736
+    titan: 1481107690863
+    tools: 1481022695479
+    weekly: 1477742277775
+    pegasus: 1481899953423
+  mute: 0
+ipAddress: 37.211.4.158
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 2.6855362315087867
+  y: 82.0
+  z: -0.3420206934110022
+  yaw: -105.75012
+  pitch: 16.35
+logoutlocation:
+  world: spawn
+  x: -482.5406628317743
+  y: 235.4167127238288
+  z: -611.6422718167338
+  yaw: -197.17854
+  pitch: 26.249823
+afk: false
+muted: false
+nickname: §9§ki§bMaster§9§ki
+homes:
+  home:
+    world: spawn
+    x: 44.15959658204497
+    y: 68.0
+    z: 220.22314990460785
+    yaw: 108.44684
+    pitch: 2.032573
+  faction:
+    world: spawn
+    x: 9999736.118099954
+    y: 71.0
+    z: 32.082895877841814
+    yaw: -137.14078
+    pitch: -5.347657

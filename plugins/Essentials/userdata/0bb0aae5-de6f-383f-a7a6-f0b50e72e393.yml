@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: MapJodiTR
+timestamps:
+  login: 1467792066867
+  lastteleport: 1467792198169
+  logout: 1467792246794
+ipAddress: 212.252.167.235
+lastlocation:
+  world: spawn
+  x: -34.80240215440675
+  y: 109.0
+  z: 130.86761434159519
+  yaw: 76.94959
+  pitch: -14.549998
+money: '10.0'
+logoutlocation:
+  world: spawn
+  x: -1133.237500011921
+  y: 73.0625
+  z: 9727.111097832041
+  yaw: 339.7734
+  pitch: -4.8000193

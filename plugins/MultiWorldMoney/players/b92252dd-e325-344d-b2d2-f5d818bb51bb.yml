@@ -1,0 +1,7 @@
+name: kotasuperhero
+uuid: b92252dd-e325-344d-b2d2-f5d818bb51bb
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

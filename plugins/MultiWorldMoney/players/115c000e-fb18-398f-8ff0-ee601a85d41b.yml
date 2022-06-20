@@ -1,0 +1,12 @@
+name: JanceREK
+uuid: 115c000e-fb18-398f-8ff0-ee601a85d41b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 22.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 100.0
+  skywars: 0.0

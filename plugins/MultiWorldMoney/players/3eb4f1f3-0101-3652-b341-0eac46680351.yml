@@ -1,0 +1,7 @@
+name: pandagaming_nice
+uuid: 3eb4f1f3-0101-3652-b341-0eac46680351
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

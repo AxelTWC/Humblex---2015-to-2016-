@@ -1,0 +1,7 @@
+name: MrSquirrelMan
+uuid: 246c6984-6798-3012-a443-c765c6347b73
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

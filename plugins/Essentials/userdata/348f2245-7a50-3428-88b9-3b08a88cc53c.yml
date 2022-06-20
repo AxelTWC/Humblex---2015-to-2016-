@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Gcon5
+timestamps:
+  login: 1467811455665
+  logout: 1467811480035
+ipAddress: 119.74.41.123
+lastlocation:
+  world: spawn
+  x: -9.5
+  y: 109.0
+  z: 135.5
+  yaw: 0.0
+  pitch: 0.0
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -10.5
+  y: 110.0
+  z: 131.5
+  yaw: -181.99983
+  pitch: 10.9987135

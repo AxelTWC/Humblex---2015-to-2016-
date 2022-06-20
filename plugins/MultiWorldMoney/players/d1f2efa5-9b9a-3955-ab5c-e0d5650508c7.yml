@@ -1,0 +1,7 @@
+name: SnapItsDrew
+uuid: d1f2efa5-9b9a-3955-ab5c-e0d5650508c7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

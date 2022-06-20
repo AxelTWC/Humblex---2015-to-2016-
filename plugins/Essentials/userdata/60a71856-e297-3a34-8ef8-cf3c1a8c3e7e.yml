@@ -1,0 +1,25 @@
+money: '150.0'
+lastAccountName: darkness
+timestamps:
+  login: 1476095615243
+  kits:
+    daily: 1476095649975
+    weekly: 1476095652023
+  lastteleport: 1476095732497
+  logout: 1476095813595
+ipAddress: 59.189.107.183
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1129.4771458704665
+  y: 72.0
+  z: 9723.106191370669
+  yaw: -195.73718
+  pitch: 17.488968
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

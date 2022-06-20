@@ -1,0 +1,11 @@
+name: ak47delta
+uuid: 65873c46-eb58-308b-b4b8-a7151f470d84
+logoffworld: lobby
+balances:
+  lobby: 200.0
+  spawn: 5600.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 300.0

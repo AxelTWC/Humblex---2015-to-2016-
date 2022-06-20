@@ -1,0 +1,47 @@
+lastAccountName: rfrai2
+timestamps:
+  login: 1471508887400
+  logout: 1471508890750
+  kits:
+    youtube: 1467969370332
+    daily: 1470616891282
+    titan: 1471124667765
+    coal: 1470519932750
+    dtools: 1467974424226
+    tools: 1470616897337
+    weekly: 1470527125863
+    emerald: 1471120943073
+  lastteleport: 1471503459479
+  mute: 0
+ipAddress: 118.208.48.248
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: -126.73616197044835
+  y: 144.97800240263274
+  z: 189.52284611142414
+  yaw: -297.29956
+  pitch: 37.499996
+money: '94481.00'
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+nickname: §4§kk§5§m§b§mNigel§4§kk
+powertools:
+  '276':
+  - day
+powertoolsenabled: false
+homes:
+  home:
+    world: spawn
+    x: -2217.3827674654767
+    y: 64.0
+    z: 9505.801139469519
+    yaw: -256.04175
+    pitch: 43.3825
+afk: false
+muted: false

@@ -1,0 +1,7 @@
+name: FizzeBu
+uuid: 7b21006b-6cec-3751-98a4-672567d2f2b9
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

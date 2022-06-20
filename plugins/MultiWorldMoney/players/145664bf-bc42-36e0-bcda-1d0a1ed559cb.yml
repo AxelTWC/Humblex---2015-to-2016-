@@ -1,0 +1,7 @@
+name: Speedy_Gameur
+uuid: 145664bf-bc42-36e0-bcda-1d0a1ed559cb
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,9 @@
+name: GamingByManny
+uuid: 30b06e63-5d5b-3644-986a-3618da5da38c
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ice_1: 0.0
+  skywars: 0.0

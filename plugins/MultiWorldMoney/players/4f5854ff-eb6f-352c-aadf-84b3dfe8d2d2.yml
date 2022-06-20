@@ -1,0 +1,7 @@
+name: GamesBuild99
+uuid: 4f5854ff-eb6f-352c-aadf-84b3dfe8d2d2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

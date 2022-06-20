@@ -1,0 +1,11 @@
+# no settings to do
+# permissions: villagershop.admin
+tag_buy: Buy ->
+tag_sell: Sell ->
+tag_price: 'Price:'
+eco_success: Transaction successfull - You balance is now %1 (%2)
+eco_failed: Transaction failed!
+buy_nospace: Your inventory is full!
+buy_nomoney: Not enough money!
+sell_noitem: You don't have enough of this item!
+not_permitted: You are not welcome here!

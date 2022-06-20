@@ -1,0 +1,7 @@
+name: BlueWolf_FTW
+uuid: 7236371b-8323-31c0-930b-2c2a48685bce
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

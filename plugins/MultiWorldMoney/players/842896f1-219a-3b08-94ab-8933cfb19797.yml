@@ -1,0 +1,8 @@
+name: Voodox
+uuid: 842896f1-219a-3b08-94ab-8933cfb19797
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

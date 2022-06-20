@@ -1,0 +1,13 @@
+name: IcanLevitate
+uuid: 23b7c419-ae4d-3397-b570-2e2a46912f49
+logoffworld: lobby
+balances:
+  lobby_nether: 0.0
+  lobby: 536.0
+  spawn: 400.0
+  spawn_nether: 0.0
+  ASkyBlock: 885.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 500.0
+  skywars: 0.0

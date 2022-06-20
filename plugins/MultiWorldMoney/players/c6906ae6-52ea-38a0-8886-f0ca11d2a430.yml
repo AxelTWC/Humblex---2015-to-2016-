@@ -1,0 +1,7 @@
+name: zayada
+uuid: c6906ae6-52ea-38a0-8886-f0ca11d2a430
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

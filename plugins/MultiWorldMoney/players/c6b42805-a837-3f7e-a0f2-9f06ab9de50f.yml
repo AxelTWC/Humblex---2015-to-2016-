@@ -1,0 +1,7 @@
+name: Bqby
+uuid: c6b42805-a837-3f7e-a0f2-9f06ab9de50f
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

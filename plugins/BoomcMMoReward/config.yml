@@ -1,0 +1,12 @@
+config:
+  debugMode: true
+  diceFaces: 10
+  logInDatabase: true
+  version: 2.0.5b
+database:
+  type: sqlite
+  mysql:
+    server: localhost
+    base: minecraft
+    user: boozaa
+    pass: password

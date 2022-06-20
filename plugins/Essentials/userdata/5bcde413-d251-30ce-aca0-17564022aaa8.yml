@@ -1,0 +1,34 @@
+lastAccountName: ThatsZman
+timestamps:
+  login: 1490444518428
+  logout: 1490444708558
+  lastteleport: 1490397924140
+  kits:
+    daily: 1486770339533
+    weekly: 1486770355242
+ipAddress: 97.85.83.159
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 43.41385845761776
+  y: 78.5
+  z: 162.07028056382995
+  yaw: 93.26883
+  pitch: 10.688544
+money: '2574.0'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: spawn
+    x: 695.9896343031763
+    y: 74.0
+    z: 158.6244337444306
+    yaw: 39.24052
+    pitch: 15.878922
+afk: false

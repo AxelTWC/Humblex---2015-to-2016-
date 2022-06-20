@@ -1,0 +1,14 @@
+money: '250.0'
+lastAccountName: Hexavolt
+timestamps:
+  login: 1472574983655
+  logout: 1472575013527
+ipAddress: 67.149.30.26
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

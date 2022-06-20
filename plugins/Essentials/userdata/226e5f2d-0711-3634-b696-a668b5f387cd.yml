@@ -1,0 +1,59 @@
+lastAccountName: RYAN_RX
+timestamps:
+  login: 1483992658835
+  lastteleport: 1470406718016
+  logout: 1483992669904
+  kits:
+    youtube: 1469547015583
+    color: 1469564883962
+    daily: 1469612077519
+    titan: 1470162138522
+    coal: 1470317531388
+    weekly: 1469612084382
+    emerald: 1469875767747
+  mute: 0
+ipAddress: 31.22.52.130
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1078.5
+  y: 2.0
+  z: 556.5
+  yaw: 217.08162
+  pitch: 2.850001
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+money: '250.0'
+homes:
+  furnace:
+    world: spawn
+    x: -1581.373367887032
+    y: 71.0
+    z: 9868.3414175706
+    yaw: 273.60583
+    pitch: 66.59999
+  home:
+    world: spawn
+    x: 171.49058000597097
+    y: 94.0
+    z: 461.2290570889254
+    yaw: 356.61218
+    pitch: 10.499995
+  ___:
+    world: spawn
+    x: -1045.7541028913447
+    y: 65.0
+    z: 493.83336748366276
+    yaw: 10.53009
+    pitch: -5.400066
+afk: false
+powertools:
+  '392':
+  - tp ProKingLikeABoss iamManos
+muted: false
+nickname: §1Real§4Erald

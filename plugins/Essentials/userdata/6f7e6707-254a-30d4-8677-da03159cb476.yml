@@ -1,0 +1,24 @@
+money: '350.0'
+socialspy: false
+lastAccountName: gvmau5
+timestamps:
+  login: 1478700667799
+  lastteleport: 1478699720854
+  kits:
+    weekly: 1478699971424
+  logout: 1478700719815
+ipAddress: 74.115.1.248
+lastlocation:
+  world: lobby
+  x: 0.35718648631124017
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 14.221323
+  pitch: 40.650135
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

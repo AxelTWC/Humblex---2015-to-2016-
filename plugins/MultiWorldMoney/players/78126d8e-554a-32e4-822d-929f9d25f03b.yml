@@ -1,0 +1,7 @@
+name: samodexter
+uuid: 78126d8e-554a-32e4-822d-929f9d25f03b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

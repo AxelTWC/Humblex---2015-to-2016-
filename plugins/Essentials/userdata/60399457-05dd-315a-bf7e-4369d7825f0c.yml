@@ -1,0 +1,21 @@
+socialspy: false
+money: '160.0'
+timestamps:
+  lastteleport: 1469906062784
+  kits:
+    weekly: 1469905803843
+  logout: 1469906157004
+lastlocation:
+  world: spawn
+  x: -872.5289002442634
+  y: 54.0
+  z: -1051.0082846629011
+  yaw: -239.75836
+  pitch: 7.735542
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

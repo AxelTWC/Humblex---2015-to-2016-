@@ -1,0 +1,7 @@
+name: AppleLP
+uuid: 64a31014-381c-3d72-aff0-2ad899f6ba5c
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 500.0
+  spawn_nether: 0.0

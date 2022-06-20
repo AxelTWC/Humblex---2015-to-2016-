@@ -1,0 +1,25 @@
+money: '350.0'
+lastAccountName: LUGINUGI
+timestamps:
+  login: 1479662321276
+  kits:
+    weekly: 1477246289882
+  lastteleport: 1477249656127
+  logout: 1479662380355
+ipAddress: 84.238.107.157
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -893.1523561472665
+  y: 48.5
+  z: -1051.1396146261413
+  yaw: -211.72891
+  pitch: 31.595953
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

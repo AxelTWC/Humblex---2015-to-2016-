@@ -1,0 +1,7 @@
+name: Malik_TR
+uuid: d4b8fca6-4525-3327-afa4-b43c6147eb16
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 2200.0
+  spawn_nether: 0.0

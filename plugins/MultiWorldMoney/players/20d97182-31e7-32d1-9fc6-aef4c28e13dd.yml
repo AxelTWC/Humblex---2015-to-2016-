@@ -1,0 +1,7 @@
+name: fourthbrook
+uuid: 20d97182-31e7-32d1-9fc6-aef4c28e13dd
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,8 @@
+name: Baf3fu
+uuid: 01c4dde5-65c0-3d41-b93b-90608fd7579c
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

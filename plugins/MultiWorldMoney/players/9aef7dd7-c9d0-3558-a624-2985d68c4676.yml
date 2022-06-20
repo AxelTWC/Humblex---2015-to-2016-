@@ -1,0 +1,8 @@
+name: sandesh
+uuid: 9aef7dd7-c9d0-3558-a624-2985d68c4676
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

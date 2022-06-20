@@ -1,0 +1,10 @@
+name: Audicale
+uuid: 20d59e3f-caad-36bc-b59b-a26c2f7662d5
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0
+  ASkyBlock: 0.0
+  spawn_nether: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

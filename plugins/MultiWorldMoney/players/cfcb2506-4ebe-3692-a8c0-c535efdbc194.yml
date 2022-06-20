@@ -1,0 +1,8 @@
+name: HybridGaming
+uuid: cfcb2506-4ebe-3692-a8c0-c535efdbc194
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

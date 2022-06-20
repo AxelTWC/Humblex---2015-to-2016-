@@ -1,0 +1,35 @@
+money: '1500.0009999999999800'
+lastAccountName: Lairva22
+timestamps:
+  login: 1485107956627
+  kits:
+    daily: 1484971175138
+    weekly: 1484971177038
+  lastteleport: 1485128801818
+  logout: 1485130655437
+ipAddress: 64.250.4.211
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -558.3149519802139
+  y: 64.0
+  z: 583.3142060659437
+  yaw: -53.99402
+  pitch: 7.650011
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+nickname: Avasaurus
+homes:
+  home:
+    world: spawn
+    x: -539.773102258068
+    y: 138.0
+    z: 624.6139027994382
+    yaw: -175.79938
+    pitch: 33.749958

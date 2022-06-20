@@ -1,0 +1,7 @@
+name: MattieICE14
+uuid: b1d2c176-1177-3cc5-a971-07e11051aec8
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

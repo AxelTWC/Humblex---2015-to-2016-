@@ -1,0 +1,7 @@
+name: gunsbeforeroses
+uuid: 618bec0d-455c-39ce-abcd-d585d95d8033
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

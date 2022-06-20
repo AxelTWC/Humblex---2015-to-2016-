@@ -1,0 +1,7 @@
+name: JackPlaysMCP
+uuid: 64d5b2fb-13c5-3136-89b1-1e55efbd60a1
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 2200.0
+  spawn_nether: 0.0

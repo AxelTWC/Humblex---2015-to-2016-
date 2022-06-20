@@ -1,0 +1,11 @@
+name: ElfPlayer
+uuid: 8f9fa9ed-c493-384d-ab3a-c945029ab8d3
+logoffworld: lobby
+balances:
+  lobby: 650.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0

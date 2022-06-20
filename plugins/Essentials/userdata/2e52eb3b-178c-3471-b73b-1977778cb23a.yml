@@ -1,0 +1,21 @@
+money: '150.0'
+lastAccountName: xXMakeggXx
+socialspy: false
+timestamps:
+  login: 1471116750749
+  logout: 1471117034720
+ipAddress: 95.180.177.115
+lastlocation:
+  world: ASkyBlock
+  x: 796.7980386595358
+  y: 120.0
+  z: 1000.4541504340898
+  yaw: -209.55
+  pitch: 9.750002
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

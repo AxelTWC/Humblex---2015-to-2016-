@@ -1,0 +1,9 @@
+name: MCHKQueen
+uuid: 8bc6a12f-e317-3561-afea-3f79e1ea379d
+logoffworld: lobby
+balances:
+  lobby: 426.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0
+  skywars: 0.0

@@ -1,0 +1,25 @@
+money: '150.0'
+lastAccountName: WRXtasy
+socialspy: false
+timestamps:
+  login: 1490537211300
+  kits:
+    daily: 1490537222880
+    weekly: 1490537223835
+  lastteleport: 1490537337135
+  logout: 1490537678026
+ipAddress: 76.106.156.131
+lastlocation:
+  world: spawn
+  x: 56.72027732975128
+  y: 68.0
+  z: 205.0689213685584
+  yaw: 269.05905
+  pitch: 2.7511399
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

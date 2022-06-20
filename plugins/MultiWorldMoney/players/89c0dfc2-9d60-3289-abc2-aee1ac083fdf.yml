@@ -1,0 +1,10 @@
+name: MoonMonkey14
+uuid: 89c0dfc2-9d60-3289-abc2-aee1ac083fdf
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

@@ -1,0 +1,25 @@
+money: '250.0'
+lastAccountName: GamerS
+timestamps:
+  login: 1471453191518
+  lastteleport: 1471453768556
+  kits:
+    weekly: 1471453486347
+  logout: 1471455068416
+ipAddress: 37.142.10.116
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -881.0034403643684
+  y: 54.0
+  z: -1053.6482485715942
+  yaw: -295.7084
+  pitch: 25.350061
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

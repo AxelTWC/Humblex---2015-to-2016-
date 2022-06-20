@@ -1,0 +1,7 @@
+name: GetStarted
+uuid: 680ebdc3-b596-3692-aa51-190ca4b11e91
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

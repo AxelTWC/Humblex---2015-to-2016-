@@ -1,0 +1,106 @@
+users:
+  09cc7b45-3798-39dc-8087-f455f7101fd1:
+    lastname: ProKingLikeABoss
+    group: Moderator
+    subgroups: []
+    permissions: []
+  11d726cf-2465-3470-8bec-6e35ad8137f5:
+    lastname: Dojo215
+    group: Moderator
+    subgroups: []
+    permissions: []
+  1960e078-ebd2-33f8-b767-1751ddfd7642:
+    lastname: kolohen3
+    group: Admin
+    subgroups: []
+    permissions: []
+  287e2a4c-77fb-35f3-8690-6d501392e5d0:
+    lastname: silent_assassin3
+    group: Moderator
+    subgroups: []
+    permissions: []
+  41a72a0e-7063-36dc-941f-22145d6b4c1d:
+    lastname: Mr_SoufflesYT
+    group: Youtuber
+    subgroups: []
+    permissions: []
+  631c74d4-8cb4-3882-915f-59cfa7bfe6d8:
+    lastname: BenDaDoge
+    group: Titan
+    subgroups: []
+    permissions: []
+  704f3255-58ae-3efc-a82b-337facb95d96:
+    lastname: PyroGuy15
+    group: Apprentice
+    subgroups: []
+    permissions: []
+  873fca5e-0c09-32fb-87b6-64c8aff814e2:
+    lastname: GreenMasterGame
+    group: Builder
+    subgroups: []
+    permissions: []
+  afa8e45c-6d0e-334b-a418-49bd64eca156:
+    lastname: AxelTWC
+    group: Owner
+    subgroups: []
+    permissions: []
+  audi2015:
+    group: Developer
+    subgroups: []
+    permissions: []
+  AxelTWC:
+    group: Owner
+    subgroups: []
+    permissions: []
+  bfe47ad8-86cf-30a9-967a-2e14635378d8:
+    lastname: ProJohnTech
+    group: Admin
+    subgroups: []
+    permissions: []
+  c2698cb4-e97e-3309-bca1-47d42c42461a:
+    lastname: MomentousMaster
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  d31c2b87-7502-30ca-b675-f7e55e93d270:
+    lastname: Blank_infiety
+    group: Moderator
+    subgroups: []
+    permissions: []
+  Dazze:
+    group: Moderator
+    subgroups: []
+    permissions: []
+  Enchanted_Boy:
+    group: Moderator
+    subgroups: []
+    permissions: []
+  f19bd2f2-9776-3269-b51c-9e06964773c5:
+    lastname: MoneyKiller234
+    group: Builder
+    subgroups: []
+    permissions: []
+  KryptialGaming:
+    group: Admin
+    subgroups: []
+    permissions: []
+  MrPiggy:
+    group: Builder
+    subgroups: []
+    permissions: []
+  NIGELDABOSS:
+    group: Manager
+    subgroups: []
+    permissions: []
+  Rage360:
+    group: Titan
+    subgroups: []
+    permissions: []
+  swagking:
+    group: Apprentice
+    subgroups: []
+    permissions: []
+  TheSlimeJunior:
+    group: Co-Owner
+    subgroups: []
+    permissions: []

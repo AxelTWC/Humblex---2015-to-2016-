@@ -1,0 +1,6 @@
+name: ZombeyPVP_HD
+uuid: 7bd17ac1-0a02-36c1-8d62-8bec27a6c16f
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0

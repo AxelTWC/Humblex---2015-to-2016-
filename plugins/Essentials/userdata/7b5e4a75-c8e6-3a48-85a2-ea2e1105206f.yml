@@ -1,0 +1,22 @@
+money: '450.0'
+lastAccountName: craftgames55
+timestamps:
+  login: 1474093511001
+  logout: 1474093893993
+ipAddress: 213.57.68.172
+socialspy: false
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.5964028097698006
+  y: 83.0
+  z: -0.03132876637085538
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -957.3000000119209
+  y: 19.0
+  z: 248.69999998807907
+  yaw: 128.1207
+  pitch: 26.44398

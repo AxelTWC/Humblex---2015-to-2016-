@@ -1,0 +1,9 @@
+name: AlphaJumping
+uuid: 86ad8472-bc41-3a89-93c3-9494a63c8eca
+logoffworld: skywars
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  caves_1: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

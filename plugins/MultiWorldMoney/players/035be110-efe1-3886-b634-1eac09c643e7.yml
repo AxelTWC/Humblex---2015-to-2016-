@@ -1,0 +1,7 @@
+name: Zimoni
+uuid: 035be110-efe1-3886-b634-1eac09c643e7
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 200.0
+  spawn_nether: 0.0

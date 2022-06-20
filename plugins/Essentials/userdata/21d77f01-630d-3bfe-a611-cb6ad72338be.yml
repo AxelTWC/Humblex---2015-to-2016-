@@ -1,0 +1,25 @@
+money: '279.0'
+socialspy: false
+lastAccountName: ParmenDaveCZ
+timestamps:
+  login: 1477219566344
+  kits:
+    daily: 1477219699330
+    tools: 1477219820001
+    weekly: 1477219702430
+  logout: 1477220032366
+ipAddress: 31.11.68.155
+lastlocation:
+  world: ASkyBlock
+  x: 1201.326377471149
+  y: -131.06613773646018
+  z: -593.2810406321055
+  yaw: -162.19019
+  pitch: -90.0
+logoutlocation:
+  world: lobby
+  x: 0.48220503938995607
+  y: 83.0
+  z: 0.43706678883793115
+  yaw: 0.0
+  pitch: 0.0

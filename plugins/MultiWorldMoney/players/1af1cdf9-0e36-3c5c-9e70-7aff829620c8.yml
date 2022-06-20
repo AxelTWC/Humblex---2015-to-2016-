@@ -1,0 +1,7 @@
+name: Jvr20
+uuid: 1af1cdf9-0e36-3c5c-9e70-7aff829620c8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

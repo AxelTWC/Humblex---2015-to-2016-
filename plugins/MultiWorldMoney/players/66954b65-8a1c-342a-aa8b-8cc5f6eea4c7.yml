@@ -1,0 +1,7 @@
+name: GamesCrazy50
+uuid: 66954b65-8a1c-342a-aa8b-8cc5f6eea4c7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

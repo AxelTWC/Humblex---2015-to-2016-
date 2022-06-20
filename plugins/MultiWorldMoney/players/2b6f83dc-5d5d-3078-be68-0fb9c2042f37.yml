@@ -1,0 +1,7 @@
+name: Mainlevel17
+uuid: 2b6f83dc-5d5d-3078-be68-0fb9c2042f37
+logoffworld: lobby
+balances:
+  lobby: 350.0
+  spawn: 0.0
+  spawn_nether: 0.0

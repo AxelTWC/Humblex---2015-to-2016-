@@ -1,0 +1,10 @@
+name: XMartiL
+uuid: 2d4f1443-bf91-3478-84b9-81e1e8aec1d1
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

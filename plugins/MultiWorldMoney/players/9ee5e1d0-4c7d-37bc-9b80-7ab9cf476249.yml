@@ -1,0 +1,8 @@
+name: dan330
+uuid: 9ee5e1d0-4c7d-37bc-9b80-7ab9cf476249
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

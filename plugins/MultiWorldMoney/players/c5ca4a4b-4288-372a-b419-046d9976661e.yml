@@ -1,0 +1,10 @@
+name: DragoPvP
+uuid: c5ca4a4b-4288-372a-b419-046d9976661e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 6.4E8
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

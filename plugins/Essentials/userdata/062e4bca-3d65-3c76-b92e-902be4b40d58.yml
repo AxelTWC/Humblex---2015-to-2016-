@@ -1,0 +1,34 @@
+money: '250.0'
+lastAccountName: SimplyPvP
+timestamps:
+  login: 1472977036953
+  kits:
+    daily: 1472974353781
+    tools: 1472974634640
+    weekly: 1472972995470
+  logout: 1472977734750
+  lastteleport: 1472977543533
+ipAddress: 49.147.85.128
+socialspy: false
+lastlocation:
+  world: ASkyBlock
+  x: 63.48866994553161
+  y: 83.0
+  z: 1.6957671705396056
+  yaw: 92.333145
+  pitch: 43.93711
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: ASkyBlock
+    x: 415.5208720721894
+    y: 115.0
+    z: 442.6777723662002
+    yaw: -116.20679
+    pitch: 48.440315

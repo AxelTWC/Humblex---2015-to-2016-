@@ -1,0 +1,7 @@
+name: Playermaster151
+uuid: 3050785f-c827-3b90-b107-9b6d947e63f1
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

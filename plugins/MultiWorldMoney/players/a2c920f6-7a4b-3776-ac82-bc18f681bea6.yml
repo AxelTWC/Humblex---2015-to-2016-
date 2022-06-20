@@ -1,0 +1,7 @@
+name: pikmin259
+uuid: a2c920f6-7a4b-3776-ac82-bc18f681bea6
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

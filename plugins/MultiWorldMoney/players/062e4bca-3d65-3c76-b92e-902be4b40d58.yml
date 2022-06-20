@@ -1,0 +1,10 @@
+name: SimplyPvP
+uuid: 062e4bca-3d65-3c76-b92e-902be4b40d58
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

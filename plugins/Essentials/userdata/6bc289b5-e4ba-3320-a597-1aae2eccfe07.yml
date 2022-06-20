@@ -1,0 +1,24 @@
+money: '250.0'
+socialspy: false
+lastAccountName: enderman206
+timestamps:
+  login: 1473956259719
+  logout: 1473956280164
+  kits:
+    daily: 1473955726816
+    tools: 1473955748036
+ipAddress: 109.177.53.169
+lastlocation:
+  world: map
+  x: -1004.5231934697766
+  y: 13.46075
+  z: 284.4799467262037
+  yaw: 259.06427
+  pitch: 4.5294743
+logoutlocation:
+  world: lobby
+  x: 0.2788066025224589
+  y: 83.0
+  z: 0.23101213145347338
+  yaw: 0.0
+  pitch: 0.0

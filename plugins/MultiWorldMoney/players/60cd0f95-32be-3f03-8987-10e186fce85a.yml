@@ -1,0 +1,7 @@
+name: Cercy
+uuid: 60cd0f95-32be-3f03-8987-10e186fce85a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

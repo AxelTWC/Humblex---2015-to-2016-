@@ -1,0 +1,26 @@
+lastAccountName: robotmqn
+timestamps:
+  login: 1487498323491
+  logout: 1487498444095
+  lastteleport: 1475326085679
+  kits:
+    daily: 1482467595110
+    weekly: 1482467593212
+ipAddress: 61.10.141.38
+socialspy: false
+money: '2610.0'
+lastlocation:
+  world: map
+  x: -1003.2376190945506
+  y: 17.0
+  z: 257.69999998807907
+  yaw: 224.4587
+  pitch: 43.56309
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false

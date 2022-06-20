@@ -1,0 +1,23 @@
+money: '250.0'
+lastAccountName: M0ort
+timestamps:
+  login: 1474721647048
+  kits:
+    weekly: 1474720703409
+  logout: 1474721746894
+ipAddress: 216.172.142.15
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1036.1694666702704
+  y: 69.0
+  z: 9722.370910566084
+  yaw: 325.41565
+  pitch: 20.64304
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

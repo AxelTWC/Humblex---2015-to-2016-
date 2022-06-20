@@ -1,0 +1,10 @@
+name: renan
+uuid: 04d6d609-3945-39d4-ace3-226dc53fd976
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0

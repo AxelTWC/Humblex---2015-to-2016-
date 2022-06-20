@@ -1,0 +1,7 @@
+name: RendHD
+uuid: 387d5054-df45-3765-9640-400e81f2c5bb
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

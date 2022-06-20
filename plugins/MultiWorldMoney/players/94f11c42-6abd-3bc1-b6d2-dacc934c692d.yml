@@ -1,0 +1,7 @@
+name: DebugTester
+uuid: 94f11c42-6abd-3bc1-b6d2-dacc934c692d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

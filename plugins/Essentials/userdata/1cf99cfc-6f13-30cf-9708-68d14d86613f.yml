@@ -1,0 +1,16 @@
+money: '150.0'
+lastAccountName: ClickToBegin
+timestamps:
+  login: 1490555016844
+  kits:
+    weekly: 1490555037306
+  logout: 1490555055537
+ipAddress: 173.238.211.18
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

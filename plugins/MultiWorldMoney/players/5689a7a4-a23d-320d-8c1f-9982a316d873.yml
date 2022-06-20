@@ -1,0 +1,7 @@
+name: NitroSuperLP
+uuid: 5689a7a4-a23d-320d-8c1f-9982a316d873
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: Ascalter
+uuid: c3f95251-6463-30a7-8177-90daedf4ffdf
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

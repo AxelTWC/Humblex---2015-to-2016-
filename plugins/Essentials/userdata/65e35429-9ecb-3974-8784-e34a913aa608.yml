@@ -1,0 +1,34 @@
+money: '350.0'
+socialspy: false
+lastAccountName: Mispeled420
+timestamps:
+  login: 1478293658466
+  kits:
+    daily: 1478112671574
+    tools: 1478112665172
+    weekly: 1478112678278
+  lastteleport: 1478294513733
+  logout: 1478294612449
+ipAddress: 108.161.52.214
+lastlocation:
+  world: map
+  x: -990.5504282065034
+  y: 89.0
+  z: 263.9139299499561
+  yaw: 11.889679
+  pitch: 16.803795
+homes:
+  home:
+    world: spawn
+    x: -272.334171435485
+    y: 56.0625
+    z: 833.7312619457559
+    yaw: 249.25885
+    pitch: 23.153864
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,7 @@
+name: Kleebop
+uuid: 823bc812-a28c-3357-9774-a5400fb58be1
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

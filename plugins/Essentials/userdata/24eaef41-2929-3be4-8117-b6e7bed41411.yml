@@ -1,0 +1,22 @@
+money: '250.00'
+lastAccountName: tattoextreme
+timestamps:
+  login: 1475414808451
+  lastteleport: 1475416373103
+  logout: 1475417236101
+ipAddress: 181.197.187.41
+socialspy: false
+lastlocation:
+  world: skyblock
+  x: -3.3356059577635087
+  y: 82.0
+  z: -5.5287042228044
+  yaw: -34.712128
+  pitch: 23.656115
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

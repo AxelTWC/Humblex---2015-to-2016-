@@ -1,0 +1,7 @@
+name: Logdotzip
+uuid: 275edfc3-8992-3a97-aaf3-6d09f84d2ca5
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

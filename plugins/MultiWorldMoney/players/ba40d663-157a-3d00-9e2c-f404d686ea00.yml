@@ -1,0 +1,10 @@
+name: alessandro
+uuid: ba40d663-157a-3d00-9e2c-f404d686ea00
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 100.0
+  spawn_nether: 0.0
+  paradise_1: 0.0
+  map: 0.0
+  skywars: 0.0

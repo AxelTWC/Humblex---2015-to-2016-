@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: fnaf552
+timestamps:
+  login: 1471028580156
+  logout: 1471029020614
+ipAddress: 146.255.146.94
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -1064.5569933932627
+  y: 63.0
+  z: 9832.007198579768
+  yaw: 135.777
+  pitch: 7.6499934

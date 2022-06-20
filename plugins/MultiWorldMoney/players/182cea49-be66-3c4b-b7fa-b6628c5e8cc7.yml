@@ -1,0 +1,7 @@
+name: MaGiK_TurTle
+uuid: 182cea49-be66-3c4b-b7fa-b6628c5e8cc7
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

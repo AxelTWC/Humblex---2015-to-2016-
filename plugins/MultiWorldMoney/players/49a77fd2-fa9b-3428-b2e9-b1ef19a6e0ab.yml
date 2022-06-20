@@ -1,0 +1,12 @@
+name: Renzplayz
+uuid: 49a77fd2-fa9b-3428-b2e9-b1ef19a6e0ab
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 0.0
+  ASkyBlock_nether: 0.0
+  skyblock: 100.0
+  map: 0.0
+  skywars: 100.0

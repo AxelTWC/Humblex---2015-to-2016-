@@ -1,0 +1,24 @@
+money: '0.0'
+lastAccountName: NerdGamingSam
+timestamps:
+  login: 1480761124863
+  kits:
+    daily: 1480760187278
+    weekly: 1480760053611
+  logout: 1480761242568
+ipAddress: 77.28.223.33
+socialspy: false
+lastlocation:
+  world: map
+  x: -954.1065516673992
+  y: 13.125
+  z: 241.3462853339865
+  yaw: -13.807049
+  pitch: -20.100002
+logoutlocation:
+  world: map
+  x: -954.1065516673992
+  y: 13.125
+  z: 241.3462853339865
+  yaw: -13.807049
+  pitch: -20.100002

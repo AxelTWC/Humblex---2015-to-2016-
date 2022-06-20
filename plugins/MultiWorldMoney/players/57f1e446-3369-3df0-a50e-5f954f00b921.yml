@@ -1,0 +1,6 @@
+name: MangaDude
+uuid: 57f1e446-3369-3df0-a50e-5f954f00b921
+logoffworld: lobby
+balances:
+  lobby: 160.0
+  spawn: 0.0

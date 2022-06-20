@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ThatszMan
+timestamps:
+  login: 1468217274200
+  logout: 1468217333855
+ipAddress: 112.120.53.194
+lastlocation:
+  world: spawn
+  x: -1130.5
+  y: 73.5
+  z: 9723.5
+  yaw: -177.87675
+  pitch: 11.001408
+money: '110.0'
+logoutlocation:
+  world: lobby
+  x: -0.5000409702297475
+  y: 8.0
+  z: -0.4999731217703811
+  yaw: 180.15
+  pitch: 15.1500025

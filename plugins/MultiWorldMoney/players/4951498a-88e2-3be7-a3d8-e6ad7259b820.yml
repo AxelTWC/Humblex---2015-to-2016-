@@ -1,0 +1,8 @@
+name: Dilobo
+uuid: 4951498a-88e2-3be7-a3d8-e6ad7259b820
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 100.0

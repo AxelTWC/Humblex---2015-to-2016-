@@ -1,0 +1,7 @@
+name: GamesSuperLP
+uuid: 956542ac-ec5a-35e7-ac27-b3df7a6bf179
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: Nyamila
+uuid: 6123f00f-f4b6-3eb1-a9fa-ea453434ce31
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

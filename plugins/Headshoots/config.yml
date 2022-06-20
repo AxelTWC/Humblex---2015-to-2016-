@@ -1,0 +1,7 @@
+Headshoots:
+  Multiplier: 1.5
+  TellMultiplier: true
+  Blood: true
+  Message: '&4&lBOOM! &6Headshot on:&4 <headshotted> &7<multiplier>'
+Updater:
+  Warn: false

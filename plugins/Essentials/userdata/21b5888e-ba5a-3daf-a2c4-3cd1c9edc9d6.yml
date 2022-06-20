@@ -1,0 +1,24 @@
+money: '275.0'
+lastAccountName: crazy2mojo5
+timestamps:
+  login: 1479135621786
+  kits:
+    weekly: 1479135740738
+  lastteleport: 1479135971190
+  logout: 1479135982549
+ipAddress: 72.238.222.142
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1130.9472073381644
+  y: 72.0
+  z: 9724.768175398987
+  yaw: -173.38892
+  pitch: 14.188965
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

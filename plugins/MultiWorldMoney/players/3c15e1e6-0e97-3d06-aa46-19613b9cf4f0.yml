@@ -1,0 +1,8 @@
+name: Tridoh
+uuid: 3c15e1e6-0e97-3d06-aa46-19613b9cf4f0
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

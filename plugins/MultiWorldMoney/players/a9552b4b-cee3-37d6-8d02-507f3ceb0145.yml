@@ -1,0 +1,7 @@
+name: Toaderdus
+uuid: a9552b4b-cee3-37d6-8d02-507f3ceb0145
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

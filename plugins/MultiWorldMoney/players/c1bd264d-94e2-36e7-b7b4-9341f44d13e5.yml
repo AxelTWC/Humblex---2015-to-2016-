@@ -1,0 +1,12 @@
+name: ScilenceOG
+uuid: c1bd264d-94e2-36e7-b7b4-9341f44d13e5
+logoffworld: lobby
+balances:
+  lobby: 254.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  ASkyBlock: 29731.0
+  ASkyBlock_nether: 0.0
+  skyblock: 0.0
+  map: 0.0
+  skywars: 0.0

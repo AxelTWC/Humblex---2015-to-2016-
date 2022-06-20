@@ -1,0 +1,55 @@
+Version: 0.4
+    Added:
+        - A Toggle command to toggle between console and player command sending
+        - A canlook command to toggle whether a NPC looks at players.
+    Fixed:
+        - Issue with ChestCommand commands.
+    Changed:
+        - NPCInteractEvent#sendCommand(String var1)
+          now checks if they are a player and forces them to type the commands in chat, still without the / when setting the command.
+
+Version: 0.3
+    Added:
+        - HolographicDisplays Naming (depends)
+        - Added a listener to watch for when they Left click a npc
+        - NPCInteractEvent
+    Fixed:
+        - NPCs not loading
+        - Error being thrown on plugins disable
+        - Names not displaying
+        - Error with ArmorStandTrait (removed replaced with HoloDisp.)
+        - Remove command not removing the NPCs
+    Changed:
+        - The naming of the NPCs
+        - Alot of the code to work with HolographicDisplays
+
+Version: 0.2
+    Added:
+        - SetCommand command
+        - SetName command
+        - SetSkin command
+        - Custom Events (SpawnNamesEvent, StoreNPCEvent, and CMD_NPC_Event)
+        - More customization
+        - Metrics
+        - Update checker
+        - Bungee support for sending players to servers
+            (e.g. /server Hub Will now send them to the server called Hub [Must have IsBungeeServer set to true])
+    Fixed:
+        - The names duplicating
+        - The NPCs duplicating
+    Changed:
+        - The File saving system (Will reset the NPCs)
+
+Version: 0.1
+    *Created:
+        - Remove command
+        - Info command
+        - List command
+        - Create command
+        - Help command
+        - Majority of the text configurable
+        - NPC data stroage
+        - This file :P
+        - Posted to spigot!!!
+
+

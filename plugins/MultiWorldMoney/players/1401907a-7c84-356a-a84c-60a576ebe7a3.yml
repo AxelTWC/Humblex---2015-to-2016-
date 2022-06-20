@@ -1,0 +1,7 @@
+name: ShadowBomb19
+uuid: 1401907a-7c84-356a-a84c-60a576ebe7a3
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

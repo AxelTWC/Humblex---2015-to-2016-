@@ -1,0 +1,7 @@
+name: Hallway_Monitor
+uuid: 762c5a10-237d-3c47-92e4-092ac9cc396f
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

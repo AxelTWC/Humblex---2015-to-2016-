@@ -1,0 +1,7 @@
+name: Greek2me
+uuid: 7f61d978-0bf6-39d0-8a30-c16d29a66d9e
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,53 @@
+money: '1336935.00070000018029150'
+lastAccountName: PyroGuy15
+timestamps:
+  login: 1490778487035
+  kits:
+    elite: 1490544373717
+    daily: 1490710967364
+    tools: 1490483963728
+    weekly: 1490288151084
+    emerald: 1490539327674
+  logout: 1490778576657
+  lastteleport: 1490778511597
+  mute: 0
+ipAddress: 92.66.8.9
+socialspy: false
+lastlocation:
+  world: lobby
+  x: -0.699999988079071
+  y: 87.0
+  z: -51.30000001192093
+  yaw: -281.25525
+  pitch: 25.956373
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: spawn
+    x: 42789.055293362995
+    y: 81.0
+    z: 26120.059044342128
+    yaw: -180.60938
+    pitch: 7.6907473
+  extra:
+    world: spawn
+    x: 14765.764995037189
+    y: 69.0
+    z: 13475.63379660615
+    yaw: -7.3325243
+    pitch: 11.07273
+  forward:
+    world: spawn
+    x: 41552.76892189032
+    y: 79.0
+    z: 27453.459688168667
+    yaw: -268.313
+    pitch: 22.100891
+muted: false
+afk: false

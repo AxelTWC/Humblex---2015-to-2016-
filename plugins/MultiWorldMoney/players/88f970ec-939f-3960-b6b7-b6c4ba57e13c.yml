@@ -1,0 +1,7 @@
+name: joelt2
+uuid: 88f970ec-939f-3960-b6b7-b6c4ba57e13c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

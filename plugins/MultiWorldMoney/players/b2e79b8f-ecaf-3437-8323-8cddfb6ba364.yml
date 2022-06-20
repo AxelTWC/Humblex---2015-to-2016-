@@ -1,0 +1,7 @@
+name: TheBeastSplashy
+uuid: b2e79b8f-ecaf-3437-8323-8cddfb6ba364
+logoffworld: lobby
+balances:
+  lobby: 450.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,8 @@
+name: DiEVern
+uuid: d0eb049d-0c13-3072-8d9e-6d5b265d8cd9
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

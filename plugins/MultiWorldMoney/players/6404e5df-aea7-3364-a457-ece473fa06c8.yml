@@ -1,0 +1,7 @@
+name: BeachActorLP
+uuid: 6404e5df-aea7-3364-a457-ece473fa06c8
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

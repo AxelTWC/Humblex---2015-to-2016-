@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: lannah
+timestamps:
+  login: 1471721142175
+  logout: 1471721305992
+ipAddress: 189.212.249.13
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: map
+  x: -987.7624999880791
+  y: 88.0
+  z: 276.111399649714
+  yaw: 95.39581
+  pitch: 5.5500197

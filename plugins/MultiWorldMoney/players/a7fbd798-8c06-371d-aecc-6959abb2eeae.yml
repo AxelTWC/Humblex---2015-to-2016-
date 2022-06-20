@@ -1,0 +1,8 @@
+name: PainfulPvP
+uuid: a7fbd798-8c06-371d-aecc-6959abb2eeae
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

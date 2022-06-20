@@ -1,0 +1,8 @@
+name: The_FIash
+uuid: 93514b79-6505-323c-92c4-4fd6b99e835c
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

@@ -1,0 +1,789 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    - YourName.Owner
+    - silkspawners.info.*
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - builder
+    - Apprentice
+    - chat-moderator
+    - moderator
+    - admin
+    - youtuber
+    - head-admin
+    - developer
+    - manager
+    - co-owner
+    info:
+      build: true
+      prefix: '&8[&6~&8]&6&l&nOwner&8[&6~&8]&f '
+      suffix: ''
+  Chat-Moderator:
+    default: false
+    permissions:
+    - antiff.notify
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - clearchat.cc
+    - clearchat.clear
+    - disco.use
+    - echopet.pet.*
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - nocheatplus.checks
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawner.create
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&8[&4-&8]&cChat-MOD&8[&4-&8]&f '
+      suffix: ''
+  Builder:
+    default: false
+    permissions:
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.pet.*
+    - essentials.fly
+    - essentials.gamemode
+    - essentials.help
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - nocheatplus.checks
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinrestorer.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&8[&4-&8]&6Builder&8[&4-&8]&f '
+      suffix: ''
+  Developer:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    - YourName.Dev
+    - chestdrop.dropchest
+    - moremobtypes.berserkskeleton
+    - moremobtypes.diamondzombie
+    - moremobtypes.firewolf
+    - moremobtypes.giantmagmacube
+    - moremobtypes.giantslime
+    - moremobtypes.giantzombie
+    - moremobtypes.shadow
+    - randomtp.signs.use
+    - randomtp.tp
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - builder
+    - Apprentice
+    - chat-moderator
+    - moderator
+    - admin
+    - youtuber
+    - head-admin
+    info:
+      build: true
+      prefix: '&8[&6~&8]&B&l&BDEV&8[&6~&8]&f '
+      suffix: ''
+  Manager:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    - YourName.Manager
+    - chestdrop.dropchest
+    - moremobtypes.berserkskeleton
+    - moremobtypes.diamondzombie
+    - moremobtypes.firewolf
+    - moremobtypes.giantmagmacube
+    - moremobtypes.giantslime
+    - moremobtypes.giantzombie
+    - moremobtypes.shadow
+    - multiverse.access.*
+    - pwcp.*
+    - pwcp.chat.color
+    - randomtp.signs.use
+    - randomtp.tp
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - builder
+    - Apprentice
+    - chat-moderator
+    - moderator
+    - admin
+    - youtuber
+    - head-admin
+    - developer
+    info:
+      build: true
+      prefix: '&8[&6~&8]&a&l&I&aManager&8[&6~&8]&f '
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - YourName.Admin
+    - add
+    - antiff.notify
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - chestdrop.dropchest
+    - disco.use
+    - echopet.pet.*
+    - enable
+    - factions
+    - factions.enable.override.mode
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - mode
+    - moremobtypes.*
+    - moremobtypes.berserkskeleton
+    - moremobtypes.diamondzombie
+    - moremobtypes.firewolf
+    - moremobtypes.giantmagmacube
+    - moremobtypes.giantslime
+    - moremobtypes.giantzombie
+    - moremobtypes.shadow
+    - multiverse.portal.access.*
+    - nocheatplus.checks
+    - override
+    - pwcp.chat.color
+    - pwcp.spy
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - silkspawner.create
+    - silkspawners.create
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - builder
+    - Apprentice
+    - chat-moderator
+    - youtuber
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&8[&4-&8]&4Admin&8[&4-&8]&f '
+      suffix: ''
+  Co-Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    - archoncrates.view.prizes
+    - chestdrop.dropchest
+    - moremobtypes.*
+    - moremobtypes.berserkskeleton
+    - moremobtypes.diamondzombie
+    - moremobtypes.firewolf
+    - moremobtypes.giantmagmacube
+    - moremobtypes.giantslime
+    - moremobtypes.giantzombie
+    - moremobtypes.shadow
+    - noswear.*
+    - NoSwear.Bypass
+    - pwcp.*
+    - pwcp.chat.color
+    - randomtp.signs.use
+    - randomtp.tp
+    - YourName.coowner
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - builder
+    - Apprentice
+    - chat-moderator
+    - moderator
+    - admin
+    - youtuber
+    - head-admin
+    - developer
+    - manager
+    info:
+      build: true
+      prefix: '&8[&6~&8]&3&L&i&3Co-Owner&8[&6~&8]&f '
+      suffix: ''
+  Apprentice:
+    default: false
+    permissions:
+    - anticheat.check.exempt
+    - antiff.notify
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.pet.*
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - nocheatplus.checks
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - chat-moderator
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&8[&4-&8]&2&lApprentice&8[&4-&8]&f '
+      suffix: ''
+  Moderator:
+    default: false
+    permissions:
+    - YourName.Mod
+    - antiff.notify
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.pet.*
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - iDisguise.*
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - nocheatplus.checks
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - Apprentice
+    - chat-moderator
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    info:
+      build: true
+      prefix: '&8[&4-&8]&a&lMOD&8[&4-&8]&f '
+      suffix: ''
+  Youtuber:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.pet.*
+    - essentials.fly
+    - essentials.kit
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - essentials.kits.youtube
+    - essentials.sethome.multiple.coal
+    - essentials.signs.use
+    - essentials.signs.use.*
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.*
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&fY&4T&f '
+      suffix: ''
+  Emerald:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    - anticheat.check.fly
+    - anticheat.check.zombe.fly
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.*
+    - echopet.pet.*
+    - essentails.kit.titan
+    - essentials.fly
+    - essentials.hat
+    - essentials.home
+    - essentials.kit.coal
+    - essentials.kits
+    - essentials.kits.Daily
+    - essentials.kits.emerald
+    - essentials.kits.titan
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - essentials.sethome.multiple.titan
+    - essentials.signs.use
+    - essentials.signs.use.*
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - idisguise.*
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - player.report
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.*
+    - silkspawners.create
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&a&lEmerald&f '
+      suffix: ''
+  Head-Admin:
+    default: false
+    permissions:
+    - YourName.HeadAdmin
+    - antiff.notify
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - chestdrop.dropchest
+    - disco.use
+    - echopet.pet.*
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - moremobtypes.*
+    - moremobtypes.berserkskeleton
+    - moremobtypes.diamondzombie
+    - moremobtypes.firewolf
+    - moremobtypes.giantmagmacube
+    - moremobtypes.giantslime
+    - moremobtypes.giantzombie
+    - moremobtypes.shadow
+    - multiverse.portal.access.*
+    - nocheatplus.checks
+    - pwcp.chat.color
+    - pwcp.spy
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - silkspawners.create
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - novice
+    - coal
+    - titan
+    - emerald
+    - builder
+    - Apprentice
+    - chat-moderator
+    - moderator
+    - admin
+    - youtuber
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&8[&4-&8]&c&lHead-Admin&8[&4-&8]&f'
+      suffix: ''
+  Coal:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    - anticheat.check.fly
+    - anticheat.check.zombe.fly
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.*
+    - essentials.kits
+    - essentials.kits.Coal
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - essentials.sethome.multiple.coal
+    - essentials.signs.use
+    - essentials.signs.use.*
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - player.report
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&8Coal&f '
+      suffix: ''
+  Novice:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    - antiff.notify
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - essentials.kits
+    - essentials.kits.Daily
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - essentials.mail
+    - essentials.signs.use
+    - essentials.signs.use.*
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - marryme.*
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - player.report
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    - wild.wildtp.others
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: true
+      prefix: '&f[Novice] '
+      suffix: ''
+  Titan:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    - anticheat.check.fly
+    - anticheat.check.zombe.fly
+    - archoncrates.command.crate
+    - archoncrates.crate.open
+    - archoncrates.crate.open.virtual
+    - archoncrates.sign.use.buy
+    - archoncrates.view.prizes
+    - auction.bid
+    - auction.start
+    - blf.chat
+    - blf.dxp
+    - blf.gift
+    - blf.tp
+    - blf.use
+    - disco.use
+    - echopet.*
+    - echopet.pet.*
+    - essentails.kit.titan
+    - essentials.fly
+    - essentials.hat
+    - essentials.home
+    - essentials.kit.coal
+    - essentials.kits
+    - essentials.kits.coal
+    - essentials.kits.Daily
+    - essentials.kits.titan
+    - essentials.kits.tools
+    - essentials.kits.Weekly
+    - essentials.sethome.multiple.titan
+    - essentials.signs.use
+    - essentials.signs.use.*
+    - headrankup.use
+    - HiveJumpPads.use.JumpPad
+    - hubthat.hub
+    - hubthat.spawn
+    - idisguise.*
+    - mcmmoextras.expbar
+    - multiverse.portal.access.*
+    - player.report
+    - pws.spawn
+    - randomtp.signs.use
+    - randomtp.tp
+    - randomtp.use
+    - silkspawners.*
+    - silkspawners.create
+    - silkspawners.info.*
+    - silkspawners.place.*
+    - skinsrestorer.playercmds
+    - trading.trade
+    - wild.wildtp
+    - wild.wildtp.cost.bypass
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&cTitan&f '
+      suffix: ''

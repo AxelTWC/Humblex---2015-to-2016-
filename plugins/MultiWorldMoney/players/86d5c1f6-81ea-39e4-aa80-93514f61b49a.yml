@@ -1,0 +1,8 @@
+name: iSwaginq
+uuid: 86d5c1f6-81ea-39e4-aa80-93514f61b49a
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

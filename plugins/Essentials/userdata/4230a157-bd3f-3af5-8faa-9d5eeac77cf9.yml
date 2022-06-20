@@ -1,0 +1,21 @@
+money: '250.0'
+lastAccountName: VisaPlays
+timestamps:
+  login: 1476069260483
+  logout: 1476069405135
+ipAddress: 173.245.67.182
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -1129.4771458704665
+  y: 72.5
+  z: 9723.106191370669
+  yaw: -177.88719
+  pitch: 3.688967
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

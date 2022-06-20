@@ -1,0 +1,71 @@
+BH1:
+  ==: BlockHuntArena
+  maxPlayers: 24
+  hidersWinCommands: []
+  timeInLobbyUntilStart: 40
+  minPlayers: 2
+  timeUntilHidersSword: 30
+  spawnWarp:
+    ==: BlockHuntLocation
+    p: 3.0000226
+    a: -0.6004888
+    w: BH1
+    x: -92.42760510719236
+    y: 2.0
+    z: -4.088458590753808
+  allowedCommands: []
+  arenaName: BH1
+  amountSeekersOnStart: 1
+  pos1: null
+  pos2: null
+  waitingTimeSeeker: 20
+  seekersTokenWin: 10
+  lobbyWarp:
+    ==: BlockHuntLocation
+    p: 0.15003899
+    a: -269.8537
+    w: skywars
+    x: -237.09464904868378
+    y: 12.0
+    z: -17.572510208597585
+  seekersWinCommands: []
+  killTokens: 8
+  gameTime: 300
+  disguiseBlocks:
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: WORKBENCH
+  - ==: org.bukkit.inventory.ItemStack
+    type: LOG
+  - ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    type: BOOKSHELF
+  - ==: org.bukkit.inventory.ItemStack
+    type: HAY_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    type: COBBLESTONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: TNT
+  - ==: org.bukkit.inventory.ItemStack
+    type: FLOWER_POT
+  hidersWarp:
+    ==: BlockHuntLocation
+    p: 1.5000539
+    a: -87.15076
+    w: BH1
+    x: -65.01515541773404
+    y: 3.0
+    z: -2.9271048142894616
+  seekersWarp:
+    ==: BlockHuntLocation
+    p: 7.9500184
+    a: -359.4002
+    w: BH1
+    x: -92.28745756290614
+    y: 5.0
+    z: -11.274876031519803
+  hidersTokenWin: 50

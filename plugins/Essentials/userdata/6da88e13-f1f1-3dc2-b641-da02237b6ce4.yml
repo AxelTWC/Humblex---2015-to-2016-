@@ -1,0 +1,22 @@
+money: '350.0'
+socialspy: false
+lastAccountName: GamesKing17
+timestamps:
+  login: 1480597133452
+  lastteleport: 1480087316230
+  logout: 1480597136890
+ipAddress: 128.234.131.209
+lastlocation:
+  world: spawn
+  x: 20.82956416553388
+  y: 88.0
+  z: 133.51363003905863
+  yaw: -88.714165
+  pitch: 9.249222
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

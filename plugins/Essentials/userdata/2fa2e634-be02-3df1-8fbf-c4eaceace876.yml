@@ -1,0 +1,21 @@
+money: '0.0'
+lastAccountName: OliverCornish
+timestamps:
+  login: 1480084457676
+  logout: 1480084674593
+ipAddress: 85.212.34.25
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: -219.0
+  y: 12.0
+  z: -9.0
+  yaw: -359.0
+  pitch: -17.0
+lastlocation:
+  world: caves_2
+  x: -28.687552872741563
+  y: -67.56247774879729
+  z: 20.254522220557504
+  yaw: 339.6776
+  pitch: 17.605179

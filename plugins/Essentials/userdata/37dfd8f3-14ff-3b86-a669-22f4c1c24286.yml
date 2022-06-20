@@ -1,0 +1,31 @@
+socialspy: false
+money: '150.0'
+lastAccountName: Sable24
+timestamps:
+  login: 1485140967472
+  logout: 1485143010494
+  lastteleport: 1485142950514
+ipAddress: 206.109.23.56
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: spawn
+  x: -736.45828200613
+  y: 51.0
+  z: 1011.6999999880791
+  yaw: 180.99713
+  pitch: -29.249973
+afk: false
+homes:
+  home:
+    world: spawn
+    x: -557.6048283453605
+    y: 143.0
+    z: 613.6999999880791
+    yaw: -136.49948
+    pitch: 9.299988

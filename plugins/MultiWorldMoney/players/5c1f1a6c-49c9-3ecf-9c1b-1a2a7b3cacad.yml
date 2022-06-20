@@ -1,0 +1,7 @@
+name: T_Olliver
+uuid: 5c1f1a6c-49c9-3ecf-9c1b-1a2a7b3cacad
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,22 @@
+lastAccountName: Braden1104
+timestamps:
+  login: 1467596117378
+  lastteleport: 1467596179065
+  logout: 1467596185356
+ipAddress: 172.75.113.49
+socialspy: false
+money: '110.0'
+lastlocation:
+  world: spawn
+  x: -1104.797117506597
+  y: 72.0
+  z: 9715.07836448455
+  yaw: 50.00717
+  pitch: 11.240144
+logoutlocation:
+  world: spawn
+  x: -10.103429266482541
+  y: 110.5
+  z: 131.68669989526404
+  yaw: 350.7985
+  pitch: 20.056768

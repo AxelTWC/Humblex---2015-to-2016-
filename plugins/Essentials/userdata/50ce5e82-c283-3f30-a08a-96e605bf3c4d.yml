@@ -1,0 +1,22 @@
+money: '0.0'
+lastAccountName: potatoahcvjfdf
+timestamps:
+  login: 1479564347711
+  logout: 1479564517073
+  lastteleport: 1475144793502
+ipAddress: 42.98.23.133
+socialspy: false
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 39.0
+  z: 7.0
+  yaw: -180.0
+  pitch: -45.0
+lastlocation:
+  world: map
+  x: -973.5052501668503
+  y: 13.0
+  z: 299.69999998807907
+  yaw: 26.995749
+  pitch: 0.45001715

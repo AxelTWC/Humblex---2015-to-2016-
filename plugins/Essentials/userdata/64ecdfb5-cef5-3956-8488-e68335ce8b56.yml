@@ -1,0 +1,34 @@
+money: '450.0'
+lastAccountName: mrloverxx
+timestamps:
+  login: 1473092027000
+  kits:
+    daily: 1472509109587
+    tools: 1472509118196
+    weekly: 1472509113942
+  lastteleport: 1472511173518
+  logout: 1473092108450
+ipAddress: 82.46.150.161
+socialspy: false
+homes:
+  home:
+    world: spawn
+    x: -590.0217797150299
+    y: 81.0
+    z: -379.7744697138487
+    yaw: 153.76292
+    pitch: 13.499965
+lastlocation:
+  world: spawn
+  x: -912.5196661874496
+  y: 70.0
+  z: 9739.328135164436
+  yaw: 350.4133
+  pitch: 21.600006
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

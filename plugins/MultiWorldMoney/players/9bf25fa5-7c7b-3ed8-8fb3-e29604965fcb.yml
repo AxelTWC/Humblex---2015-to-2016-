@@ -1,0 +1,7 @@
+name: Hellcreeper
+uuid: 9bf25fa5-7c7b-3ed8-8fb3-e29604965fcb
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,25 @@
+money: '350.0'
+lastAccountName: PixelatedBanter
+timestamps:
+  login: 1474405028866
+  lastteleport: 1474125566656
+  kits:
+    daily: 1474125597525
+    weekly: 1474125673565
+  logout: 1474405031964
+ipAddress: 32.208.254.43
+socialspy: false
+lastlocation:
+  world: map
+  x: -984.7609273531706
+  y: 13.0
+  z: 275.8718345392317
+  yaw: 93.0126
+  pitch: 12.036515
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

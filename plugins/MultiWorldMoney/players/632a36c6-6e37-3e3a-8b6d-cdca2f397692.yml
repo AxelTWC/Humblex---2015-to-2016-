@@ -1,0 +1,7 @@
+name: BritishDab
+uuid: 632a36c6-6e37-3e3a-8b6d-cdca2f397692
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,7 @@
+name: benz2017
+uuid: bdbf71a4-0464-3224-8562-8aabc50e11f2
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,22 @@
+lastAccountName: 7afuaf
+timestamps:
+  login: 1476536643772
+  lastteleport: 1476535622682
+  logout: 1476538447720
+ipAddress: 185.98.24.5
+money: '150.0'
+socialspy: false
+lastlocation:
+  world: summit_1
+  x: 1.002315390214922
+  y: 29.0
+  z: -21.39072644342686
+  yaw: -66.48279
+  pitch: -6.4545183
+logoutlocation:
+  world: lobby
+  x: 0.5230862489551613
+  y: 83.0
+  z: 0.4084567937759438
+  yaw: 0.0
+  pitch: 0.0

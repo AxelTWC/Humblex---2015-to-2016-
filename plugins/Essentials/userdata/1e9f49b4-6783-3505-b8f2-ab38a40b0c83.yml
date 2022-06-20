@@ -1,0 +1,61 @@
+money: '54424.00'
+lastAccountName: Sniper9506
+timestamps:
+  login: 1480871267005
+  lastteleport: 1480831215947
+  kits:
+    illuminati: 1480472956849
+    elite: 1478700058629
+    legendary: 1478700141166
+    ultimate: 1478700212570
+    daily: 1480288888221
+    titan: 1480516595189
+    coal: 1480825115538
+    tools: 1478656692439
+    god: 1480472986998
+    emerald: 1480515195186
+    weekly: 1479901816647
+    pegasus: 1480472947590
+  logout: 1480871326541
+  mute: 0
+ipAddress: 86.145.14.218
+socialspy: false
+lastlocation:
+  world: ASkyBlock_nether
+  x: 0.0
+  y: 116.875
+  z: 0.0
+  yaw: -83.700005
+  pitch: 55.049995
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  obby:
+    world: spawn
+    x: 11.825965612122044
+    y: 73.0
+    z: -274.32375510383173
+    yaw: 140.77222
+    pitch: 9.883216
+  base2:
+    world: spawn
+    x: 2892.964127118915
+    y: 17.0
+    z: 8692.01194374515
+    yaw: 331.52515
+    pitch: 2.2500203
+  ep:
+    world: spawn
+    x: -1769.432813324347
+    y: 29.0
+    z: 8629.385596365597
+    yaw: 27.374023
+    pitch: -63.149937
+afk: false
+nickname: §1§kk§9Sniper
+muted: false

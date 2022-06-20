@@ -1,0 +1,22 @@
+money: '350.0'
+lastAccountName: prowhatever032
+timestamps:
+  login: 1470391785668
+  lastteleport: 1470154806006
+  logout: 1470391844444
+ipAddress: 85.139.210.222
+socialspy: false
+lastlocation:
+  world: spawn
+  x: 22.18832584232162
+  y: 88.0
+  z: 133.43437292365655
+  yaw: -85.04659
+  pitch: 42.37651
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

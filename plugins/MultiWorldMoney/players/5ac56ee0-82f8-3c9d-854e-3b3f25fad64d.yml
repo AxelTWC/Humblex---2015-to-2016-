@@ -1,0 +1,7 @@
+name: DahOnlyPuggy
+uuid: 5ac56ee0-82f8-3c9d-854e-3b3f25fad64d
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

@@ -1,0 +1,8 @@
+name: opticrader
+uuid: 5a4ba483-ebd4-3730-adda-52e95e2a1388
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

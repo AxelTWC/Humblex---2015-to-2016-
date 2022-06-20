@@ -1,0 +1,21 @@
+money: '350.0'
+lastAccountName: will_s_army
+timestamps:
+  login: 1472851095709
+  logout: 1472851112502
+ipAddress: 24.236.214.149
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 0.05047442930959406
+  y: 7.5
+  z: 0.05952457083900953
+  yaw: -26.25003
+  pitch: 15.299992
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

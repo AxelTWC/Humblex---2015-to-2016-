@@ -1,0 +1,30 @@
+money: '150.0'
+lastAccountName: HappyUserman
+timestamps:
+  login: 1471954269570
+  logout: 1471955236133
+  lastteleport: 1471954905748
+ipAddress: 95.180.177.115
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: ASkyBlock
+  x: 796.032559045038
+  y: 135.0
+  z: 986.6083328309168
+  yaw: 298.53882
+  pitch: -11.550021
+homes:
+  home:
+    world: ASkyBlock
+    x: 802.536884308029
+    y: 135.0
+    z: 987.2962793533354
+    yaw: 189.7888
+    pitch: 56.249992

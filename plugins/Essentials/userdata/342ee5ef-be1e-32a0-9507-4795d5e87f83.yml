@@ -1,0 +1,23 @@
+lastAccountName: User_03
+timestamps:
+  login: 1467447807654
+  logout: 1467447825149
+  lastteleport: 1467348805140
+ipAddress: 180.249.252.244
+socialspy: false
+logoutlocation:
+  world: spawn
+  x: -1108.142266453854
+  y: 75.0
+  z: 9645.951419200901
+  yaw: 201.42291
+  pitch: 13.769252
+money: '10.0'
+lastlocation:
+  world: spawn
+  x: -1138.0017554971096
+  y: 75.5
+  z: 9728.739386311214
+  yaw: -246.22597
+  pitch: 35.249996
+afk: false

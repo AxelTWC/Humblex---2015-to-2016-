@@ -1,0 +1,26 @@
+money: '250.0'
+lastAccountName: UnofficialWizard
+timestamps:
+  login: 1471363553184
+  kits:
+    daily: 1471363791656
+    tools: 1471363793687
+    weekly: 1471363781249
+  lastteleport: 1471363909288
+  logout: 1471364126445
+ipAddress: 112.198.118.194
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -589.7437794351131
+  y: 70.0
+  z: -602.4077300637514
+  yaw: -1.9583602
+  pitch: 0.7201865
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

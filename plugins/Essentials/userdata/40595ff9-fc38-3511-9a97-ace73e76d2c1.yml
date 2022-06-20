@@ -1,0 +1,22 @@
+lastAccountName: MeeMas
+timestamps:
+  login: 1467813113304
+  lastteleport: 1467813301145
+  logout: 1467813339400
+ipAddress: 82.41.244.173
+socialspy: false
+lastlocation:
+  world: spawn
+  x: -10.559902564126334
+  y: 109.0
+  z: 107.59873710623742
+  yaw: -17.25069
+  pitch: 0.8999723
+money: '110.0'
+logoutlocation:
+  world: spawn
+  x: -101.30000001192093
+  y: 122.0
+  z: 60.24771779943137
+  yaw: 159.3918
+  pitch: 60.964615

@@ -1,0 +1,34 @@
+lastAccountName: chinnuakhil
+timestamps:
+  login: 1472124110518
+  lastteleport: 1472124154473
+  logout: 1472126296488
+  kits:
+    daily: 1471493305131
+    weekly: 1472124773917
+ipAddress: 49.206.213.136
+socialspy: false
+money: '3535.0'
+lastlocation:
+  world: map
+  x: -972.3661861359025
+  y: 17.535840625044557
+  z: 273.6819263576409
+  yaw: -74.24022
+  pitch: -39.926483
+homes:
+  home:
+    world: spawn
+    x: -514.3000000119209
+    y: 69.0
+    z: 145.69999998807907
+    yaw: -182.64655
+    pitch: 5.2731395
+afk: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0

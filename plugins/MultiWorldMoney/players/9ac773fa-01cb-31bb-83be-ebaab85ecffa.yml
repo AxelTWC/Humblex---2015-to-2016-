@@ -1,0 +1,7 @@
+name: iAussie
+uuid: 9ac773fa-01cb-31bb-83be-ebaab85ecffa
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

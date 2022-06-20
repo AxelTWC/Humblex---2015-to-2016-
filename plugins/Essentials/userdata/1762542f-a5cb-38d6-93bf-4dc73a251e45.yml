@@ -1,0 +1,33 @@
+lastAccountName: Ally_Boo
+timestamps:
+  login: 1468547465652
+  lastteleport: 1468556027742
+  logout: 1468556835074
+  kits:
+    daily: 1468547845495
+ipAddress: 175.141.29.53
+socialspy: false
+money: '10072.0'
+lastlocation:
+  world: map
+  x: -1010.5893878321729
+  y: 94.0
+  z: 276.1715848619067
+  yaw: 90.17557
+  pitch: 75.257645
+homes:
+  home:
+    world: spawn
+    x: 228.68976407891927
+    y: 64.0
+    z: 864.210552856863
+    yaw: -310.50327
+    pitch: -2.2537608
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+afk: false

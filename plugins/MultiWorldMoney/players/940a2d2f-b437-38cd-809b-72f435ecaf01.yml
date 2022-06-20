@@ -1,0 +1,8 @@
+name: EatLivers
+uuid: 940a2d2f-b437-38cd-809b-72f435ecaf01
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

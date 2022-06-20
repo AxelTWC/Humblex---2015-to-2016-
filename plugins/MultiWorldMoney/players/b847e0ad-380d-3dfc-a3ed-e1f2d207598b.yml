@@ -1,0 +1,8 @@
+name: DopeMC
+uuid: b847e0ad-380d-3dfc-a3ed-e1f2d207598b
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  skywars: 0.0

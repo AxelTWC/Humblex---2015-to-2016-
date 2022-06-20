@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Hunamity
+timestamps:
+  login: 1467052198239
+  lastteleport: 1467052211387
+  logout: 1467052216375
+ipAddress: 86.163.130.63
+lastlocation:
+  world: spawn
+  x: -1130.844668674025
+  y: 73.0
+  z: 9725.240077947901
+  yaw: -322.66495
+  pitch: -1.848805
+logoutlocation:
+  world: spawn
+  x: -9.843017687057054
+  y: 110.0
+  z: 131.68366032621245
+  yaw: 231.66922
+  pitch: 26.3004

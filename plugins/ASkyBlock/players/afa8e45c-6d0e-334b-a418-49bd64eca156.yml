@@ -1,0 +1,100 @@
+playerName: AxelTWC
+hasIsland: true
+islandLocation: ASkyBlock:0:115:0:0:0
+hasTeam: true
+teamLeader: afa8e45c-6d0e-334b-a418-49bd64eca156
+teamIslandLocation: ASkyBlock:0:115:0:0:0
+islandLevel: 146
+members:
+- bfe47ad8-86cf-30a9-967a-2e14635378d8
+- afa8e45c-6d0e-334b-a418-49bd64eca156
+- 0d0d143a-070e-3a9c-885f-c725f0c72de4
+- 642001cd-7660-3788-9509-d498c5f47d35
+- 459cc29d-6933-351e-ba64-10f1523625a8
+resetsLeft: 2
+locale: ''
+useControlPanel: true
+startIslandRating: 50
+deaths: 10
+homeLocations:
+  '1': ASkyBlock:0:121:0:0:0
+challenges:
+  status:
+    expert: true
+    advanced: true
+    dj: false
+    craftsman: true
+    beaconator: false
+    stewmaker: true
+    enderpearls: true
+    pioneer: false
+    shepherd: false
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    elite: false
+    homestead: true
+    mason: true
+    builder: true
+    dyemaker: true
+    itsamonsterparty: true
+    glassmaker: true
+    novice: false
+    nether: true
+    alchemist: false
+    gemcollector: false
+    grinder: true
+    papermaker: true
+    cobblemaker: true
+    seedbank: true
+    cookiemaker: false
+    slimeballfarmer: true
+    itsaparty: false
+    competent: false
+    baker: true
+    breadmaker: true
+    myprecious: false
+    snowplay: false
+    farmer: true
+    angler: true
+    treecutter: true
+  times:
+    expert: 1
+    advanced: 1
+    dj: 0
+    craftsman: 1
+    beaconator: 0
+    stewmaker: 1
+    enderpearls: 1
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    elite: 0
+    homestead: 1
+    mason: 1
+    builder: 1
+    dyemaker: 1
+    itsamonsterparty: 1
+    glassmaker: 2
+    novice: 0
+    nether: 1
+    alchemist: 0
+    gemcollector: 0
+    grinder: 1
+    papermaker: 1
+    cobblemaker: 1
+    seedbank: 1
+    cookiemaker: 0
+    slimeballfarmer: 1
+    itsaparty: 0
+    competent: 0
+    baker: 1
+    breadmaker: 1
+    myprecious: 0
+    snowplay: 0
+    farmer: 1
+    angler: 6
+    treecutter: 4
+islandInfo: 0:115:0:200:200:afa8e45c-6d0e-334b-a418-49bd64eca156:false:false:1000000001001000000000011000010:COLD_BEACH:0

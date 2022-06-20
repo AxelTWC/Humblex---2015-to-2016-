@@ -1,0 +1,7 @@
+name: klevin
+uuid: 61935f11-690d-3e1d-bc63-3324472ee041
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

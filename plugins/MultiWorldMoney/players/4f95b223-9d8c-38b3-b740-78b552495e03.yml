@@ -1,0 +1,7 @@
+name: M0ort
+uuid: 4f95b223-9d8c-38b3-b740-78b552495e03
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

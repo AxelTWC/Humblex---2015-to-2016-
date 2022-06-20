@@ -1,0 +1,21 @@
+money: '738.0'
+lastAccountName: Christian
+timestamps:
+  login: 1472974101381
+  logout: 1472974347557
+ipAddress: 121.54.54.135
+socialspy: false
+logoutlocation:
+  world: lobby
+  x: 0.6464192882967691
+  y: 7.0
+  z: 0.4715268133779694
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: lobby
+  x: 2.81009811087799
+  y: 10.0
+  z: -13.655053058383379
+  yaw: -273.00006
+  pitch: 10.19997

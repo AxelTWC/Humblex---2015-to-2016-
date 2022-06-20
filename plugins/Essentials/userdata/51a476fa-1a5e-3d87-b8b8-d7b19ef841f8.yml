@@ -1,0 +1,26 @@
+lastAccountName: FuriousDestroyer
+timestamps:
+  login: 1488632655194
+  logout: 1488632707384
+  kits:
+    daily: 1470700982744
+    tools: 1470700975424
+    weekly: 1468010216632
+  lastteleport: 1470700837605
+ipAddress: 49.145.136.72
+socialspy: false
+lastlocation:
+  world: map
+  x: -1001.9759473358724
+  y: 13.39924475156254
+  z: 306.1003712382183
+  yaw: 340.8839
+  pitch: 5.849995
+money: '110.0'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

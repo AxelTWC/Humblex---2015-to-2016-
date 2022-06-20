@@ -1,0 +1,21 @@
+lastAccountName: iTeckus
+timestamps:
+  login: 1486225037498
+  logout: 1484596536522
+ipAddress: 184.158.47.63
+socialspy: false
+money: '150.0'
+lastlocation:
+  world: map
+  x: -996.3326289897999
+  y: 89.0
+  z: 261.0124350660529
+  yaw: -90.67971
+  pitch: 11.964066
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,33 @@
+lastAccountName: dj34
+timestamps:
+  login: 1487113547520
+  logout: 1487114219081
+  kits:
+    youtube: 1480540278249
+  lastteleport: 1487113561891
+ipAddress: 75.129.8.59
+socialspy: false
+lastlocation:
+  world: lobby
+  x: 14.735702535262538
+  y: 81.0
+  z: 21.120412611362873
+  yaw: -7.022168
+  pitch: 3.2916327
+money: '2548.0'
+logoutlocation:
+  world: lobby
+  x: 0.3571864863112401
+  y: 83.0
+  z: -0.5451610172914331
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+homes:
+  home:
+    world: spawn
+    x: 480.30313813423277
+    y: 68.0
+    z: -174.42748141829017
+    yaw: 221.69441
+    pitch: 12.479799

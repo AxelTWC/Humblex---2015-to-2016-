@@ -1,0 +1,7 @@
+name: bread
+uuid: 5b2d7a75-b736-394a-8bd2-1bb1fcb696f5
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0

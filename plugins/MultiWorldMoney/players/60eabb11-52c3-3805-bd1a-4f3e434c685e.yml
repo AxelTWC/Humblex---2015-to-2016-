@@ -1,0 +1,7 @@
+name: ReemMC
+uuid: 60eabb11-52c3-3805-bd1a-4f3e434c685e
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

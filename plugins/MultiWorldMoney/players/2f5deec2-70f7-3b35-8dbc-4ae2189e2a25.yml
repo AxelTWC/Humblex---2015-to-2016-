@@ -1,0 +1,7 @@
+name: DarkAspect
+uuid: 2f5deec2-70f7-3b35-8dbc-4ae2189e2a25
+logoffworld: lobby
+balances:
+  lobby: 150.0
+  spawn: 0.0
+  spawn_nether: 0.0

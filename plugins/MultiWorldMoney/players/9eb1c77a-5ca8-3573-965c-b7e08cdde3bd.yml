@@ -1,0 +1,8 @@
+name: TF_SuitAndTie
+uuid: 9eb1c77a-5ca8-3573-965c-b7e08cdde3bd
+logoffworld: lobby
+balances:
+  lobby: 250.0
+  spawn: 0.0
+  spawn_nether: 0.0
+  map: 0.0

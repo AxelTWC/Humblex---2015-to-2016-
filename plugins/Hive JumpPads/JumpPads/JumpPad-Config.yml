@@ -1,0 +1,38 @@
+# Hive JumpPads vpre 2.15 | JumpPad Configuration | Developed by Sendarox
+# 
+# Available Sounds and Effects:
+# 
+# Sounds: http://dev.bukkit.org/bukkit-plugins/hive-jumppads/pages/sounds/
+# Effects: http://dev.bukkit.org/bukkit-plugins/hive-jumppads/pages/effects/
+
+HiveJumpPads:
+  JumpPad:
+    Enable JumpPads: true
+    3x3 Field: false
+    BlockID: 152
+    PressurePlateID: 70
+  Lenght & Height:
+    JumpLenght: 35.0
+    JumpHeight: 4.0
+  Sound & Effects:
+    Enable Sounds: true
+    Enable Effects: true
+    Enable message: false
+    Sound: WITHER_SHOOT
+    Effect: SMOKE
+    message: '&aWOOOOOSH!!'
+  JumpPads:
+    DisabledWorlds:
+    - World 1
+    - World 2
+    - World 3
+    Enable JumpPads: true
+    3x3 Field: true
+    Enable Sounds: true
+    Enable Effects: true
+    BlockID: 152
+    PressurePlateID: 70
+    JumpLenght: 35.0
+    JumpHeight: 4.0
+    Sound: WITHER_SHOOT
+    Effect: SMOKE
